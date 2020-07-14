@@ -26,24 +26,6 @@
 
 		</style>
 
-		<style type="text/css">
-
-			.more_info {
-			  border-bottom: 1px dotted;
-			  position: relative;
-			}
-
-			.more_info .title {
-			    position: absolute;
-			    top: 20px;
-			    background: silver;
-			    padding: 4px;
-			    left: 0;
-			    white-space: nowrap;
-			}
-
-		</style>
-
 		<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
 		<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??/wp-content/mu-plugins/genericons/genericons/genericons.css,/wp-content/themes/pub/twentysixteen/style.css?m=1509726991j&cssminify=yes' type='text/css' media='all' />
 
@@ -79,7 +61,9 @@
 
 		</style>
 
+		<!-- Columns / rows styles -->
 		<style>
+
 			.column {
 				float: left;
 				width: 33.33%;
@@ -91,6 +75,31 @@
 				display: table;
 				clear: both;
 			}
+
+		</style>
+
+		<!-- Tooltips style -->
+		<style type="text/css">
+
+			.more_info {
+				border-bottom: 1px dotted #000;
+				position: relative;
+				cursor: pointer;
+			}
+
+			.more_info .popup {
+				position: absolute;
+				top: 20px;
+				background: #fff;
+				border: 1px solid #ccc;
+				padding: 8px;
+				left: 0;
+				max-width: 240px;
+				min-width: 180px;
+				z-index: 100;
+				display: none;
+			}
+
 		</style>
 
 	</head>
@@ -161,7 +170,7 @@
 											<div class="column">
 
 												<p><strong>H</strong><br>
-												<span class="more_info" title="Test">Harry Potter</span></p>
+												<span class="more_info">Harry Potter<span class="popup">Pop-up text test</span></span></p>
 
 											</div>
 
