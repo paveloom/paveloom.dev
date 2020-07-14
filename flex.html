@@ -27,24 +27,21 @@
 		</style>
 
 		<style type="text/css">
+
 			.more_info {
-				border-bottom: 1px dotted #000;
-				position: relative;
-				cursor: pointer;
+			  border-bottom: 1px dotted;
+			  position: relative;
 			}
 
-			.more_info .popup {
-				position: absolute;
-				top: 15px;
-				background: #fff;
-				border: 1px solid #ccc;
-				padding: 8px;
-				left: 0;
-				max-width: 240px;
-				min-width: 180px;
-				z-index: 100;
-				display: none;
+			.more_info .title {
+			    position: absolute;
+			    top: 20px;
+			    background: silver;
+			    padding: 4px;
+			    left: 0;
+			    white-space: nowrap;
 			}
+
 		</style>
 
 		<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
@@ -102,48 +99,13 @@
 
 		<script type="text/javascript">
 
-			$(document).ready(function () {
-
-				//init pop-ups
-				$(".popup").attr("data-close", false);
-
-				//click on pop-up opener.
-				//pop-up is expected to be a child of opener
-				$(".more_info").click(function () {
-					var $title = $(this).find(".popup");
-					//open if not marked for closing
-					if ($title.attr("data-close") === "false") {
-						$title.show();
-					}
-					//reset popup
-					$title.attr("data-close", false);
-				});
-
-				//mark pop-up for closing if clicked on
-				//close is initiated by document.mouseup,
-				//marker will stop opener from re-opening it
-				$(".popup").click(function () {
-					$(this).attr("data-close", true);
-				});
-
-				//hide all pop-ups
-				$(document).mouseup(function () {
-					$(".popup").hide();
-
-				});
-
-				//show on rollover if mouse is used
-				$(".more_info").mouseenter(function () {
-					var $title = $(this).find(".popup");
-					$title.show();
-				});
-
-				//hide on roll-out
-				$(".more_info").mouseleave(function () {
-					var $title = $(this).find(".popup");
-					$title.hide();
-				});
-
+			$(".more_info").click(function () {
+				var $title = $(this).find(".title");
+				if (!$title.length) {
+					$(this).append('<span class="title">' + $(this).attr("title") + '</span>');
+				} else {
+					$title.remove();
+				}
 			});
 
 		</script>
@@ -212,7 +174,7 @@
 											<div class="column">
 
 												<p><strong>H</strong><br>
-												<div class="more_info">Harry Potter</div></p>
+												<span class="more_info" title="Test">Harry Potter</span></p>
 
 											</div>
 
