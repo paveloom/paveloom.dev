@@ -81,24 +81,21 @@
 		<!-- Tooltips style -->
 		<style type="text/css">
 
-			.more_info {
-				border-bottom: 1px dotted #000;
-				position: relative;
-				cursor: pointer;
-			}
-
-			.more_info .popup {
-				position: absolute;
-				top: 20px;
-				background: #fff;
-				border: 1px solid #ccc;
-				padding: 8px;
-				padding-left: 18px;
-				left: 0;
-				max-width: 240px;
-				min-width: 180px;
-				z-index: 100;
-				display: none;
+			.tooltip {
+			    z-index: 10;
+			    padding: 14px 20px;
+			    width: auto;
+			    line-height: 16px;
+			    display: inline;
+			    position: absolute;
+			    top: 50px;
+			    color: #111;
+			    border: 1px solid #dca;
+			    background: #fffAF0;
+			    border-radius: 4px;
+			    box-shadow: 5px 5px 8px #CCC;
+			    opacity: 0.5;
+			    overflow: auto;
 			}
 
 		</style>
@@ -170,16 +167,17 @@
 
 											<div class="column">
 
-												<strong>H</strong><br>
-												<span class="more_info">Harry Potter
-													<div class="popup">
-														<ul>
-															<li>Harry Potter and the Half-Blood Prince (x2)</li>
-															<li>Harry Potter and the Deathly Hallows — Part I (x2)</li>
-															<li>Harry Potter and the Deathly Hallows — Part II</li>
-														</ul>
-													</div>
+												<span id="harry-potter-tooltip" class="tooltip">
+													<ul>
+														<li>Harry Potter and the Half-Blood Prince (x2)</li>
+														<li>Harry Potter and the Deathly Hallows — Part I (x2)</li>
+														<li>Harry Potter and the Deathly Hallows — Part II</li>
+													</ul>
 												</span>
+
+												<p><strong>H</strong><br>
+												<a class="harry-potter-tooltip">Harry Potter</a>
+												</p>
 
 											</div>
 
@@ -325,48 +323,56 @@
 
 		<script type="text/javascript">
 
-			$(document).ready(function () {
+			$(".tooltip").hide();
 
-				//init pop-ups
-				$(".popup").attr("data-close", false);
+			$("a").hover(function () {
+				var elems = this;
+				var curClass = elems.className
+				var windowHeight = $(window).height();
+				var windowWidth = $(window).width();
 
-				//click on pop-up opener.
-				//pop-up is expected to be a child of opener
-				$(".more_info").click(function () {
-					var $title = $(this).find(".popup");
-					//open if not marked for closing
-					if ($title.attr("data-close") === "false") {
-						$title.show();
-					}
-					//reset popup
-					$title.attr("data-close", false);
-				});
+				var left = elems.offsetLeft;
+				var top = elems.offsetTop;
+				var linkHeight = $("." + curClass).height();
+				var linkWidth = $("." + curClass).width();
+				var bottom = windowHeight - top - linkHeight;
+				var right = windowWidth - left - linkWidth;
+				var topbottom = (top < bottom) ? bottom : top;
+				var leftright = (left < right) ? right : left;
 
-				//mark pop-up for closing if clicked on
-				//close is initiated by document.mouseup,
-				//marker will stop opener from re-opening it
-				$(".popup").click(function () {
-					$(this).attr("data-close", true);
-				});
+				var tooltiph = $("#" + curClass).height();
+				var tooltipw = $("#" + curClass).width();
 
-				//hide all pop-ups
-				$(document).mouseup(function () {
-					$(".popup").hide();
+				if (topbottom == bottom && leftright == right)
+				{
+					var yPos = top;
+					var xPos = left + linkWidth + 10;
+					$("#" + curClass).css("top", yPos + "px");
+					$("#" + curClass).css("left", xPos + "px");
+				} else if (topbottom == bottom && leftright == left)
+				{
+					var yPos = top;
+					var xPos = right + linkWidth + 10;
+					$("#" + curClass).css("top", yPos + "px");
+					$("#" + curClass).css("right", xPos + "px");
+				} else if (topbottom == top && leftright == right)
+				{
+					var xPos = left + linkWidth + 10;
+					var yPos = top - tooltiph - (linkHeight / 2);
+					$("#" + curClass).css("top", yPos + "px");
+					$("#" + curClass).css("left", xPos + "px");
+				} else if (topbottom == top && leftright == left) {
+					var yPos = top - tooltiph - (linkHeight / 2);
+					var xPos = left - tooltipw - linkWidth;
+					$("#" + curClass).css("top", yPos + "px");
+					$("#" + curClass).css("left", xPos + "px");
+				} else { }
 
-				});
+				$(".tooltip").fadeIn('fast');
+			},
 
-				//show on rollover if mouse is used
-				$(".more_info").mouseenter(function () {
-					var $title = $(this).find(".popup");
-					$title.show();
-				});
-
-				//hide on roll-out
-				$(".more_info").mouseleave(function () {
-					var $title = $(this).find(".popup");
-					$title.hide();
-				});
-
+			function () {
+				$(".tooltip").fadeOut('fast');
 			});
 
 		</script>
