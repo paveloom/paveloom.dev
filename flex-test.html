@@ -78,6 +78,28 @@
 
 		</style>
 
+		<!-- Tooltips style -->
+		<style type="text/css">
+
+			.tooltip {
+			    z-index: 10;
+			    padding: 14px 20px;
+			    width: auto;
+			    line-height: 16px;
+			    display: inline;
+			    position: absolute;
+			    top: 50px;
+			    color: #111;
+			    border: 1px solid #dca;
+			    background: #fffAF0;
+			    border-radius: 4px;
+			    box-shadow: 5px 5px 8px #CCC;
+			    opacity: 0.5;
+			    overflow: auto;
+			}
+
+		</style>
+
 	</head>
 
 	<body class="home blog mp6 customizer-styles-applied no-sidebar hfeed highlander-enabled highlander-light" style="background: none">
@@ -145,8 +167,17 @@
 
 											<div class="column">
 
+												<span id="harry-potter-tooltip" class="tooltip">
+													<ul>
+														<li>Harry Potter and the Half-Blood Prince (x2)</li>
+														<li>Harry Potter and the Deathly Hallows — Part I (x2)</li>
+														<li>Harry Potter and the Deathly Hallows — Part II</li>
+													</ul>
+												</span>
+
 												<p><strong>H</strong><br>
-												Harry Potter</p>
+												<a class="harry-potter-tooltip">Harry Potter</a>
+												</p>
 
 											</div>
 
@@ -285,6 +316,64 @@
 					return false;
 				}
 			}
+
+		</script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+		<script type="text/javascript">
+
+			$(".tooltip").hide();
+
+			$("a").hover(function () {
+				var elems = this;
+				var curClass = elems.className
+				var windowHeight = $(window).height();
+				var windowWidth = $(window).width();
+
+				var left = elems.offsetLeft;
+				var top = elems.offsetTop;
+				var linkHeight = $("." + curClass).height();
+				var linkWidth = $("." + curClass).width();
+				var bottom = windowHeight - top - linkHeight;
+				var right = windowWidth - left - linkWidth;
+				var topbottom = (top < bottom) ? bottom : top;
+				var leftright = (left < right) ? right : left;
+
+				var tooltiph = $("#" + curClass).height();
+				var tooltipw = $("#" + curClass).width();
+
+				if (topbottom == bottom && leftright == right)
+				{
+					var yPos = top;
+					var xPos = left + linkWidth + 10;
+					$("#" + curClass).css("top", yPos + "px");
+					$("#" + curClass).css("left", xPos + "px");
+				} else if (topbottom == bottom && leftright == left)
+				{
+					var yPos = top;
+					var xPos = right + linkWidth + 10;
+					$("#" + curClass).css("top", yPos + "px");
+					$("#" + curClass).css("right", xPos + "px");
+				} else if (topbottom == top && leftright == right)
+				{
+					var xPos = left + linkWidth + 10;
+					var yPos = top - tooltiph - (linkHeight / 2);
+					$("#" + curClass).css("top", yPos + "px");
+					$("#" + curClass).css("left", xPos + "px");
+				} else if (topbottom == top && leftright == left) {
+					var yPos = top - tooltiph - (linkHeight / 2);
+					var xPos = left - tooltipw - linkWidth;
+					$("#" + curClass).css("top", yPos + "px");
+					$("#" + curClass).css("left", xPos + "px");
+				} else { }
+
+				$(".tooltip").fadeIn('fast');
+			},
+
+			function () {
+				$(".tooltip").fadeOut('fast');
+			});
 
 		</script>
 
