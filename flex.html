@@ -97,19 +97,6 @@
 
 	<body class="home blog mp6 customizer-styles-applied no-sidebar hfeed highlander-enabled highlander-light" style="background: none">
 
-		<script type="text/javascript">
-
-			$(".more_info").click(function () {
-				var $title = $(this).find(".title");
-				if (!$title.length) {
-					$(this).append('<span class="title">' + $(this).attr("title") + '</span>');
-				} else {
-					$title.remove();
-				}
-			});
-
-		</script>
-
 		<div id="page" class="site">
 
 			<div class="site-inner">
@@ -313,6 +300,19 @@
 				return false;
 			}
 		}
+
+	</script>
+
+	<script type="text/javascript">
+
+		$(".more_info").click(function () {
+			var $title = $(this).find(".title");
+			if (!$title.length) {
+				$(this).append('<span class="title">' + $(this).attr("title") + '</span>');
+			} else {
+				$title.remove();
+			}
+		});
 
 	</script>
 
