@@ -285,36 +285,38 @@
 
 		<!--  -->
 
-	<script type="text/javascript">
+		<script type="text/javascript">
 
-		var element = document.getElementById('back-link');
+			var element = document.getElementById('back-link');
 
-		element.setAttribute('href', "https://paveloom.github.io/");
+			element.setAttribute('href', "https://paveloom.github.io/");
 
-		element.onclick = function () {
-			if (document.referrer == "https://paveloom.github.io/") {
-				history.back();
-				return false;
-			} else {
-				location.href = "https://paveloom.github.io/"
-				return false;
+			element.onclick = function () {
+				if (document.referrer == "https://paveloom.github.io/") {
+					history.back();
+					return false;
+				} else {
+					location.href = "https://paveloom.github.io/"
+					return false;
+				}
 			}
-		}
 
-	</script>
+		</script>
 
-	<script type="text/javascript">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-		$(".more_info").click(function () {
-			var $title = $(this).find(".title");
-			if (!$title.length) {
-				$(this).append('<span class="title">' + $(this).attr("title") + '</span>');
-			} else {
-				$title.remove();
-			}
-		});
+		<script type="text/javascript">
 
-	</script>
+			$(".more_info").click(function () {
+				var $title = $(this).find(".title");
+				if (!$title.length) {
+					$(this).append('<span class="title">' + $(this).attr("title") + '</span>');
+				} else {
+					$title.remove();
+				}
+			});
+
+		</script>
 
 	</body>
 
