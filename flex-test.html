@@ -70,7 +70,7 @@
 			}
 
 			.column {
-				padding-left: 30px;
+				padding-left:25px;
 				float: left;
 				width: 33.33%;
 			}
@@ -87,27 +87,27 @@
 		<!-- Tooltips style -->
 		<style type="text/css">
 
-		/*Functional Styling*/
-		@media (pointer: coarse), (hover: none) {
+			.more_info {
+			    border-bottom: 1px dotted #000;
+			  position: relative;
+			    cursor: pointer;
+			}
 
-			[title] {
-		  		position: relative;
-		    		display: flex;
-		    		justify-content: center;
-		  	}
-
-		  	[title]:focus::after {
-		    		content: attr(title);
-				position: absolute;
-				top: 90%;
-				color: #000;
-				background-color: #fff;
-				border: 1px solid;
-				width: fit-content;
-				padding: 3px;
-		  	}
-
-		}
+			.more_info .popup {
+			    z-index: 10;
+			    padding: 0px 20px;
+			    width: max-content;
+			    line-height: 16px;
+			    display: none;
+			    position: absolute;
+			    top: 25px;
+			    color: #111;
+			    border: 1px solid #dca;
+			    background: #fffAF0;
+			    border-radius: 4px;
+			    box-shadow: 5px 5px 8px #CCC;
+			    overflow: auto;
+			}
 
 		</style>
 
@@ -178,17 +178,16 @@
 
 											<div class="firstcolumn">
 
-												<span id="harry-potter-tooltip" class="tooltip">
-													<ul>
-														<li>Harry Potter and the Half-Blood Prince (x2)</li>
-														<li>Harry Potter and the Deathly Hallows — Part I (x2)</li>
-														<li>Harry Potter and the Deathly Hallows — Part II</li>
-													</ul>
+												<br><strong>H</strong><br>
+												<span class="more_info">Harry Potter
+													<div class="popup">
+														<ul>
+															<li>Harry Potter and the Half-Blood Prince (x2)</li>
+															<li>Harry Potter and the Deathly Hallows — Part I (x2)</li>
+															<li>Harry Potter and the Deathly Hallows — Part II</li>
+														</ul>
+													</div>
 												</span>
-
-												<p><strong>H</strong><br>
-												<a title="this is the Title text" tabindex="0">Harry Potter</a>
-												</p>
 
 											</div>
 
@@ -327,6 +326,56 @@
 					return false;
 				}
 			}
+
+		</script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+		<script type="text/javascript">
+
+			$(document).ready(function () {
+
+				//init pop-ups
+				$(".popup").attr("data-close", false);
+
+				//click on pop-up opener.
+				//pop-up is expected to be a child of opener
+				$(".more_info").click(function () {
+					var $title = $(this).find(".popup");
+					//open if not marked for closing
+					if ($title.attr("data-close") === "false") {
+						$title.show();
+					}
+					//reset popup
+					$title.attr("data-close", false);
+				});
+
+				//mark pop-up for closing if clicked on
+				//close is initiated by document.mouseup,
+				//marker will stop opener from re-opening it
+				$(".popup").click(function () {
+					$(this).attr("data-close", true);
+				});
+
+				//hide all pop-ups
+				$(document).mouseup(function () {
+					$(".popup").hide();
+
+				});
+
+				//show on rollover if mouse is used
+				$(".more_info").mouseenter(function () {
+					var $title = $(this).find(".popup");
+					$title.show();
+				});
+
+				//hide on roll-out
+				$(".more_info").mouseleave(function () {
+					var $title = $(this).find(".popup");
+					$title.hide();
+				});
+
+			});
 
 		</script>
 
