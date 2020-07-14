@@ -26,6 +26,27 @@
 
 		</style>
 
+		<style type="text/css">
+			.more_info {
+				border-bottom: 1px dotted #000;
+				position: relative;
+				cursor: pointer;
+			}
+
+			.more_info .popup {
+				position: absolute;
+				top: 15px;
+				background: #fff;
+				border: 1px solid #ccc;
+				padding: 8px;
+				left: 0;
+				max-width: 240px;
+				min-width: 180px;
+				z-index: 100;
+				display: none;
+			}
+		</style>
+
 		<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
 		<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??/wp-content/mu-plugins/genericons/genericons/genericons.css,/wp-content/themes/pub/twentysixteen/style.css?m=1509726991j&cssminify=yes' type='text/css' media='all' />
 
@@ -105,91 +126,91 @@
 
 								</div><!-- .entry-content -->
 
-                                                                <header class="entry-header">
+                                            <header class="entry-header">
 
-                                                                        <h4 class="entry-title" style="margin-bottom:0.2em; font-size:2.1rem"><a>Movies</a></h4>
+                                                    <h4 class="entry-title" style="margin-bottom:0.2em; font-size:2.1rem"><a>Movies</a></h4>
 
-                                                                </header><!-- .entry-header -->
+                                            </header><!-- .entry-header -->
 
-                                                                <div class="entry-content" style="width:75%">
+                                            <div class="entry-content" style="width:75%">
 
-														<div class="row">
+										<div class="row">
 
-															<div class="column">
+											<div class="column">
 
-																<p><strong>B</strong><br>
-																Bruce Almighty</p>
+												<p><strong>B</strong><br>
+												Bruce Almighty</p>
 
-															</div>
+											</div>
 
-															<div class="column">
+											<div class="column">
 
-																<p><strong>C</strong><br>
-																Chungking Express</p>
+												<p><strong>C</strong><br>
+												Chungking Express</p>
 
-															</div>
+											</div>
 
-															<div class="column">
+											<div class="column">
 
-																<p><strong>G</strong><br>
-																Ghostbusters</p>
+												<p><strong>G</strong><br>
+												Ghostbusters</p>
 
-															</div>
+											</div>
 
-														</div>
+										</div>
 
-														<div class="row">
+										<div class="row">
 
-															<div class="column">
+											<div class="column">
 
-																<p><strong>H</strong><br>
-																Harry Potter</p>
+												<p><strong>H</strong><br>
+												<span class="more_info">Harry Potter<div class="popup">Pop-up test<div></span></p>
 
-															</div>
+											</div>
 
-															<div class="column">
+											<div class="column">
 
-																<p><strong>M</strong><br>
-																Mononoke Hime</p>
+												<p><strong>M</strong><br>
+												Mononoke Hime</p>
 
-															</div>
+											</div>
 
-															<div class="column">
+											<div class="column">
 
-																<p><strong>P</strong><br>
-																Predator (1987)<br>
-																Predator 2</p>
+												<p><strong>P</strong><br>
+												Predator (1987)<br>
+												Predator 2</p>
 
-															</div>
+											</div>
 
-														</div>
+										</div>
 
-														<div class="row">
+										<div class="row">
 
-															<div class="column">
+											<div class="column">
 
-																<p><strong>S</strong><br>
-																Spirited Away</p>
+												<p><strong>S</strong><br>
+												Spirited Away</p>
 
-															</div>
+											</div>
 
-															<div class="column">
+											<div class="column">
 
-																<p><strong>Y</strong><br>
-																Yes Man</p>
+												<p><strong>Y</strong><br>
+												Yes Man</p>
 
-															</div>
+											</div>
 
-															<div class="column">
+											<div class="column">
 
-																<p><strong></strong><br>
-																</p>
+												<p><strong></strong><br>
+												</p>
 
-															</div>
+											</div>
 
-														</div>
+										</div>
 
-                                                                </div><!-- .entry-content -->
+                                            </div><!-- .entry-content -->
 
 								<header class="entry-header">
 
@@ -282,6 +303,54 @@
 				return false;
 			}
 		}
+
+	</script>
+
+	<script type="text/javascript">
+
+		$(document).ready(function () {
+
+			//init pop-ups
+			$(".popup").attr("data-close", false);
+
+			//click on pop-up opener.
+			//pop-up is expected to be a child of opener
+			$(".more_info").click(function () {
+				var $title = $(this).find(".popup");
+				//open if not marked for closing
+				if ($title.attr("data-close") === "false") {
+					$title.show();
+				}
+				//reset popup
+				$title.attr("data-close", false);
+			});
+
+			//mark pop-up for closing if clicked on
+			//close is initiated by document.mouseup,
+			//marker will stop opener from re-opening it
+			$(".popup").click(function () {
+				$(this).attr("data-close", true);
+			});
+
+			//hide all pop-ups
+			$(document).mouseup(function () {
+				$(".popup").hide();
+
+			});
+
+			//show on rollover if mouse is used
+			$(".more_info").mouseenter(function () {
+				var $title = $(this).find(".popup");
+				$title.show();
+			});
+
+			//hide on roll-out
+			$(".more_info").mouseleave(function () {
+				var $title = $(this).find(".popup");
+				$title.hide();
+			});
+
+		});
 
 	</script>
 
