@@ -51,13 +51,11 @@
 
 		<style type="text/css">
 
-    		@media screen and (min-width: 61.5625em) {
-
-			body.no-sidebar:not(.search-results) article:not(.type-page) .entry-content {
-				margin-left: 15%;
-               		}
-
-    		}
+    	@media screen and (min-width: 61.5625em) {
+				body.no-sidebar:not(.search-results) article:not(.type-page) .entry-content {
+					margin-left: 15%;
+        }
+			}
 
 		</style>
 
@@ -111,7 +109,6 @@
 				box-shadow: 5px 5px 8px #CCC;
 				overflow: auto;
 				width: max-content;
-				max-width: 85vw;
 			}
 
 			ul {
@@ -496,53 +493,68 @@
 		<script type="text/javascript">
 
 			$(document).ready(function () {
-
 				// Init pop-ups
-				$(".popup").attr("data-close", false);
+				$(".popup").attr("is-hidden", true);
 
 				// Show the pop-up on click
 				$(".more_info").click(function () {
-					var $title = $(this).find(".popup");
+
+					// Find the pop-up
+					var $popup = $(this).find(".popup");
+
 					// Show if not marked for closing
-					if ($title.attr("data-close") === "false") {
-						$title.show();
+					if ($popup.attr("is-hidden") === "true") {
+						$popup.attr("is-hidden", false);
+						css_max_width($popup)
+						$popup.show();
+						css_right_border($popup)
+					// Or hide
+					} else {
+						$popup.attr("is-hidden", true);
+						$popup.hide()
 					}
-					// Reset the pop-up
-					$title.attr("data-close", false);
-				});
-
-				// Mark the pop-up for closing on click
-				$(".popup").click(function () {
-					$(this).attr("data-close", true);
-				});
-
-				// Hide all pop-ups
-				$(document).mouseup(function () {
-					$(".popup").hide();
-
 				});
 
 				// Show on rollover if mouse is used
 				$(".more_info").mouseenter(function () {
-					var $title = $(this).find(".popup");
-					$title.show();
+					// Find the pop-up
+					var $popup = $(this).find(".popup");
 
-					// Get current tooltip proportions
-					var $rect = $title[0].getBoundingClientRect();
-
-					var $windowWidth = $(window).width()
-					var $rightBorder = $rect.x + $rect.width
-
-					// If the tooltip is out of window boundaries, move it to the left
-					if ($rightBorder > $windowWidth)
-					  $title.css({ left: $windowWidth - $rightBorder - 15});
+					// Show the pop-up
+					$popup.attr("is-hidden", false);
+					css_max_width($popup)
+					$popup.show();
+					css_right_border($popup)
 				});
 
 				// Hide on roll-out
 				$(".more_info").mouseleave(function () {
-					var $title = $(this).find(".popup");
-					$title.hide();
+					var $popup = $(this).find(".popup");
+					$popup.attr("is-hidden", true);
+					$popup.hide();
 				});
+
+				// Move the pop-up to the left if needed
+				function css_right_border($popup) {
+					// Get current tooltip proportions
+					var $rect = $popup[0].getBoundingClientRect();
+
+					var $windowWidth = $(window).width();
+					var $rightBorder = $rect.x + $rect.width;
+
+					console.log($windowWidth)
+					console.log($rect.width)
+
+					// If the tooltip is out of window boundaries, move it to the left
+					if ($rightBorder > $windowWidth)
+						$popup.css({ left: $windowWidth - $rightBorder - 15 });
+				}
+
+				// Change the max width for the pop-up
+				function css_max_width($popup) {
+					var $windowWidth = $(window).width();
+					$popup.css({ "max-width": $windowWidth * 0.85 });
+				}
 
 			});
 
