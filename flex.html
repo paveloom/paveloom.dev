@@ -500,40 +500,29 @@
 
 					// Show the pop-up on click
 					$(".more_info").click(function () {
-
 						// Find the pop-up
 						var $popup = $(this).find(".popup");
 
 						// Show if not marked for closing
 						if ($popup.attr("is-hidden") === "true") {
-							$popup.attr("is-hidden", false);
-							css_max_width($popup)
-							$popup.show();
-							css_right_border($popup)
+							show($popup);
 						// Or hide
 						} else {
-							$popup.attr("is-hidden", true);
-							$popup.hide()
+							hide($popup);
 						}
 					});
 
 					// Hide all pop-ups on window resize
 					$(window).resize(function () {
-						$(".popup").hide();
+						hide($(".popup"));
 					});
 
 				} else {
 
 					// Show on rollover if mouse is used
 					$(".more_info").mouseenter(function () {
-						// Find the pop-up
 						var $popup = $(this).find(".popup");
-
-						// Show the pop-up
-						$popup.attr("is-hidden", false);
-						css_max_width($popup)
-						$popup.show();
-						css_right_border($popup)
+						show($popup);
 					});
 
 				}
@@ -541,9 +530,24 @@
 				// Hide on roll-out
 				$(".more_info").mouseleave(function () {
 					var $popup = $(this).find(".popup");
+					hide($popup);
+				});
+
+				// Show the pop-up
+				function show($popup) {
+					$popup.attr("is-hidden", false);
+					css_max_width($popup);
+					$popup.show();
+					css_right_border($popup);
+				}
+
+				// Hide the pop-up
+				function hide($popup) {
 					$popup.attr("is-hidden", true);
 					$popup.hide();
-				});
+					$popup.css({ "max-width": '' });
+					$popup.css({ left: '' });
+				}
 
 				// Move the pop-up to the left if needed
 				function css_right_border($popup) {
@@ -563,7 +567,6 @@
 					var $windowWidth = $(window).width();
 					$popup.css({ "max-width": $windowWidth * 0.85 });
 				}
-
 			});
 
 		</script>
