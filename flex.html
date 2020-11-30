@@ -517,6 +517,11 @@
 						}
 					});
 
+					// Hide all pop-ups on window resize
+					$(window).resize(function () {
+						$(".popup").hide();
+					});
+
 				} else {
 
 					// Show on rollover if mouse is used
