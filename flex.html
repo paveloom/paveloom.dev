@@ -551,7 +551,7 @@
 					// Get current tooltip proportions
 					var $rect = $popup[0].getBoundingClientRect();
 
-					var $windowWidth = screen.availWidth;
+					var $windowWidth = $(window).width();
 					var $rightBorder = $rect.x + $rect.width;
 
 					// If the tooltip is out of window boundaries, move it to the left
@@ -561,8 +561,8 @@
 
 				// Change the max width for the pop-up
 				function css_max_width($popup) {
-					var $windowWidth = screen.availWidth;
-					$popup.css({ "max-width": $windowWidth * 0.85 });
+					var $windowWidth = $(window).innerWidth();
+					// $popup.css({ "max-width": $windowWidth * 0.85 });
 				}
 			});
 
