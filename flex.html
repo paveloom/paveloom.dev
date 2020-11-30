@@ -108,17 +108,13 @@
         border-radius: 4px;
         box-shadow: 5px 5px 8px #CCC;
         overflow: auto;
-        width: intrinsic;
-        width: -moz-max-content;
-        width: -webkit-max-content;
-        width: max-content;
       }
 
       ul {
         display: inline-block;
         margin: 0 auto;
         padding-left: 1em;
-        width: fit-content;
+        width: max-content;
       }
 
       li {
@@ -565,7 +561,7 @@
 
         // Change the max width for the pop-up
         function css_max_width($popup) {
-          var $windowWidth = $(window).innerWidth();
+          var $windowWidth = $(window).width();
           console.log($windowWidth);
           $popup.css({ "max-width": $windowWidth * 0.85 });
         }
