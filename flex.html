@@ -69,11 +69,11 @@
 			}
 
 			.column2 {
-				padding-left:25px;
+				padding-left: 25px;
 			}
 
 			.column3 {
-				padding-left:50px;
+				padding-left: 50px;
 			}
 
 			/* Clear floats after the columns */
@@ -348,7 +348,6 @@
 								<div class="entry-content" style="width:75%">
 
 									<div class="row">
-
 										<div class="column1">
 
 											<strong>B</strong>
@@ -384,11 +383,9 @@
 											</span>
 
 										</div>
-
 									</div>
 
 									<div class="row">
-
 										<div class="column1">
 
 											<strong>R</strong>
@@ -554,7 +551,7 @@
 					// Get current tooltip proportions
 					var $rect = $popup[0].getBoundingClientRect();
 
-					var $windowWidth = $(window).innerWidth();
+					var $windowWidth = screen.availWidth;
 					var $rightBorder = $rect.x + $rect.width;
 
 					// If the tooltip is out of window boundaries, move it to the left
@@ -564,7 +561,7 @@
 
 				// Change the max width for the pop-up
 				function css_max_width($popup) {
-					var $windowWidth = $(window).innerWidth();
+					var $windowWidth = screen.availWidth;
 					$popup.css({ "max-width": $windowWidth * 0.85 });
 				}
 			});
