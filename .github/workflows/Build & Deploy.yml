@@ -20,6 +20,7 @@ jobs:
         wget https://github.com/tdewolff/minify/releases/download/v2.9.12/minify_linux_amd64.tar.gz
         tar -xf minify_* minify && rm minify_*
     - name: Build & Minify
+      run: |
         ./zola Build
         ./minify -r -a -o public/ public
     - name: Deploy
