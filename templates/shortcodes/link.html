@@ -1,6 +1,6 @@
 {% if inline %}
   {% if link is starting_with("@") %}
-    <a href="{{ get_url(path=link) }}" target="_blank" rel="nofollow noopener">{{ name }}</a>
+    <a href="{{ get_url(path=link) }}" rel="nofollow noopener">{{ name }}</a>
   {% else %}
     <a href="{{ link }}" target="_blank" rel="nofollow noopener">{{ name }}</a>
   {% endif %}
