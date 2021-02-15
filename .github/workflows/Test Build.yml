@@ -6,7 +6,8 @@ on:
       - master
 
 jobs:
-  Build:
+  TestBuild:
+    name: Test Build
     runs-on: ubuntu-latest
     steps:
     - name: Checkout the repository

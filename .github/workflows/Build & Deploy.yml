@@ -6,7 +6,8 @@ on:
       - master
 
 jobs:
-  Build:
+  BuildAndDeploy:
+    name: Build & Deploy
     runs-on: ubuntu-latest
     steps:
     - name: Checkout the repository
