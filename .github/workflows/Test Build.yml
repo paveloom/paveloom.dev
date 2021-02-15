@@ -1,0 +1,24 @@
+name: Test Build
+
+on:
+  pull_requests:
+    branches:
+      - master
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@master
+    - name: Download Zola
+      run: |
+        wget https://github.com/getzola/zola/releases/download/v0.13.0/zola-v0.13.0-x86_64-unknown-linux-gnu.tar.gz
+        tar -xf zola-* zola && rm zola-*
+    - name: Download minify
+      run: |
+        wget https://github.com/tdewolff/minify/releases/download/v2.9.12/minify_linux_amd64.tar.gz
+        tar -xf minify_* minify && rm minify_*
+    - name: Build & Minify
+        ./zola Build
+        ./minify -r -a -o public/ public
