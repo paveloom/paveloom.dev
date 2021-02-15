@@ -22,5 +22,5 @@ jobs:
         tar -xf minify_* minify && rm minify_*
     - name: Build & Minify
       run: |
-        ./zola Build
+        ./zola build
         ./minify -r -a -o public/ public
