@@ -1,5 +1,2 @@
-# User's Makefile
-Makefile
-
-# VSCode's settings
-.vscode
+# Generated site
+/public
