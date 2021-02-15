@@ -23,7 +23,7 @@ jobs:
     - name: Build & Minify
       run: |
         ./zola build
-        ./minify -r -a -o public/ public
+        ./minify -rav -o public/ public
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
