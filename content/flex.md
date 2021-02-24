@@ -23,7 +23,7 @@ css = "flex.css"
         </code>
       </p>
     </div>
-    <h2 class="header">Movies</h2>
+    <h2 class="header"><span>Movies</span></h2>
     <div class="content">
       <div class="card">
         <b>A</b><br>
@@ -168,7 +168,7 @@ css = "flex.css"
         </ul>
       </div>
     </div>
-    <h2 class="header">Series</h2>
+    <h2 class="header"><span>Series</span></h2>
     <div class="content">
       <div class="card">
         <b>B</b><br>

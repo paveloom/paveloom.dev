@@ -30,10 +30,11 @@ code {
 
 h2 {
   @include media_inline(font-size, 40px, 33px, 28px);
+  cursor: default;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   line-height: 1.225;
-  &:hover {
+  > span:hover {
     color: $link-color
   }
 }

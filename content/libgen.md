@@ -9,7 +9,7 @@ css = "libgen.css"
 
 <div id="page">
   <div id="main">
-    <h2 class="header">Fiction</h2>
+    <h2 class="header"><span>Fiction</span></h2>
     <div class="content">
       <ul>
         <li>
@@ -32,7 +32,7 @@ css = "libgen.css"
         </li>
       </ul>
     </div>
-    <h2 class="header">Sci-Tech</h2>
+    <h2 class="header"><span>Sci-Tech</span></h2>
     <div class="content">
       <ul>
         <li>
