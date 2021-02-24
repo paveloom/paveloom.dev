@@ -4,7 +4,7 @@
 html {
   height: 100%;
   > body {
-    height: 100%;
+    height: calc(100% - 16px);
     > #page {
       height: 100%;
       > #main {
