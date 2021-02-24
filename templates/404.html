@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{# Head for the 404 page #}
+{% block head %}
+  {{ super() }}
+  <link rel="stylesheet" href="404.css">
+  <meta http-equiv="refresh" content="5; URL={{ get_url(path="@/_index.md") }}" />
+  <meta name="description" content="Wrong turn, buddy! This page doesn't exist.">
+  <title>{{ config.title }} — 404</title>
+{% endblock head %}
+
+{# Body for the 404 page #}
+{% block body %}
+  <div id="page">
+    <div id="main">
+      <div id="info">
+        <h2><span>Whoops!</span></h2>
+        <p>
+          Looks like this page doesn't exist.
+          If you are not redirected in 5 seconds,
+          <a href="{{ get_url(path="@/_index.md") }}" rel="nofollow noopener">click here</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+{% endblock body %}
