@@ -4,7 +4,7 @@
 
 <div id="page">
   <div id="main">
-    <h2 id="title">{{ title() }}</h2>
+    <h2 id="title"><span>{{ title() }}</span></h2>
     <div id="content">
       <p>Here is a handy list of all my accounts and where you can find me!</p>
       <p>
