@@ -31,7 +31,6 @@
         {{ link(name="IMDb", link="https://www.imdb.com/user/ur106601753") }}
         {{ link(name="MyAnimeList", link="https://myanimelist.net/profile/Paveloom") }}
         {{ link(name="Goodreads", link="https://www.goodreads.com/paveloom") }}
-        {{ link(name="Papers", link="https://www.mendeley.com/community/PRPs/documents") }}
         {{ link(name="Steam", link="https://steamcommunity.com/id/paveloom") }}
         {{ link(name="RAWG", link="https://rawg.io/@paveloom") }}
         <b>
@@ -43,7 +42,7 @@
       <p>
         <b>Contacts</b>:<br>
         {{ link(name="Telegram", link="https://t.me/paveloom") }}
-        {{ link(name="E-mail", link="mailto:paveloom@mail.ru", text="paveloom@mail.ru") }}
+        {{ link(name="E-mail", link="mailto:paveloomm@gmail.com", text="paveloomm@gmail.com") }}
         {{ link(name="Skype", link="skype:paveloom?chat", text="paveloom") }}
       </p>
       <p>Enjoy!</p>
