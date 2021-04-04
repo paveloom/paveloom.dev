@@ -1,0 +1,12 @@
+<li>
+  <div class="info">
+    <span>{{ name }}</span>
+    <div class="popup">
+      <ul>
+        {% for item in items -%}
+          <li>{{ item | safe }}</li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </div>
+</li>

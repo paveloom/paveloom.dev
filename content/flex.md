@@ -34,18 +34,16 @@ css = "flex.css"
       <div class="card">
         <b>B</b><br>
         <ul>
-          <li>
-            <span class="info">
-              Back to the Future
-              <div class="popup">
-                <ul>
-                  <li>Back to the Future</li>
-                  <li>Back to the Future Part II</li>
-                  <li>Back to the Future Part III</li>
-                </ul>
-              </div>
-            </span>
-          </li>
+          {{
+            popup(
+              name="Back to the Future",
+              items=[
+                "Back to the Future",
+                "Back to the Future Part II",
+                "Back to the Future Part III"
+              ]
+            )
+          }}
           <li>Barnyard</li>
           <li>Beetlejuice</li>
           <li>Bruce Almighty</li>
@@ -60,56 +58,43 @@ css = "flex.css"
       <div class="card">
         <b>G</b><br>
         <ul>
-          <li>Ghostbusters</li>
+          <li>Ghostbusters (1984)</li>
           <li>Girl, Interrupted</li>
         </ul>
       </div>
       <div class="card">
         <b>H</b><br>
         <ul>
-          <li>
-            <span class="info">
-              Harry Potter
-              <div class="popup">
-                <ul>
-                  <li>Harry Potter and the Philosopher's Stone</li>
-                  <li>Harry Potter and the Chamber of Secrets</li>
-                  <li>Harry Potter and the Prisoner of Azkaban</li>
-                  <li>Harry Potter and the Goblet of Fire</li>
-                  <li>Harry Potter and the Order of the Phoenix</li>
-                  <li>Harry Potter and the Half-Blood Prince</li>
-                  <li>Harry Potter and the Deathly Hallows — Part I</li>
-                  <li>Harry Potter and the Deathly Hallows — Part II</li>
-                </ul>
-              </div>
-            </span><br>
-          </li>
-          <li>
-            <span class="info">
-              How the Grinch Stole Christmas
-              <div class="popup">
-                <ul>
-                  <li>How the Grinch Stole Christmas! (1966)</li>
-                </ul>
-              </div>
-            </span>
-          </li>
+          {{
+            popup(
+              name="Harry Potter",
+              items=[
+                "Harry Potter and the Philosopher's Stone",
+                "Harry Potter and the Chamber of Secrets",
+                "Harry Potter and the Prisoner of Azkaban",
+                "Harry Potter and the Goblet of Fire",
+                "Harry Potter and the Order of the Phoenix",
+                "Harry Potter and the Half-Blood Prince",
+                "Harry Potter and the Deathly Hallows — Part I",
+                "Harry Potter and the Deathly Hallows — Part II"
+              ]
+            )
+          }}
+          <li>How the Grinch Stole Christmas! (1966)</li>
         </ul>
       </div>
       <div class="card">
         <b>J</b><br>
         <ul>
-          <li>
-            <span class="info">
-              Jumanji
-              <div class="popup">
-                <ul>
-                  <li>Jumanji — Welcome to the Jungle</li>
-                  <li>Jumanji — The Next Level</li>
-                </ul>
-              </div>
-            </span>
-          </li>
+          {{
+            popup(
+              name="Jumanji",
+              items=[
+                "Jumanji: Welcome to the Jungle",
+                "Jumanji: The Next Level"
+              ]
+            )
+          }}
         </ul>
       </div>
       <div class="card">
@@ -121,17 +106,15 @@ css = "flex.css"
       <div class="card">
         <b>P</b><br>
         <ul>
-          <li>
-            <span class="info">
-              Predator
-              <div class="popup">
-                <ul>
-                  <li>Predator (1987)</li>
-                  <li>Predator 2</li>
-                </ul>
-              </div>
-            </span>
-          </li>
+          {{
+            popup(
+              name="Predator",
+              items=[
+                "Predator (1987)",
+                "Predator 2"
+              ]
+            )
+          }}
           <li>Princess Mononoke</li>
         </ul>
       </div>
@@ -139,7 +122,6 @@ css = "flex.css"
         <b>S</b><br>
         <ul>
           <li>Spirited Away</li>
-          <li>Serial Experiments Lain</li>
         </ul>
       </div>
       <div class="card">
@@ -148,17 +130,15 @@ css = "flex.css"
           <li>The Abyss</li>
           <li>The Christmas Chronicles</li>
           <li>The Fifth Element</li>
-          <li>
-            <span class="info">
-              Twin Peaks: Fire Walk with Me
-              <div class="popup">
-                <ul>
-                  <li>Complete Version (Fanedit by Папа Джонсон)</li>
-                  <li>Teresa Banks and the Last Seven Days of Laura Palmer (Fanedit by Q2)</li>
-                </ul>
-              </div>
-            </span>
-          </li>
+          {{
+            popup(
+              name="Twin Peaks: Fire Walk with Me",
+              items=[
+                "Complete Version (Fanedit by Папа Джонсон)",
+                "Teresa Banks and the Last Seven Days of Laura Palmer (Fanedit by Q2)"
+              ]
+            )
+          }}
         </ul>
       </div>
       <div class="card">
@@ -171,6 +151,19 @@ css = "flex.css"
     <h2 class="header"><span>Series</span></h2>
     <div class="content">
       <div class="card">
+        <b>A</b><br>
+        <ul>
+          {{
+            popup(
+              name="Avatar: The Last Airbender",
+              items=[
+                'This is a <a href="https://www.reddit.com/r/RemasteringATLA/comments/5hr9w2/atla_remastered_in_1080p" rel="nofollow noopener">fan-made remaster</a>.'
+              ]
+            )
+          }}
+        </ul>
+      </div>
+      <div class="card">
         <b>B</b><br>
         <ul>
           <li>Big Time Rush</li>
@@ -179,16 +172,12 @@ css = "flex.css"
       <div class="card">
         <b>H</b><br>
         <ul>
-          <li>
-            <span class="info">
-              Hellsing Ultimate
-              <div class="popup">
-                <ul>
-                  <li>Without <i>Hellsing: The Dawn</i></li>
-                </ul>
-              </div>
-            </span>
-          </li>
+          {{
+            popup(
+              name="Hellsing Ultimate",
+              items=["Without <i>Hellsing: The Dawn</i>"]
+            )
+          }}
         </ul>
       </div>
       <div class="card">
@@ -200,66 +189,47 @@ css = "flex.css"
       <div class="card">
         <b>R</b><br>
         <ul>
-          <li>
-            <span class="info">
-              Rick and Morty
-              <div class="popup">
-                <ul>
-                  <li>Season 4</li>
-                </ul>
-              </div>
-            </span>
-          </li>
+          {{
+            popup(
+              name="Rick and Morty",
+              items=["Season 4"]
+            )
+          }}
         </ul>
       </div>
       <div class="card">
         <b>S</b><br>
         <ul>
-          <li>
-            <span class="info">
-              Sherlock
-              <div class="popup">
-                <ul>
-                  <li>Seasons 1-3</li>
-                </ul>
-              </div>
-            </span>
-          </li>
+          <li>Serial Experiments Lain</li>
+          {{
+            popup(
+              name="Sherlock",
+              items=["Seasons 1-3"]
+            )
+          }}
         </ul>
       </div>
       <div class="card">
         <b>T</b><br>
         <ul>
-          <li>
-            <span class="info">
-              TMNT (2003)
-              <div class="popup">
-                <ul>
-                  <li>Seasons 1-3</li>
-                </ul>
-              </div>
-            </span>
-          </li>
-          <li>
-            <span class="info">
-              The Simpsons
-              <div class="popup">
-                <ul>
-                  <li>Season 1</li>
-                </ul>
-              </div>
-            </span>
-          </li>
-          <li>
-            <span class="info">
-              Twin Peaks
-              <div class="popup">
-                <ul>
-                  <li>Seasons 1-2</li>
-                </ul>
-              </div>
-            </span>
-          </li>
+          {{
+            popup(
+              name="The Simpsons",
+              items=["Season 1"]
+            )
+          }}
+          {{
+            popup(
+              name="Twin Peaks",
+              items=["Seasons 1-2"]
+            )
+          }}
+          {{
+            popup(
+              name="Teenage Mutant Ninja Turtles (2003)",
+              items=["Seasons 1-3"]
+            )
+          }}
         </ul>
       </div>
     </div>
