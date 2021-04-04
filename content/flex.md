@@ -214,6 +214,12 @@ css = "flex.css"
         <ul>
           {{
             popup(
+              name="Teenage Mutant Ninja Turtles (2003)",
+              items=["Seasons 1-3"]
+            )
+          }}
+          {{
+            popup(
               name="The Simpsons",
               items=["Season 1"]
             )
@@ -222,12 +228,6 @@ css = "flex.css"
             popup(
               name="Twin Peaks",
               items=["Seasons 1-2"]
-            )
-          }}
-          {{
-            popup(
-              name="Teenage Mutant Ninja Turtles (2003)",
-              items=["Seasons 1-3"]
             )
           }}
         </ul>
