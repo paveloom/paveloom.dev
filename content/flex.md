@@ -157,7 +157,7 @@ css = "flex.css"
             popup(
               name="Avatar: The Last Airbender",
               items=[
-                'This is a <a href="https://www.reddit.com/r/RemasteringATLA/comments/5hr9w2/atla_remastered_in_1080p" rel="nofollow noopener">fan-made remaster</a>.'
+                'This is a <a href="https://www.reddit.com/r/RemasteringATLA/comments/5hr9w2/atla_remastered_in_1080p" target="_blank" rel="nofollow noopener">fan-made remaster</a>.'
               ]
             )
           }}
