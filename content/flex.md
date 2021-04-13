@@ -218,6 +218,7 @@ css = "flex.css"
               items=["Seasons 1-3"]
             )
           }}
+          <li>The Legend of Korra</li>
           {{
             popup(
               name="The Simpsons",
