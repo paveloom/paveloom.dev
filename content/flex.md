@@ -128,7 +128,7 @@ title = "Flex"
     details(
       name="Avatar: The Last Airbender",
       items=[
-        'A <a href="https://www.reddit.com/r/RemasteringATLA/comments/5hr9w2/atla_remastered_in_1080p" target="_blank" rel="nofollow noopener">fan-made remaster</a>.'
+        'A <a href="https://www.reddit.com/r/RemasteringATLA/comments/5hr9w2/atla_remastered_in_1080p" target="_blank" rel="nofollow noopener">fan-made remaster</a>'
       ]
     )
   }}
