@@ -37,11 +37,12 @@ nav {
 }
 
 ul {
-  display: list-item;
-  list-style-type: "\2022";
-  margin-left: 12px;
+  margin-left: 20.5px;
 }
 
 li {
-  padding-left: 0.5rem;
+  list-style: none;
+  &::marker {
+    content:"\2022  ";
+  }
 }
