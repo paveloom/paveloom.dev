@@ -3,12 +3,12 @@
 {# Head for the landing page #}
 {% block head %}
   {{ super() }}
-  <link rel="stylesheet" href="index.css">
   <meta name="description" content="{{ config.description }}">
   <title>{{ config.title }}</title>
 {% endblock head %}
 
 {# Body for the main page #}
 {% block body %}
+  {{ super() }}
   {{ section.content | safe }}
 {% endblock body %}
