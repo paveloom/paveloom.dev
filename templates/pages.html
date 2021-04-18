@@ -1,28 +1,14 @@
 {% extends "base.html" %}
 
-{# Head for the `LibGen Uploads` page #}
+{# Head for the pages #}
 {% block head %}
   {{ super() }}
-  <link rel="stylesheet" href="{{ page.extra.css }}">
   <meta name="description" content="{{ page.description }}">
-	<script>
-		window.onload = function() {
-			let element = document.getElementById('back-link');
-			element.onclick = function () {
-				if (document.referrer == "{{ config.base_url | safe }}") {
-					history.back();
-					return false;
-				} else {
-					location.href = "{{ config.base_url | safe }}"
-					return false;
-				}
-			}
-		}
-	</script>
 	<title>{{ config.title }} — {{ page.title }}</title>
 {% endblock head %}
 
-{# Body for the `LibGen Uploads` page #}
+{# Body for the pages #}
 {% block body %}
+	{{ super() }}
   {{ page.content | safe }}
 {% endblock body %}

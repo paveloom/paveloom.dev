@@ -1,11 +1,20 @@
 {% extends "site.html" %}
 
 {# Head for all pages on the landing page #}
-
 {% block head %}
-{{ super() }}
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap">
-  <link rel="stylesheet" href="{{ get_url(path="base.css") }}">
+  {{ super() }}
+  <link rel="stylesheet" href="{{ get_url(path='base.css') }}">
 {% endblock head %}
+
+{# Body for the main page #}
+{% block body %}
+  <nav>
+    [
+    <a href="{{ get_url(path='@/_index.md') }}" rel="nofollow noopener">Home</a>
+    •
+    <a href="{{ get_url(path='@/flex.md') }}" rel="nofollow noopener">Flex</a>
+    •
+    <a href="{{ get_url(path='@/libgen.md') }}" rel="nofollow noopener">LibGen</a>
+    ]
+  </nav>
+{% endblock body %}
