@@ -28,6 +28,12 @@ code {
   word-break: break-all;
 }
 
+pre {
+  overflow-x: auto;
+  padding: 1em;
+  white-space: pre;
+}
+
 h4 {
   color: #626262;
 }

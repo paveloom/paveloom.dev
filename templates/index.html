@@ -1,13 +1,13 @@
 {% extends "base.html" %}
 
-{# Head for the landing page #}
+{# Head for the home page #}
 {% block head %}
   {{ super() }}
   <meta name="description" content="{{ config.description }}">
   <title>{{ config.title }}</title>
 {% endblock head %}
 
-{# Body for the main page #}
+{# Body for the home page #}
 {% block body %}
   {{ super() }}
   {{ section.content | safe }}

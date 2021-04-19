@@ -1,8 +1,6 @@
 +++
-# Flex
-description = "This page contains an overview to @paveloom's media collection called Flex."
-template = "pages.html"
 title = "Flex"
+description = "This page contains an overview to @paveloom's media collection called Flex."
 +++
 
 # {{ title() }}

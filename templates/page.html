@@ -1,13 +1,13 @@
 {% extends "base.html" %}
 
-{# Head for the pages #}
+{# Head for a page #}
 {% block head %}
   {{ super() }}
   <meta name="description" content="{{ page.description }}">
 	<title>{{ config.title }} — {{ page.title }}</title>
 {% endblock head %}
 
-{# Body for the pages #}
+{# Body for a page #}
 {% block body %}
 	{{ super() }}
   {{ page.content | safe }}
