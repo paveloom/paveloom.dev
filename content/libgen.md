@@ -1,8 +1,6 @@
 +++
-# LibGen Uploads
-description = "This page contains links to books uploaded on LibGen by @paveloom."
-template = "pages.html"
 title = "LibGen"
+description = "This page contains links to books uploaded on LibGen by @paveloom."
 +++
 
 # {{ title() }}

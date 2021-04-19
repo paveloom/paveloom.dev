@@ -25,7 +25,18 @@ a {
 }
 
 code {
+  color: #626262;
   word-break: break-all;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 1em;
+  white-space: pre;
+}
+
+h1 {
+  margin-block-start: calc(0.67em - 7px);
 }
 
 h4 {
@@ -39,6 +50,9 @@ h5 {
 
 nav {
   color: #626262;
+  padding-bottom: 7px;
+  overflow: auto;
+  white-space: nowrap;
 }
 
 ul {

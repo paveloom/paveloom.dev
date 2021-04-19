@@ -9,13 +9,16 @@ description = "The website contains stuff around @paveloom's persona."
 compile_sass = true
 
 # When set to "true", the generated HTML files are minified
-minify_html = true
+minify_html = false # Temporary because of https://github.com/getzola/zola/issues/1300
 
 # Configuration of the Markdown rendering
 [markdown]
 
 # When set to "true", all code blocks are highlighted
 highlight_code = true
+
+# The theme to use for code highlighting.
+highlight_theme = "ir-white"
 
 # Whether external links are to be opened in a new tab
 external_links_target_blank = true
