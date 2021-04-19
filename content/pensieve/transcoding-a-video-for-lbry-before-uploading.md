@@ -20,20 +20,20 @@ ffmpeg -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
 
 The meanings of the passed parameters:
 
-- `ffmpeg -c:s copy` and `ffmpeg -c:d copy` tell FFMPEG to copy subtitles and data,
+- `-c:s copy` and `ffmpeg -c:d copy` tell FFMPEG to copy subtitles and data,
   respectively;
-- `ffmpeg -c:v libx264 -crf 24 -preset faster -pix_fmt yuv420p` tells FFMPEG to
+- `-c:v libx264 -crf 24 -preset faster -pix_fmt yuv420p` tells FFMPEG to
   transcode the video using the `H.264` codec with constant rate factor equal to 24, with
   the `faster` preset and using the YUV color space with the `4:2:0` scheme for chroma
   subsampling;
-- `ffmpeg -vf "scale=if(gte(iw\,ih)\,min(1920\,iw)\,-2):if(lt(iw\,ih)\,min(1920\,ih)\,-2)"`
+- `-vf "scale=if(gte(iw\,ih)\,min(1920\,iw)\,-2):if(lt(iw\,ih)\,min(1920\,ih)\,-2)"`
   specifies that the height and width of the video cannot be greater than 1920 pixels,
   and both values must be a multiple of two;
-- `ffmpeg -maxrate 5500K -bufsize 5000K` specifies the maximum bitrate to be 5500 Kb/s
+- `-maxrate 5500K -bufsize 5000K` specifies the maximum bitrate to be 5500 Kb/s
   with a buffer equal to 5000 Kb/s;
-- `ffmpeg -movflags +faststart` tells FFMPEG to move the «moov atom» (the metadata)
+- `-movflags +faststart` tells FFMPEG to move the «moov atom» (the metadata)
   from the end of the file to its beginning to improve playback in browsers;
-- `ffmpeg -c:a aac -b:a 160k` tells FFMPEG to transcode the audio with bitrate equal to
+- `-c:a aac -b:a 160k` tells FFMPEG to transcode the audio with bitrate equal to
   160 kb/s.
 
 An alternative option for transcoding a horizontal video with increased bitrate, better quality
