@@ -2,19 +2,16 @@
 # Main page
 +++
 
-<h1 id="title"><span>{{ title() }}</span></h1>
-<h4>An odd fellow steaming some code.</h4>
+# {{ title() }} {#}
+#### An odd fellow steaming some code. {#}
 
-<b>Quick Links</b>:<br>
-<ul>
-  <li>{{ link(name="YouTube", link="https://www.youtube.com/Paveloom") }}</li>
-  <li>{{ link(name="GitHub", link="https://github.com/Paveloom") }}</li>
-</ul>
+**Quick links**:
+- [YouTube](https://www.youtube.com/Paveloom)
+- [GitHub](https://github.com/Paveloom)
 
-<b>Contacts</b>:<br>
-<ul>
-  <li>Telegram: {{ link(name="@paveloom", link="https://t.me/paveloom") }}</li>
-  <li>E-mail: {{ link(name="paveloomm@gmail.com", link="mailto:paveloomm@gmail.com") }}</li>
-</ul>
 
-<i>Ripping off {{ link(name="unixsheikh.com", link="https://unixsheikh.com/") }} with love.</i>
+**Contacts**:
+- Telegram: [@paveloom](https://t.me/paveloom)
+- E-mail: [paveloomm@gmail.com](mailto:paveloomm@gmail.com)
+
+*Ripping off [unixsheikh.com](https://unixsheikh.com) with love.*
