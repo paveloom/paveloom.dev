@@ -35,6 +35,10 @@ pre {
   white-space: pre;
 }
 
+h1 {
+  margin-block-start: calc(0.67em - 7px);
+}
+
 h4 {
   color: #626262;
 }
@@ -46,6 +50,9 @@ h5 {
 
 nav {
   color: #626262;
+  padding-bottom: 7px;
+  overflow: auto;
+  white-space: nowrap;
 }
 
 ul {
