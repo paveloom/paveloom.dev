@@ -1,7 +1,7 @@
 +++
 title = "How to SSH into WSL 2?"
 description = "How to SSH into WSL 2?"
-path = "how-to-ssh-into-wsl-2"
+slug = "how-to-ssh-into-wsl-2"
 updated = "2021-04-19"
 +++
 

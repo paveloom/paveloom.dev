@@ -18,9 +18,17 @@ jobs:
         tar -xf zola-* zola && rm zola-*
     - name: Download minify
       run: |
-        wget https://github.com/tdewolff/minify/releases/download/v2.9.12/minify_linux_amd64.tar.gz
+        wget https://github.com/tdewolff/minify/releases/download/v2.9.16/minify_linux_amd64.tar.gz
         tar -xf minify_* minify && rm minify_*
+    - name: Download minify-html
+      run: |
+        wget https://wilsonl.in/minify-html/bin/0.4.10-linux-x86_64
+        mv *linux-x86_64 minify-html
+        sudo chmod u+x minify-html
     - name: Build & Minify
       run: |
         ./zola build
-        ./minify -rav -o public/ public
+        for file in `find public -name "*.html" -type f`; do
+          ./minify-html -s "$file" -o "$file" --css --js
+        done
+        ./minify -rav -o . public
