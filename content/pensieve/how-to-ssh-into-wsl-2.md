@@ -1,12 +1,11 @@
 +++
 title = "How to SSH into WSL 2?"
-description = "How to SSH into WSL 2?"
-slug = "how-to-ssh-into-wsl-2"
+description = "How would one SSH into WSL 2?"
 updated = "2021-04-19"
 +++
 
-# {{ title() }}
-#### {{ updated() }} {#}
+# {{ title() }} {#}
+#### Updated: {{ updated() }} {#}
 
 This guide is explicitly for the second version of WSL. All the following actions should be performed inside a WSL environment until told otherwise.
 
@@ -26,7 +25,7 @@ Port 2222
 
 Second, you'll need to enable authentication. For that, you may use passwords or keys. Enable the preferred way (or both) by creating or altering the lines with the following contents:
 
-```bash
+```
 PasswordAuthentication yes
 PubkeyAuthentication yes
 ```
