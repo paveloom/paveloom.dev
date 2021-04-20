@@ -77,7 +77,7 @@ You can access it using the following *obfuscated* passwords:<br>
 
 ##### A {#}
 - Avatar: The Last Airbender
-  - A [fan-made remaster](https://www.reddit.com/r/RemasteringATLA/comments/5hr9w2/atla_remastered_in_1080p")
+  - A [fan-made remaster](https://www.reddit.com/r/RemasteringATLA/comments/5hr9w2/atla_remastered_in_1080p)
 
 ##### B {#}
 - Big Time Rush
