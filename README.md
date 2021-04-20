@@ -1,6 +1,6 @@
 # Description
 
-Code of my website. Powered by [Zola](https://www.getzola.org/) and [minify](https://github.com/tdewolff/minify).
+Code of my website. Powered by [Zola](https://www.getzola.org) and [minify](https://github.com/tdewolff/minify).
 
 ## Build
 

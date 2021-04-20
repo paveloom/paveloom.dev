@@ -10,13 +10,13 @@
 {% block body %}
   <nav>
     [
-    <a rel="noopener nofollow" href="{{ get_url(path='/') }}">Home</a>
+    <a rel="noopener nofollow" href="{{ get_url(path='@/_index.md') }}">Home</a>
     •
-    <a rel="noopener nofollow" href="{{ get_url(path='/flex') }}">Flex</a>
+    <a rel="noopener nofollow" href="{{ get_url(path='@/flex.md') }}">Flex</a>
     •
-    <a rel="noopener nofollow" href="{{ get_url(path='/libgen') }}">LibGen</a>
+    <a rel="noopener nofollow" href="{{ get_url(path='@/libgen.md') }}">LibGen</a>
     •
-    <a rel="noopener nofollow" href="{{ get_url(path='/pensieve') }}">Pensieve</a>
+    <a rel="noopener nofollow" href="{{ get_url(path='@/pensieve/_index.md') }}">Pensieve</a>
     ]
   </nav>
 {% endblock body %}
