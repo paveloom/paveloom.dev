@@ -58,7 +58,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 
 ##### Paveloom [[GH](https://github.com/Paveloom)]: {#paveloom}
 - *`old_wiki`* [[GH](https://github.com/Paveloom/old_wiki)]: An old version of Pensieve, powered by Franklin `#julia` `#franklin`
-- *Paveloom* [[GH](https://github.com/Paveloom/Paveloom)]: A *special* repository to manage my GitHub profile's landing page `#julia` `#github-readme`
+- *Paveloom* [[GH](https://github.com/Paveloom/Paveloom)]: A *special* repository to manage my GitHub profile's landing page `#github-readme`
 - *paveloom.github.io* [[GH](https://github.com/Paveloom/paveloom.github.io)]: Personal website `#zola` `#tera` `#sass`
 
 <br>
