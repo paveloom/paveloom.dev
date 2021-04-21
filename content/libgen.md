@@ -12,7 +12,7 @@ description = "This page contains links to books uploaded on LibGen by @paveloom
 
 ## Sci-Tech
 - [Carl E. Rasmussen, Christopher K. I. Williams — Gaussian Processes for Machine Learning](https://libgen.is/book/index.php?md5=FCDA75240A7116892A637C4B52309D6D)
-- [Chris Chatfield — The Analysis of Time Series: An Introduction [5th ed.]](https://libgen.is/book/index.php?md5=E950D7C79BF9630A60F54FEF6738E94B)
-- [Chris Chatfield, Haipeng Xing — The Analysis of Time Series: An Introduction with R [7th ed.]](https://libgen.is/book/index.php?md5=A31279BDA333A9145D2D8FEDDAFFA7C5)
+- [Chris Chatfield — The Analysis of Time Series: An Introduction [5th&nbsp;ed.]](https://libgen.is/book/index.php?md5=E950D7C79BF9630A60F54FEF6738E94B)
+- [Chris Chatfield, Haipeng Xing — The Analysis of Time Series: An Introduction with R [7th&nbsp;ed.]](https://libgen.is/book/index.php?md5=A31279BDA333A9145D2D8FEDDAFFA7C5)
 - [Michael Metcalf, John Reid, Malcolm Cohen — Modern Fortran Explained: Incorporating Fortran 2018](https://libgen.is/book/index.php?md5=D1AADB76FC28BC77BB30F951F79A17ED)
-- [Norman S. Clerman, Walter Spector — Modern Fortran, Style and Usage [1st ed.]](https://libgen.is/book/index.php?md5=95422A6ADCF041FF4DD26AE9CF40297F)
+- [Norman S. Clerman, Walter Spector — Modern Fortran, Style and Usage [1st&nbsp;ed.]](https://libgen.is/book/index.php?md5=95422A6ADCF041FF4DD26AE9CF40297F)

@@ -6,11 +6,12 @@ description = "This page contains an overview to @paveloom's media collection ca
 # {{ title() }}
 #### A collection of movies and TV series encrypted with [Rclone](https://rclone.org) and stored on [Google Drive](https://drive.google.com/drive/folders/1HIa7kt2RWpxU2cosdmNks1amEp2B75LO?usp=sharing). {#}
 
-You can access it using the following *obfuscated* passwords:<br>
-<code>
-  password = *yF2mm69Xht-wHw2Qm3S9vNyHBdogN8u8pqkeoLZlFMdLcyr3Epc*<br>
-  password2 = *8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs*
-</code>
+You can access it using the following *obfuscated* passwords:
+
+```
+password = yF2mm69Xht-wHw2Qm3S9vNyHBdogN8u8pqkeoLZlFMdLcyr3Epc
+password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
+```
 
 ## Movies
 

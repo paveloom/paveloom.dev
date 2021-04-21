@@ -8,12 +8,27 @@
     <meta name="author" content="{{ config.extra.author }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text x=%22-.1em%22 y=%22.9em%22 font-size=%2285%22>🍂</text></svg>">
+    <link rel="stylesheet" href="{{ get_url(path='site.css') }}">
   {% endblock head %}
 </head>
 
 {# Other templates will override the body #}
 <body>
-  {% block body %}{% endblock %}
+  {% block body %}
+    <nav>
+      [
+      <a rel="noopener nofollow" href="{{ get_url(path='@/_index.md') }}">Home</a>
+      •
+      <a rel="noopener nofollow" href="{{ get_url(path='@/flex.md') }}">Flex</a>
+      •
+      <a rel="noopener nofollow" href="{{ get_url(path='@/git.md') }}">Git</a>
+      •
+      <a rel="noopener nofollow" href="{{ get_url(path='@/libgen.md') }}">LibGen</a>
+      •
+      <a rel="noopener nofollow" href="{{ get_url(path='@/pensieve/_index.md') }}">Pensieve</a>
+      ]
+    </nav>
+  {% endblock body %}
 </body>
 
 </html>

@@ -1,11 +1,10 @@
 +++
 title = "Transcoding a video for LBRY before uploading"
 description = "How would one transcode a video for LBRY before uploading?"
-updated = "2021-04-19"
 +++
 
 # {{ title() }} {#}
-#### Updated: {{ updated() }} {#}
+#### Updated: 21-Apr-2021 {#}
 
 The built-in video transcoding function in the LBRY desktop application starts the
 FFMPEG utility process with the following parameters:
@@ -26,9 +25,8 @@ The meanings of the passed parameters:
   transcode the video using the `H.264` codec with constant rate factor equal to 24, with
   the `faster` preset and using the YUV color space with the `4:2:0` scheme for chroma
   subsampling;
-- `-vf "scale=if(gte(iw\,ih)\,min(1920\,iw)\,-2):if(lt(iw\,ih)\,min(1920\,ih)\,-2)"`
-  specifies that the height and width of the video cannot be greater than 1920 pixels,
-  and both values must be a multiple of two;
+- `-vf "..."` specifies that the height and width of the video cannot be greater than
+  1920 pixels, and both values must be a multiple of two;
 - `-maxrate 5500K -bufsize 5000K` specifies the maximum bitrate to be 5500 Kb/s
   with a buffer equal to 5000 Kb/s;
 - `-movflags +faststart` tells FFMPEG to move the «moov atom» (the metadata)
@@ -36,8 +34,8 @@ The meanings of the passed parameters:
 - `-c:a aac -b:a 160k` tells FFMPEG to transcode the audio with bitrate equal to
   160 kb/s.
 
-An alternative option for transcoding a horizontal video with increased bitrate, better quality
-and compression:
+An alternative option for transcoding a horizontal video with increased bitrate, better
+quality and compression:
 
 ```bash
 ffmpeg -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
