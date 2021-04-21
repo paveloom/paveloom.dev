@@ -24,9 +24,12 @@ a {
   }
 }
 
+p, li {
+  max-width: 75ch;
+}
+
 code {
   color: #626262;
-  word-break: break-all;
 }
 
 pre {
