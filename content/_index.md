@@ -6,7 +6,7 @@
 #### An odd fellow steaming some code. {#}
 
 **Quick links**:
-- [YouTube](https://www.youtube.com/Paveloom)
+- [YouTube](https://youtube.com/Paveloom) / [LBRY](https://odysee.com/@paveloom:e)
 - [GitHub](https://github.com/Paveloom)
 
 
