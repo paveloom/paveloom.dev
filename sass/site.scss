@@ -3,9 +3,12 @@ html, body, nav, ul, li {
   padding: 0;
 }
 
+html, code {
+  font: 16px Consolas, "Consolas Local", monospace;
+}
+
 html {
   -webkit-text-size-adjust: 100%;
-  font: 16px Consolas, ConsolasLocal, monospace;
 }
 
 body {
@@ -30,6 +33,7 @@ p, li {
 
 code {
   color: #626262;
+  font-style: inherit;
 }
 
 pre {
