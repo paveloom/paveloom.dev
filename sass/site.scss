@@ -1,23 +1,57 @@
-$colorBlue: #1168cc;
-$colorGray: #626262;
+// Light theme
+$colorBlueLT: #1168cc;
+$colorGrayLT: #626262;
+$colorScrollbarLT: #cdcdcd;
 
-$scrollbarBg: #ffffff;
-$scrollbarBr: 6px;
-$scrollbarThumb: $colorGray;
+// Dark theme
+$colorBackgroundDT: #0f141a;
+$colorBlueDT: #52a2ff;
+$colorGrayDT: #a0a0a0;
+$colorTextDT: #c5c5c5;
+$colorScrollbarDT: #999d9d;
+
+// Scrollbar settings
+$scrollbarBackground: 6px;
 $scrollbarWidth: 6px;
 
-@mixin custom-scrollbars {
+@mixin customScrollbars {
   @media (hover: hover) and (pointer: fine) {
     scrollbar-width: thin;
-    scrollbar-color: $scrollbarThumb $scrollbarBg;
+    scrollbar-color: $colorScrollbarLT transparent;
+    @media (prefers-color-scheme: dark) {
+      scrollbar-color: $colorScrollbarDT transparent;
+    }
     &::-webkit-scrollbar {
       width: $scrollbarWidth;
       height: $scrollbarWidth;
     }
     &::-webkit-scrollbar-thumb {
-      background-color: $scrollbarThumb;
-      border-radius: $scrollbarBr;
+      background-color: $colorScrollbarLT;
+      @media (prefers-color-scheme: dark) {
+        background-color: $colorScrollbarDT;
+      }
+      border-radius: $scrollbarBackground;
     }
+  }
+}
+
+@mixin colorBlue {
+  color: $colorBlueLT;
+  @media (prefers-color-scheme: dark) {
+    color: $colorBlueDT;
+  }
+}
+
+@mixin colorGray {
+  color: $colorGrayLT;
+  @media (prefers-color-scheme: dark) {
+    color: $colorGrayDT;
+  }
+}
+
+@mixin invertColors {
+  @media (prefers-color-scheme: dark) {
+    filter: invert(1);
   }
 }
 
@@ -31,7 +65,11 @@ html, code {
 }
 
 html {
-  @include custom-scrollbars;
+  @include customScrollbars;
+  @media (prefers-color-scheme: dark) {
+    background-color: $colorBackgroundDT;
+    color: $colorTextDT;
+  }
   -webkit-text-size-adjust: 100%;
 }
 
@@ -41,13 +79,13 @@ body {
 }
 
 a {
-  color: $colorBlue;
+  @include colorBlue;
   text-decoration: none;
   &:hover {
     text-decoration: underline;
   }
   &:visited {
-    color: $colorGray;
+    @include colorGray;
   }
 }
 
@@ -56,15 +94,20 @@ p, li {
 }
 
 code {
-  color: $colorGray;
+  @include colorGray;
   font-style: inherit;
 }
 
 pre {
-  @include custom-scrollbars;
+  @include customScrollbars;
+  background-color: transparent !important;
   overflow-x: auto;
   padding: 1em;
   white-space: pre;
+}
+
+pre > code {
+  @include invertColors;
 }
 
 h1 {
@@ -72,7 +115,7 @@ h1 {
 }
 
 h4 {
-  color: $colorGray;
+  @include colorGray;
 }
 
 h5 {
@@ -81,8 +124,8 @@ h5 {
 }
 
 nav {
-  @include custom-scrollbars;
-  color: $colorGray;
+  @include customScrollbars;
+  @include colorGray;
   padding-bottom: 7px;
   overflow: auto;
   white-space: nowrap;
