@@ -14,4 +14,4 @@
 - Telegram: [@paveloom](https://t.me/paveloom)
 - E-mail: [paveloomm@gmail.com](mailto:paveloomm@gmail.com)
 
-*Ripping off [unixsheikh.com](https://unixsheikh.com) with love.*
+*Available on [GitHub Pages](https://paveloom.github.io/) and [Fleek](https://paveloom.on.fleek.co/).*
