@@ -12,6 +12,6 @@
 
 **Contacts**:
 - Telegram: [@paveloom](https://t.me/paveloom)
-- E-mail: <!--email_off-->[paveloomm@gmail.com](mailto:paveloomm@gmail.com)<!--/email_off-->
+- E-mail: [paveloomm@gmail.com](mailto:paveloomm@gmail.com)
 
 *Available on [GitHub Pages](https://paveloom.github.io/) and [Fleek](https://paveloom.on.fleek.co/).*

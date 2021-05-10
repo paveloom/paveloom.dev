@@ -28,4 +28,7 @@ wget https://github.com/tdewolff/minify/releases/download/v2.9.16/minify_linux_a
 tar -xf minify_* minify && rm minify_*
 
 # Use `minify`
-./minify -rav -o . public
+./minify -ra -o . public
+
+# Apply the hooks
+. $(dirname "${BASH_SOURCE[0]}")/hooks.bash
