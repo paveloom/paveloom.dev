@@ -48,9 +48,11 @@ it, you should run `ifconfig` inside a WSL environment you want to connect to an
 IP address from the `inet` line in the `eth0` section. After that, running the following on
 the host system:
 
+<!--email_off-->
 ```bash
 ssh user@ip -p 2222
 ```
+<!--email_off-->
 
 should give a prompt to your shell. Note that this IP will change after restarting the WSL
 environment.
