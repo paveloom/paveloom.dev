@@ -7,7 +7,11 @@ wget https://github.com/getzola/zola/releases/download/v0.13.0/zola-v0.13.0-x86_
 tar -xf zola*.tar.gz && rm zola-*
 
 # Build the site
-./zola build -u https://paveloom.on.fleek.co/
+if [ ${#} -eq 0 ]; then
+    ./zola build
+else
+    ./zola build -u "${1}"
+fi
 
 # Get `minify-html`
 wget https://wilsonl.in/minify-html/bin/0.4.10-linux-x86_64 >/dev/null 2>&1
