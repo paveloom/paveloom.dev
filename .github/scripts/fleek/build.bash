@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# A script to build the site for Fleek.
+# A script to build the site on Fleek.
 # Expects to be used on the `bitnami/minideb` Docker image.
 
 # Install auxiliary packages

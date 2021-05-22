@@ -1,6 +1,6 @@
 # Description
 
-Code of my website. Powered by [Zola](https://www.getzola.org) and [minify](https://github.com/tdewolff/minify).
+Code of my website. Powered by [Zola](https://www.getzola.org).
 
 ## Build
 
@@ -24,8 +24,12 @@ zola build -u "/path/to/the/public/"
 
 ## Minify
 
-Minify all files in the `public` directory recursively:
+Minifiers [minify](https://github.com/tdewolff/minify) and [minify-html](https://github.com/wilsonzlin/minify-html) are being used to minify the content:
 
 ```bash
-minify -rav -o public/ public
+for file in `find public -name "*.html" -type f`; do
+    minify-html -s "$file" -o "$file" --css --js
+done
+
+minify -ra -o . public
 ```
