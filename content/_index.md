@@ -13,4 +13,9 @@
 **Contacts**:
 - Telegram: [@paveloom](https://t.me/paveloom)
 
-*Available on [GitHub Pages](https://paveloom.github.io/) and [IPFS](https://paveloom.on.fleek.co/).*
+**Mirrors**:
+- [GitHub Pages](https://paveloom.github.io/)
+- [Fleek](https://paveloom.on.fleek.co/) (IPFS)
+  - [HNS subdomain](http://home.paveloom/)
+    - [HNS.TO gateway](http://home.paveloom.hns.to/)
+    - [HDNS](https://www.hdns.io/)
