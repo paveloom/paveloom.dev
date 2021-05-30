@@ -53,6 +53,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 - *`P7`* [[GH](https://github.com/paveloom-p/P7)]: Scripts from the Python programming course, 5th semester `#python` `#game-of-life`
 - *`P8`* [[GH](https://github.com/paveloom-p/P8)]: Procedures and programs from the Astronomy Software course, 6th semester `#astronomy` `#midas`
 - *`P9`* [[GH](https://github.com/paveloom-p/P9)]: Programs from the Celestial Mechanics course, 6th semester `#fortran` `#astronomy`
+- *`P12`* [[GH](https://github.com/paveloom-p/P12)]: Programs from the Celestial Mechanics course, 6th semester `#julia` `#exercises` `#numerical-methods-implementation`
 
 <br>
 

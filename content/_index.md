@@ -15,7 +15,4 @@
 
 **Mirrors**:
 - [GitHub Pages](https://paveloom.github.io/)
-- [Fleek](https://paveloom.on.fleek.co/) (IPFS)
-  - [HNS subdomain](http://home.paveloom/)
-    - [HNS.TO gateway](http://home.paveloom.hns.to/)
-    - [HDNS](https://www.hdns.io/)
+- [Fleek](https://paveloom.on.fleek.co/) (IPFS) ([HNS](http://home.paveloom/), [?](https://learn.namebase.io/starting-from-zero/how-to-access-handshake-sites))
