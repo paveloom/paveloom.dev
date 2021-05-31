@@ -61,7 +61,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 - *`old_wiki`* [[GH](https://github.com/Paveloom/old_wiki)]: An old version of Pensieve, powered by Franklin `#julia` `#franklin`
 - *Paveloom* [[GH](https://github.com/Paveloom/Paveloom)]: A *special* repository to manage my GitHub profile's landing page `#github-readme`
 - *paveloom.github.io* [[GH](https://github.com/Paveloom/paveloom.github.io)]: Personal website `#zola` `#tera` `#sass`
-- *`DuckDuckGo.onion`* [[GH](https://github.com/Paveloom/DuckDuckGo.onion)]: A small workaround for adding the DuckDuckGo's onion service as a search engine in Firefox `#search-engine` `#onion-service` `#duckduckgo`
+- *`OpenSearchDescriptionFiles`* [[GH](https://github.com/Paveloom/OpenSearchDescriptionFiles)]: Custom OpenSearch description files  `#search-engine` `#opensearch`
 
 <br>
 
