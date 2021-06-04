@@ -87,6 +87,9 @@ a {
   &:visited {
     @include colorGray;
   }
+  > code {
+    color: inherit;
+  }
 }
 
 p, li {
