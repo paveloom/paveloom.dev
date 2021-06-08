@@ -10,7 +10,7 @@
 - [GitHub](https://github.com/Paveloom)
 
 **Contacts**:
-- Session: 05f58228ee4fea708a4b9fdfce8ab04d1fa4c2e0de3b5a6bc2041be9de960f7457
+- Email: [paveloom@tuta.io](mailto:paveloom@tuta.io)
 
 **Mirrors**:
 - [GitHub Pages](https://paveloom.github.io/)
