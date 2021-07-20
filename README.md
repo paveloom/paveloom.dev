@@ -24,12 +24,8 @@ zola build -u "/path/to/the/public/"
 
 ## Minify
 
-Minifiers [minify](https://github.com/tdewolff/minify) and [minify-html](https://github.com/wilsonzlin/minify-html) are being used to minify the content:
+[minify](https://github.com/tdewolff/minify) the content:
 
 ```bash
-for file in `find public -name "*.html" -type f`; do
-    minify-html -s "$file" -o "$file" --css --js
-done
-
 minify -ra -o . public
 ```

@@ -1,13 +1,24 @@
 // Light theme
-$colorBlueLT: #1168cc;
 $colorGrayLT: #626262;
+$colorTextLT: #010101;
+$colorLinkLT: #1168cc;
+$colorVisitedLinkLT:  #690176;
+$colorCodeLT: $colorGrayLT;
+$colorHeaderLT: $colorGrayLT;
+$colorNavLT: $colorGrayLT;
+$colorNavVisitedLinkLT: $colorGrayLT;
 $colorScrollbarLT: #cdcdcd;
 
 // Dark theme
-$colorBackgroundDT: #0f141a;
-$colorBlueDT: #52a2ff;
 $colorGrayDT: #a0a0a0;
-$colorTextDT: #c5c5c5;
+$colorBackgroundDT: #0f141a;
+$colorTextDT: #cfcccc;
+$colorLinkDT: #52a2ff;
+$colorVisitedLinkDT: $colorGrayDT;
+$colorCodeDT: $colorGrayDT;
+$colorHeaderDT: $colorGrayDT;
+$colorNavDT: $colorGrayDT;
+$colorNavVisitedLinkDT: $colorGrayDT;
 $colorScrollbarDT: #999d9d;
 
 // Scrollbar settings
@@ -35,23 +46,52 @@ $scrollbarWidth: 6px;
   }
 }
 
-@mixin colorBlue {
-  color: $colorBlueLT;
+@mixin colorText {
+  color: $colorTextLT;
   @media (prefers-color-scheme: dark) {
-    color: $colorBlueDT;
+    color: $colorTextDT;
   }
 }
 
-@mixin colorGray {
-  color: $colorGrayLT;
+@mixin colorLink {
+  color: $colorLinkLT;
   @media (prefers-color-scheme: dark) {
-    color: $colorGrayDT;
+    color: $colorLinkDT;
   }
 }
 
-@mixin invertColors {
+@mixin colorVisitedLink {
+  color: $colorVisitedLinkLT;
   @media (prefers-color-scheme: dark) {
-    filter: invert(1);
+    color: $colorVisitedLinkDT;
+  }
+}
+
+@mixin colorCode {
+  color: $colorCodeLT;
+  @media (prefers-color-scheme: dark) {
+    color: $colorCodeDT;
+  }
+}
+
+@mixin colorHeader {
+  color: $colorHeaderLT;
+  @media (prefers-color-scheme: dark) {
+    color: $colorHeaderDT;
+  }
+}
+
+@mixin colorNav {
+  color: $colorNavLT;
+  @media (prefers-color-scheme: dark) {
+    color: $colorNavDT;
+  }
+}
+
+@mixin colorNavVisitedLink {
+  color: $colorNavVisitedLinkLT;
+  @media (prefers-color-scheme: dark) {
+    color: $colorNavVisitedLinkDT;
   }
 }
 
@@ -79,16 +119,16 @@ body {
 }
 
 a {
-  @include colorBlue;
+  @include colorLink;
   text-decoration: none;
   &:hover {
     text-decoration: underline;
   }
   &:visited {
-    @include colorGray;
+    @include colorVisitedLink;
   }
   > code {
-    color: inherit;
+    @include colorVisitedLink;
   }
 }
 
@@ -97,8 +137,11 @@ p, li {
 }
 
 code {
-  @include colorGray;
+  @include colorCode;
   font-style: inherit;
+  > span {
+    @include colorText;
+  }
 }
 
 pre {
@@ -109,16 +152,12 @@ pre {
   white-space: pre;
 }
 
-pre > code {
-  @include invertColors;
-}
-
 h1 {
   margin-block-start: calc(0.67em - 7px);
 }
 
 h4 {
-  @include colorGray;
+  @include colorHeader;
 }
 
 h5 {
@@ -128,10 +167,13 @@ h5 {
 
 nav {
   @include customScrollbars;
-  @include colorGray;
+  @include colorNav;
   padding-bottom: 7px;
   overflow: auto;
   white-space: nowrap;
+  > a:visited {
+    @include colorNavVisitedLink;
+  }
 }
 
 ul {
