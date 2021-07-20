@@ -9,7 +9,7 @@ description = "How would one SSH into WSL 2?"
 This guide is explicitly for the second version of WSL. All the following actions should
 be performed inside a WSL environment until told otherwise.
 
-First, make sure you have the [`ssh`](https://packages.ubuntu.com/focal/ssh) package
+First, make sure you have the `ssh` package
 installed.
 
 Then visit the configuration file of your SSH server:

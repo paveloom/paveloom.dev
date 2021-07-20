@@ -95,18 +95,19 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 
 ##### R {#}
 - Rick and Morty
-  - Season 4
+  - Seasons 4-5
 
 ##### S {#}
 - Serial Experiments Lain
 - Sherlock
   - Seasons 1-3
+- Star Trek: The Original Series
 
 ##### T {#}
 - Teenage Mutant Ninja Turtles (2003)
   - Seasons 1-3
 - The Legend of Korra
 - The Simpsons
-  - Season 1
+  - Seasons 1-2
 - Twin Peaks
   - Seasons 1-2
