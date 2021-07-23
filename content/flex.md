@@ -25,6 +25,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Back to the Future Part III
 - Barnyard
 - Beetlejuice
+- Blade Runner (1982) (Hybrid version by Папа Джонсон)
 - Bruce Almighty
 
 ##### C {#}
@@ -102,6 +103,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 - Sherlock
   - Seasons 1-3
 - Star Trek: The Original Series
+  - Season 1
 
 ##### T {#}
 - Teenage Mutant Ninja Turtles (2003)
