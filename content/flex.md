@@ -31,6 +31,11 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 ##### C {#}
 - Chungking Express
 
+##### D {#}
+- Die Nibelungen
+  - Die Nibelungen: Siegfried (1924)
+  - Die Nibelungen: Kriemhild's Revenge (1924)
+
 ##### G {#}
 - Ghostbusters (1984)
 - Girl, Interrupted
@@ -53,6 +58,9 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Jumanji: The Next Level
 
 ##### M {#}
+- Metropolis (1927)
+  - Giorgio Moroder's Edition
+  - Restored Version (2010)
 - Moana
 
 ##### P {#}
