@@ -6,6 +6,10 @@ description = "This section contains algorithms that @paveloom can't quite memor
 # {{ title() }}
 #### Algorithms that @paveloom can't quite memorize. {#}
 
+**Software**:
+- Fedora 34
+  - [How to install Spotify without ads on Fedora 34?](/pensieve/how-to-install-spotify-without-ads-on-fedora-34)
+
 **Development**:
 - Environment
   - WSL 2
