@@ -44,6 +44,12 @@ description = "This page contains a list of Git repositories created by @paveloo
 
 <br>
 
+##### Other [[GH](https://github.com/paveloom-o)] [[GL](https://gitlab.com/paveloom-g/other)]: {#other}
+
+- *`OrgAvatars`* [[GH](https://github.com/paveloom-o/OrgAvatars/)] [[GL](https://gitlab.com/paveloom-g/other/OrgAvatars)]: Organizations' avatars
+
+<br>
+
 ##### Packs [[GH](https://github.com/paveloom-p)]: {#packs}
 - *`P1`* [[GH](https://github.com/paveloom-p/P1)]: Programs from the computational workshop (Prokopyeva M. S.), 4th semester `#fortran` `#exercises` `#numerical-methods-implementation`
 - *`P2`* [[GH](https://github.com/paveloom-p/P2)]: Programs from Igor Yakovlev's programming course, 4th semester `#fortran` `#openmp` `#mpi`
@@ -57,10 +63,10 @@ description = "This page contains a list of Git repositories created by @paveloo
 
 <br>
 
-##### Paveloom [[GH](https://github.com/Paveloom)]: {#paveloom}
+##### Personal [[GH](https://github.com/Paveloom)] [[GL](https://gitlab.com/paveloom-g/personal)]: {#paveloom}
 - *`old_wiki`* [[GH](https://github.com/Paveloom/old_wiki)]: An old version of Pensieve, powered by Franklin `#julia` `#franklin`
 - *Paveloom* [[GH](https://github.com/Paveloom/Paveloom)]: A *special* repository to manage my GitHub profile's landing page `#github-readme`
-- *paveloom.github.io* [[GH](https://github.com/Paveloom/paveloom.github.io)]: Personal website `#zola` `#tera` `#sass`
+- *Site* [[GH](https://github.com/Paveloom/paveloom.github.io)] [[GL](https://gitlab.com/paveloom-g/personal/site)]: Personal website `#zola` `#tera` `#sass`
 - *`OpenSearchDescriptionFiles`* [[GH](https://github.com/Paveloom/OpenSearchDescriptionFiles)]: Custom OpenSearch description files  `#search-engine` `#opensearch`
 
 <br>
