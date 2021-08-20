@@ -13,5 +13,5 @@
 - Email: [paveloom@tuta.io](mailto:paveloom@tuta.io)
 
 **Mirrors**:
-- [GitHub Pages](https://paveloom.github.io/)
+- [GitHub Pages](https://paveloom.github.io/) / [GitLab Pages](https://paveloom-g.gitlab.io/personal/site/)
 - [Fleek](https://paveloom.on.fleek.co/) (IPFS) ([HNS](http://home.paveloom/), [?](https://learn.namebase.io/starting-from-zero/how-to-access-handshake-sites))
