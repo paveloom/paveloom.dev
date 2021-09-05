@@ -78,3 +78,8 @@ description = "This page contains a list of Git repositories created by @paveloo
 - *PaveloomRegistry* [[GH](https://github.com/paveloom-j/PaveloomRegistry)]: A personal Julia packages registry `#julia` `#julia-registry`
 - *PDFHighlights.jl* [[GH](https://github.com/paveloom-j/PDFHighlights.jl)]: Export highlights from PDF files to a CSV file with one call `#pdf` `#csv` `#julia` `#poppler`
 - *`Scats.jl`* [[GH](https://github.com/paveloom-j/Scats.jl)]: Spectral correlation analysis of time series (not supposed to be used) `#time-series` `#julia` `#periodogram` `#time-series-analysis` `#correlogram`
+
+<br>
+
+##### University [[GL](https://gitlab.com/paveloom-g/university)]: {#university}
+- *Astrophysical Workshop Summer 2021* [[GL](https://gitlab.com/paveloom-g/university/astrophysical-workshop-summer-2021)]: Materials developed during the laboratory work at the astrophysical workshop `#astronomy` `#astrophysics` `#tectonic` `#xetex` `#julia`
