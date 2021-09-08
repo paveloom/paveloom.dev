@@ -4,7 +4,7 @@ description = "How would one install Spotify without ads on Fedora 34?"
 +++
 
 # {{ title() }} {#}
-#### Updated: 17-Aug-2021 {#}
+#### Updated: 8-Sep-2021 {#}
 
 
 First off, add [this](https://negativo17.org/repos/fedora-spotify.repo) DNF repository to the repository list of the system's package manager:
@@ -34,7 +34,7 @@ make
 sudo make install
 ```
 
-Note that it needs Make and a Rust toolchain. 
+Note that it needs Make and a Rust toolchain.
 
 The shared library object will be installed in `/usr/local/lib/spotify-adblock.so`. To use it, edit the client's wrapper script:
 
@@ -53,9 +53,14 @@ export LD_PRELOAD=/usr/local/lib/spotify-adblock.so
 # <...>
 ```
 
-The last thing to do is to remove ads placeholders and some other annoyances (like the Upgrade button) from the client. 
+The last thing to do is to remove ads placeholders and some other annoyances (like the Upgrade button) from the client.
 
-Install [`spicetify-cli`](https://github.com/khanhas/spicetify-cli) by grabbing [an archive of a release](https://github.com/khanhas/spicetify-cli/releases). Unpack it and add the binary's directory to your `PATH`.
+Install [`spicetify-cli`](https://github.com/khanhas/spicetify-cli) by grabbing [an archive of a release](https://github.com/khanhas/spicetify-cli/releases). Unpack it and add the binary's directory to your `PATH`. Add permissions to change the Spotify files:
+
+```bash
+sudo chmod a+wr /usr/lib64/spotify-client
+sudo chmod a+wr /usr/lib64/spotify-client/Apps -R
+```
 
 [Here](https://github.com/Daksh777/SpotifyNoPremium)'s a theme we can use, thanks to [@Daksh777](https://github.com/Daksh777). Checkout the repository, copy the `color.ini` and `user.css` files to a directory inside `~/.config/spicetify/Themes`. The name of the directory defines the name of the theme.
 
@@ -84,4 +89,4 @@ spicetify backup
 spicetify apply
 ```
 
-That's it, enjoy.
+In case there is an update of the app, you will need to re-edit the wrapper script and re-apply the theme. That's it, enjoy.
