@@ -83,4 +83,4 @@ description = "This page contains a list of Git repositories created by @paveloo
 
 ##### University [[GL](https://gitlab.com/paveloom-g/university)]: {#university}
 - *Astrophysical Workshop Summer 2021* [[GL](https://gitlab.com/paveloom-g/university/astrophysical-workshop-summer-2021)]: Materials developed during the laboratory work at the astrophysical workshop `#astronomy` `#astrophysics` `#tectonic` `#xetex` `#julia`
-- *Stellar Astronomy Special Workshop Autumn 2021* [[GL](https://gitlab.com/paveloom-g/university/stellar-astronomy-special-workshop-autumn-2021)]: Decomposition of a bimodal distribution function into two normal components by the maximum likelihood estimation method `#astronomy` `#stellar` `#tectonic` `#xetex` `#julia`
+- *Stellar Astronomy Special Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/stellar-astronomy-special-workshop-s09-2021)]: Decomposition of a bimodal distribution function into two normal components by the maximum likelihood estimation method `#astronomy` `#stellar` `#tectonic` `#xetex` `#julia`
