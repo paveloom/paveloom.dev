@@ -7,7 +7,7 @@
 
 **Quick links**:
 - [YouTube](https://youtube.com/Paveloom) / [LBRY](https://odysee.com/@paveloom:e)
-- [GitHub](https://github.com/Paveloom)
+- [GitHub](https://github.com/Paveloom) / [GitLab](https://gitlab.com/paveloom)
 
 **Contacts**:
 - Email: [paveloom@tuta.io](mailto:paveloom@tuta.io)
