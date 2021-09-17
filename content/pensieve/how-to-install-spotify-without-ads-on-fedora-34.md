@@ -4,7 +4,7 @@ description = "How would one install Spotify without ads on Fedora 34?"
 +++
 
 # {{ title() }} {#}
-#### Updated: 8-Sep-2021 {#}
+#### Updated: 17-Sep-2021 {#}
 
 
 First off, add [this](https://negativo17.org/repos/fedora-spotify.repo) DNF repository to the repository list of the system's package manager:
@@ -89,4 +89,4 @@ spicetify backup
 spicetify apply
 ```
 
-In case there is an update of the app, you will need to re-edit the wrapper script and re-apply the theme. That's it, enjoy.
+In case there is an update of the app, you will need to re-edit the wrapper script, re-add permissions, and re-apply the theme. That's it, enjoy.
