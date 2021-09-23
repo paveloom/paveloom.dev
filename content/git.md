@@ -83,4 +83,8 @@ description = "This page contains a list of Git repositories created by @paveloo
 
 ##### University [[GL](https://gitlab.com/paveloom-g/university)]: {#university}
 - *Astrophysical Workshop Summer 2021* [[GL](https://gitlab.com/paveloom-g/university/astrophysical-workshop-summer-2021)]: Materials developed during the laboratory work at the astrophysical workshop `#astronomy` `#astrophysics` `#tectonic` `#xetex` `#julia`
-- *Stellar Astronomy Special Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/stellar-astronomy-special-workshop-s09-2021)]: Decomposition of a bimodal distribution function into two normal components by the maximum likelihood estimation method `#astronomy` `#stellar` `#tectonic` `#xetex` `#julia`
+- *9th Semester* [[GL](https://gitlab.com/paveloom-g/university/s09-2021)]:
+  - *Computational Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/computational-workshop)]: Solving integral equations of the first kind `#numerical-methods` `#integration` `#julia`
+  - *Computer Methods of Celestial Mechanics S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/computer-methods-of-celestial-mechanics)]: Presentations on some of the computer methods considered in the course `#celestial-mechanics` `#numerical-methods` `#ode-solver` `#julia`
+  - *Stellar Astronomy Laboratory Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/stellar-astronomy-laboratory-workshop)]: Calculation of orbits of globular clusters in several models of the Galaxy potential `#astronomy` `#stellar` `#rust`
+  - *Stellar Astronomy Special Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/stellar-astronomy-special-workshop)]: Decomposition of a bimodal distribution function into two normal components by the maximum likelihood estimation method `#astronomy` `#stellar` `#tectonic` `#xetex` `#julia`
