@@ -7,13 +7,13 @@
 
 **Quick links**:
 - [YouTube](https://youtube.com/Paveloom) / [LBRY](https://odysee.com/@paveloom:e)
-- [GitHub](https://github.com/Paveloom) / [GitLab](https://gitlab.com/paveloom)
+- [GitHub](https://github.com/Paveloom) / [GitLab](https://gitlab.com/paveloom) / [SourceHut](https://git.sr.ht/~paveloom/)
 
 **Contacts**:
-- Email: [paveloom@tuta.io](mailto:paveloom@tuta.io)
+- Email: [paveloom@riseup.net](mailto:paveloom@riseup.net) [[PGP](paveloom.asc)]
 
 **Mirrors**:
-- [GitHub Pages](https://paveloom.github.io/) / [GitLab Pages](https://paveloom-g.gitlab.io/personal/site/)
+- [GitHub Pages](https://paveloom.github.io/) / [GitLab Pages](https://paveloom-g.gitlab.io/personal/site/) / [SourceHut Pages](https://paveloom.srht.site)
 - [Fleek](https://paveloom.on.fleek.co/) (IPFS) ([HNS](http://home.paveloom/), [?](https://learn.namebase.io/starting-from-zero/how-to-access-handshake-sites))
 
 *This is a [Trade-Free](https://www.trade-free.org/) website.*
