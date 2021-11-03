@@ -1,6 +1,6 @@
 # Description
 
-Code of my website. Powered by [Zola](https://www.getzola.org). Developed on [GitLab](https://gitlab.com/paveloom-g/personal/site).
+Code of my website. Powered by [Zola](https://www.getzola.org).
 
 ## Build
 
