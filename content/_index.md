@@ -7,7 +7,7 @@
 
 **Quick links**:
 - [YouTube](https://youtube.com/Paveloom) / [LBRY](https://odysee.com/@paveloom:e)
-- [GitHub](https://github.com/Paveloom) / [GitLab](https://gitlab.com/paveloom) / [SourceHut](https://git.sr.ht/~paveloom/)
+- [GitHub](https://github.com/Paveloom) / [GitLab](https://gitlab.com/paveloom) / [SourceHut](https://sr.ht/~paveloom/)
 
 **Contacts**:
 - Email: [paveloom@riseup.net](mailto:paveloom@riseup.net) [[PGP](pgp.txt)]
