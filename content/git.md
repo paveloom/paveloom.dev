@@ -66,7 +66,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 ##### Personal [[GH](https://github.com/Paveloom)] [[GL](https://gitlab.com/paveloom-g/personal)]: {#paveloom}
 - *`old_wiki`* [[GH](https://github.com/Paveloom/old_wiki)]: An old version of Pensieve, powered by Franklin `#julia` `#franklin`
 - *Paveloom* [[GH](https://github.com/Paveloom/Paveloom)]: A *special* repository to manage my GitHub profile's landing page `#github-readme`
-- *Site* [[GH](https://github.com/Paveloom/paveloom.github.io)] [[GL](https://gitlab.com/paveloom-g/personal/site)]: Personal website `#zola` `#tera` `#sass`
+- *Site* [[GH](https://github.com/Paveloom/paveloom.github.io)] [[GL](https://gitlab.com/paveloom-g/personal/site)] [[SH](https://sr.ht/~paveloom/paveloom.shrt.site/)]: Personal website `#zola` `#tera` `#sass`
 - *`OpenSearchDescriptionFiles`* [[GH](https://github.com/Paveloom/OpenSearchDescriptionFiles)]: Custom OpenSearch description files  `#search-engine` `#opensearch`
 
 <br>
