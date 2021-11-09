@@ -46,7 +46,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 
 ##### Other [[GH](https://github.com/paveloom-o)] [[GL](https://gitlab.com/paveloom-g/other)]: {#other}
 
-- *`OrgAvatars`* [[GH](https://github.com/paveloom-o/OrgAvatars/)] [[GL](https://gitlab.com/paveloom-g/other/OrgAvatars)]: Organizations' avatars
+- *`OrgAvatars`* [[GH](https://github.com/paveloom-o/OrgAvatars)] [[GL](https://gitlab.com/paveloom-g/other/OrgAvatars)]: Organizations' avatars
 
 <br>
 
@@ -66,7 +66,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 ##### Personal [[GH](https://github.com/Paveloom)] [[GL](https://gitlab.com/paveloom-g/personal)]: {#paveloom}
 - *`old_wiki`* [[GH](https://github.com/Paveloom/old_wiki)]: An old version of Pensieve, powered by Franklin `#julia` `#franklin`
 - *Paveloom* [[GH](https://github.com/Paveloom/Paveloom)]: A *special* repository to manage my GitHub profile's landing page `#github-readme`
-- *Site* [[GH](https://github.com/Paveloom/paveloom.github.io)] [[GL](https://gitlab.com/paveloom-g/personal/site)] [[SH](https://sr.ht/~paveloom/paveloom.shrt.site/)]: Personal website `#zola` `#tera` `#sass`
+- *Site* [[GH](https://github.com/Paveloom/paveloom.github.io)] [[GL](https://gitlab.com/paveloom-g/personal/site)] [[SH](https://sr.ht/~paveloom/paveloom.shrt.site)]: Personal website `#zola` `#tera` `#sass`
 - *`OpenSearchDescriptionFiles`* [[GH](https://github.com/Paveloom/OpenSearchDescriptionFiles)]: Custom OpenSearch description files  `#search-engine` `#opensearch`
 
 <br>
@@ -86,5 +86,5 @@ description = "This page contains a list of Git repositories created by @paveloo
 - *9th Semester* [[GL](https://gitlab.com/paveloom-g/university/s09-2021)]:
   - *Computational Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/computational-workshop)]: Solving integral equations of the first kind `#numerical-methods` `#integration` `#julia`
   - *Computer Methods of Celestial Mechanics S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/computer-methods-of-celestial-mechanics)]: Presentations on some of the computer methods considered in the course `#celestial-mechanics` `#numerical-methods` `#ode-solver` `#julia`
-  - *Stellar Astronomy Laboratory Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/stellar-astronomy-laboratory-workshop)]: Calculation of orbits of globular clusters in several models of the Galaxy potential `#astronomy` `#stellar` `#rust`
+  - *Stellar Astronomy Laboratory Workshop S09-2021* [[GH](https://github.com/paveloom-university/Stellar-Astronomy-Laboratory-Workshop-S09-2021)] [[GL](https://gitlab.com/paveloom-g/university/s09-2021/stellar-astronomy-laboratory-workshop)] [[SH](https://sr.ht/~paveloom/Stellar-Astronomy-Laboratory-Workshop-S09-2021)]: Calculation of orbits of globular clusters in several models of the Galaxy potential `#astronomy` `#integration` `#rust`
   - *Stellar Astronomy Special Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/stellar-astronomy-special-workshop)]: Decomposition of a bimodal distribution function into two normal components by the maximum likelihood estimation method `#astronomy` `#stellar` `#tectonic` `#xetex` `#julia`
