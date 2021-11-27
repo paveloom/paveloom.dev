@@ -44,7 +44,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 
 <br>
 
-##### Other [[GH](https://github.com/paveloom-o)] [[GL](https://gitlab.com/paveloom-g/other)]: {#other}
+##### Other [[C](https://codeberg.org/paveloom-o)] [[GH](https://github.com/paveloom-o)] [[GL](https://gitlab.com/paveloom-g/other)]: {#other}
 
 - *`OrgAvatars`* [[GH](https://github.com/paveloom-o/OrgAvatars)] [[GL](https://gitlab.com/paveloom-g/other/OrgAvatars)]: Organizations' avatars
 - *`A-LaTeX-PGF-TikZ-Animation`* [[C](https://codeberg.org/paveloom-o/A-LaTeX-PGF-TikZ-Animation)] [[GH](https://github.com/paveloom-o/A-LaTeX-PGF-TikZ-Animation)] [[GL](https://gitlab.com/paveloom-g/other/a-latex-pgf-tikz-animation)] [[SH](https://sr.ht/~paveloom/A-LaTeX-PGF-TikZ-Animation)]: Instructions for how to convert a PGF/TikZ picture with variable data in an animation
@@ -64,7 +64,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 
 <br>
 
-##### Personal [[GH](https://github.com/Paveloom)] [[GL](https://gitlab.com/paveloom-g/personal)]: {#paveloom}
+##### Personal [[C](https://codeberg.org/Paveloom)] [[GH](https://github.com/Paveloom)] [[GL](https://gitlab.com/paveloom-g/personal)] [[SH](https://sr.ht/~paveloom/)]: {#paveloom}
 - *`old_wiki`* [[GH](https://github.com/Paveloom/old_wiki)]: An old version of Pensieve, powered by Franklin `#julia` `#franklin`
 - *Paveloom* [[GH](https://github.com/Paveloom/Paveloom)]: A *special* repository to manage my GitHub profile's landing page `#github-readme`
 - *Site* [[C](https://codeberg.org/paveloom/pages)] [[GH](https://github.com/Paveloom/paveloom.github.io)] [[GL](https://gitlab.com/paveloom-g/personal/site)] [[SH](https://sr.ht/~paveloom/paveloom.shrt.site)]: Personal website `#zola` `#tera` `#sass`
@@ -82,7 +82,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 
 <br>
 
-##### University [[GL](https://gitlab.com/paveloom-g/university)]: {#university}
+##### University [[C](https://codeberg.org/paveloom-university)] [[GH](https://github.com/paveloom-university)] [[GL](https://gitlab.com/paveloom-g/university)]: {#university}
 - *Astrophysical Workshop Summer 2021* [[GL](https://gitlab.com/paveloom-g/university/astrophysical-workshop-summer-2021)]: Materials developed during the laboratory work at the astrophysical workshop `#astronomy` `#astrophysics` `#tectonic` `#xetex` `#julia`
 - *9th Semester* [[GL](https://gitlab.com/paveloom-g/university/s09-2021)]:
   - *Computational Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/computational-workshop)]: Solving integral equations of the first kind `#numerical-methods` `#integration` `#julia`
