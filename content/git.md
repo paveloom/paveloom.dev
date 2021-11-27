@@ -47,6 +47,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 ##### Other [[GH](https://github.com/paveloom-o)] [[GL](https://gitlab.com/paveloom-g/other)]: {#other}
 
 - *`OrgAvatars`* [[GH](https://github.com/paveloom-o/OrgAvatars)] [[GL](https://gitlab.com/paveloom-g/other/OrgAvatars)]: Organizations' avatars
+- *`A-LaTeX-PGF-TikZ-Animation`* [[C](https://codeberg.org/paveloom-o/A-LaTeX-PGF-TikZ-Animation)] [[GH](https://github.com/paveloom-o/A-LaTeX-PGF-TikZ-Animation)] [[GL](https://gitlab.com/paveloom-g/other/a-latex-pgf-tikz-animation)] [[SH](https://sr.ht/~paveloom/A-LaTeX-PGF-TikZ-Animation)]: Instructions for how to convert a PGF/TikZ picture with variable data in an animation
 
 <br>
 
