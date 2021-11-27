@@ -6,7 +6,7 @@ description = "How would one install Spotify without ads on Fedora 35?"
 # {{ title() }} {#}
 #### Updated: 27-Nov-2021 {#}
 
-## Spotify as a native package
+## [Spotify as a native package](#native) {#native}
 
 First off, add [this](https://negativo17.org/repos/fedora-spotify.repo) DNF repository to the repository list of the system's package manager:
 
@@ -92,7 +92,7 @@ spicetify apply
 
 In case there is an update of the app, you will need to re-edit the wrapper script, re-add permissions, and re-apply the theme. That's it, enjoy!
 
-## Spotify as a Flatpak
+## [Spotify as a Flatpak](#flatpak) {#flatpak}
 
 Install the flatpak package from [Flathub](https://flathub.org/apps/details/com.spotify.Client), launch it and login into your account. This will create session files we will need later. After that, close the application.
 

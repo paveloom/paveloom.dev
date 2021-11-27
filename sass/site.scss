@@ -156,6 +156,16 @@ h1 {
   margin-block-start: calc(0.67em - 7px);
 }
 
+h2 > a {
+  &:hover {
+    text-decoration: none;
+  }
+  &:visited {
+    @include colorText;
+  }
+  @include colorText;
+}
+
 h4 {
   @include colorHeader;
 }
