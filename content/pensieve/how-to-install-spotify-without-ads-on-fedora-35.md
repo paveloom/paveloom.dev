@@ -68,20 +68,20 @@ sudo chmod a+wr /usr/lib64/spotify-client/Apps -R
 Configure Spicetify to use that theme:
 
 ```bash
-spicetify config current_theme $THEME_NAME
+spicetify config current_theme ${THEME_NAME}
 ```
 
 Now, before applying it, set the Spotify client's location in the Spicetify's config. Go to `~/.config/spicetify/config-xpui.ini` and edit the following lines:
 
 ```ini
 # <...>
-prefs_path = $HOME/.config/spotify/prefs
+prefs_path = ${HOME}/.config/spotify/prefs
 # <...>
 spotify_path = /usr/lib64/spotify-client
 # <...>
 ```
 
-Note that you will need to expand the `$HOME` variable.
+Note that you will need to expand the `${HOME}` variable in this file.
 
 Now backup the installation and apply the theme:
 
@@ -100,7 +100,7 @@ Grab the shared library `spotify-adblock.so` from the [latest release](https://g
 
 Also, grab the configuration file [`config.toml`](https://github.com/abba23/spotify-adblock/blob/main/config.toml) from the latest commit and put it in `~/.config/spotify-adblock`.
 
-Give Spotify a permission to read these directories:
+Give Spotify permissions to read these directories:
 
 ```bash
 flatpak override --user \
@@ -109,17 +109,33 @@ flatpak override --user \
         com.spotify.Client
 ```
 
+Note that you can do this using [Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal).
+
 You should now be able to run Spotify without ads by executing
 
 ```bash
 flatpak run --command=sh com.spotify.Client \
--c 'eval "$(sed s#LD_PRELOAD=#LD_PRELOAD=$HOME/.spotify-adblock/spotify-adblock.so:#g /app/bin/spotify)"'
+-c 'eval "$(sed s#LD_PRELOAD=#LD_PRELOAD=${HOME}/.spotify-adblock/spotify-adblock.so:#g /app/bin/spotify)"'
 ```
 
-This hook is needed since Flatpaks tend to update their files. For your convenience, you can override the desktop file provided by Spotify, so that this hook executes each time you launch the application. For this, copy the `/var/lib/flatpak/app/com.spotify.Client/current/active/export/share/applications/com.spotify.Client.desktop` to the `/home/paveloom/.local/share/applications` directory. Edit this copy by changing the `Exec` statement to the following line:
+This hook is needed since Flatpaks tend to update their files. For your convenience, you can override the desktop file provided by Spotify, so that this hook executes each time you launch the application.
+
+Before we do this, let's define a temporary variable for the path of the Spotify Flatpak:
+
+```bash
+SPOTIFY_PATH=/var/lib/flatpak/app/com.spotify.Client/current/active/
+```
+
+Let's copy the desktop file:
+
+```bash
+cp ${SPOTIFY_PATH}/export/share/applications/com.spotify.Client.desktop ~/.local/share/applications
+```
+
+Edit this copy by changing the `Exec` statement to the following line:
 
 ```ini
-Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=sh --file-forwarding com.spotify.Client -c 'eval "$(sed s#LD_PRELOAD=#LD_PRELOAD=$HOME/.spotify-adblock/spotify-adblock.so:#g /app/bin/spotify)"' @@u %U @@
+Exec=/usr/bin/flatpak run --branch=stable --command=sh --file-forwarding com.spotify.Client -c 'eval "$(sed s#LD_PRELOAD=#LD_PRELOAD=${HOME}/.spotify-adblock/spotify-adblock.so:#g /app/bin/spotify)"' @@u %U @@
 ```
 
 That's all with ads, but we still need to remove placeholders from the application.
@@ -127,8 +143,8 @@ That's all with ads, but we still need to remove placeholders from the applicati
 Install [`spicetify-cli`](https://github.com/khanhas/spicetify-cli) by grabbing [an archive of a release](https://github.com/khanhas/spicetify-cli/releases). Unpack it and add the binary's directory to your `PATH`. Add permissions to change the Spotify files:
 
 ```bash
-sudo chmod a+wr /var/lib/flatpak/app/com.spotify.Client/current/active/files/extra/share/spotify
-sudo chmod a+wr /var/lib/flatpak/app/com.spotify.Client/current/active/files/extra/share/spotify/Apps -R
+sudo chmod a+wr ${SPOTIFY_PATH}/files/extra/share/spotify
+sudo chmod a+wr ${SPOTIFY_PATH}/files/extra/share/spotify/Apps -R
 ```
 
 [Here](https://github.com/Daksh777/SpotifyNoPremium)'s a theme we can use, thanks to [@Daksh777](https://github.com/Daksh777). Checkout the repository, copy the `color.ini` and `user.css` files to a directory inside `~/.config/spicetify/Themes`. The name of the directory defines the name of the theme.
@@ -136,20 +152,20 @@ sudo chmod a+wr /var/lib/flatpak/app/com.spotify.Client/current/active/files/ext
 Configure Spicetify to use that theme:
 
 ```bash
-spicetify config current_theme $THEME_NAME
+spicetify config current_theme ${THEME_NAME}
 ```
 
 Now, before applying it, set the Spotify client's location in the Spicetify's config. Go to `~/.config/spicetify/config-xpui.ini` and edit the following lines:
 
 ```ini
 # <...>
-prefs_path = $HOME/.config/spotify/prefs
+prefs_path = ${HOME}/.config/spotify/prefs
 # <...>
-spotify_path = /var/lib/flatpak/app/com.spotify.Client/current/active/files/extra/share/spotify
+spotify_path = ${SPOTIFY_PATH}/files/extra/share/spotify
 # <...>
 ```
 
-Note that you will need to expand the `$HOME` variable.
+Note that you will need to expand the `${HOME}` and `${SPOTIFY_PATH}` variables in this file.
 
 Now backup the installation and apply the theme:
 
