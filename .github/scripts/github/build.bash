@@ -6,7 +6,7 @@
 apt-get update >/dev/null 2>&1 && apt-get install -y curl >/dev/null 2>&1
 
 # Get Zola
-curl -L https://github.com/getzola/zola/releases/download/v0.15.1/zola-v0.15.1-x86_64-unknown-linux-gnu.tar.gz >zola.tar.gz 2>/dev/null
+curl -L https://github.com/getzola/zola/releases/download/v0.15.2/zola-v0.15.2-x86_64-unknown-linux-gnu.tar.gz >zola.tar.gz 2>/dev/null
 tar -xf zola.tar.gz && rm zola.tar.gz
 
 # Build the site
