@@ -1,20 +1,25 @@
 +++
 title = "Git"
-description = "This page contains a list of Git repositories created by @paveloom."
+description = "This page contains a list of public Git repositories created by @paveloom."
 +++
 
 # {{ title() }}
-#### A list of Git repositories created by @paveloom. {#}
+#### A list of public Git repositories created by @paveloom. {#}
 
 ##### Apps [[GH](https://github.com/paveloom-a)]: {#apps}
+- *`Eiri`* [[GH](https://github.com/paveloom-a/Eiri)]
+- *fltk-rs-playground* [[GH](https://github.com/paveloom-a/fltk-rs-playground)]: A playground to test all things fltk-rs `#fltk-rs`
 - *`hello-world`* [[GH](https://github.com/paveloom-a/hello-world)]: A hello-world Tauri app `#hello-world` `#tauri`
-- *julialang-slack-history* [[GH](https://github.com/paveloom-a/julialang-slack-history)]: A read-only Slack clone for reading history from [julialang.slack.com](https://julialang.slack.com) `#julia` `#svelte` `#slack-clone`
+- *`julialang-slack-history`* [[GH](https://github.com/paveloom-a/julialang-slack-history)]: A read-only Slack clone for reading history from [julialang.slack.com](https://julialang.slack.com) `#julia` `#svelte` `#slack-clone`
+- *`Shuchu`* [[GH](https://github.com/paveloom-a/Shuchu)]
 
 <br>
 
 ##### Complex [[GH](https://github.com/paveloom-c)]: {#complex}
 - *`C1`* [[GH](https://github.com/paveloom-c/C1)]: A Fortran module for computing a correlogram and a periodogram of one-dimensional non-uniform time series `#time-series` `#fortran` `#astronomy`
+- *`C2`* [[GH](https://github.com/paveloom-c/C2)]: A comparison of covariance functions used to inference stellar rotation periods of stars `#astrophysics` `#gaussian-processes` `#stellar-rotation`
 - *`C3`* [[GH](https://github.com/paveloom-c/C3)]: A Fortran module for performing spectral correlation analysis of time series `#fortran` `#time-series-analysis`
+- *`C3.1`* [[GH](https://github.com/paveloom-c/C3.1)]: SCATS interface with a backend written in C++ and a frontend written in Python `#python` `#c-plus-plus` `#time-series-analysis`
 - *GPKernels* [[GH](https://github.com/paveloom-c/GPKernels)]: Study of the influence of selection of kernels for Gaussian processes on the modeling of light curves `#astronomy` `#gaussian-processes`
 - *`paveloom-c.github.io`* [[GH](https://github.com/paveloom-c/paveloom-c.github.io)]: A root repository for GitHub Pages
 
@@ -32,6 +37,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 
 ##### Forks [[GH](https://github.com/paveloom-f)]: {#forks}
 - *`codestats-box-python`* [[GH](https://github.com/paveloom-f/codestats-box-python)]: Update a pinned gist to contain your *Code::Stats* `#python` `#codestats`
+- *lbry-android* [[GH](https://github.com/paveloom-f/lbry-android)]: The LBRY Android app (now without a blacklist) `#lbry` `#lbry-android`
 - *lbry-desktop* [[GH](https://github.com/paveloom-f/lbry-desktop)]: A browser and wallet for LBRY, the decentralized, user-controlled content marketplace (now without a blacklist) `#lbry` `#lbry-desktop`
 - *`scm-music-player`* [[GH](https://github.com/paveloom-f/scm-music-player)]: Seamless music for your website. HTML5 music player with continuous playback cross pages. `#music` `#player`
 - *`waka-box`* [[GH](https://github.com/paveloom-f/waka-box)]: Update a pinned gist to contain your weekly _WakaTime_ stats `#javascript` `#wakatime`
@@ -45,9 +51,9 @@ description = "This page contains a list of Git repositories created by @paveloo
 <br>
 
 ##### Other [[C](https://codeberg.org/paveloom-o)] [[GH](https://github.com/paveloom-o)] [[GL](https://gitlab.com/paveloom-g/other)]: {#other}
-
 - *`OrgAvatars`* [[GH](https://github.com/paveloom-o/OrgAvatars)] [[GL](https://gitlab.com/paveloom-g/other/OrgAvatars)]: Organizations' avatars
-- *`A-LaTeX-PGF-TikZ-Animation`* [[C](https://codeberg.org/paveloom-o/A-LaTeX-PGF-TikZ-Animation)] [[GH](https://github.com/paveloom-o/A-LaTeX-PGF-TikZ-Animation)] [[GL](https://gitlab.com/paveloom-g/other/a-latex-pgf-tikz-animation)] [[SH](https://sr.ht/~paveloom/A-LaTeX-PGF-TikZ-Animation)]: Instructions for how to convert a PGF/TikZ picture with variable data in an animation
+- *IDs* [[GH](https://github.com/paveloom-o/IDs)]: IDs for identification (psychological process)
+- *A LaTeX-PGF-TikZ Animation* [[C](https://codeberg.org/paveloom-o/A-LaTeX-PGF-TikZ-Animation)] [[GH](https://github.com/paveloom-o/A-LaTeX-PGF-TikZ-Animation)] [[GL](https://gitlab.com/paveloom-g/other/a-latex-pgf-tikz-animation)] [[SH](https://sr.ht/~paveloom/A-LaTeX-PGF-TikZ-Animation)]: Instructions for how to convert a PGF/TikZ picture with variable data in an animation
 
 <br>
 
@@ -65,10 +71,11 @@ description = "This page contains a list of Git repositories created by @paveloo
 <br>
 
 ##### Personal [[C](https://codeberg.org/Paveloom)] [[GH](https://github.com/Paveloom)] [[GL](https://gitlab.com/paveloom-g/personal)] [[SH](https://sr.ht/~paveloom/)]: {#paveloom}
+- *Exercism* [[GH](https://github.com/Paveloom/Exercism)]: Exercism exercises completed by @paveloom
 - *`old_wiki`* [[GH](https://github.com/Paveloom/old_wiki)]: An old version of Pensieve, powered by Franklin `#julia` `#franklin`
-- *Paveloom* [[GH](https://github.com/Paveloom/Paveloom)]: A *special* repository to manage my GitHub profile's landing page `#github-readme`
-- *Site* [[C](https://codeberg.org/paveloom/pages)] [[GH](https://github.com/Paveloom/paveloom.github.io)] [[GL](https://gitlab.com/paveloom-g/personal/site)] [[SH](https://sr.ht/~paveloom/paveloom.shrt.site)]: Personal website `#zola` `#tera` `#sass`
 - *`OpenSearchDescriptionFiles`* [[GH](https://github.com/Paveloom/OpenSearchDescriptionFiles)]: Custom OpenSearch description files  `#search-engine` `#opensearch`
+- *`Paveloom`* [[GH](https://github.com/Paveloom/Paveloom)]: A *special* repository to manage my GitHub profile's landing page `#github-readme`
+- *Site* [[C](https://codeberg.org/paveloom/pages)] [[GH](https://github.com/Paveloom/paveloom.github.io)] [[GL](https://gitlab.com/paveloom-g/personal/site)] [[SH](https://sr.ht/~paveloom/paveloom.shrt.site)]: Personal website `#zola` `#tera` `#sass`
 
 <br>
 
@@ -85,7 +92,7 @@ description = "This page contains a list of Git repositories created by @paveloo
 ##### University [[C](https://codeberg.org/paveloom-university)] [[GH](https://github.com/paveloom-university)] [[GL](https://gitlab.com/paveloom-g/university)]: {#university}
 - *Astrophysical Workshop Summer 2021* [[GL](https://gitlab.com/paveloom-g/university/astrophysical-workshop-summer-2021)]: Materials developed during the laboratory work at the astrophysical workshop `#astronomy` `#astrophysics` `#tectonic` `#xetex` `#julia`
 - *9th Semester* [[GL](https://gitlab.com/paveloom-g/university/s09-2021)]:
-  - *Computational Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/computational-workshop)]: Solving integral equations of the first kind `#numerical-methods` `#integration` `#julia`
+  - *Computational Workshop S09-2021* [[C](https://codeberg.org/paveloom-university/Computational-Workshop-S09-2021)] [[GH](https://github.com/paveloom-university/Computational-Workshop-S09-2021)] [[GL](https://gitlab.com/paveloom-g/university/s09-2021/computational-workshop)]: Solving integral equations of the first kind, parabolic and elliptical partial differential equations `#numerical-methods` `#integration` `#julia`
   - *Computer Methods of Celestial Mechanics S09-2021* [[C](https://codeberg.org/paveloom-university/Computer-Methods-of-Celestial-Mechanics-S09-2021)] [[GH](https://github.com/paveloom-university/Computer-Methods-of-Celestial-Mechanics-S09-2021)] [[GL](https://gitlab.com/paveloom-g/university/s09-2021/computer-methods-of-celestial-mechanics)] [[SH](https://sr.ht/~paveloom/Computer-Methods-of-Celestial-Mechanics-S09-2021)]: Presentations on some of the computer methods considered in the course `#celestial-mechanics` `#numerical-methods` `#ode-solver` `#julia`
   - *Stellar Astronomy Laboratory Workshop S09-2021* [[C](https://codeberg.org/paveloom-university/Stellar-Astronomy-Laboratory-Workshop-S09-2021)] [[GH](https://github.com/paveloom-university/Stellar-Astronomy-Laboratory-Workshop-S09-2021)] [[GL](https://gitlab.com/paveloom-g/university/s09-2021/stellar-astronomy-laboratory-workshop)] [[SH](https://sr.ht/~paveloom/Stellar-Astronomy-Laboratory-Workshop-S09-2021)]: Calculation of orbits of globular clusters in several models of the Galaxy potential `#astronomy` `#integration` `#rust` `#julia`
   - *Stellar Astronomy Special Workshop S09-2021* [[GL](https://gitlab.com/paveloom-g/university/s09-2021/stellar-astronomy-special-workshop)]: Decomposition of a bimodal distribution function into two normal components by the maximum likelihood estimation method `#astronomy` `#stellar` `#tectonic` `#xetex` `#julia`
