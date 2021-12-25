@@ -17,6 +17,8 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 
 ##### A {#}
 - Alien Resurrection
+- Avengers: Endgame
+- Avengers: Infinity War
 
 ##### B {#}
 - Back to the Future
@@ -25,7 +27,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Back to the Future Part III
 - Barnyard
 - Beetlejuice
-- Blade Runner (1982) (Hybrid version by Папа Джонсон)
+- Blade Runner (1982)
 - Bruce Almighty
 
 ##### C {#}
@@ -36,10 +38,12 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 - Die Nibelungen
   - Die Nibelungen: Siegfried (1924)
   - Die Nibelungen: Kriemhild's Revenge (1924)
+- Doctor Strange
 
 ##### G {#}
 - Ghostbusters (1984)
 - Girl, Interrupted
+- Guardians of the Galaxy
 
 ##### H {#}
 - Harry Potter
@@ -78,6 +82,8 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 - The Abyss
 - The Christmas Chronicles
 - The Fifth Element
+- The Lorax (1972)
+- Thor: Ragnarok
 - Twin Peaks: Fire Walk with Me
   - Complete Version (Fanedit by Папа Джонсон)
   - Teresa Banks and the Last Seven Days of Laura Palmer (Fanedit by Q2)
@@ -112,11 +118,10 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 - Serial Experiments Lain
 - Sherlock
   - Seasons 1-3
-- Star Trek: The Original Series
-  - Season 1
+- Star Trek
+  - Star Trek: The Original Series
 
 ##### T {#}
-- The Tatami Galaxy
 - Teenage Mutant Ninja Turtles (2003)
   - Seasons 1-3
 - The Legend of Korra
@@ -124,5 +129,6 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Seasons 1-2
 - The Simpsons
   - Seasons 1-2
+- The Tatami Galaxy
 - Twin Peaks
   - Seasons 1-2
