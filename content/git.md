@@ -57,19 +57,6 @@ description = "This page contains a list of public Git repositories created by @
 
 <br>
 
-##### Packs [[GH](https://github.com/paveloom-p)]: {#packs}
-- *`P1`* [[GH](https://github.com/paveloom-p/P1)]: Programs from the computational workshop (Prokopyeva M. S.), 4th semester `#fortran` `#exercises` `#numerical-methods-implementation`
-- *`P2`* [[GH](https://github.com/paveloom-p/P2)]: Programs from Igor Yakovlev's programming course, 4th semester `#fortran` `#openmp` `#mpi`
-- *`P3`* [[GH](https://github.com/paveloom-p/P3)]: Developments in Fortran programming (A. B. Shneivais) from the 1st to 3rd semesters `#fortran` `#exercises`
-- *`P5`* [[GH](https://github.com/paveloom-p/P5)]: Scripts and programs from astrometric practice (summer between the 4th and 5th semesters) `#observations`  `#astronomy` `#astrometry`
-- *`P6`* [[GH](https://github.com/paveloom-p/P6)]: Programs from the computational workshop (Prokopyeva M. S.), 5th semester `#fortran` `#exercises` `#numerical-methods-implementation`
-- *`P7`* [[GH](https://github.com/paveloom-p/P7)]: Scripts from the Python programming course, 5th semester `#python` `#game-of-life`
-- *`P8`* [[GH](https://github.com/paveloom-p/P8)]: Procedures and programs from the Astronomy Software course, 6th semester `#astronomy` `#midas`
-- *`P9`* [[GH](https://github.com/paveloom-p/P9)]: Programs from the Celestial Mechanics course, 6th semester `#fortran` `#astronomy`
-- *`P12`* [[GH](https://github.com/paveloom-p/P12)]: Programs from the computational workshop, 8th semester `#julia` `#exercises` `#numerical-methods-implementation`
-
-<br>
-
 ##### Personal [[C](https://codeberg.org/Paveloom)] [[GH](https://github.com/Paveloom)] [[GL](https://gitlab.com/paveloom-g/personal)] [[SH](https://sr.ht/~paveloom/)]: {#paveloom}
 - *Exercism* [[GH](https://github.com/Paveloom/Exercism)]: Exercism exercises completed by @paveloom
 - *`old_wiki`* [[GH](https://github.com/Paveloom/old_wiki)]: An old version of Pensieve, powered by Franklin `#julia` `#franklin`
@@ -90,8 +77,25 @@ description = "This page contains a list of public Git repositories created by @
 <br>
 
 ##### University [[C](https://codeberg.org/paveloom-university)] [[GH](https://github.com/paveloom-university)] [[GL](https://gitlab.com/paveloom-g/university)]: {#university}
+- *`Astrometric Workshop Summer 2019`* [[GH](https://github.com/paveloom-university/Astrometric-Workshop-Summer-2019)]: Scripts and programs from the astrometric workshop `#observations`  `#astronomy` `#astrometry`
 - *Astrophysical Workshop Summer 2021* [[GL](https://gitlab.com/paveloom-g/university/astrophysical-workshop-summer-2021)]: Materials developed during the laboratory work at the astrophysical workshop `#astronomy` `#astrophysics` `#tectonic` `#xetex` `#julia`
-- *9th Semester* [[GL](https://gitlab.com/paveloom-g/university/s09-2021)]:
+- *1st Semester (2017) --- 3rd Semester (2018)*
+  - *`Programming-Exercises-S01-2017-to-S03-2018`* [[GH](https://github.com/paveloom-university/Programming-Exercises-S01-2017-to-S03-2018)]: An archive of the first programming exercises `#fortran` `#exercises`
+- *4th Semester (2019)*
+  - *`Optics Laboratory Workshop S04-2019`* [[GH](https://github.com/paveloom-university/Optics-Laboratory-Workshop-S04-2019)]: Computational scripts for reports for the optics laboratory workshop `#laboratory-exercises` `#r`
+  - *`Programming Course S04-2019`* [[GH](https://github.com/paveloom-university/Programming-Course-S04-2019)]: Using Fortran interface to the GNU Scientific Library, parallelizing code with OpenMP and MPI `#fortran` `#openmp` `#mpi`
+  - *`Computational Workshop S04-2019`* [[GH](https://github.com/paveloom-university/Computational-Workshop-S04-2019)]: Matrices multiplication, Newton's / Lagrange's interpolation, Gauss's / Seidel's methods for solving a system of linear differential equations, numerical differentiation, spline interpolation, Fourier transform `#fortran` `#exercises` `#numerical-methods-implementation`
+- *5th Semester (2019)*
+  - *`Computational Workshop S05-2019 `* [[GH](https://github.com/paveloom-university/Computational-Workshop-S05-2019)]: Gauss's quadrature formula, computing integrals from functions with singularities, computing multiple integrals by the Monte Carlo method, solving ODE numerically, least-squares method, QR algorithm, Jacobi eigenvalue algorithm, solving boundary value problems `#fortran` `#exercises` `#numerical-methods-implementation`
+  - *`Python Programming Course S05-2019`* [[GH](https://github.com/paveloom-university/Python-Programming-Course-S05-2019)]: Scripts from the Python programming course `#python` `#game-of-life`
+- *6th Semester (2020)*
+  - *`Celestial Mechanics S06-2020`* [[GH](https://github.com/paveloom-university/Celestial-Mechanics-S06-2020)]: Calculating the ephemeris, determining the preliminary orbit `#fortran` `#astronomy`
+  - *`Astronomical Software Course S06-2020`* [[GH](https://github.com/paveloom-university/Astronomical-Software-Course-S06-2020)]: Procedures and programs from the Astronomical Software course `#astronomy` `#midas`
+- *7th Semester (2020)*
+  - *`Astronomical Observation Workshop S07-2020`* [[GH](https://github.com/paveloom-university/Astronomical-Observation-Workshop-S07-2020)] : Materials developed during the laboratory work at the astronomical observation workshop
+- *8th Semester (2021)*
+  - *`Computational Workshop S08-2021`* [[GH](https://github.com/paveloom-university/Computational-Workshop-S08-2021)]: Solving Cauchy problems and stiff systems of differential equations, finding eigenvalues in symmetric matrices `#julia` `#exercises` `#numerical-methods-implementation`
+- *9th Semester (2021)* [[GL](https://gitlab.com/paveloom-g/university/s09-2021)]:
   - *Celestial Mechanics Laboratory Workshop S09-2021* [[C](https://codeberg.org/paveloom-university/Celestial-Mechanics-Laboratory-Workshop-S09-2021)] [[GH](https://github.com/paveloom-university/Celestial-Mechanics-Laboratory-Workshop-S09-2021)] [[GL](https://gitlab.com/paveloom-g/university/s09-2021/celestial-mechanics-laboratory-workshop-s09-2021)]: Finding a figure-8 solution to a three-body problem with arbitrary precision `#celestial-mechanics` `#integration` `#julia`
   - *Computational Workshop S09-2021* [[C](https://codeberg.org/paveloom-university/Computational-Workshop-S09-2021)] [[GH](https://github.com/paveloom-university/Computational-Workshop-S09-2021)] [[GL](https://gitlab.com/paveloom-g/university/s09-2021/computational-workshop)]: Solving integral equations of the first kind, parabolic and elliptical partial differential equations `#numerical-methods` `#integration` `#julia`
   - *Computer Methods of Celestial Mechanics S09-2021* [[C](https://codeberg.org/paveloom-university/Computer-Methods-of-Celestial-Mechanics-S09-2021)] [[GH](https://github.com/paveloom-university/Computer-Methods-of-Celestial-Mechanics-S09-2021)] [[GL](https://gitlab.com/paveloom-g/university/s09-2021/computer-methods-of-celestial-mechanics)] [[SH](https://sr.ht/~paveloom/Computer-Methods-of-Celestial-Mechanics-S09-2021)]: Presentations on some of the computer methods considered in the course `#celestial-mechanics` `#numerical-methods` `#ode-solver` `#julia`
