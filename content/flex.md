@@ -17,8 +17,9 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 
 ##### A {#}
 - Alien Resurrection
-- Avengers: Endgame
-- Avengers: Infinity War
+- Avengers
+  - Avengers: Endgame
+  - Avengers: Infinity War
 
 ##### B {#}
 - Back to the Future
@@ -40,6 +41,9 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Die Nibelungen: Kriemhild's Revenge (1924)
 - Doctor Strange
 
+##### E {#}
+- Encanto
+
 ##### G {#}
 - Ghostbusters (1984)
 - Girl, Interrupted
@@ -56,8 +60,10 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Harry Potter and the Deathly Hallows — Part I
   - Harry Potter and the Deathly Hallows — Part II
 - How the Grinch Stole Christmas! (1966)
+- Hunt for the Wilderpeople
 
 ##### J {#}
+- Jojo Rabbit
 - Jumanji
   - Jumanji: Welcome to the Jungle
   - Jumanji: The Next Level
@@ -83,6 +89,10 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 - The Christmas Chronicles
 - The Fifth Element
 - The Lorax (1972)
+- The Lord of the Rings
+  - The Lord of the Rings: The Fellowship of the Ring
+  - The Lord of the Rings: The Return of the King
+  - The Lord of the Rings: The Two Towers
 - Thor: Ragnarok
 - Twin Peaks: Fire Walk with Me
   - Complete Version (Fanedit by Папа Джонсон)
