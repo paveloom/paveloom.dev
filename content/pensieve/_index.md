@@ -7,8 +7,9 @@ description = "This section contains algorithms that @paveloom can't quite memor
 #### Algorithms that @paveloom can't quite memorize. {#}
 
 **Software**:
-- Fedora 35
+- Linux
   - [How to install Spotify without ads on Fedora 35?](pensieve/how-to-install-spotify-without-ads-on-fedora-35)
+  - [How to create a Samba share?](pensieve/how-to-create-a-samba-share)
 
 **Development**:
 - Environment
