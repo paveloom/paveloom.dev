@@ -43,6 +43,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 
 ##### E {#}
 - Encanto
+- Evil Dead II
 
 ##### G {#}
 - Ghostbusters (1984)
