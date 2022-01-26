@@ -58,6 +58,7 @@ description = "This page contains a list of public Git repositories created by @
 <br>
 
 ##### Personal [[C](https://codeberg.org/Paveloom)] [[GH](https://github.com/Paveloom)] [[GL](https://gitlab.com/paveloom-g/personal)]: {#paveloom}
+- *dotfiles* [[C](https://codeberg.org/paveloom/dotfiles)] [[GH](https://github.com/Paveloom/dotfiles)] [[GL](https://gitlab.com/paveloom-g/personal/dotfiles)]: Files with dots!
 - *Exercism* [[GH](https://github.com/Paveloom/Exercism)]: Exercism exercises completed by @paveloom
 - *`old_wiki`* [[GH](https://github.com/Paveloom/old_wiki)]: An old version of Pensieve, powered by Franklin `#julia` `#franklin`
 - *`OpenSearchDescriptionFiles`* [[GH](https://github.com/Paveloom/OpenSearchDescriptionFiles)]: Custom OpenSearch description files  `#search-engine` `#opensearch`
