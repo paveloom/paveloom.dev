@@ -131,6 +131,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Seasons 1-3
 - Star Trek
   - Star Trek: The Original Series
+- Squid Game
 
 ##### T {#}
 - Teenage Mutant Ninja Turtles (2003)
