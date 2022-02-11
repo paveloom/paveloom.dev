@@ -4,10 +4,10 @@ description = "How would one transcode a video for LBRY before uploading?"
 +++
 
 # {{ title() }} {#}
-#### Updated: 21-Apr-2021 {#}
+#### Updated: 11-Feb-2022 {#}
 
 The built-in video transcoding function in the LBRY desktop application starts the
-FFMPEG utility process with the following parameters:
+FFmpeg utility process with the following parameters:
 
 ```go
 ffmpeg -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
@@ -19,9 +19,9 @@ ffmpeg -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
 
 The meanings of the passed parameters:
 
-- `-c:s copy` and `ffmpeg -c:d copy` tell FFMPEG to copy subtitles and data,
+- `-c:s copy` and `ffmpeg -c:d copy` tell FFmpeg to copy subtitles and data,
   respectively;
-- `-c:v libx264 -crf 24 -preset faster -pix_fmt yuv420p` tells FFMPEG to
+- `-c:v libx264 -crf 24 -preset faster -pix_fmt yuv420p` tells FFmpeg to
   transcode the video using the `H.264` codec with constant rate factor equal to 24, with
   the `faster` preset and using the YUV color space with the `4:2:0` scheme for chroma
   subsampling;
@@ -29,9 +29,9 @@ The meanings of the passed parameters:
   1920 pixels, and both values must be a multiple of two;
 - `-maxrate 5500K -bufsize 5000K` specifies the maximum bitrate to be 5500 Kb/s
   with a buffer equal to 5000 Kb/s;
-- `-movflags +faststart` tells FFMPEG to move the «moov atom» (the metadata)
+- `-movflags +faststart` tells FFmpeg to move the «moov atom» (the metadata)
   from the end of the file to its beginning to improve playback in browsers;
-- `-c:a aac -b:a 160k` tells FFMPEG to transcode the audio with bitrate equal to
+- `-c:a aac -b:a 160k` tells FFmpeg to transcode the audio with bitrate equal to
   160 kb/s.
 
 An alternative option for transcoding a horizontal video with increased bitrate, better
@@ -57,10 +57,10 @@ ffmpeg -i input.ext -ss 00:01:00 -to 00:02:00 -c copy sample.ext
 ```
 
 References:
-- [Guide for encoding video using FFMPEG](https://trac.ffmpeg.org/wiki/Encode/H.264)
-- [Guide for encoding audio using FFMPEG](https://trac.ffmpeg.org/wiki/Encode/AAC)
-- [Guide for scaling using FFMPEG](https://trac.ffmpeg.org/wiki/Scaling)
-- [Guide for limiting bitrate using FFMPEG](https://trac.ffmpeg.org/wiki/Limiting%20the%20output%20bitrate)
+- [Guide for encoding video using FFmpeg](https://trac.ffmpeg.org/wiki/Encode/H.264)
+- [Guide for encoding audio using FFmpeg](https://trac.ffmpeg.org/wiki/Encode/AAC)
+- [Guide for scaling using FFmpeg](https://trac.ffmpeg.org/wiki/Scaling)
+- [Guide for limiting bitrate using FFmpeg](https://trac.ffmpeg.org/wiki/Limiting%20the%20output%20bitrate)
 - [Options for MP4 containers](https://ffmpeg.org/ffmpeg-formats.html#Options-9)
 - [Article about rate control modes](https://slhck.info/articles/rate-control)
 - [Article about CRF](https://slhck.info/articles/crf)

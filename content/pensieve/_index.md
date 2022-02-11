@@ -24,5 +24,6 @@ description = "This section contains algorithms that @paveloom can't quite memor
 
 **Working with video**:
 - Re-encoding & Transcoding
-  - LBRY
+  - FFmpeg
+    - [FFmpeg notes](pensieve/ffmpeg-notes)
     - [Transcoding a video for LBRY before uploading](pensieve/transcoding-a-video-for-lbry-before-uploading)
