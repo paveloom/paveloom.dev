@@ -57,4 +57,4 @@ sudo systemctl enable smb
 sudo systemctl start smb
 ```
 
-You should now be able to connect to your Samba share by providing `smb://yourmachinename.local` where necessary and using your username and the newly created password. For example, on an iPhone, you can use the standard Files app to access files on your machine: tap the three dots and choose "Connect to Server".
+You should now be able to connect to your Samba share by providing the path `smb://<hostname>/<sharename>` where necessary and using your username and the newly created password. `<hostname>` is either a hostname (e.g., `yourmachinename.local`) or an IP address (e.g., the IP address of your current wireless interface) of the Samba server. The latter can be obtained by issuing `ifconfig` in a terminal. `<sharename>` is the name of a shared directory you'd like to browse.
