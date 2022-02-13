@@ -4,7 +4,7 @@ description = "How would one create a Samba share?"
 +++
 
 # {{ title() }} {#}
-#### Updated: 21-Jan-2022 {#}
+#### Updated: 13-Feb-2022 {#}
 
 Make sure you have [Samba](https://wiki.samba.org/index.php/Installing_Samba) installed.
 
@@ -57,4 +57,4 @@ sudo systemctl enable smb
 sudo systemctl start smb
 ```
 
-You should now be able to connect to your Samba share by providing `sfb://yourmachinename.local` where necessary and using your username and the newly created password. For example, on an iPhone, you can use the standard Files app to access files on your machine: tap the three dots and choose "Connect to Server".
+You should now be able to connect to your Samba share by providing `smb://yourmachinename.local` where necessary and using your username and the newly created password. For example, on an iPhone, you can use the standard Files app to access files on your machine: tap the three dots and choose "Connect to Server".
