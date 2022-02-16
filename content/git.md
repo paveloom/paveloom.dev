@@ -6,12 +6,13 @@ description = "This page contains a list of public Git repositories created by @
 # {{ title() }}
 #### A list of public Git repositories created by @paveloom. {#}
 
-##### Apps [[GH](https://github.com/paveloom-a)]: {#apps}
+##### Apps [[C](https://codeberg.org/paveloom-a)] [[GH](https://github.com/paveloom-a)] [[GL](https://gitlab.com/paveloom-g/apps)]: {#apps}
 - *`Eiri`* [[GH](https://github.com/paveloom-a/Eiri)]
 - *fltk-rs-playground* [[GH](https://github.com/paveloom-a/fltk-rs-playground)]: A playground to test all things fltk-rs `#fltk-rs`
 - *`hello-world`* [[GH](https://github.com/paveloom-a/hello-world)]: A hello-world Tauri app `#hello-world` `#tauri`
 - *`julialang-slack-history`* [[GH](https://github.com/paveloom-a/julialang-slack-history)]: A read-only Slack clone for reading history from [julialang.slack.com](https://julialang.slack.com) `#julia` `#svelte` `#slack-clone`
 - *`Shuchu`* [[GH](https://github.com/paveloom-a/Shuchu)]
+- *Tidings* [[C](https://codeberg.org/paveloom-a/Tidings)] [[GH](https://github.com/paveloom-a/Tidings/)] [[GL](https://gitlab.com/paveloom-g/apps/Tidings)]: Finally, an RSS reader without a built-in browser
 
 <br>
 
@@ -35,10 +36,10 @@ description = "This page contains a list of public Git repositories created by @
 
 <br>
 
-##### Forks [[GH](https://github.com/paveloom-f)]: {#forks}
+##### Forks [[C](https://codeberg.org/paveloom-f/)] [[GH](https://github.com/paveloom-f)] [[GL](https://gitlab.com/paveloom-g/forks)]: {#forks}
 - *`codestats-box-python`* [[GH](https://github.com/paveloom-f/codestats-box-python)]: Update a pinned gist to contain your *Code::Stats* `#python` `#codestats`
-- *lbry-android* [[GH](https://github.com/paveloom-f/lbry-android)]: The LBRY Android app (now without a blacklist) `#lbry` `#lbry-android`
-- *lbry-desktop* [[GH](https://github.com/paveloom-f/lbry-desktop)]: A browser and wallet for LBRY, the decentralized, user-controlled content marketplace (now without a blacklist) `#lbry` `#lbry-desktop`
+- *lbry-android* [[C](https://codeberg.org/paveloom-f/lbry-android)] [[GH](https://github.com/paveloom-f/lbry-android)] [[GL](https://gitlab.com/paveloom-g/forks/lbry-android)]: The LBRY Android app (now without a blacklist) `#lbry` `#lbry-android`
+- *lbry-desktop* [[C](https://codeberg.org/paveloom-f/lbry-desktop)] [[GH](https://github.com/paveloom-f/lbry-desktop)] [[GL](https://gitlab.com/paveloom-g/forks/lbry-desktop)]: A browser and wallet for LBRY, the decentralized, user-controlled content marketplace (now without a blacklist) `#lbry` `#lbry-desktop`
 - *`scm-music-player`* [[GH](https://github.com/paveloom-f/scm-music-player)]: Seamless music for your website. HTML5 music player with continuous playback cross pages. `#music` `#player`
 - *`waka-box`* [[GH](https://github.com/paveloom-f/waka-box)]: Update a pinned gist to contain your weekly _WakaTime_ stats `#javascript` `#wakatime`
 
