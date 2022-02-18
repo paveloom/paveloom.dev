@@ -84,6 +84,13 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 
 ##### S {#}
 - Spirited Away
+- Star Wars
+  - Star Wars: Episode I - The Phantom Menace
+  - Star Wars: Episode II - Attack of the Clones
+  - Star Wars: Episode III - Revenge of the Sith
+  - Star Wars: Episode IV - A New Hope
+  - Star Wars: Episode V - The Empire Strikes Back
+  - Star Wars: Episode VI - Return of the Jedi
 
 ##### T {#}
 - The Abyss
