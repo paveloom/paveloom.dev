@@ -107,6 +107,9 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Complete Version (Fanedit by Папа Джонсон)
   - Teresa Banks and the Last Seven Days of Laura Palmer (Fanedit by Q2)
 
+##### W {#}
+- Whisper of the Heart
+
 ##### Y {#}
 - Yes Man
 
