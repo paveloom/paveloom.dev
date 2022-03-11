@@ -11,6 +11,7 @@ description = "This section contains algorithms that @paveloom can't quite memor
   - [How to install Spotify without ads on Fedora 35?](pensieve/how-to-install-spotify-without-ads-on-fedora-35)
   - [How to create a Samba share?](pensieve/how-to-create-a-samba-share)
   - [How to create a custom locale on Fedora?](pensieve/how-to-create-a-custom-locale-on-fedora)
+  - [How to set up a firewall for services beyond WireGuard?](pensieve/how-to-set-up-a-firewall-for-services-beyond-wireguard)
 
 **Development**:
 - Environment
