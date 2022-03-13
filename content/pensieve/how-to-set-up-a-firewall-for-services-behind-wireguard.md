@@ -1,7 +1,7 @@
 +++
-title = "How to set up a firewall for services beyond WireGuard?"
+title = "How to set up a firewall for services behind WireGuard?"
 
-description = "How would one set up a firewall for services beyond WireGuard?"
+description = "How would one set up a firewall for services behind WireGuard?"
 +++
 
 # {{ title() }} {#}
