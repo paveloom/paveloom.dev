@@ -15,13 +15,13 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 
 ## Movies
 
-##### A {#}
+##### A {#movies#a}
 - Alien Resurrection
 - Avengers
   - Avengers: Endgame
   - Avengers: Infinity War
 
-##### B {#}
+##### B {#movies#b}
 - Back to the Future
   - Back to the Future
   - Back to the Future Part II
@@ -32,26 +32,26 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 - Boy (2010)
 - Bruce Almighty
 
-##### C {#}
+##### C {#movies#c}
 - Chungking Express
 
-##### D {#}
+##### D {#movies#d}
 - Dark City (1998)
 - Die Nibelungen
   - Die Nibelungen: Siegfried (1924)
   - Die Nibelungen: Kriemhild's Revenge (1924)
 - Doctor Strange
 
-##### E {#}
+##### E {#movies#e}
 - Encanto
 - Evil Dead II
 
-##### G {#}
+##### G {#movies#g}
 - Ghostbusters (1984)
 - Girl, Interrupted
 - Guardians of the Galaxy
 
-##### H {#}
+##### H {#movies#h}
 - Harry Potter
   - Harry Potter and the Philosopher's Stone
   - Harry Potter and the Chamber of Secrets
@@ -64,26 +64,26 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 - How the Grinch Stole Christmas! (1966)
 - Hunt for the Wilderpeople
 
-##### J {#}
+##### J {#movies#j}
 - Jojo Rabbit
 - Jumanji
   - Jumanji: Welcome to the Jungle
   - Jumanji: The Next Level
 
-##### M {#}
+##### M {#movies#m}
 - M (1931)
 - Metropolis (1927)
   - Giorgio Moroder's Edition
   - Restored Version (2010)
 - Moana
 
-##### P {#}
+##### P {#movies#p}
 - Predator
   - Predator (1987)
   - Predator 2
 - Princess Mononoke
 
-##### S {#}
+##### S {#movies#s}
 - Spirited Away
 - Star Wars
   - Star Wars: Episode I - The Phantom Menace
@@ -93,7 +93,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Star Wars: Episode V - The Empire Strikes Back
   - Star Wars: Episode VI - Return of the Jedi
 
-##### T {#}
+##### T {#movies#t}
 - The Abyss
 - The Christmas Chronicles
 - The Fifth Element
@@ -107,36 +107,39 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Complete Version (Fanedit by Папа Джонсон)
   - Teresa Banks and the Last Seven Days of Laura Palmer (Fanedit by Q2)
 
-##### W {#}
+##### W {#movies#w}
 - Whisper of the Heart
 
-##### Y {#}
+##### Y {#movies#y}
 - Yes Man
 
 ## Series
 
-##### A {#}
+##### A {#series#a}
 - Avatar: The Last Airbender
   - A [fan-made remaster](https://www.reddit.com/r/RemasteringATLA/comments/5hr9w2/atla_remastered_in_1080p)
 
-##### B {#}
+##### B {#series#b}
 - Big Time Rush
 
-##### F {#}
+##### F {#series#f}
 - Futurama
 
-##### H
+##### H {#series#h}
 - Hellsing Ultimate
   - Without *Hellsing: The Dawn*
 
-##### I {#}
+##### I {#series#i}
 - iCarly
 
-##### R {#}
+##### M {#series#m}
+- Murderville
+
+##### R {#series#r}
 - Rick and Morty
   - Seasons 4-5
 
-##### S {#}
+##### S {#series#s}
 - Serial Experiments Lain
 - Sherlock
   - Seasons 1-3
@@ -144,7 +147,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Star Trek: The Original Series
 - Squid Game
 
-##### T {#}
+##### T {#series#t}
 - Teenage Mutant Ninja Turtles (2003)
   - Seasons 1-3
 - The Legend of Korra
