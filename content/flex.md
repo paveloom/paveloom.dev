@@ -17,6 +17,10 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 
 ##### A {#movies#a}
 - Alien Resurrection
+- Austin Powers
+  - Austin Powers: International Man of Mystery
+  - Austin Powers: The Spy Who Shagged Me
+  - Austin Powers in Goldmember
 - Avengers
   - Avengers: Endgame
   - Avengers: Infinity War
