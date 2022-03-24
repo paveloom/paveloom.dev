@@ -4,7 +4,7 @@ description = "How would one host a VPN using WireGuard?"
 +++
 
 # {{ title() }} {#}
-#### Updated: 14-Mar-2022 {#}
+#### Updated: 24-Mar-2022 {#}
 
 First of all, you need a private server. Depending on your needs, you can host a VPN (Virtual Private Network) either locally or by renting a VPS (Virtual Private Server), either at home or abroad. The latter case is often used to avoid censoring at home. In case you go this route, you should also make sure you're choosing a *private* VPS provider. I can personally recommend [1984](https://www.1984hosting.com).
 
@@ -18,7 +18,7 @@ grep "nameserver" /etc/resolv.conf
 
 in a terminal (if you rent a server), checking your router settings (if you're hosting at home), or using other means.
 
-During the installation, WireGuard will ask you to create a client. You will be able to add or revoke clients later by rerunning the script. Give the client a name, then choose their IPs in the interface (defaults are fine). You will now have a QR code printed in the terminal and a configuration file created in the current working directory. Share these with a client so they can connect to the server. Here are instructions for a client:
+During the installation, the script will ask you to create a client. You will be able to add or revoke clients later by rerunning the script. Give the client a name, then choose their IPs in the interface (defaults are fine). You will now have a QR code printed in the terminal and a configuration file created in the current working directory. Share these with a client so they can connect to the server. Here are instructions for a client:
 
 First, [install](https://www.wireguard.com/install) WireGuard. Then,
 - Linux: copy (as root) the configuration file to `/etc/wireguard/wg0.conf`, restart the service using `sudo systemctl restart wg-quick@wg0`;
