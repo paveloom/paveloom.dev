@@ -126,6 +126,9 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 ##### B {#series#b}
 - Big Time Rush
 
+##### D {#series#d}
+- Daria
+
 ##### F {#series#f}
 - Futurama
 
