@@ -7,21 +7,21 @@ description = "This page contains a list of public Git repositories created by @
 #### A list of public Git repositories created by @paveloom. {#}
 
 ##### Apps [[C](https://codeberg.org/paveloom-a)] [[GH](https://github.com/paveloom-a)] [[GL](https://gitlab.com/paveloom-g/apps)]: {#apps}
-- *`Eiri`* [[GH](https://github.com/paveloom-a/Eiri)]
-- *fltk-rs-playground* [[GH](https://github.com/paveloom-a/fltk-rs-playground)]: A playground to test all things fltk-rs `#fltk-rs`
-- *`hello-world`* [[GH](https://github.com/paveloom-a/hello-world)]: A hello-world Tauri app `#hello-world` `#tauri`
-- *`julialang-slack-history`* [[GH](https://github.com/paveloom-a/julialang-slack-history)]: A read-only Slack clone for reading history from [julialang.slack.com](https://julialang.slack.com) `#julia` `#svelte` `#slack-clone`
-- *`Shuchu`* [[GH](https://github.com/paveloom-a/Shuchu)]
+- *`Eiri`* [[GH](https://github.com/paveloom-a/Eiri)] [[GL](https://gitlab.com/paveloom-g/apps/Eiri)] [[C](https://codeberg.org/paveloom-a/Eiri)]
+- *fltk-rs-playground* [[GH](https://github.com/paveloom-a/fltk-rs-playground)] [[GL](https://gitlab.com/paveloom-g/apps/fltk-rs-playground)] [[C](https://codeberg.org/paveloom-a/fltk-rs-playground)]: A playground to test all things fltk-rs `#fltk-rs`
+- *`hello-world`* [[GH](https://github.com/paveloom-a/hello-world)] [[GL](https://gitlab.com/paveloom-g/apps/hello-world)] [[C](https://codeberg.org/paveloom-a/hello-world)]: A hello-world Tauri app `#hello-world` `#tauri`
+- *`julialang-slack-history`* [[GH](https://github.com/paveloom-a/julialang-slack-history)] [[GL](https://gitlab.com/paveloom-g/apps/julialang-slack-history)] [[C](https://codeberg.org/paveloom-a/julialang-slack-history)]: A read-only Slack clone for reading history from [julialang.slack.com](https://julialang.slack.com) `#julia` `#svelte` `#slack-clone`
+- *`Shuchu`* [[GH](https://github.com/paveloom-a/Shuchu)] [[GL](https://gitlab.com/paveloom-g/apps/Shuchu)] [[C](https://codeberg.org/paveloom-a/Shuchu)]
 - *Tidings* [[C](https://codeberg.org/paveloom-a/Tidings)] [[GH](https://github.com/paveloom-a/Tidings/)] [[GL](https://gitlab.com/paveloom-g/apps/Tidings)]: Finally, an RSS reader without a built-in browser
 
 <br>
 
-##### Complex [[GH](https://github.com/paveloom-c)]: {#complex}
-- *`C1`* [[GH](https://github.com/paveloom-c/C1)]: A Fortran module for computing a correlogram and a periodogram of one-dimensional non-uniform time series `#time-series` `#fortran` `#astronomy`
-- *`C2`* [[GH](https://github.com/paveloom-c/C2)]: A comparison of covariance functions used to inference stellar rotation periods of stars `#astrophysics` `#gaussian-processes` `#stellar-rotation`
-- *`C3`* [[GH](https://github.com/paveloom-c/C3)]: A Fortran module for performing spectral correlation analysis of time series `#fortran` `#time-series-analysis`
-- *`C3.1`* [[GH](https://github.com/paveloom-c/C3.1)]: SCATS interface with a backend written in C++ and a frontend written in Python `#python` `#c-plus-plus` `#time-series-analysis`
-- *GPKernels* [[GH](https://github.com/paveloom-c/GPKernels)]: Study of the influence of selection of kernels for Gaussian processes on the modeling of light curves `#astronomy` `#gaussian-processes`
+##### Complex [[GH](https://github.com/paveloom-c)] [[GL](https://gitlab.com/paveloom-g/complex)] [[C](https://codeberg.org/paveloom-c)]: {#complex}
+- *`C1`* [[GH](https://github.com/paveloom-c/C1)] [[GL](https://gitlab.com/paveloom-g/complex/C1)] [[C](https://codeberg.org/paveloom-c/C1)]: A Fortran module for computing a correlogram and a periodogram of one-dimensional non-uniform time series `#time-series` `#fortran` `#astronomy`
+- *`C2`* [[GH](https://github.com/paveloom-c/C2)] [[GL](https://gitlab.com/paveloom-g/complex/C2)] [[C](https://codeberg.org/paveloom-c/C2)]: A comparison of covariance functions used to inference stellar rotation periods of stars `#astrophysics` `#gaussian-processes` `#stellar-rotation`
+- *`C3`* [[GH](https://github.com/paveloom-c/C3)] [[GL](https://gitlab.com/paveloom-g/complex/C3)] [[C](https://codeberg.org/paveloom-c/C3)]: A Fortran module for performing spectral correlation analysis of time series `#fortran` `#time-series-analysis`
+- *`C3.1`* [[GH](https://github.com/paveloom-c/C3.1)] [[GL](https://gitlab.com/paveloom-g/complex/C3.1)] [[C](https://codeberg.org/paveloom-c/C3.1)]: SCATS interface with a backend written in C++ and a frontend written in Python `#python` `#c-plus-plus` `#time-series-analysis`
+- *`GPKernels`* [[GH](https://github.com/paveloom-c/GPKernels)] [[GL](https://gitlab.com/paveloom-g/complex/GPKernels)] [[C](https://codeberg.org/paveloom-c/GPKernels)]: Study of the influence of selection of kernels for Gaussian processes on the modeling of light curves `#astronomy` `#gaussian-processes`
 - *`paveloom-c.github.io`* [[GH](https://github.com/paveloom-c/paveloom-c.github.io)]: A root repository for GitHub Pages
 
 <br>
