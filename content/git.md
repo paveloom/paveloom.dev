@@ -7,32 +7,32 @@ description = "This page contains a list of public Git repositories created by @
 #### A list of public Git repositories created by @paveloom. {#}
 
 ##### Apps [[C](https://codeberg.org/paveloom-a)] [[GH](https://github.com/paveloom-a)] [[GL](https://gitlab.com/paveloom-g/apps)]: {#apps}
-- *`Eiri`* [[GH](https://github.com/paveloom-a/Eiri)] [[GL](https://gitlab.com/paveloom-g/apps/Eiri)] [[C](https://codeberg.org/paveloom-a/Eiri)]
-- *fltk-rs-playground* [[GH](https://github.com/paveloom-a/fltk-rs-playground)] [[GL](https://gitlab.com/paveloom-g/apps/fltk-rs-playground)] [[C](https://codeberg.org/paveloom-a/fltk-rs-playground)]: A playground to test all things fltk-rs `#fltk-rs`
-- *`hello-world`* [[GH](https://github.com/paveloom-a/hello-world)] [[GL](https://gitlab.com/paveloom-g/apps/hello-world)] [[C](https://codeberg.org/paveloom-a/hello-world)]: A hello-world Tauri app `#hello-world` `#tauri`
-- *`julialang-slack-history`* [[GH](https://github.com/paveloom-a/julialang-slack-history)] [[GL](https://gitlab.com/paveloom-g/apps/julialang-slack-history)] [[C](https://codeberg.org/paveloom-a/julialang-slack-history)]: A read-only Slack clone for reading history from [julialang.slack.com](https://julialang.slack.com) `#julia` `#svelte` `#slack-clone`
-- *`Shuchu`* [[GH](https://github.com/paveloom-a/Shuchu)] [[GL](https://gitlab.com/paveloom-g/apps/Shuchu)] [[C](https://codeberg.org/paveloom-a/Shuchu)]
+- *`Eiri`* [[C](https://codeberg.org/paveloom-a/Eiri)] [[GH](https://github.com/paveloom-a/Eiri)] [[GL](https://gitlab.com/paveloom-g/apps/Eiri)]
+- *fltk-rs-playground* [[C](https://codeberg.org/paveloom-a/fltk-rs-playground)] [[GH](https://github.com/paveloom-a/fltk-rs-playground)] [[GL](https://gitlab.com/paveloom-g/apps/fltk-rs-playground)]: A playground to test all things fltk-rs `#fltk-rs`
+- *`hello-world`* [[C](https://codeberg.org/paveloom-a/hello-world)] [[GH](https://github.com/paveloom-a/hello-world)] [[GL](https://gitlab.com/paveloom-g/apps/hello-world)]: A hello-world Tauri app `#hello-world` `#tauri`
+- *`julialang-slack-history`* [[C](https://codeberg.org/paveloom-a/julialang-slack-history)] [[GH](https://github.com/paveloom-a/julialang-slack-history)] [[GL](https://gitlab.com/paveloom-g/apps/julialang-slack-history)]: A read-only Slack clone for reading history from [julialang.slack.com](https://julialang.slack.com) `#julia` `#svelte` `#slack-clone`
+- *`Shuchu`* [[C](https://codeberg.org/paveloom-a/Shuchu)] [[GH](https://github.com/paveloom-a/Shuchu)] [[GL](https://gitlab.com/paveloom-g/apps/Shuchu)]
 - *Tidings* [[C](https://codeberg.org/paveloom-a/Tidings)] [[GH](https://github.com/paveloom-a/Tidings/)] [[GL](https://gitlab.com/paveloom-g/apps/Tidings)]: Finally, an RSS reader without a built-in browser
 
 <br>
 
-##### Complex [[GH](https://github.com/paveloom-c)] [[GL](https://gitlab.com/paveloom-g/complex)] [[C](https://codeberg.org/paveloom-c)]: {#complex}
-- *`C1`* [[GH](https://github.com/paveloom-c/C1)] [[GL](https://gitlab.com/paveloom-g/complex/C1)] [[C](https://codeberg.org/paveloom-c/C1)]: A Fortran module for computing a correlogram and a periodogram of one-dimensional non-uniform time series `#time-series` `#fortran` `#astronomy`
-- *`C2`* [[GH](https://github.com/paveloom-c/C2)] [[GL](https://gitlab.com/paveloom-g/complex/C2)] [[C](https://codeberg.org/paveloom-c/C2)]: A comparison of covariance functions used to inference stellar rotation periods of stars `#astrophysics` `#gaussian-processes` `#stellar-rotation`
-- *`C3`* [[GH](https://github.com/paveloom-c/C3)] [[GL](https://gitlab.com/paveloom-g/complex/C3)] [[C](https://codeberg.org/paveloom-c/C3)]: A Fortran module for performing spectral correlation analysis of time series `#fortran` `#time-series-analysis`
-- *`C3.1`* [[GH](https://github.com/paveloom-c/C3.1)] [[GL](https://gitlab.com/paveloom-g/complex/C3.1)] [[C](https://codeberg.org/paveloom-c/C3.1)]: SCATS interface with a backend written in C++ and a frontend written in Python `#python` `#c-plus-plus` `#time-series-analysis`
-- *`GPKernels`* [[GH](https://github.com/paveloom-c/GPKernels)] [[GL](https://gitlab.com/paveloom-g/complex/GPKernels)] [[C](https://codeberg.org/paveloom-c/GPKernels)]: Study of the influence of selection of kernels for Gaussian processes on the modeling of light curves `#astronomy` `#gaussian-processes`
+##### Complex [[C](https://codeberg.org/paveloom-c)] [[GH](https://github.com/paveloom-c)] [[GL](https://gitlab.com/paveloom-g/complex)]: {#complex}
+- *`C1`* [[C](https://codeberg.org/paveloom-c/C1)] [[GH](https://github.com/paveloom-c/C1)] [[GL](https://gitlab.com/paveloom-g/complex/C1)]: A Fortran module for computing a correlogram and a periodogram of one-dimensional non-uniform time series `#time-series` `#fortran` `#astronomy`
+- *`C2`* [[C](https://codeberg.org/paveloom-c/C2)] [[GH](https://github.com/paveloom-c/C2)] [[GL](https://gitlab.com/paveloom-g/complex/C2)]: A comparison of covariance functions used to inference stellar rotation periods of stars `#astrophysics` `#gaussian-processes` `#stellar-rotation`
+- *`C3`* [[C](https://codeberg.org/paveloom-c/C3)] [[GH](https://github.com/paveloom-c/C3)] [[GL](https://gitlab.com/paveloom-g/complex/C3)]: A Fortran module for performing spectral correlation analysis of time series `#fortran` `#time-series-analysis`
+- *`C3.1`* [[C](https://codeberg.org/paveloom-c/C3.1)] [[GH](https://github.com/paveloom-c/C3.1)] [[GL](https://gitlab.com/paveloom-g/complex/C3.1)]: SCATS interface with a backend written in C++ and a frontend written in Python `#python` `#c-plus-plus` `#time-series-analysis`
+- *`GPKernels`* [[C](https://codeberg.org/paveloom-c/GPKernels)] [[GH](https://github.com/paveloom-c/GPKernels)] [[GL](https://gitlab.com/paveloom-g/complex/GPKernels)]: Study of the influence of selection of kernels for Gaussian processes on the modeling of light curves `#astronomy` `#gaussian-processes`
 - *`paveloom-c.github.io`* [[GH](https://github.com/paveloom-c/paveloom-c.github.io)]: A root repository for GitHub Pages
 
 <br>
 
-##### Docker [[GH](https://github.com/paveloom-d)]: {#docker}
+##### Docker [[C](https://codeberg.org/paveloom-d)] [[GH](https://github.com/paveloom-d)] [[GL](https://gitlab.com/paveloom-g/docker)]: {#docker}
 
-- *binder-base* [[GH](https://github.com/paveloom-d/binder-base)]: Yet another base image for Binder `#binder` `#jupyter` `#binder-ready`
-- *binder-julia* [[GH](https://github.com/paveloom-d/binder-julia)]: Basically, `paveloom/binder-base` + Julia `#binder` `#jupyter` `#julia` `#binder-ready`
-- *binder-julia-plots* [[GH](https://github.com/paveloom-d/binder-julia-plots)]: If `paveloom/binder-julia` and `paveloom/binder-tex` had a baby `#tex` `#binder` `#jupyter` `#julia` `#binder-ready`
-- *binder-tex* [[GH](https://github.com/paveloom-d/binder-tex)]: Basically, `paveloom/binder-base` + TeX dependencies `#tex` `#binder` `#jupyter` `#binder-ready`
-- *dev* [[GH](https://github.com/paveloom-d/dev)]: An OCI compliant image containing my personal development environment `#docker` `#image` `#oci` `#development-environment`
+- *`binder-base`* [[C](https://codeberg.org/paveloom-d/binder-base)] [[GH](https://github.com/paveloom-d/binder-base)] [[GL](https://gitlab.com/paveloom-g/docker/binder-base)]: Yet another base image for Binder `#binder` `#jupyter` `#binder-ready`
+- *`binder-julia`* [[C](https://codeberg.org/paveloom-d/binder-julia)] [[GH](https://github.com/paveloom-d/binder-julia)] [[GL](https://gitlab.com/paveloom-g/docker/binder-julia)]: Basically, `paveloom/binder-base` + Julia `#binder` `#jupyter` `#julia` `#binder-ready`
+- *`binder-julia-plots`* [[C](https://codeberg.org/paveloom-d/binder-julia-plots)] [[GH](https://github.com/paveloom-d/binder-julia-plots)] [[GL](https://gitlab.com/paveloom-g/docker/binder-julia-plots)]: If `paveloom/binder-julia` and `paveloom/binder-tex` had a baby `#tex` `#binder` `#jupyter` `#julia` `#binder-ready`
+- *`binder-tex`* [[C](https://codeberg.org/paveloom-d/binder-tex)] [[GH](https://github.com/paveloom-d/binder-tex)] [[GL](https://gitlab.com/paveloom-g/docker/binder-tex)]: Basically, `paveloom/binder-base` + TeX dependencies `#tex` `#binder` `#jupyter` `#binder-ready`
+- *`dev`* [[C](https://codeberg.org/paveloom-d/dev)] [[GH](https://github.com/paveloom-d/dev)] [[GL](https://gitlab.com/paveloom-g/docker/dev)]: An OCI compliant image containing my personal development environment `#docker` `#image` `#oci` `#development-environment`
 
 <br>
 
@@ -45,9 +45,9 @@ description = "This page contains a list of public Git repositories created by @
 
 <br>
 
-##### Minor [[GH](https://github.com/paveloom-m)]: {#minor}
-- *`Makefiles`* [[GH](https://github.com/paveloom-m/Makefiles)]: Makefile templates for compiling programs and publishing code on GitHub `#git` `#makefile`
-- *`QtSettingsDemo`* [[GH](https://github.com/paveloom-m/QtSettingsDemo)]: Settings file generator: demonstration of the graphical interface created using Qt in the Qt Creator environment `#qtcreator` `#qt5-gui`
+##### Minor [[C](https://codeberg.org/paveloom-m)] [[GH](https://github.com/paveloom-m)] [[GL](https://gitlab.com/paveloom-g/minor)]: {#minor}
+- *`Makefiles`* [[C](https://codeberg.org/paveloom-m/Makefiles)] [[GH](https://github.com/paveloom-m/Makefiles)] [[GL](https://gitlab.com/paveloom-g/minor/Makefiles)]: Makefile templates for compiling programs and publishing code on GitHub `#git` `#makefile`
+- *`QtSettingsDemo`* [[C](https://codeberg.org/paveloom-m/QtSettingsDemo)] [[GH](https://github.com/paveloom-m/QtSettingsDemo)] [[GL](https://gitlab.com/paveloom-g/minor/QtSettingsDemo)]: Settings file generator: demonstration of the graphical interface created using Qt in the Qt Creator environment `#qtcreator` `#qt5-gui`
 
 <br>
 
@@ -60,7 +60,7 @@ description = "This page contains a list of public Git repositories created by @
 
 ##### Personal [[C](https://codeberg.org/Paveloom)] [[GH](https://github.com/Paveloom)] [[GL](https://gitlab.com/paveloom-g/personal)]: {#paveloom}
 - *dotfiles* [[C](https://codeberg.org/paveloom/dotfiles)] [[GH](https://github.com/Paveloom/dotfiles)] [[GL](https://gitlab.com/paveloom-g/personal/dotfiles)]: Files with dots!
-- *Exercism* [[GH](https://github.com/Paveloom/Exercism)]: Exercism exercises completed by @paveloom
+- *Exercism* [[GH](https://github.com/Paveloom/Exercism)] [[GL](https://gitlab.com/paveloom-g/personal/Exercism)] [[C](https://codeberg.org/paveloom/Exercism)]: Exercism exercises completed by @paveloom
 - *`old_wiki`* [[GH](https://github.com/Paveloom/old_wiki)]: An old version of Pensieve, powered by Franklin `#julia` `#franklin`
 - *`OpenSearchDescriptionFiles`* [[GH](https://github.com/Paveloom/OpenSearchDescriptionFiles)]: Custom OpenSearch description files  `#search-engine` `#opensearch`
 - *`Paveloom`* [[GH](https://github.com/Paveloom/Paveloom)]: A *special* repository to manage my GitHub profile's landing page `#github-readme`
