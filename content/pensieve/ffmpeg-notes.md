@@ -19,7 +19,7 @@ ffmpeg -ss 00:00:10 -i input.mkv -t 00:00:20 \
 
 This should give you something like this:
 
-```text
+```
 Input Integrated:    -29.3 LUFS
 Input True Peak:     -15.1 dBTP
 Input LRA:            13.5 LU

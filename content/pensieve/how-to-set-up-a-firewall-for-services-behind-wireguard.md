@@ -13,7 +13,7 @@ This guide also expects that you run your services in Podman containers.
 
 One of the easiest ways to set up a firewall is using [`ferm`](http://ferm.foo-projects.org). Install it on your server and change the contents of the `/etc/ferm/ferm.conf` file to the following:
 
-```ferm
+```
 table filter {
     chain INPUT {
         # Drop every incoming connection by default
