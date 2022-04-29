@@ -123,6 +123,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 ##### A {#series#a}
 - Avatar: The Last Airbender
   - A [fan-made remaster](https://www.reddit.com/r/RemasteringATLA/comments/5hr9w2/atla_remastered_in_1080p)
+- Amphibia
 
 ##### B {#series#b}
 - Big Time Rush
