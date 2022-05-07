@@ -15,7 +15,7 @@ description = "This section contains algorithms that @paveloom can't quite memor
 - Server
   - [How to host a VPN using WireGuard](pensieve/how-to-host-a-vpn-using-wireguard)
   - [How to set up a firewall for services behind WireGuard?](pensieve/how-to-set-up-a-firewall-for-services-behind-wireguard)
-  - [How to manage websites/services under a Handshake domain?](pensieve/how-to-manage-websites-services-under-a-handshake-domain)
+  - [How to manage websites or services under a Handshake domain?](pensieve/how-to-manage-websites-or-services-under-a-handshake-domain)
 
 **Development**:
 - Environment

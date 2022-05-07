@@ -1,6 +1,6 @@
 +++
-title = "How to manage websites/services under a Handshake domain?"
-description = "How would one manage websites/services under a Handshake domain?"
+title = "How to manage websites or services under a Handshake domain?"
+description = "How would one manage websites or services under a Handshake domain?"
 +++
 
 # {{ title() }} {#}
