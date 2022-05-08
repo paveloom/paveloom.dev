@@ -4,7 +4,7 @@ description = "How would one manage websites or services under a Handshake domai
 +++
 
 # {{ title() }} {#}
-#### Updated: 07-May-2022 {#}
+#### Updated: 08-May-2022 {#}
 
 This note is a rewrite of a [series of articles](https://blog.htools.work/posts/hns-pdns-nginx) on a similar theme by [Rithvik Vibhu](https://github.com/rithvikvibhu). I mirror those for redundancy (this knowledge is too niche to have only one decent source, so let there be a copy!), but also I show how to achieve the same results with [Caddy](https://caddyserver.com) and expand on how to deal with subdomains. So, alternative title: HNS + PowerDNS + Caddy + DANE.
 
@@ -93,7 +93,7 @@ sudo -u pdns pdnsutil secure-zone domain
 # Name: @ (root of domain)
 # Type: TXT
 # Value: "first-record!"
-sudo -u pdns pdnsutil add-record smartface. @ TXT '"first-record!"'
+sudo -u pdns pdnsutil add-record domain. @ TXT '"first-record!"'
 ```
 
 Test the server by running `dig @127.0.0.1 domain TXT +dnssec`: this should give you the same record. You can try using your public IP, too.
@@ -217,6 +217,13 @@ sub.domain {
 ```
 
 Restart the service with `systemctl restart caddy`.
+
+Finally, add `A` records to the DNS server, replacing `<IP>` with the public IP of your server:
+
+```bash
+sudo -u pdns pdnsutil add-record domain. @ A <IP>
+sudo -u pdns pdnsutil add-record domain. sub A <IP>
+```
 
 And... that's it! Your site should now be available at `https://domain` and the service --- at `https://sub.domain`.
 
