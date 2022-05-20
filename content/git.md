@@ -22,6 +22,7 @@ description = "This page contains a list of public Git repositories created by @
 - *`C3`* [[C](https://codeberg.org/paveloom-c/C3)] [[GH](https://github.com/paveloom-c/C3)] [[GL](https://gitlab.com/paveloom-g/complex/C3)]: A Fortran module for performing spectral correlation analysis of time series `#fortran` `#time-series-analysis`
 - *`C3.1`* [[C](https://codeberg.org/paveloom-c/C3.1)] [[GH](https://github.com/paveloom-c/C3.1)] [[GL](https://gitlab.com/paveloom-g/complex/C3.1)]: SCATS interface with a backend written in C++ and a frontend written in Python `#python` `#c-plus-plus` `#time-series-analysis`
 - *`GPKernels`* [[C](https://codeberg.org/paveloom-c/GPKernels)] [[GH](https://github.com/paveloom-c/GPKernels)] [[GL](https://gitlab.com/paveloom-g/complex/GPKernels)]: Study of the influence of selection of kernels for Gaussian processes on the modeling of light curves `#astronomy` `#gaussian-processes`
+- *PMG* [[C](https://codeberg.org/paveloom-c/PMG)] [[GH](https://github.com/paveloom-c/PMG)] [[GL](https://gitlab.com/paveloom-g/complex/PMG)] [[R](https://app.radicle.network/seeds/pine.radicle.garden/rad:git:hnrkfwgg3khhx8keec53drptixg16xqhud3oo)]
 - *`paveloom-c.github.io`* [[GH](https://github.com/paveloom-c/paveloom-c.github.io)]: A root repository for GitHub Pages
 
 <br>
