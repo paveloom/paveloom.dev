@@ -135,6 +135,9 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 ##### F {#series#f}
 - Futurama
 
+##### G {#series#G}
+- Gravity Falls
+
 ##### H {#series#h}
 - Hellsing Ultimate
   - Without *Hellsing: The Dawn*
