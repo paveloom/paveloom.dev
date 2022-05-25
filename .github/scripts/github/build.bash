@@ -20,7 +20,7 @@ fi
 rm zola
 
 # Get `minify`
-curl -L https://github.com/tdewolff/minify/releases/download/v2.11.1/minify_linux_amd64.tar.gz >minify.tar.gz 2>/dev/null
+curl -L https://github.com/tdewolff/minify/releases/download/v2.11.5/minify_linux_amd64.tar.gz >minify.tar.gz 2>/dev/null
 tar -xf minify.tar.gz minify && rm minify.tar.gz
 
 # Use `minify`
