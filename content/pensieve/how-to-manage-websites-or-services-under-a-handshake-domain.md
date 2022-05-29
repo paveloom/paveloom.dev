@@ -202,7 +202,7 @@ apt install caddy
 
 Edit your [Caddyfile](https://caddyserver.com/docs/caddyfile/patterns) (`/var/lib/caddy/Caddyfile`):
 
-```caddy
+```
 # Site
 domain {
     tls /etc/ssl/domain.crt /etc/ssl/domain.key
