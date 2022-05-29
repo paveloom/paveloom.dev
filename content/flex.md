@@ -107,6 +107,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - The Lord of the Rings: The Fellowship of the Ring
   - The Lord of the Rings: The Return of the King
   - The Lord of the Rings: The Two Towers
+- The Secret Life of Walter Mitty
 - The Secret of NIMH
 - Thor: Ragnarok
 - Twin Peaks: Fire Walk with Me
