@@ -1,12 +1,12 @@
 +++
-title = "Transcoding a video for LBRY before uploading"
+title = "How to transcode a video for LBRY before uploading?"
 description = "How would one transcode a video for LBRY before uploading?"
 +++
 
 # {{ title() }} {#}
-#### Updated: 11-Feb-2022 {#}
+#### Updated: 1-Jun-2022 {#}
 
-The built-in video transcoding function in the LBRY desktop application starts the
+The built-in video transcoding functionality in the LBRY desktop application starts an
 FFmpeg utility process with the following parameters:
 
 ```go
@@ -19,7 +19,7 @@ ffmpeg -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
 
 The meanings of the passed parameters:
 
-- `-c:s copy` and `ffmpeg -c:d copy` tell FFmpeg to copy subtitles and data,
+- `-c:s copy` and `-c:d copy` tell FFmpeg to copy subtitles and data,
   respectively;
 - `-c:v libx264 -crf 24 -preset faster -pix_fmt yuv420p` tells FFmpeg to
   transcode the video using the `H.264` codec with constant rate factor equal to 24, with
@@ -31,7 +31,7 @@ The meanings of the passed parameters:
   with a buffer equal to 5000 Kb/s;
 - `-movflags +faststart` tells FFmpeg to move the «moov atom» (the metadata)
   from the end of the file to its beginning to improve playback in browsers;
-- `-c:a aac -b:a 160k` tells FFmpeg to transcode the audio with bitrate equal to
+- `-c:a aac -b:a 160k` tells FFmpeg to transcode the audio using the native `AAC` codec with constant bitrate equal to
   160 kb/s.
 
 An alternative option for transcoding a horizontal video with increased bitrate, better
@@ -41,19 +41,20 @@ quality and compression:
 ffmpeg -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
           -c:v libx264 -crf 17 -preset slower -pix_fmt yuv420p \
           -maxrate 8M -bufsize 8M -movflags +faststart \
-          -c:a aac -b:a 160k "/path/to/output/file.mp4"
+          -c:a libfdk_aac "/path/to/output/file.mp4"
 ```
 
-One may select optimal CRF values by performing tests on a sample of the target file with a
-faster preset. The average bitrate of the transcoded test file should be close (on the left
-side) to the target bitrate. The CRF value of 17 is sufficient to produce a video with
-indistinguishable quality (using a slow preset). Note that with a fixed CRF value, the
-target bitrate may not always be reached, and the encoder will use more bits if necessary.
+One may select optimal CRF values by performing tests on a small sample of the
+target file. The average bitrate of the transcoded test file should be close to
+the target bitrate. The CRF value of 17 is generally sufficient to produce a
+video with indistinguishable quality. Note that with a fixed CRF value, the
+target bitrate may not always be reached, and the encoder will use more bits
+if necessary.
 
 A sample can be cut from the source file like this:
 
 ```bash
-ffmpeg -i input.ext -ss 00:01:00 -to 00:02:00 -c copy sample.ext
+ffmpeg -ss 00:01:00 -i input.ext -t 00:00:10 -c copy sample.ext
 ```
 
 References:

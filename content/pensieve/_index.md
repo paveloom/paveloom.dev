@@ -31,4 +31,4 @@ description = "This section contains algorithms that @paveloom can't quite memor
 - Re-encoding & Transcoding
   - FFmpeg
     - [FFmpeg notes](pensieve/ffmpeg-notes)
-    - [Transcoding a video for LBRY before uploading](pensieve/transcoding-a-video-for-lbry-before-uploading)
+    - [How to transcode a video for LBRY before uploading?](pensieve/how-to-transcode-a-video-for-lbry-before-uploading)
