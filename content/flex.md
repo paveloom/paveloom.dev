@@ -166,7 +166,6 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Seasons 1-3
 - The Legend of Korra
 - The Owl House
-  - Seasons 1-2
 - The Simpsons
   - Seasons 1-2
 - The Tatami Galaxy
