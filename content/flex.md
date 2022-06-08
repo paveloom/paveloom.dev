@@ -159,6 +159,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
   - Seasons 1-3
 - Star Trek
   - Star Trek: The Original Series
+- Stranger Things
 - Squid Game
 
 ##### T {#series#t}
