@@ -160,7 +160,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 - Star Trek
   - Star Trek: The Original Series
 - Stranger Things
-  - Season 4
+  - Seasons 1, 4
 - Squid Game
 
 ##### T {#series#t}
