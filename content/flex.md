@@ -49,6 +49,7 @@ password2 = 8DoifxzXGh35jTUBoJq1dobyiomPFLyORzf7eVeMmBg89PyziCs
 
 ##### E {#movies#e}
 - Encanto
+- Everything Everywhere All at Once
 - Evil Dead II
 
 ##### G {#movies#g}
