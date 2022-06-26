@@ -4,7 +4,7 @@ description = "These are short notes on how to do some tasks using FFmpeg"
 +++
 
 # {{ title() }} {#}
-#### Updated: 11-Feb-2022 {#}
+#### Updated: 26-Jun-2022 {#}
 
 These are short notes on how to do some tasks using FFmpeg.
 
@@ -41,7 +41,7 @@ ffmpeg -ss 00:00:10 -i input.mkv -t 00:00:20 \
        -ss 00:00:10 -i input.srt -ss 00:00:00 -t 00:00:20 \
        -map_metadata -1 -metadata:s:s:0 language=eng \
        -af loudnorm=I=-12:TP=0.0:LRA=13.5:measured_I=-29.3:measured_TP=-15.1:measured_LRA=13.5:measured_thresh=-39.9 \
-       -ar 48k -c:a aac \
+       -ar 48k -c:a libfdk_aac \
        -c:s mov_text \
        -c:v libx264 -crf 17 -preset slower -pix_fmt yuv420p \
        -movflags +faststart \
