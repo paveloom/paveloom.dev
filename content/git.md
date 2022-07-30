@@ -39,6 +39,7 @@ description = "This page contains a list of public Git repositories created by @
 
 ##### Forks [[C](https://codeberg.org/paveloom-f/)] [[GH](https://github.com/paveloom-f)] [[GL](https://gitlab.com/paveloom-g/forks)]: {#forks}
 - *`codestats-box-python`* [[GH](https://github.com/paveloom-f/codestats-box-python)]: Update a pinned gist to contain your *Code::Stats* `#python` `#codestats`
+- *ffmpeg-static* [[C](https://codeberg.org/paveloom-f/ffmpeg-static)] [[GH](https://github.com/paveloom-f/ffmpeg-static)] [[GL](https://gitlab.com/paveloom-g/forks/ffmpeg-static)]: A script to make a static build of FFmpeg `#ffmpeg` `#bash`
 - *lbry-android* [[C](https://codeberg.org/paveloom-f/lbry-android)] [[GH](https://github.com/paveloom-f/lbry-android)] [[GL](https://gitlab.com/paveloom-g/forks/lbry-android)]: The LBRY Android app (now without a blacklist) `#lbry` `#lbry-android`
 - *lbry-desktop* [[C](https://codeberg.org/paveloom-f/lbry-desktop)] [[GH](https://github.com/paveloom-f/lbry-desktop)] [[GL](https://gitlab.com/paveloom-g/forks/lbry-desktop)]: A browser and wallet for LBRY, the decentralized, user-controlled content marketplace (now without a blacklist) `#lbry` `#lbry-desktop`
 - *`scm-music-player`* [[GH](https://github.com/paveloom-f/scm-music-player)]: Seamless music for your website. HTML5 music player with continuous playback cross pages. `#music` `#player`
