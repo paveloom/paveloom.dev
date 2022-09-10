@@ -12,6 +12,8 @@ Git mirrors:
 - [GitLab](https://gitlab.com/paveloom-g/personal/site)
 
 Website mirrors:
-- [GitHub Pages](https://paveloom.github.io/)
-- [GitLab Pages](https://paveloom-g.gitlab.io/personal/site/)
-- [Fleek](https://paveloom.on.fleek.co/) ([HNS](http://home.paveloom/))
+- [Fleek](https://paveloom.on.fleek.co) (IPFS)
+- [GitHub Pages](https://paveloom.github.io) / [GitLab Pages](https://paveloom-g.gitlab.io/personal/site)
+- [Self-hosted](https://paveloom)*
+
+\* Only accessible with a [DANE](https://datatracker.ietf.org/doc/html/rfc6698)-enabled [HNS](https://handshake.org) resolver (e.g., [Fingertip](https://impervious.com/fingertip))
