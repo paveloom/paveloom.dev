@@ -22,10 +22,10 @@ Build the site:
 zola build
 ```
 
-Build the knowledge book:
+Build the pensieve:
 
 ```bash
-mdbook serve knowledge
+mdbook build pensieve
 ```
 
 ## Develop
@@ -36,10 +36,10 @@ Develop the site using a local server:
 zola serve
 ```
 
-Develop the knowledge book using a local server:
+Develop the pensieve using a local server:
 
 ```bash
-mdbook serve knowledge
+mdbook serve pensieve
 ```
 
 ## Minify

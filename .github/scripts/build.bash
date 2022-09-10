@@ -25,8 +25,8 @@ rm zola
 curl -L https://github.com/rust-lang/mdBook/releases/download/v0.4.21/mdbook-v0.4.21-x86_64-unknown-linux-gnu.tar.gz >mdbook.tar.gz 2>/dev/null
 tar -xf mdbook.tar.gz && rm mdbook.tar.gz
 
-# Build the knowledge book
-./mdbook build knowledge
+# Build the pensieve
+./mdbook build pensieve
 
 # Delete mdBook
 rm mdbook
