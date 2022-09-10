@@ -1,6 +1,6 @@
 # Description
 
-Code of my website. Powered by [Zola](https://www.getzola.org).
+Code of my website. Powered by [Zola](https://www.getzola.org) and [mdBook](https://rust-lang.github.io/mdBook).
 
 Git mirrors:
 - [Codeberg](https://codeberg.org/paveloom/pages)
@@ -14,22 +14,30 @@ Website mirrors:
 
 ## Build
 
-Build using the base URL from the [config](config.toml):
+Build the site:
 
 ```bash
 zola build
 ```
 
-Visit the site using a local server:
+Build the knowledge book:
+
+```bash
+mdbook serve knowledge
+```
+
+## Develop
+
+Develop the site using a local server:
 
 ```bash
 zola serve
 ```
 
-Or browse the files in the `public` directory using a local base URL:
+Develop the knowledge book using a local server:
 
 ```bash
-zola build -u "/path/to/the/public/"
+mdbook serve knowledge
 ```
 
 ## Minify

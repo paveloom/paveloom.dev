@@ -1,0 +1,19 @@
+[book]
+title = "Knowledge"
+authors = ["Pavel Sobolev"]
+description = "A snapshot of @paveloom's knowledge"
+language = "en"
+hellothere = "test"
+
+[build]
+build-dir = "../public/knowledge"
+
+[output.html]
+preferred-dark-theme = "ayu"
+site-url = "/knowledge/"
+
+[output.html.print]
+enable = false
+
+[output.html.fold]
+enable = true

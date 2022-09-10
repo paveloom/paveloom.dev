@@ -4,11 +4,11 @@
 {% block head %}
   {{ super() }}
   <meta name="description" content="{{ page.description }}">
-	<title>{{ config.title }} — {{ page.title }}</title>
+  <title>{{ config.title }} — {{ page.title }}</title>
 {% endblock head %}
 
 {# Body for a page #}
 {% block body %}
-	{{ super() }}
+  {{ super() }}
   {{ page.content | safe }}
 {% endblock body %}

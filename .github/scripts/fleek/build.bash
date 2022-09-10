@@ -6,11 +6,12 @@
 # Install auxiliary packages
 install_packages wget ca-certificates >/dev/null
 
-# Set the parent directory
-PARENT=$(dirname "${BASH_SOURCE[0]}")
+# Define the paths
+FLEEK=$(dirname "${BASH_SOURCE[0]}")
+SCRIPTS=$(dirname "${FLEEK}")
 
 # Build the site
-. $(dirname ${PARENT})/github/build.bash
+. "${SCRIPTS}"/build.bash
 
 # Apply the hooks
-. ${PARENT}/hooks.bash
+. "${FLEEK}"/hooks.bash

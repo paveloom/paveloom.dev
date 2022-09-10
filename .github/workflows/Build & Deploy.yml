@@ -13,9 +13,9 @@ jobs:
     - name: Checkout the repository
       uses: actions/checkout@master
     - name: Build the site
-      run: .github/scripts/github/build.bash https://paveloom.github.io/
+      run: .github/scripts/build.bash https://paveloom.github.io/
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@4.0.0
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
         folder: public
