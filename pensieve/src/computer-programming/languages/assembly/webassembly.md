@@ -13,7 +13,23 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/WebAssembly).
 - [Wasmer](https://wasmer.io)
 - [Wasmtime](https://wasmtime.dev)
 
+#### Extensions
+- [The WebAssembly System Interface (WASI)](https://wasi.dev): A modular system interface for WebAssembly
+
+#### Toolchains
+- [Cranelift](https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/README.md): A low-level retargetable code generator. It translates a target-independent intermediate representation into executable machine code
+- [Emscripten](https://emscripten.org): A complete compiler toolchain to WebAssembly, using LLVM, with a special focus on speed, size, and the Web platform
+- [Wasienv](https://github.com/wasienv/wasienv): WASI Development Toolchain for C/C++
+
+#### Tools
+- [`wasm-pack`](https://github.com/rustwasm/wasm-pack): Rust to Wasm workflow tool
+
+#### Resources
+- [Made with WebAssembly](https://madewithwebassembly.com): An Open Source showcase of awesome production applications, side projects, and use cases made with WebAssembly (Wasm)
+- [Wasm By Example](https://wasmbyexample.dev): A concise, hands-on introduction to WebAssembly using code snippets and annotated WebAssembly example programs
+
 #### Related
-- [Bytecode Alliance](https://bytecodealliance.org): A nonprofit organization dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI).
-- [Cranelift](https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/README.md): A low-level retargetable code generator. It translates a target-independent intermediate representation into executable machine code.
-- [The WebAssembly System Interface (WASI)](https://wasi.dev): A modular system interface for WebAssembly.
+- [Bytecode Alliance](https://bytecodealliance.org): A nonprofit organization dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI)
+
+#### Posts
+- [2020] [Can WASM become the new Docker?](https://adlrocha.substack.com/p/adlrocha-can-wasm-become-the-new)
