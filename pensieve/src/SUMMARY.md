@@ -45,3 +45,6 @@
     - [User commands](operating-systems/linux/user-commands/README.md)
       - [Locale](operating-systems/linux/user-commands/locale/README.md)
         - [How to create a custom locale on Fedora?](operating-systems/linux/user-commands/locale/how-to-create-a-custom-locale-on-fedora.md)
+- [Software](software/README.md)
+  - [Text editors](software/text-editors/README.md)
+    - [Neovim](software/text-editors/neovim.md)
