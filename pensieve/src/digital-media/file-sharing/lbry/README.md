@@ -1,6 +1,8 @@
 # LBRY
 
-LBRY is a blockchain-based file-sharing and payment network that powers decentralized platforms, primarily social networks and video platforms. Video platforms built on LBRY, such as Odysee, have been described as decentralized alternatives to YouTube. The company has described Odysee and other platforms it has built utilizing its LBRY protocol as platforms for free speech and lightly moderates content, including removing pornography or the promotion of violence and terrorism. Read more on [Wikipedia](https://en.wikipedia.org/wiki/LBRY).
+LBRY is a blockchain-based file-sharing and payment network that powers decentralized platforms, primarily social networks and video platforms. Video platforms built on LBRY, such as Odysee, have been described as decentralized alternatives to YouTube. The company has described Odysee and other platforms it has built utilizing its LBRY protocol as platforms for free speech and lightly moderates content, including removing pornography or the promotion of violence and terrorism.
+
+Read more on [Wikipedia](https://en.wikipedia.org/wiki/LBRY).
 
 #### Sites
 - [LBRY](https://lbry.com) ⭐

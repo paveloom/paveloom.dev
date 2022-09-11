@@ -4,6 +4,11 @@
 
 ---
 
+- [Computer programming](computer-programming/README.md)
+  - [Languages](computer-programming/languages/README.md)
+    - [Assembly](computer-programming/languages/assembly/README.md)
+      - [WebAssembly](computer-programming/languages/assembly/webassembly.md)
+    - [Rust](computer-programming/languages/rust.md)
 - [Digital media](digital-media/README.md)
   - [Digital distribution](digital-media/digital-distribution/README.md)
     - [Music](digital-media/digital-distribution/music/README.md)
@@ -40,6 +45,3 @@
     - [User commands](operating-systems/linux/user-commands/README.md)
       - [Locale](operating-systems/linux/user-commands/locale/README.md)
         - [How to create a custom locale on Fedora?](operating-systems/linux/user-commands/locale/how-to-create-a-custom-locale-on-fedora.md)
-- [Programming](programming/README.md)
-  - [Languages](programming/languages/README.md)
-    - [Rust](programming/languages/rust.md)
