@@ -5,6 +5,10 @@
 ---
 
 - [Digital media](digital-media/README.md)
+  - [Digital distribution](digital-media/digital-distribution/README.md)
+    - [Music](digital-media/digital-distribution/music/README.md)
+      - [Spotify](digital-media/digital-distribution/music/spotify/README.md)
+        - [How to install Spotify without ads on Linux?](digital-media/digital-distribution/music/spotify/how-to-install-spotify-without-ads-on-linux.md)
   - [File sharing](digital-media/file-sharing/README.md)
     - [LBRY](digital-media/file-sharing/lbry/README.md)
       - [How to transcode a video for LBRY before uploading?](digital-media/file-sharing/lbry/how-to-transcode-a-video-for-lbry-before-uploading.md)
@@ -16,10 +20,6 @@
   - [Engines](games/engines/README.md)
     - [Source](games/engines/source/README.md)
       - [How to create a high quality spray for Source games?](games/engines/source/how-to-create-a-high-quality-spray-for-source-games.md)
-- [Music](music/README.md)
-  - [Services](music/services/README.md)
-    - [Spotify](music/services/spotify/README.md)
-      - [How to install Spotify without ads on Linux?](music/services/spotify/how-to-install-spotify-without-ads-on-linux.md)
 - [Networking](networking/README.md)
   - [DNS](networking/dns/README.md)
     - [Handshake](networking/dns/handshake/README.md)
