@@ -5,8 +5,16 @@ Media player software is a type of application software for playing multimedia c
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Media_player_software).
 
 #### Examples
+
+##### Media
 - [VLC](https://www.videolan.org/vlc)
 - [mpv](https://mpv.io) ⭐
 
+##### Audio
+- [Amberol](https://gitlab.gnome.org/World/amberol)
+- [Audacious](https://audacious-media-player.org)
+- [Quod Libet](https://quodlibet.readthedocs.io) ⭐
+
 #### Resources
+- [Comparison of audio player software](https://en.wikipedia.org/wiki/Comparison_of_audio_player_software)
 - [Comparison of video player software](https://en.wikipedia.org/wiki/Comparison_of_video_player_software)
