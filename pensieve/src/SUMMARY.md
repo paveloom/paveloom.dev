@@ -56,3 +56,6 @@
   - [Text editors](software/text-editors/README.md)
     - [Neovim](software/text-editors/neovim.md)
   - [Web browsers](software/web-browsers.md)
+- [Web](web/README.md)
+  - [Web page](web/web-page/README.md)
+    - [HTML](web/web-page/html/README.md)
