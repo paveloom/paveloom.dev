@@ -18,6 +18,8 @@ Website mirrors:
 
 \* Only accessible with a [DANE](https://datatracker.ietf.org/doc/html/rfc6698)-enabled [HNS](https://handshake.org) resolver (e.g., [Fingertip](https://impervious.com/fingertip))
 
+*This is a [Trade-Free](https://www.trade-free.org/) website.*
+
 ### Navigation
 
 There are several methods for navigating through the chapters of a book.
