@@ -46,6 +46,7 @@
       - [Locale](operating-systems/linux/user-commands/locale/README.md)
         - [How to create a custom locale on Fedora?](operating-systems/linux/user-commands/locale/how-to-create-a-custom-locale-on-fedora.md)
 - [Software](software/README.md)
+  - [Media players](software/media-players/README.md)
   - [Search engines](software/search-engines/README.md)
     - [Web](software/search-engines/web/README.md)
   - [Text editors](software/text-editors/README.md)
