@@ -17,11 +17,6 @@
 - [Fleek](https://paveloom.on.fleek.co) (IPFS)
 - [Self-hosted](https://paveloom)*
 
-**Services**:
-- [SearxNG](https://searx.paveloom)*
-- [Invidious](https://invidious.paveloom)*
-- [Teddit](https://teddit.paveloom)*
-
 \* Only accessible with a [DANE](https://datatracker.ietf.org/doc/html/rfc6698)-enabled [HNS](https://handshake.org) resolver (e.g., [Fingertip](https://impervious.com/fingertip))
 
 *This is a [Trade-Free](https://www.trade-free.org/) website.*

@@ -6,6 +6,8 @@ description = "This page contains an overview to @paveloom's media collection ca
 # {{ title() }}
 #### A collection of movies and TV series encrypted with [Rclone](https://rclone.org) and stored on [Google Drive](https://drive.google.com/drive/folders/1HIa7kt2RWpxU2cosdmNks1amEp2B75LO?usp=sharing). {#}
 
+**STATUS**: This collection is read-only.
+
 You can access it using the following *obfuscated* passwords:
 
 ```
