@@ -6,7 +6,7 @@ First of all, you need a private server. Depending on your needs, you can host a
 
 It is important to clarify that WireGuard is a *point-to-point* VPN. That is, by default, you only get an encrypted tunnel. To actually work as a private network, you need to forward all of the clients' traffic through the local network interface of your server. Thankfully, that's already automated in the [`wireguard-install`](https://github.com/angristan/wireguard-install) script, which I highly recommend using.
 
-On your server, run this script. Running if for the first time will walk you through the installation process. Using the default inputs is usually fine, but do note that the script puts in the IP addresses of the [AdGuard DNS](https://adguard-dns.com) (Domain Name System) servers by default. You may also consider using other [options](https://privacyguides.org/providers/dns), or you can use the IP addresses of the DNS servers that your server's ISP (Internet Service Provider) provides. You can get those by either running
+On your server, run this script. Running if for the first time will walk you through the installation process. Using the default inputs is usually fine, but do note that the script puts in the IP addresses of the [AdGuard DNS](https://adguard-dns.com) (Domain Name System) servers by default. You may also consider using other [options](https://www.privacyguides.org/dns), or you can use the IP addresses of the DNS servers that your server's ISP (Internet Service Provider) provides. You can get those by either running
 
 ```bash
 grep "nameserver" /etc/resolv.conf
