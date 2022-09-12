@@ -51,3 +51,4 @@
     - [Web](software/search-engines/web.md)
   - [Text editors](software/text-editors/README.md)
     - [Neovim](software/text-editors/neovim.md)
+  - [Web browsers](software/web-browsers.md)

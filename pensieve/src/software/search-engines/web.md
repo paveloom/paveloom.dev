@@ -6,12 +6,12 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Search_engine).
 
 #### Examples
 - [Bing](https://www.bing.com) (For-profit, own index)
-- [Brave](https://search.brave.com) (For-profit, own index)
+- [Brave Search](https://search.brave.com) (For-profit, own index)
 - [DuckDuckGo](https://duckduckgo.com) (For-profit; uses Bing's index)
 - [Ecosia](https://www.ecosia.org) (Non-profit, uses Bing's index)
 - [Google](https://www.google.com) (For-profit, own index)
-- [SearXNG](https://github.com/searxng/searxng) (Metasearch engine, open source) ⭐
-- [Startpage](https://www.startpage.com) (For-profit, uses Google's index)
-- [YaCy](https://yacy.net) (Peer-to-peer / decentralized, shared index, open source)
 - [mwmbl](https://mwmbl.org) (Non-profit, own index, open source)
 - [searx](https://github.com/searx/searx) (Metasearch engine, open source)
+  - [SearXNG](https://github.com/searxng/searxng) (Metasearch engine, open source) ⭐
+- [Startpage](https://www.startpage.com) (For-profit, uses Google's index)
+- [YaCy](https://yacy.net) (Peer-to-peer / decentralized, shared index, open source)
