@@ -25,6 +25,7 @@
   - [File sharing](digital-media/file-sharing/README.md)
     - [LBRY](digital-media/file-sharing/lbry/README.md)
       - [How to transcode a video for LBRY before uploading?](digital-media/file-sharing/lbry/how-to-transcode-a-video-for-lbry-before-uploading.md)
+    - [Tor](digital-media/file-sharing/tor.md)
   - [Multimedia](digital-media/multimedia/README.md)
     - [Software](digital-media/multimedia/software/README.md)
       - [FFmpeg](digital-media/multimedia/software/ffmpeg/README.md)
