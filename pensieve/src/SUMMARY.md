@@ -50,6 +50,7 @@
       - [How to SSH into WSL 2?](operating-systems/compatibility-layer/wsl/how-to-ssh-into-wsl-2.md)
       - [How to access a local server running inside WSL 2?](operating-systems/compatibility-layer/wsl/how-to-access-a-local-server-running-inside-wsl-2.md)
   - [Linux](operating-systems/linux/README.md)
+    - [Distributions](operating-systems/linux/distributions.md)
     - [User commands](operating-systems/linux/user-commands/README.md)
       - [Locale](operating-systems/linux/user-commands/locale/README.md)
         - [How to create a custom locale on Fedora?](operating-systems/linux/user-commands/locale/how-to-create-a-custom-locale-on-fedora.md)
