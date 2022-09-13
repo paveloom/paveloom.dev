@@ -47,6 +47,16 @@ description = "This page contains a list of public Git repositories created by @
 
 <br>
 
+##### Julia [[C](https://codeberg.org/paveloom-j)] [[GH](https://github.com/paveloom-j)] [[GL](https://gitlab.com/paveloom-g/julia)]: {#julia}
+- *Exceptions.jl* [[C](https://codeberg.org/paveloom-j/Exceptions.jl)] [[GH](https://github.com/paveloom-j/Exceptions.jl)] [[GL](https://gitlab.com/paveloom-g/julia/Exceptions.jl)]: Easy exception creation `#julia` `#exceptions` `#exception-handling`
+- *`HillRegions.jl`* [[C](https://codeberg.org/paveloom-j/HillRegions.jl)] [[GH](https://github.com/paveloom-j/HillRegions.jl)] [[GL](https://gitlab.com/paveloom-g/julia/HillRegions.jl)]: A recipe to plot Hill regions `#julia` `#hill-regions`
+- *`paveloom-j.github.io`* [[GH](https://github.com/paveloom-j/paveloom-j.github.io)]: A root repository for GitHub Pages
+- *PaveloomRegistry* [[C](https://codeberg.org/paveloom-j/PaveloomRegistry)] [[GH](https://github.com/paveloom-j/PaveloomRegistry)] [[GL](https://gitlab.com/paveloom-g/julia/PaveloomRegistry)]: A personal Julia packages registry `#julia` `#julia-registry`
+- *`PDFHighlights.jl`* [[C](https://codeberg.org/paveloom-j/PDFHighlights.jl)] [[GH](https://github.com/paveloom-j/PDFHighlights.jl)] [[GL](https://gitlab.com/paveloom-g/julia/PDFHighlights.jl)]: Export highlights from PDF files to a CSV file with one call `#pdf` `#csv` `#julia` `#poppler`
+- *`Scats.jl`* [[C](https://codeberg.org/paveloom-j/Scats.jl)] [[GH](https://github.com/paveloom-j/Scats.jl)] [[GL](https://gitlab.com/paveloom-g/julia/Scats.jl)]: Spectral correlation analysis of time series (not supposed to be used) `#time-series` `#julia` `#periodogram` `#time-series-analysis` `#correlogram`
+
+<br>
+
 ##### Minor [[C](https://codeberg.org/paveloom-m)] [[GH](https://github.com/paveloom-m)] [[GL](https://gitlab.com/paveloom-g/minor)]: {#minor}
 - *`Makefiles`* [[C](https://codeberg.org/paveloom-m/Makefiles)] [[GH](https://github.com/paveloom-m/Makefiles)] [[GL](https://gitlab.com/paveloom-g/minor/Makefiles)]: Makefile templates for compiling programs and publishing code on GitHub `#git` `#makefile`
 - *`QtSettingsDemo`* [[C](https://codeberg.org/paveloom-m/QtSettingsDemo)] [[GH](https://github.com/paveloom-m/QtSettingsDemo)] [[GL](https://gitlab.com/paveloom-g/minor/QtSettingsDemo)]: Settings file generator: demonstration of the graphical interface created using Qt in the Qt Creator environment `#qtcreator` `#qt5-gui`
@@ -70,13 +80,8 @@ description = "This page contains a list of public Git repositories created by @
 
 <br>
 
-##### Julia [[C](https://codeberg.org/paveloom-j)] [[GH](https://github.com/paveloom-j)] [[GL](https://gitlab.com/paveloom-g/julia)]: {#julia}
-- *Exceptions.jl* [[C](https://codeberg.org/paveloom-j/Exceptions.jl)] [[GH](https://github.com/paveloom-j/Exceptions.jl)] [[GL](https://gitlab.com/paveloom-g/julia/Exceptions.jl)]: Easy exception creation `#julia` `#exceptions` `#exception-handling`
-- *`HillRegions.jl`* [[C](https://codeberg.org/paveloom-j/HillRegions.jl)] [[GH](https://github.com/paveloom-j/HillRegions.jl)] [[GL](https://gitlab.com/paveloom-g/julia/HillRegions.jl)]: A recipe to plot Hill regions `#julia` `#hill-regions`
-- *`paveloom-j.github.io`* [[GH](https://github.com/paveloom-j/paveloom-j.github.io)]: A root repository for GitHub Pages
-- *PaveloomRegistry* [[C](https://codeberg.org/paveloom-j/PaveloomRegistry)] [[GH](https://github.com/paveloom-j/PaveloomRegistry)] [[GL](https://gitlab.com/paveloom-g/julia/PaveloomRegistry)]: A personal Julia packages registry `#julia` `#julia-registry`
-- *`PDFHighlights.jl`* [[C](https://codeberg.org/paveloom-j/PDFHighlights.jl)] [[GH](https://github.com/paveloom-j/PDFHighlights.jl)] [[GL](https://gitlab.com/paveloom-g/julia/PDFHighlights.jl)]: Export highlights from PDF files to a CSV file with one call `#pdf` `#csv` `#julia` `#poppler`
-- *`Scats.jl`* [[C](https://codeberg.org/paveloom-j/Scats.jl)] [[GH](https://github.com/paveloom-j/Scats.jl)] [[GL](https://gitlab.com/paveloom-g/julia/Scats.jl)]: Spectral correlation analysis of time series (not supposed to be used) `#time-series` `#julia` `#periodogram` `#time-series-analysis` `#correlogram`
+##### Rust [[C](https://codeberg.org/paveloom-r)] [[GH](https://github.com/paveloom-r)] [[GL](https://gitlab.com/paveloom-g/rust)]: {#rust}
+- *simulated_annealing* [[C](https://codeberg.org/paveloom-r/simulated_annealing)] [[GH](https://github.com/paveloom-r/simulated_annealing)] [[GL](https://gitlab.com/paveloom-g/rust/simulated_annealing)]: An interface for global function optimization using simulated annealing `#rust` `#optimization` `#simulated-annealing`
 
 <br>
 
