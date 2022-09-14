@@ -28,6 +28,7 @@ The functionality of GNOME Shell can be changed with extensions, which can be wr
 #### Resources
 
 ##### Text
+- [2020] [How to Create A GNOME Extension](https://www.codeproject.com/Articles/5271677/How-to-Create-A-GNOME-Extension) ⭐
 - [2019] [Developing my first Gnome Extension](https://medium.com/@baymac/using-sqlite-in-gnome-extension-c499661d9bd5)
 - [2018] [Are there any up-to-date documentation on writing Gnome Shell extensions?](https://www.reddit.com/r/gnome/comments/9z79ra/are_there_any_uptodate_documentation_on_writing) ⭐
 - [2017] [GNOME Shell Extension Reference](https://github.com/julio641742/gnome-shell-extension-reference)
