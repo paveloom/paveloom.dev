@@ -6,8 +6,9 @@ The functionality of GNOME Shell can be changed with extensions, which can be wr
 - [GNOME Shell Extensions](https://extensions.gnome.org/) ⭐
 
 #### Code
-- [`gnome-shell/js/ui`](https://gitlab.gnome.org/GNOME/gnome-shell/-/tree/main/js/ui) ⭐
+- [`@gi-types`](https://www.npmjs.com/~ewlsh): TypeScript definitions for GNOME libraries ⭐
 - [`gnome-shell/js/misc/extensionUtils.js`](https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/js/misc/extensionUtils.js)
+- [`gnome-shell/js/ui`](https://gitlab.gnome.org/GNOME/gnome-shell/-/tree/main/js/ui) ⭐
 
 #### Documentation
 - [API Documentation](https://gjs-docs.gnome.org) ⭐
