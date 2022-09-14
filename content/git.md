@@ -85,6 +85,11 @@ description = "This page contains a list of public Git repositories created by @
 
 <br>
 
+##### TypeScript [[C](https://codeberg.org/paveloom-t)] [[GH](https://github.com/paveloom-t)] [[GL](https://gitlab.com/paveloom-g/typescript)]: {#typescript}
+- *gnome-shell-memento-mori* [[C](https://codeberg.org/paveloom-t/gnome-shell-memento-mori)] [[GH](https://github.com/paveloom-t/gnome-shell-memento-mori)] [[GL](https://gitlab.com/paveloom-g/typescript/gnome-shell-memento-mori)]: Make every second of your life count. Literally! `#typescript` `#gnome-shell-extension`
+
+<br>
+
 ##### University [[C](https://codeberg.org/paveloom-university)] [[GH](https://github.com/paveloom-university)] [[GL](https://gitlab.com/paveloom-g/university)]: {#university}
 - *`Astrometric Workshop Summer 2019`* [[C](https://codeberg.org/paveloom-university/Astrometric-Workshop-Summer-2019)] [[GH](https://github.com/paveloom-university/Astrometric-Workshop-Summer-2019)] [[GL](https://gitlab.com/paveloom-g/university/astrometric-workshop-summer-2019)]: Scripts and programs from the astrometric workshop `#observations`  `#astronomy` `#astrometry`
 - *`Astrophysical Workshop Summer 2021`* [[C](https://codeberg.org/paveloom-university/Astrophysical-Workshop-Summer-2021)] [[GH](https://github.com/paveloom-university/Astrophysical-Workshop-Summer-2021)] [[GL](https://gitlab.com/paveloom-g/university/astrophysical-workshop-summer-2021)]: Materials developed during the laboratory work at the astrophysical workshop `#astronomy` `#astrophysics` `#tectonic` `#xetex` `#julia`
