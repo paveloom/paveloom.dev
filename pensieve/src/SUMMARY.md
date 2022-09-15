@@ -17,6 +17,8 @@
     - [Software engineering](computer-science/software-development/software-engineering/README.md)
       - [Software testing](computer-science/software-development/software-engineering/software-testing/README.md)
         - [Fuzzing](computer-science/software-development/software-engineering/software-testing/fuzzing.md)
+- [Cryptocurrencies](cryptocurrencies/README.md)
+  - [Ethereum](cryptocurrencies/ethereum.md)
 - [Digital media](digital-media/README.md)
   - [Digital distribution](digital-media/digital-distribution/README.md)
     - [Music](digital-media/digital-distribution/music/README.md)
