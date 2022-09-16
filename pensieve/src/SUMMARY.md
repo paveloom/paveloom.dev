@@ -13,6 +13,8 @@
       - [WebAssembly](computer-programming/languages/assembly/webassembly.md)
     - [Rust](computer-programming/languages/rust.md)
 - [Computer science](computer-science/README.md)
+  - [Algorithms](computer-science/algorithms/README.md)
+    - [Recursion](computer-science/algorithms/recursion.md)
   - [Cryptography](computer-science/cryptography/README.md)
     - [Hash functions](computer-science/cryptography/hash-functions.md)
     - [Key derivation functions](computer-science/cryptography/kdf.md)
