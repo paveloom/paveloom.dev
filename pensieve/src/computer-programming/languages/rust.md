@@ -39,4 +39,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Rustlings](https://github.com/rust-lang/rustlings)
 
 #### News
+- [Awesome Rust Weekly](https://rust.libhunt.com/newsletter)
 - [This Week in Rust](https://this-week-in-rust.org) ⭐
