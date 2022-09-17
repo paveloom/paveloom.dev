@@ -6,4 +6,12 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/GNOME).
 
 #### Sites
 - [GNOME](https://www.gnome.org) ⭐
-- [GitLab instance](https://gitlab.gnome.org)
+- [GitLab](https://gitlab.gnome.org)
+
+#### News
+
+##### Text
+- [This Week in GNOME](https://thisweek.gnome.org) ⭐
+
+##### Video
+- [baby WOGUE](https://www.youtube.com/c/babyWOGUE)
