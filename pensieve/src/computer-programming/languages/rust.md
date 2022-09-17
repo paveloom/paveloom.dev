@@ -20,7 +20,12 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [The `rustc` book](https://doc.rust-lang.org/rustc)
 - [The `rustdoc` book](https://doc.rust-lang.org/rustdoc)
 
+#### Core
+- [Chalk](https://github.com/rust-lang/chalk): An implementation and definition of the Rust trait system using a PROLOG-like logic solver
+- [Polonius](https://github.com/rust-lang/polonius): Defines the Rust borrow checker
+
 #### Books
+- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book) ⭐
 - [Black Hat Rust](https://kerkour.com/black-hat-rust)
 - [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
 - [Command Line Applications in Rust](https://rust-cli.github.io/book) ⭐
@@ -41,3 +46,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 #### News
 - [Awesome Rust Weekly](https://rust.libhunt.com/newsletter)
 - [This Week in Rust](https://this-week-in-rust.org) ⭐
+
+#### Resources
+
+##### Text
+- [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
+- [2022] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
