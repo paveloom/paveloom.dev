@@ -6,3 +6,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Cryptocurrency).
 
 #### Wallets
 - [Unstoppable Wallet](https://unstoppable.money) ⭐
+
+#### News
+- [OurNetwork](https://ournetwork.substack.com)
