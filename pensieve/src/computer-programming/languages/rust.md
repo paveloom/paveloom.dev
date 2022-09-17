@@ -25,10 +25,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Polonius](https://github.com/rust-lang/polonius): Defines the Rust borrow checker
 
 #### Books
-- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book) ⭐
+- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
 - [Black Hat Rust](https://kerkour.com/black-hat-rust)
 - [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
-- [Command Line Applications in Rust](https://rust-cli.github.io/book) ⭐
+- [Command Line Applications in Rust](https://rust-cli.github.io/book)
 - [High Assurance Rust](https://highassurance.rs)
 - [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
 - [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust)
