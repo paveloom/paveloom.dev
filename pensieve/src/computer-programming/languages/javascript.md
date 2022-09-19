@@ -7,3 +7,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/JavaScript).
 #### Documentation
 - [MDN Web Docs: JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ⭐
 - [MDN Web Docs: JavaScript Guides](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) ⭐
+
+#### Community
+- [State of JavaScript](https://stateofjs.com/en-us) ⭐
