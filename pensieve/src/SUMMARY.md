@@ -11,6 +11,7 @@
   - [Languages](computer-programming/languages/README.md)
     - [Assembly](computer-programming/languages/assembly/README.md)
       - [WebAssembly](computer-programming/languages/assembly/webassembly.md)
+    - [JavaScript](computer-programming/languages/javascript.md)
     - [Rust](computer-programming/languages/rust.md)
 - [Computer science](computer-science/README.md)
   - [Algorithms](computer-science/algorithms/README.md)
