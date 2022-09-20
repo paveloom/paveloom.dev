@@ -74,6 +74,7 @@
   - [Media players](software/media-players.md)
   - [Search engines](software/search-engines/README.md)
     - [Web](software/search-engines/web.md)
+  - [Terminal emulators](software/terminal-emulators.md)
   - [Text editors](software/text-editors/README.md)
     - [Neovim](software/text-editors/neovim.md)
   - [Tools](software/tools.md)
