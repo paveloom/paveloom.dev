@@ -12,6 +12,7 @@
     - [Assembly](computer-programming/languages/assembly/README.md)
       - [WebAssembly](computer-programming/languages/assembly/webassembly.md)
     - [JavaScript](computer-programming/languages/javascript.md)
+    - [Julia](computer-programming/languages/julia.md)
     - [Rust](computer-programming/languages/rust.md)
     - [TypeScript](computer-programming/languages/typescript.md)
 - [Computer science](computer-science/README.md)
