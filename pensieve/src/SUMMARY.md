@@ -13,6 +13,7 @@
       - [WebAssembly](computer-programming/languages/assembly/webassembly.md)
     - [JavaScript](computer-programming/languages/javascript.md)
     - [Rust](computer-programming/languages/rust.md)
+    - [TypeScript](computer-programming/languages/typescript.md)
 - [Computer science](computer-science/README.md)
   - [Algorithms](computer-science/algorithms/README.md)
     - [Recursion](computer-science/algorithms/recursion.md)
