@@ -7,7 +7,19 @@ The main goal of WebAssembly is to enable high-performance applications on web p
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/WebAssembly).
 
 #### Sites
+
+##### Official
 - [WebAssembly](https://webassembly.org) ⭐
+
+##### Related
+- [Bytecode Alliance](https://bytecodealliance.org): A nonprofit organization dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI)
+
+##### Other
+- [Made with WebAssembly](https://madewithwebassembly.com): An Open Source showcase of awesome production applications, side projects, and use cases made with WebAssembly (Wasm)
+- [Wasm By Example](https://wasmbyexample.dev): A concise, hands-on introduction to WebAssembly using code snippets and annotated WebAssembly example programs
+
+#### Examples
+- [Wavacity](https://wavacity.com): A free, open source audio editor for the web
 
 #### Runtimes
 - [Wasmer](https://wasmer.io)
@@ -25,11 +37,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/WebAssembly).
 - [`wasm-pack`](https://github.com/rustwasm/wasm-pack): Rust to Wasm workflow tool
 
 #### Resources
-- [Made with WebAssembly](https://madewithwebassembly.com): An Open Source showcase of awesome production applications, side projects, and use cases made with WebAssembly (Wasm)
-- [Wasm By Example](https://wasmbyexample.dev): A concise, hands-on introduction to WebAssembly using code snippets and annotated WebAssembly example programs
 
-#### Related
-- [Bytecode Alliance](https://bytecodealliance.org): A nonprofit organization dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI)
-
-#### Posts
+##### Text
 - [2020] [Can WASM become the new Docker?](https://adlrocha.substack.com/p/adlrocha-can-wasm-become-the-new)
+
+##### Video
+
+- [2022] [Rust & Wasm (Safe and fast web development)](https://www.youtube.com/watch?v=P4LMfkFLRsI)
