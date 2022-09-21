@@ -9,3 +9,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/WireGuard).
 
 #### Utilities
 - [`angristan/wireguard-install`](https://github.com/angristan/wireguard-install): WireGuard VPN installer for Linux servers ⭐
+
+#### Related
+- [`innernet`](https://github.com/tonarino/innernet): A private network system that uses WireGuard under the hood
