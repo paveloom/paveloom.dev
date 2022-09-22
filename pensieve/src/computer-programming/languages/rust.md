@@ -45,6 +45,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 
 #### News
 - [Awesome Rust Weekly](https://rust.libhunt.com/newsletter)
+- [Inside Rust Blog](https://blog.rust-lang.org/inside-rust)
+- [Rust Blog](https://blog.rust-lang.org) ⭐
 - [This Week in Rust](https://this-week-in-rust.org) ⭐
 
 #### Resources
