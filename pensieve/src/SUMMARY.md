@@ -6,7 +6,8 @@
 
 - [Artificial intelligence](artificial-intelligence/README.md)
   - [Natural language processing](artificial-intelligence/nlp/README.md)
-    - [Speech synthesis](artificial-intelligence/nlp/speech-synthesis/README.md)
+    - [Speech recognition](artificial-intelligence/nlp/speech-recognition.md)
+    - [Speech synthesis](artificial-intelligence/nlp/speech-synthesis.md)
 - [Computer programming](computer-programming/README.md)
   - [Languages](computer-programming/languages/README.md)
     - [Assembly](computer-programming/languages/assembly/README.md)
