@@ -33,6 +33,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
 - [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust)
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines)
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook) ⭐
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns)
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book)
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
