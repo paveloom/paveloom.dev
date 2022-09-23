@@ -38,6 +38,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book)
+- [The Rust Rand Book](https://rust-random.github.io/book)
 
 #### Courses
 - [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
