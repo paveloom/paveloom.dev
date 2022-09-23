@@ -6,3 +6,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Speech_recognition).
 
 #### Examples
 - [Whisper](https://github.com/openai/whisper): A general-purpose speech recognition model
+
+#### Resources
+
+##### Video
+- [Open AI Whisper - Open Source Translation and Transcription](https://odysee.com/@AlphaNerd:8/open-ai-whisper-open-source-translation:e)
