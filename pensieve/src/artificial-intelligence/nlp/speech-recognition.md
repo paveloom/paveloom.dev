@@ -5,7 +5,8 @@ Speech recognition is an interdisciplinary subfield of computer science and comp
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Speech_recognition).
 
 #### Examples
-- [Whisper](https://github.com/openai/whisper): A general-purpose speech recognition model
+- [Project Shasta](https://pages.adobe.com/shasta): AI-powered audio recording and editing, all in the web
+- [Whisper](https://github.com/openai/whisper): A general-purpose speech recognition model ⭐
 
 #### Resources
 
