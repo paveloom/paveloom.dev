@@ -45,11 +45,17 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
 - [Rustlings](https://github.com/rust-lang/rustlings)
 
-#### News
+#### Community
+
+##### News
 - [Awesome Rust Weekly](https://rust.libhunt.com/newsletter)
 - [Inside Rust Blog](https://blog.rust-lang.org/inside-rust)
 - [Rust Blog](https://blog.rust-lang.org) ⭐
 - [This Week in Rust](https://this-week-in-rust.org) ⭐
+
+##### Blogs
+- [Amos's website](https://fasterthanli.me) ⭐
+- [Sylvain Kerkour's blog](https://kerkour.com/posts) ⭐
 
 #### Resources
 
