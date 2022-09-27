@@ -3,7 +3,8 @@
 The functionality of GNOME Shell can be changed with extensions, which can be written in JavaScript. Users can find and install extensions using the GNOME extensions website. Some of these extensions are hosted in GNOME's git repository, though they are not official.
 
 #### Sites
-- [GNOME Shell Extensions](https://extensions.gnome.org/) ⭐
+- [GNOME Shell Extensions](https://extensions.gnome.org) ⭐
+  - [Unreviewed Extensions](https://extensions.gnome.org/review)
 
 #### Code
 - [`@gi-types`](https://www.npmjs.com/~ewlsh): TypeScript definitions for GNOME libraries ⭐
