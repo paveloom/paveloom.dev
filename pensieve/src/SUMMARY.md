@@ -16,6 +16,7 @@
     - [Julia](computer-programming/languages/julia.md)
     - [Rust](computer-programming/languages/rust.md)
     - [TypeScript](computer-programming/languages/typescript.md)
+    - [Vale](computer-programming/languages/vale.md)
 - [Computer science](computer-science/README.md)
   - [Algorithms](computer-science/algorithms/README.md)
     - [Recursion](computer-science/algorithms/recursion.md)
