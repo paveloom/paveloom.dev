@@ -74,6 +74,7 @@
     - [User commands](operating-systems/linux/user-commands/README.md)
       - [Locale](operating-systems/linux/user-commands/locale/README.md)
         - [How to create a custom locale on Fedora?](operating-systems/linux/user-commands/locale/how-to-create-a-custom-locale-on-fedora.md)
+    - [Window managers](operating-systems/linux/window-managers.md)
 - [Software](software/README.md)
   - [Email clients](software/email-clients.md)
   - [Media players](software/media-players.md)
