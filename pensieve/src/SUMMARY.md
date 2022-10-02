@@ -6,6 +6,7 @@
 
 - [Artificial intelligence](artificial-intelligence/README.md)
   - [Natural language processing](artificial-intelligence/nlp/README.md)
+    - [Intelligent code completion](artificial-intelligence/nlp/icc.md)
     - [Speech recognition](artificial-intelligence/nlp/speech-recognition.md)
     - [Speech synthesis](artificial-intelligence/nlp/speech-synthesis.md)
 - [Computer science](computer-science/README.md)
