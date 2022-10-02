@@ -12,6 +12,7 @@
   - [Languages](computer-programming/languages/README.md)
     - [Assembly](computer-programming/languages/assembly/README.md)
       - [WebAssembly](computer-programming/languages/assembly/webassembly.md)
+    - [Go](computer-programming/languages/go.md)
     - [JavaScript](computer-programming/languages/javascript.md)
     - [Julia](computer-programming/languages/julia.md)
     - [Rust](computer-programming/languages/rust.md)
