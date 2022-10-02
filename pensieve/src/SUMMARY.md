@@ -5,10 +5,11 @@
 ---
 
 - [Artificial intelligence](artificial-intelligence/README.md)
+  - [Intelligent code completion](artificial-intelligence/icc.md)
   - [Natural language processing](artificial-intelligence/nlp/README.md)
-    - [Intelligent code completion](artificial-intelligence/nlp/icc.md)
     - [Speech recognition](artificial-intelligence/nlp/speech-recognition.md)
     - [Speech synthesis](artificial-intelligence/nlp/speech-synthesis.md)
+  - [Text-to-image](artificial-intelligence/text-to-image.md)
 - [Computer science](computer-science/README.md)
   - [Algorithms](computer-science/algorithms/README.md)
     - [Recursion](computer-science/algorithms/recursion.md)

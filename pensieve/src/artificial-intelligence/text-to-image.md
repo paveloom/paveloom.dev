@@ -1,0 +1,13 @@
+# Text-to-image
+
+A text-to-image model is a machine learning model which takes as input a natural language description and produces an image matching that description. Such models began to be developed in the mid-2010s, as a result of advances in deep neural networks. In 2022, the output of state of the art text-to-image models, such as OpenAI's DALL-E 2, Google Brain's Imagen and StabilityAI's Stable Diffusion began to approach the quality of real photographs and human-drawn art.
+
+Read more on [Wikipedia](https://en.wikipedia.org/wiki/Text-to-image_model).
+
+#### Examples
+- [DALL-E](https://openai.com/blog/dall-e)
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐
+  - [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion)
+
+#### Resources
+- [2022] [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
