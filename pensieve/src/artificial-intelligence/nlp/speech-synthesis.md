@@ -5,4 +5,5 @@ Speech synthesis is the artificial production of human speech. A computer system
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Speech_synthesis).
 
 #### Examples
+- [Coqui](https://coqui.ai): A startup providing open speech tech for everyone
 - [Sonantic](https://www.sonantic.io): Deliver compelling, lifelike performances with fully expressive AI-generated voices
