@@ -11,3 +11,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Text-to-image_model).
 
 #### Resources
 - [2022] [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
+- [2022] [High-performance image generation using Stable Diffusion in KerasCV](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion)
