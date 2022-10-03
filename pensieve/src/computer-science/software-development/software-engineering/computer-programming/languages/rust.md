@@ -4,10 +4,12 @@ Rust is a multi-paradigm, general-purpose programming language. Rust emphasizes 
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)).
 
-#### Sites
+#### Official
+
+##### Sites
 - [Rust](https://www.rust-lang.org) ⭐
 
-#### Documentation
+##### Documentation
 - [Rust Book](https://doc.rust-lang.org/book) ⭐
 - [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example) ⭐
 - [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html)
@@ -20,11 +22,16 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [The `rustc` book](https://doc.rust-lang.org/rustc)
 - [The `rustdoc` book](https://doc.rust-lang.org/rustdoc)
 
-#### Core
+##### Core
 - [Chalk](https://github.com/rust-lang/chalk): An implementation and definition of the Rust trait system using a PROLOG-like logic solver
 - [Polonius](https://github.com/rust-lang/polonius): Defines the Rust borrow checker
 
-#### Books
+#### Community
+
+##### Sites
+- [Rust Quiz](https://dtolnay.github.io/rust-quiz)
+
+##### Books
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
 - [Black Hat Rust](https://kerkour.com/black-hat-rust)
 - [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
@@ -41,11 +48,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book)
 - [The Rust Rand Book](https://rust-random.github.io/book)
 
-#### Courses
+##### Courses
 - [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
 - [Rustlings](https://github.com/rust-lang/rustlings)
-
-#### Community
 
 ##### News
 - [Awesome Rust Weekly](https://rust.libhunt.com/newsletter)
@@ -57,8 +62,12 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Amos's website](https://fasterthanli.me) ⭐
 - [Sylvain Kerkour's blog](https://kerkour.com/posts) ⭐
 
+##### Tools
+- [`cargo careful`](https://www.ralfj.de/blog/2022/09/26/cargo-careful.html): Run your Rust code with extra careful debug checking
+
 #### Resources
 
 ##### Text
+- [A curated list of Rust code and resources](https://github.com/rust-unofficial/awesome-rust) ⭐
 - [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
 - [2022] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
