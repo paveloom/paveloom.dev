@@ -6,3 +6,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/FFmpeg).
 
 #### Sites
 - [FFmpeg](https://www.ffmpeg.org) ⭐
+
+#### Tools
+- [`ffmpeg-normalize`](https://github.com/slhck/ffmpeg-normalize): Audio Normalization for Python/ffmpeg ⭐
