@@ -32,6 +32,7 @@
     - [Information theory](computer-science/mathematics-of-computing/information-theory/README.md)
       - [Data compression](computer-science/mathematics-of-computing/information-theory/data-compression/README.md)
         - [Audio](computer-science/mathematics-of-computing/information-theory/data-compression/audio.md)
+        - [Video](computer-science/mathematics-of-computing/information-theory/data-compression/video.md)
   - [Software development](computer-science/software-development/README.md)
     - [Software engineering](computer-science/software-development/software-engineering/README.md)
       - [Computer programming](computer-science/software-development/software-engineering/computer-programming/README.md)
