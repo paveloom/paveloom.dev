@@ -23,4 +23,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Data_compression#Audio).
 - [2019] [Anime Encoding Guide for x265 (HEVC) & AAC/OPUS (and Why to Never Use FLAC)](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac) ⭐
 
 #### See also
-- [FFmpeg](/digital-media/multimedia/software/ffmpeg/README.md)
+- [FFmpeg](/digital-media/multimedia/software/ffmpeg)

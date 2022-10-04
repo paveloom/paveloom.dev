@@ -6,6 +6,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/FFmpeg).
 
 #### Sites
 - [FFmpeg](https://www.ffmpeg.org) ⭐
+- [FFmpeg Wiki](https://trac.ffmpeg.org) ⭐
 
 #### Tools
 - [`ffmpeg-normalize`](https://github.com/slhck/ffmpeg-normalize): Audio Normalization for Python/ffmpeg ⭐
+
+#### See also
+- [Audio compression](/computer-science/mathematics-of-computing/information-theory/data-compression/audio.md)
+- [Video compression](/computer-science/mathematics-of-computing/information-theory/data-compression/video.md)
