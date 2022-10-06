@@ -10,5 +10,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Text-to-image_model).
   - [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion)
 
 #### Resources
+
+##### Text
+- [2022] [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion)
 - [2022] [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
 - [2022] [High-performance image generation using Stable Diffusion in KerasCV](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion)
+
+##### Video
+- [2022] [How AI Image Generators Work (Stable Diffusion / Dall-E)](https://www.youtube.com/watch?v=1CIpzeNxIhU)
