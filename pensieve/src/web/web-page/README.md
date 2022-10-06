@@ -5,4 +5,5 @@ A web page (or webpage) is a hypertext document on the World Wide Web. Web pages
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Web_page).
 
 #### Posts
+- [2022] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [2022] [My Blog is Hilariously Overengineered to the Point People Think it's a Static Site](https://xeiaso.net/talks/how-my-website-works)
