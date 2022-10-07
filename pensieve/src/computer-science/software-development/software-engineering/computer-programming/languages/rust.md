@@ -29,6 +29,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 #### Community
 
 ##### Sites
+- [Are we (I)DE yet?](https://areweideyet.com)
+- [Are we game yet](https://arewegameyet.rs)
+- [Are we learning yet?](https://www.arewelearningyet.com)
+- [Are we web yet?](https://www.arewewebyet.org)
 - [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 
 ##### Books
@@ -74,3 +78,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [2022] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
 - [2022] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
+- [2021] [From Python into Rust](https://github.com/rochacbruno/py2rs) ⭐
