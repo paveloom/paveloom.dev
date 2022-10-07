@@ -9,3 +9,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Git).
 
 #### Tools
 - [`lazygit`](https://github.com/jesseduffield/lazygit): Simple terminal UI for git commands ⭐
+
+#### Resources
+- [2020] [How to update a pull request from a fork with Git](https://monicalent.com/blog/2020/05/03/update-pull-request-from-fork-git)
