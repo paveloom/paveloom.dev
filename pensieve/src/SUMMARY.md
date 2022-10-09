@@ -43,6 +43,7 @@
           - [JavaScript](computer-science/software-development/software-engineering/computer-programming/languages/javascript.md)
           - [Julia](computer-science/software-development/software-engineering/computer-programming/languages/julia.md)
           - [Lua](computer-science/software-development/software-engineering/computer-programming/languages/lua.md)
+          - [Nim](computer-science/software-development/software-engineering/computer-programming/languages/nim.md)
           - [Rust](computer-science/software-development/software-engineering/computer-programming/languages/rust.md)
           - [TypeScript](computer-science/software-development/software-engineering/computer-programming/languages/typescript.md)
           - [Vale](computer-science/software-development/software-engineering/computer-programming/languages/vale.md)
