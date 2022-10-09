@@ -5,9 +5,14 @@ A text-to-image model is a machine learning model which takes as input a natural
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Text-to-image_model).
 
 #### Examples
+
+##### Image
 - [DALL-E](https://openai.com/blog/dall-e)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐
   - [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion)
+
+##### Video
+- [Imagen Video](https://imagen.research.google/video)
 
 #### Resources
 
