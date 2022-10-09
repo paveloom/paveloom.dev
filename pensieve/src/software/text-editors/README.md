@@ -6,6 +6,7 @@ A text editor is a type of computer program that edits plain text. Text editors 
 
 ##### Active
 - [Helix](https://github.com/helix-editor/helix)
+- [Kakoune](https://kakoune.org)
 - [Neovim](neovim.md) ⭐
 - [Visual Studio Code](https://code.visualstudio.com)
 
