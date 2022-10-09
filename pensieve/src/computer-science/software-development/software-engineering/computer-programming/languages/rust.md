@@ -79,3 +79,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
 - [2022] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
 - [2021] [From Python into Rust](https://github.com/rochacbruno/py2rs) ⭐
+
+##### Video
+- [No Boilerplate](https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA) ⭐
