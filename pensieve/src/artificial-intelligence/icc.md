@@ -7,3 +7,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Intelligent_code_completi
 #### Examples
 - [GPT-Code-Clippy](https://github.com/CodedotAl/gpt-code-clippy)
 - [GitHub Copilot](https://github.com/features/copilot)
+- [Tabnine](https://www.tabnine.com)
