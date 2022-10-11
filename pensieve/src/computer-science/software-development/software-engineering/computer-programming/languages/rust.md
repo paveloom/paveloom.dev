@@ -68,7 +68,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Sylvain Kerkour's blog](https://kerkour.com/posts) ⭐
 
 ##### Tools
-- [`cargo careful`](https://www.ralfj.de/blog/2022/09/26/cargo-careful.html): Run your Rust code with extra careful debug checking
+- [`cargo-c`](https://github.com/lu-zero/cargo-c): Build and install C-compatible libraries
+- [`cargo-careful`](https://www.ralfj.de/blog/2022/09/26/cargo-careful.html): Run your Rust code with extra careful debug checking
 
 #### Resources
 
