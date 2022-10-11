@@ -51,6 +51,7 @@
       - [Software testing](computer-science/software-development/software-engineering/software-testing/README.md)
         - [Fuzzing](computer-science/software-development/software-engineering/software-testing/fuzzing.md)
       - [Version control](computer-science/software-development/software-engineering/version-control/README.md)
+        - [Changelog](computer-science/software-development/software-engineering/version-control/changelog.md)
         - [Git](computer-science/software-development/software-engineering/version-control/git.md)
 - [Cryptocurrencies](cryptocurrencies/README.md)
   - [Ethereum](cryptocurrencies/ethereum.md)
