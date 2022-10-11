@@ -22,5 +22,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Data_compression#Audio).
 - [2021] [Lyra - enabling voice calls for the next billion users](https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html)
 - [2019] [Anime Encoding Guide for x265 (HEVC) & AAC/OPUS (and Why to Never Use FLAC)](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac) ⭐
 
-#### See also
-- [FFmpeg](/digital-media/multimedia/software/ffmpeg)
+#### Software
+- [FFmpeg](/digital-media/multimedia/software/ffmpeg) ⭐
