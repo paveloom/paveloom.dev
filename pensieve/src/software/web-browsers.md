@@ -11,6 +11,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Web_browser).
 - [Google Chrome](https://www.google.com/chrome)
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [Opera](https://www.opera.com/browsers/opera)
+- [Polypane](https://polypane.app)
 - [qutebrowser](https://www.qutebrowser.org)
 - [Safari](https://www.apple.com/safari)
 - [Tor Browser](https://www.torproject.org)
