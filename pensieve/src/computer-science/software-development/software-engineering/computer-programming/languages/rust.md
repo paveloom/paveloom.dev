@@ -76,6 +76,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 ##### Text
 - [A curated list of Rust code and resources](https://github.com/rust-unofficial/awesome-rust) ⭐
 - [Learn X in Y minutes where X = Rust](https://learnxinyminutes.com/docs/rust) ⭐
+- [2022] [Hard Mode Rust](https://matklad.github.io//2022/10/06/hard-mode-rust.html)
 - [2022] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
 - [2022] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
