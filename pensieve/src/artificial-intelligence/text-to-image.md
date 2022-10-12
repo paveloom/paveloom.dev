@@ -9,6 +9,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Text-to-image_model).
 ##### Image
 - [DALL-E](https://openai.com/blog/dall-e)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐
+  - [InvokeAI](https://invoke-ai.github.io/InvokeAI)
   - [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion)
 
 ##### Video
