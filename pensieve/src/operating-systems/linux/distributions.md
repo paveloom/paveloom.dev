@@ -17,6 +17,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Linux_distribution).
   - [Nobara Project](https://nobaraproject.org)
   - [Red Hat Enterprise Linux](https://redhat.com/rhel)
 - [Gentoo](https://www.gentoo.org)
+  - [Funtoo](https://www.funtoo.org)
+  - [MocaccinoOS](https://www.mocaccino.org)
 - [openSUSE](https://www.opensuse.org)
 
 #### Resources
