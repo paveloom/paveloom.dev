@@ -91,6 +91,7 @@
         - [GNOME Shell](operating-systems/linux/desktop-environments/gnome/gnome-shell/README.md)
           - [Extensions](operating-systems/linux/desktop-environments/gnome/gnome-shell/extensions.md)
     - [Distributions](operating-systems/linux/distributions.md)
+    - [Package manager](operating-systems/linux/package-manager.md)
     - [User commands](operating-systems/linux/user-commands/README.md)
       - [Locale](operating-systems/linux/user-commands/locale/README.md)
         - [How to create a custom locale on Fedora?](operating-systems/linux/user-commands/locale/how-to-create-a-custom-locale-on-fedora.md)
