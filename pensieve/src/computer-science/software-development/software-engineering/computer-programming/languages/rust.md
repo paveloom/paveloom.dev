@@ -33,6 +33,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Are we game yet](https://arewegameyet.rs)
 - [Are we learning yet?](https://www.arewelearningyet.com)
 - [Are we web yet?](https://www.arewewebyet.org)
+- [Rust Language Cheat Sheet](https://cheats.rs) ⭐
 - [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 
 ##### Books
@@ -50,6 +51,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book)
+- [The Rust Programming Language, 2nd Edition](https://nostarch.com/rust-programming-language-2nd-edition)
 - [The Rust Rand Book](https://rust-random.github.io/book)
 
 ##### Courses
@@ -70,17 +72,21 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 ##### Tools
 - [`cargo-c`](https://github.com/lu-zero/cargo-c): Build and install C-compatible libraries
 - [`cargo-careful`](https://www.ralfj.de/blog/2022/09/26/cargo-careful.html): Run your Rust code with extra careful debug checking
+- [Prusti](https://github.com/viperproject/prusti-dev): A static verifier for Rust, based on the Viper verification infrastructure
 
 #### Resources
 
 ##### Text
 - [A curated list of Rust code and resources](https://github.com/rust-unofficial/awesome-rust) ⭐
+- [How to minimize Rust binary size](https://github.com/johnthagen/min-sized-rust) ⭐
 - [Learn X in Y minutes where X = Rust](https://learnxinyminutes.com/docs/rust) ⭐
+- [2022] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
+- [2022] [Comparing Rust supply chain safety tools](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools)
 - [2022] [Hard Mode Rust](https://matklad.github.io//2022/10/06/hard-mode-rust.html)
 - [2022] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
-- [2022] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
 - [2021] [From Python into Rust](https://github.com/rochacbruno/py2rs) ⭐
+- [2016] [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
 
 ##### Video
 - [No Boilerplate](https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA) ⭐
