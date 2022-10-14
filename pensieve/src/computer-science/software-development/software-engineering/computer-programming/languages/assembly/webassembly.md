@@ -39,6 +39,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/WebAssembly).
 #### Resources
 
 ##### Text
+- [2022] [Avoiding allocations in Rust to shrink Wasm modules](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules) ⭐
+- [2022] [Recommendations when publishing a Wasm library](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library) ⭐
 - [2020] [Can WASM become the new Docker?](https://adlrocha.substack.com/p/adlrocha-can-wasm-become-the-new)
 
 ##### Video
