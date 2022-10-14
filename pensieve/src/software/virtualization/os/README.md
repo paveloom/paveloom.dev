@@ -6,4 +6,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/OS-level_virtualization).
 
 #### Examples
 - [Docker](https://www.docker.com)
+- [Kata Containers](https://katacontainers.io)
 - [Podman](podman.md) ⭐
