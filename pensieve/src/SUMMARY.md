@@ -50,6 +50,7 @@
           - [TypeScript](computer-science/software-development/software-engineering/computer-programming/languages/typescript.md)
           - [Vale](computer-science/software-development/software-engineering/computer-programming/languages/vale.md)
           - [Zig](computer-science/software-development/software-engineering/computer-programming/languages/zig.md)
+        - [Programming idiom](computer-science/software-development/software-engineering/computer-programming/programming-idiom.md)
       - [Software testing](computer-science/software-development/software-engineering/software-testing/README.md)
         - [Fuzzing](computer-science/software-development/software-engineering/software-testing/fuzzing.md)
       - [Version control](computer-science/software-development/software-engineering/version-control/README.md)
