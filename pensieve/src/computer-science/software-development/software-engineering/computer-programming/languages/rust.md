@@ -43,11 +43,14 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Command Line Applications in Rust](https://rust-cli.github.io/book)
 - [High Assurance Rust](https://highassurance.rs)
 - [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
+- [Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 - [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust)
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines)
+- [Rust Atomics and Locks](https://www.oreilly.com/library/view/rust-atomics-and/9781098119430)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook) ⭐
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns)
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book)
+- [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 - [The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book)
@@ -65,7 +68,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [This Week in Rust](https://this-week-in-rust.org) ⭐
 
 ##### Blogs
-- [Amos's website](https://fasterthanli.me) ⭐
+- [Faster than Lime](https://fasterthanli.me) ⭐
 - [Read Rust](https://readrust.net)
 - [Sylvain Kerkour's blog](https://kerkour.com/posts) ⭐
 
@@ -73,6 +76,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [`cargo-c`](https://github.com/lu-zero/cargo-c): Build and install C-compatible libraries
 - [`cargo-careful`](https://www.ralfj.de/blog/2022/09/26/cargo-careful.html): Run your Rust code with extra careful debug checking
 - [Prusti](https://github.com/viperproject/prusti-dev): A static verifier for Rust, based on the Viper verification infrastructure
+
+##### Libraries
+- [`log`](https://docs.rs/log/latest/log): A lightweight logging facade
+- [Serde](https://serde.rs): A framework for serializing and deserializing Rust data structures efficiently and generically ⭐
+- [Tokio](https://tokio.rs): An asynchronous runtime for the Rust programming language ⭐
 
 #### Resources
 
@@ -86,6 +94,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [2022] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
 - [2021] [From Python into Rust](https://github.com/rochacbruno/py2rs) ⭐
+- [2020] [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) ⭐
+- [2019] [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust)
 - [2016] [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
 
 ##### Video
