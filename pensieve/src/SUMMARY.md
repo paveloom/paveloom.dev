@@ -66,6 +66,7 @@
             - [Julia](computer-science/software/software-development/software-engineering/computer-programming/programming-language/julia.md)
             - [Lua](computer-science/software/software-development/software-engineering/computer-programming/programming-language/lua.md)
             - [Nim](computer-science/software/software-development/software-engineering/computer-programming/programming-language/nim.md)
+            - [Python](computer-science/software/software-development/software-engineering/computer-programming/programming-language/python.md)
             - [Rust](computer-science/software/software-development/software-engineering/computer-programming/programming-language/rust.md)
             - [Vale](computer-science/software/software-development/software-engineering/computer-programming/programming-language/vale.md)
             - [Zig](computer-science/software/software-development/software-engineering/computer-programming/programming-language/zig.md)

@@ -14,6 +14,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Julia](julia.md)
 - [Lua](lua.md)
 - [Nim](nim.md)
+- [Python](python.md)
 - [Racket](https://racket-lang.org)
 - [Reason](https://reasonml.github.io)
 - [Rust](rust.md)
