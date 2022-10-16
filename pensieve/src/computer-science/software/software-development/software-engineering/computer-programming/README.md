@@ -7,7 +7,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 #### Community
 
 ##### Blogs
-- [Deeply Nested](https://nested.substack.com) ⭐
 - [Evan Ovadia's Blog](https://verdagon.dev) ⭐
 
 #### Resources

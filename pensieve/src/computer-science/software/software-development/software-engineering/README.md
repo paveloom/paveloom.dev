@@ -6,6 +6,18 @@ A software engineer is a person who applies the principles of software engineeri
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_engineering).
 
+#### Community
+
+##### Blogs
+- [Deeply Nested](https://nested.substack.com) ⭐
+
+##### Social networks
+- [GitHub](https://github.com)
+- [Showwcase](https://www.showwcase.com)
+
+##### Showcase
+- [CodersRank](https://codersrank.io)
+
 #### Resources
 
 ##### Video
