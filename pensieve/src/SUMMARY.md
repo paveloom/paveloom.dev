@@ -56,6 +56,7 @@
     - [Software development](computer-science/software/software-development/README.md)
       - [Software engineering](computer-science/software/software-development/software-engineering/README.md)
         - [Computer programming](computer-science/software/software-development/software-engineering/computer-programming/README.md)
+          - [Memory management](computer-science/software/software-development/software-engineering/computer-programming/memory-management/README.md)
           - [Programming idiom](computer-science/software/software-development/software-engineering/computer-programming/programming-idiom.md)
           - [Programming language](computer-science/software/software-development/software-engineering/computer-programming/programming-language/README.md)
             - [Assembly](computer-science/software/software-development/software-engineering/computer-programming/programming-language/assembly/README.md)
