@@ -81,6 +81,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [`log`](https://docs.rs/log/latest/log): A lightweight logging facade
 - [Serde](https://serde.rs): A framework for serializing and deserializing Rust data structures efficiently and generically ⭐
 - [Tokio](https://tokio.rs): An asynchronous runtime for the Rust programming language ⭐
+- [Yew](https://yew.rs): A modern Rust framework for creating multi-threaded front-end web apps using WebAssembly
 
 #### Resources
 
