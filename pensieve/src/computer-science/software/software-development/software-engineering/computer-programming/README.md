@@ -4,7 +4,11 @@ Computer programming is the process of performing a particular computation (or m
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 
-#### Resources
+#### Community
 
-##### Text
+##### Blogs
+- [Deeply Nested](https://nested.substack.com) ⭐
 - [Evan Ovadia's Blog](https://verdagon.dev) ⭐
+
+#### Resources
+- [Variables](https://nested.substack.com/p/variables)
