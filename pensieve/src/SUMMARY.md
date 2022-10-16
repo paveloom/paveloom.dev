@@ -88,6 +88,7 @@
           - [Windows Subsystem for Linux](computer-science/software/system-software/operating-system/compatibility-layer/wsl/README.md)
             - [How to SSH into WSL 2?](computer-science/software/system-software/operating-system/compatibility-layer/wsl/how-to-ssh-into-wsl-2.md)
             - [How to access a local server running inside WSL 2?](computer-science/software/system-software/operating-system/compatibility-layer/wsl/how-to-access-a-local-server-running-inside-wsl-2.md)
+        - [File system](computer-science/software/system-software/operating-system/file-system.md)
         - [Linux](computer-science/software/system-software/operating-system/linux/README.md)
           - [Desktop environments](computer-science/software/system-software/operating-system/linux/desktop-environments/README.md)
             - [GNOME](computer-science/software/system-software/operating-system/linux/desktop-environments/gnome/README.md)
