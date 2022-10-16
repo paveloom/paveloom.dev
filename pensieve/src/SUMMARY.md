@@ -13,6 +13,8 @@
 - [Computer science](computer-science/README.md)
   - [Algorithms](computer-science/algorithms/README.md)
     - [Recursion](computer-science/algorithms/recursion.md)
+  - [Computer graphics](computer-science/computer-graphics/README.md)
+    - [Rendering](computer-science/computer-graphics/rendering.md)
   - [Computer networks](computer-science/computer-networks/README.md)
     - [DNS](computer-science/computer-networks/dns/README.md)
       - [Handshake](computer-science/computer-networks/dns/handshake/README.md)
