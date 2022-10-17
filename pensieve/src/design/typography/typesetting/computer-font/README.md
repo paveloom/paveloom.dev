@@ -15,6 +15,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_font).
 - [Victor Mono](https://rubjo.github.io/victor-mono)
 
 #### Community
+- [Font Repo](https://www.fontrepo.com): Free Fonts in TTF format
 - [Nerd Fonts](https://www.nerdfonts.com): Iconic font aggregator, collection, and patcher ⭐
 
 #### Tools

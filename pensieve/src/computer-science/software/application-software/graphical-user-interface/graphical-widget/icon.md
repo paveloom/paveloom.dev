@@ -4,7 +4,7 @@ In computing, an icon is a pictogram or ideogram displayed on a computer screen 
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Icon_(computing)).
 
-#### Resources
-- [Feather](https://feathericons.com)
-- [PNG Repo](https://www.pngrepo.com)
-- [SVG Repo](https://www.svgrepo.com)
+#### Community
+- [Feather](https://feathericons.com): Simply beautiful open source icons
+- [PNG Repo](https://www.pngrepo.com): Search and find best Free PNG graphics
+- [SVG Repo](https://www.svgrepo.com): Search and find open source SVG graphics fastest way ⭐
