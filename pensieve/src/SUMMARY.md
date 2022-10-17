@@ -65,6 +65,7 @@
         - [Computer programming](computer-science/software/software-development/software-engineering/computer-programming/README.md)
           - [Coding conventions](computer-science/software/software-development/software-engineering/computer-programming/coding-conventions.md)
           - [Coding interview](computer-science/software/software-development/software-engineering/computer-programming/coding-interview.md)
+          - [Compiler](computer-science/software/software-development/software-engineering/computer-programming/compiler.md)
           - [Memory management](computer-science/software/software-development/software-engineering/computer-programming/memory-management.md)
           - [Programming idiom](computer-science/software/software-development/software-engineering/computer-programming/programming-idiom.md)
           - [Programming language](computer-science/software/software-development/software-engineering/computer-programming/programming-language/README.md)
