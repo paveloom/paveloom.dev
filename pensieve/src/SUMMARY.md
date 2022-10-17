@@ -52,6 +52,7 @@
         - [Neovim](computer-science/software/application-software/text-editors/neovim.md)
       - [Tools](computer-science/software/application-software/tools.md)
       - [Virtualization](computer-science/software/application-software/virtualization/README.md)
+        - [Hardware virtualization](computer-science/software/application-software/virtualization/hardware-virtualization.md)
         - [OS-level virtualization](computer-science/software/application-software/virtualization/os/README.md)
           - [Podman](computer-science/software/application-software/virtualization/os/podman.md)
       - [Web browsers](computer-science/software/application-software/web-browsers.md)
