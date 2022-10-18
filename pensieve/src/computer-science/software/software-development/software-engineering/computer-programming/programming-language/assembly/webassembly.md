@@ -58,6 +58,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/WebAssembly).
 - [2022] [Performance Comparison between WASM/Yew and JavaScript/React — Part 1](https://medium.com/@0x4ndy/performance-comparison-between-wasm-yew-and-javascript-react-part-1-5accafce6315)
 - [2022] [Performance Comparison between WASM/Yew and JavaScript/React — Part 2](https://medium.com/@Lukeish/performance-comparison-between-wasm-yew-and-javascript-react-part-2-200ac2e4e368)
 - [2022] [Recommendations when publishing a Wasm library](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library) ⭐
+- [2022] [The Go WebAssembly ABI at a Low Level](https://xeiaso.net/talks/wasm-abi)
 - [2022] [The Promise of WASM](https://www.wasm.builders/antweiss/the-promise-of-wasm-58gp)
 - [2022] [The WebAssembly Component Model](https://www.fermyon.com/blog/webassembly-component-model)
 - [2022] [WebAssembly: The Future Looks Bright](https://chsrbrts.medium.com/webassembly-the-future-looks-bright-6c76a0afc621) ⭐
