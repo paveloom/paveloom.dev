@@ -78,7 +78,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Prusti](https://github.com/viperproject/prusti-dev): A static verifier for Rust, based on the Viper verification infrastructure
 
 ##### Libraries
+- [Kanal](https://github.com/fereidani/kanal): Fastest sync and async channel that Rust deserves
 - [`log`](https://docs.rs/log/latest/log): A lightweight logging facade
+- [`nom`](https://github.com/Geal/nom): Rust parser combinator framework
 - [Serde](https://serde.rs): A framework for serializing and deserializing Rust data structures efficiently and generically ⭐
 - [Tokio](https://tokio.rs): An asynchronous runtime for the Rust programming language ⭐
 - [Yew](https://yew.rs): A modern Rust framework for creating multi-threaded front-end web apps using WebAssembly
@@ -93,6 +95,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [2022] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
 - [2022] [Comparing Rust supply chain safety tools](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools)
 - [2022] [Hard Mode Rust](https://matklad.github.io//2022/10/06/hard-mode-rust.html)
+- [2022] [Practical Parsing in Rust with `nom`](https://naiveai.hashnode.dev/practical-parsing-nom)
 - [2022] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
 - [2021] [From Python into Rust](https://github.com/rochacbruno/py2rs) ⭐
