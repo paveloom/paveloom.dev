@@ -8,5 +8,12 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/JavaScript).
 - [MDN Web Docs: JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ⭐
 - [MDN Web Docs: JavaScript Guides](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) ⭐
 
+#### Package managers
+- [Bun](https://bun.sh) ⭐
+- [`npm`](https://github.com/npm/cli)
+- [`pnpm`](https://pnpm.io)
+- [Ultra](https://ultrapkg.dev)
+- [Yarn](https://yarnpkg.com)
+
 #### Community
 - [State of JavaScript](https://stateofjs.com/en-us) ⭐
