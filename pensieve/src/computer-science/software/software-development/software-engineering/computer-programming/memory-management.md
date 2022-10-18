@@ -22,5 +22,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Memory_management).
 - [Unreachable memory](https://en.wikipedia.org/wiki/Unreachable_memory)
 
 #### Resources
+- [2022] [Safety in Non-Memory-Safe Languages](https://verdagon.dev/blog/when-to-use-memory-safe-part-1) ⭐
 - [2022] [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator) ⭐
 - [2021] [Arenas in Rust](https://manishearth.github.io/blog/2021/03/15/arenas-in-rust)
