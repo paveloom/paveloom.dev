@@ -66,6 +66,8 @@
           - [Coding conventions](computer-science/software/software-development/software-engineering/computer-programming/coding-conventions.md)
           - [Coding interview](computer-science/software/software-development/software-engineering/computer-programming/coding-interview.md)
           - [Compiler](computer-science/software/software-development/software-engineering/computer-programming/compiler.md)
+          - [Data type](computer-science/software/software-development/software-engineering/computer-programming/data-type/README.md)
+            - [Floating-point arithmetic](computer-science/software/software-development/software-engineering/computer-programming/data-type/floating-point-arithmetic.md)
           - [Memory management](computer-science/software/software-development/software-engineering/computer-programming/memory-management.md)
           - [Programming idiom](computer-science/software/software-development/software-engineering/computer-programming/programming-idiom.md)
           - [Programming language](computer-science/software/software-development/software-engineering/computer-programming/programming-language/README.md)
