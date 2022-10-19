@@ -12,6 +12,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [JavaScript](javascript.md)
   - [TypeScript](typescript.md)
 - [Julia](julia.md)
+- [Lobster](lobster.md)
 - [Lua](lua.md)
 - [Nim](nim.md)
 - [Python](python.md)
@@ -19,6 +20,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Reason](https://reasonml.github.io)
 - [Rust](rust.md)
 - [Vale](vale.md)
+- [Wuffs](https://github.com/google/wuffs)
 - [Zig](zig.md)
 
 #### Community

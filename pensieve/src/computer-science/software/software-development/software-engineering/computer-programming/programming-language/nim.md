@@ -13,3 +13,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nim_(programming_language
 - [Nim Manual](https://nim-lang.org/docs/manual.html) ⭐
 - [Nim Standard Library](https://nim-lang.org/docs/lib.html) ⭐
 - [Tools available with Nim](https://nim-lang.org/docs/tools.html)
+
+#### Resources
+- [2020] [Nim without GC](https://nim-lang.org/araq/destructors.html)

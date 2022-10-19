@@ -77,6 +77,7 @@
             - [JavaScript](computer-science/software/software-development/software-engineering/computer-programming/programming-language/javascript/README.md)
               - [TypeScript](computer-science/software/software-development/software-engineering/computer-programming/programming-language/javascript/typescript.md)
             - [Julia](computer-science/software/software-development/software-engineering/computer-programming/programming-language/julia.md)
+            - [Lobster](computer-science/software/software-development/software-engineering/computer-programming/programming-language/lobster.md)
             - [Lua](computer-science/software/software-development/software-engineering/computer-programming/programming-language/lua.md)
             - [Nim](computer-science/software/software-development/software-engineering/computer-programming/programming-language/nim.md)
             - [Python](computer-science/software/software-development/software-engineering/computer-programming/programming-language/python.md)
