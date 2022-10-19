@@ -21,5 +21,13 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [`ziglearn.org`](https://ziglearn.org): Get up to speed with Zig quickly ⭐
 
 #### Resources
+
+##### Text
+- [Awesome Zig](https://github.com/C-BJ/awesome-zig) ⭐
 - [2022] [How (memory) safe is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig)
 - [2020] [Assorted thoughts on Zig (and Rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust) ⭐
+
+##### Video
+- [Zig SHOWTIME](https://www.youtube.com/channel/UC2EQzAewrC10KCDFSS4j-zA)
+- [2022] [Zig Roadmap 2023](https://www.youtube.com/watch?v=AqDdWEiSwMM)
+- [2019] [The Road to Zig 1.0 - Andrew Kelley](https://www.youtube.com/watch?v=Gv2I7qTux7g)
