@@ -10,4 +10,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 - [Evan Ovadia's Blog](https://verdagon.dev) ⭐
 
 #### Resources
+- [Just for Fun. No, Really](https://justforfunnoreally.dev)
+- [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
 - [Variables](https://nested.substack.com/p/variables)
