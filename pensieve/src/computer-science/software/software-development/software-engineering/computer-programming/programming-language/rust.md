@@ -98,6 +98,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [2022] [Practical Parsing in Rust with `nom`](https://naiveai.hashnode.dev/practical-parsing-nom)
 - [2022] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
+- [2022] [Why Rust?](https://www.rerun.io/blog/why-rust)
 - [2021] [From Python into Rust](https://github.com/rochacbruno/py2rs) ⭐
 - [2020] [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) ⭐
 - [2019] [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust)
