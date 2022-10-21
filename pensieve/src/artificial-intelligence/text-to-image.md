@@ -24,3 +24,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Text-to-image_model).
 
 ##### Video
 - [2022] [How AI Image Generators Work (Stable Diffusion / Dall-E)](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+- [2022] [Stable Diffusion in Code (AI Image Generation)](https://www.youtube.com/watch?v=-lz30by8-sU)
