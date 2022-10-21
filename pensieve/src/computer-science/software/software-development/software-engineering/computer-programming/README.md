@@ -12,4 +12,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 #### Resources
 - [Just for Fun. No, Really](https://justforfunnoreally.dev)
 - [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
+- [The Secret Art of Storytelling in Programming](https://semaphoreci.com/blog/storytelling-programming)
 - [Variables](https://nested.substack.com/p/variables)
