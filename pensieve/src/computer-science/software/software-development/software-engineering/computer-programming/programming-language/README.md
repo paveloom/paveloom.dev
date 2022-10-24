@@ -27,3 +27,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 
 ##### Sites
 - [Programming Language and compiler Benchmarks](https://programming-language-benchmarks.vercel.app) ⭐
+
+##### Resources
+- [An informal comparison of several programming languages](https://github.com/losvedir/transit-lang-cmp)
