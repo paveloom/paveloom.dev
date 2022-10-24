@@ -8,6 +8,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_science).
 
 ##### Forums
 - [`/r/CSCareerQuestions`](https://www.reddit.com/r/CSCareerQuestions)
+  - [Wiki](https://www.reddit.com/r/CSCareerQuestions/wiki/index)
 
 #### Resources
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)

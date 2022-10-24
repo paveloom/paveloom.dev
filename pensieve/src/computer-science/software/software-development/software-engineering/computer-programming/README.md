@@ -9,6 +9,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 ##### Blogs
 - [Evan Ovadia's Blog](https://verdagon.dev) ⭐
 
+##### Forums
+- [`/r/learnprogramming/`](https://www.reddit.com/r/learnprogramming)
+  - [FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq) ⭐
+
 #### Resources
 - [Just for Fun. No, Really](https://justforfunnoreally.dev)
 - [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
