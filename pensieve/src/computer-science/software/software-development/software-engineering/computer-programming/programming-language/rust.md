@@ -76,6 +76,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [`cargo-c`](https://github.com/lu-zero/cargo-c): Build and install C-compatible libraries
 - [`cargo-careful`](https://www.ralfj.de/blog/2022/09/26/cargo-careful.html): Run your Rust code with extra careful debug checking
 - [Prusti](https://github.com/viperproject/prusti-dev): A static verifier for Rust, based on the Viper verification infrastructure
+- [Rudra](https://github.com/sslab-gatech/Rudra): Rust Memory Safety & Undefined Behavior Detection
 
 ##### Libraries
 - [Kanal](https://github.com/fereidani/kanal): Fastest sync and async channel that Rust deserves
@@ -106,3 +107,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 
 ##### Video
 - [No Boilerplate](https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA) ⭐
+- [2022] [Boxes, Heaps, and Stacks](https://www.youtube.com/watch?v=DEE1GKMbtgw)
