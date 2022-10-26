@@ -4,5 +4,14 @@ In computer science, program optimization, code optimization, or software optimi
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
 
+#### Approaches
+- [Data-oriented design](https://en.wikipedia.org/wiki/Data-oriented_design) ⭐
+- [Profile-guided optimization](https://en.wikipedia.org/wiki/Profile-guided_optimization) ⭐
+
 #### Resources
-- [How Rust 1.64 Became 10-20% Faster On Windows?](https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70)
+
+##### Text
+- [2022] [How Rust 1.64 Became 10-20% Faster On Windows?](https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70) ⭐
+
+##### Video
+- [2022] [A Practical Guide to Applying Data-Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design) ⭐
