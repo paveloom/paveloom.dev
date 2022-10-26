@@ -26,7 +26,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [Awesome Zig](https://github.com/C-BJ/awesome-zig) ⭐
 - [2022] [How (memory) safe is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig)
 - [2022] [Zig Is Self-Hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what)
+- [2021] [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun](https://kevinlynagh.com/rust-zig) ([HN](https://news.ycombinator.com/item?id=26374268))
 - [2020] [Assorted thoughts on Zig (and Rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust) ⭐
+- [2020] [What is Zig's “Colorblind” Async/Await?](https://kristoff.it/blog/zig-colorblind-async-await)
 
 ##### Video
 - [Zig SHOWTIME](https://www.youtube.com/channel/UC2EQzAewrC10KCDFSS4j-zA)

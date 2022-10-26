@@ -15,7 +15,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_science).
 - [Open Source Society University (OSSU): Computer Science](https://github.com/ossu/computer-science) ⭐
 - [Spam's CS Corner: Course Reviews](https://github.com/spamegg1/reviews)
 - [2021] [Computer science careers: Why computer science is for everyone](https://blog.edx.org/computer-science-careers)
-- [2020] ["Getting B.S. in CS" without Getting B.S. in CS](https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview)
+- [2020] [“Getting B.S. in CS“ without Getting B.S. in CS](https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview)
 - [2020] [Teach Yourself Computer Science](https://teachyourselfcs.com) ⭐
 - [2020] [The Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree)
 - [2020] [The case against CS master’s degrees](https://ozwrites.com/masters)
