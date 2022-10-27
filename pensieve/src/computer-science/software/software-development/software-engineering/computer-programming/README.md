@@ -27,6 +27,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
     - [Berkeley's backup](https://wla.berkeley.edu/~cs61a/sp11)
       - [Mirror](https://inst.eecs.berkeley.edu//~cs61a/sp11)
     - [Brian Harvey's backup](https://people.eecs.berkeley.edu/~bh/61a-pages)
+    - [Roman Bird's compilation](https://romanbird.github.io/sicp)
   - [Federico Galassi's solutions](https://github.com/fgalassi/cs61a-sp11)
 
 #### Resources
