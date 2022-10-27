@@ -102,8 +102,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
 - [2022] [Why Rust?](https://www.rerun.io/blog/why-rust)
 - [2021] [From Python into Rust](https://github.com/rochacbruno/py2rs) ⭐
+- [2020] [Revisiting a 'smaller Rust'](https://without.boats/blog/revisiting-a-smaller-rust)
 - [2020] [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) ⭐
 - [2019] [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust)
+- [2019] [Notes on a smaller Rust](https://without.boats/blog/notes-on-a-smaller-rust)
 - [2016] [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
 
 ##### Video
