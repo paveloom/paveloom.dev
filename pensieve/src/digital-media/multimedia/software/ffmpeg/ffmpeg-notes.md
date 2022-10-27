@@ -1,10 +1,10 @@
 # FFmpeg notes
 
-#### Updated: 26-Jun-2022
+#### Updated: 27-Oct-2022
 
 These are short notes on how to do some tasks using FFmpeg.
 
-#### Adding subtitles, cutting two streams, normalizing the volume
+#### Adding subtitles, cutting two streams, normalizing the loudness
 
 Do the first pass with the [`loudnorm`](https://ffmpeg.org/ffmpeg-filters.html#loudnorm) filter to measure the input parameters:
 
@@ -47,7 +47,7 @@ ffmpeg -ss 00:00:10 -i input.mkv -t 00:00:20 \
 Notes:
 - the usage of [combined seeking](https://trac.ffmpeg.org/wiki/Seeking) for the subtitles stream;
 - downsampling the audio to 48 kHz since the `loudnorm` filter upsamples it to 192 kHz.
-
+- [`ffmpeg-normalize`](https://github.com/slhck/ffmpeg-normalize) provides a simpler interface for loudness normalization
 
 #### Adding a delay to one of the audio tracks
 
@@ -61,3 +61,23 @@ ffmpeg -i input.mkv \
        -metadata title= -metadata:s:a:11 language=eng \
        output.mkv
 ```
+
+#### Cutting an M2TS video, starting with an I-frame
+
+Get a list of I-frames:
+
+```bash
+  ffprobe -skip_frame nokey \
+      -show_entries frame=pkt_dts_time:timecode=value \
+      -select_streams v:0 \
+      -print_format default=nw=1:nk=1 \
+      input.m2ts
+```
+
+Cut 40s of the video without re-encoding, starting from one of the I-frames:
+
+```bash
+  ffmpeg -y -i input.m2ts -ss 1007.562244 -t 40 -c copy -copyts cut.mkv
+```
+
+See [FFprobe documentation](https://ffmpeg.org/ffprobe.html) and [FFprobeTips](https://trac.ffmpeg.org/wiki/FFprobeTips) for more info.
