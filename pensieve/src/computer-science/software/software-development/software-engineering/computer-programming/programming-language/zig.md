@@ -34,4 +34,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 ##### Video
 - [Zig SHOWTIME](https://www.youtube.com/channel/UC2EQzAewrC10KCDFSS4j-zA)
 - [2022] [Zig Roadmap 2023](https://www.youtube.com/watch?v=AqDdWEiSwMM)
+- [2021] [Taking the warts off C, with Andrew Kelley, creator of the Zig Software Foundation](https://www.youtube.com/watch?v=gn3YsZ6HUHw) ⭐
 - [2019] [The Road to Zig 1.0 - Andrew Kelley](https://www.youtube.com/watch?v=Gv2I7qTux7g)
