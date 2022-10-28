@@ -8,6 +8,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
 - [Data-oriented design](https://en.wikipedia.org/wiki/Data-oriented_design) ⭐
 - [Profile-guided optimization](https://en.wikipedia.org/wiki/Profile-guided_optimization) ⭐
 
+#### Profilers
+- [Tracy](https://github.com/wolfpld/tracy) ⭐
+- [Valgrind](https://en.wikipedia.org/wiki/Valgrind) ⭐
+  - [`massif-visualizer`](https://github.com/KDE/massif-visualizer) ⭐
+
 #### Resources
 
 ##### Text
