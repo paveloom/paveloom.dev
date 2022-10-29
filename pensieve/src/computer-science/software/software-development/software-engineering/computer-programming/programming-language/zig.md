@@ -24,6 +24,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [`ziglearn.org`](https://ziglearn.org): Get up to speed with Zig quickly ⭐
 - [Zig by Example](https://zigbyexample.github.io)
 
+##### Tools
+- [Zigup](https://github.com/marler8997/zigup): Download and manage Zig compilers ⭐
+
 #### Resources
 
 ##### Text
