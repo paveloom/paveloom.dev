@@ -11,6 +11,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 
 ##### Documentation
 - [Zig Language Reference](https://ziglang.org/documentation/master) ⭐
+- [Zig Standard Library Reference](https://ziglang.org/documentation/master/std)
 
 #### Community
 
