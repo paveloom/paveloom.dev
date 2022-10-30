@@ -53,6 +53,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/WebAssembly).
 
 ##### Text
 - [Wasm By Example](https://wasmbyexample.dev)
+- [Wasmer vs. Wasmtime](https://wasmer.io/wasmer-vs-wasmtime)
 - [2022] [Avoiding allocations in Rust to shrink Wasm modules](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules) ⭐
 - [2022] [Isolates, microVMs, and WebAssembly](https://notes.crmarsh.com/isolates-microvms-and-webassembly)
 - [2022] [Performance Comparison between WASM/Yew and JavaScript/React — Part 1](https://medium.com/@0x4ndy/performance-comparison-between-wasm-yew-and-javascript-react-part-1-5accafce6315)
