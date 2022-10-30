@@ -25,7 +25,13 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [`ziglearn.org`](https://ziglearn.org): Get up to speed with Zig quickly ⭐
 - [Zig by Example](https://zigbyexample.github.io)
 
+##### Packages
+- [`astrolabe.pm`](https://astrolabe.pm)
+- [`zpm`](https://zpm.random-projects.net)
+
 ##### Tools
+- [Gyro](https://github.com/mattnite/gyro): A Zig package manager with an index, build runner, and build dependencies
+- [Zigmod](https://github.com/nektro/zigmod): A package manager for the Zig programming language
 - [Zigup](https://github.com/marler8997/zigup): Download and manage Zig compilers ⭐
 
 #### Resources
