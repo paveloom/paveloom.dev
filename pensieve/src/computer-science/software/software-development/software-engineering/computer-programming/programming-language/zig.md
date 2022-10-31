@@ -19,7 +19,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [Tiger Style](https://github.com/tigerbeetledb/tigerbeetle/blob/main/docs/TIGER_STYLE.md) ⭐
 
 ##### Courses
-- [Ziglings](https://github.com/ratfactor/ziglings)
+- [Ziglings](https://github.com/ratfactor/ziglings) ⭐
 
 ##### Sites
 - [`ziglearn.org`](https://ziglearn.org): Get up to speed with Zig quickly ⭐
