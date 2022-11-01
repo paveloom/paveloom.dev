@@ -5,6 +5,7 @@ A programming language is any set of rules that converts strings, or graphical p
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 
 #### Examples
+- [Ante](https://antelang.org)
 - [Assembly](assembly)
   - [WebAssembly](assembly/webassembly.md)
 - [Go](go.md)
