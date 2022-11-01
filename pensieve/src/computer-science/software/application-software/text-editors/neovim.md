@@ -8,5 +8,11 @@ Neovim is a fork of Vim that strives to improve the extensibility and maintainab
 #### Books
 - [Vim Reference Guide](https://learnbyexample.github.io/vim_reference) ⭐
 
+#### Community
+
+##### GUI clients
+- [Neovide](https://github.com/neovide/neovide)
+- [Uivonim](https://github.com/smolck/uivonim)
+
 #### Resources
 - [2017] [Vim Search and Replace With Examples](https://thevaluable.dev/vim-search-find-replace)
