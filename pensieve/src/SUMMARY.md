@@ -75,6 +75,7 @@
           - [Programming language](computer-science/software/software-development/software-engineering/computer-programming/programming-language/README.md)
             - [Assembly](computer-science/software/software-development/software-engineering/computer-programming/programming-language/assembly/README.md)
               - [WebAssembly](computer-science/software/software-development/software-engineering/computer-programming/programming-language/assembly/webassembly.md)
+            - [C](computer-science/software/software-development/software-engineering/computer-programming/programming-language/c.md)
             - [Go](computer-science/software/software-development/software-engineering/computer-programming/programming-language/go.md)
             - [JavaScript](computer-science/software/software-development/software-engineering/computer-programming/programming-language/javascript/README.md)
               - [TypeScript](computer-science/software/software-development/software-engineering/computer-programming/programming-language/javascript/typescript.md)
