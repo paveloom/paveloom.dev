@@ -30,4 +30,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Memory_management).
 - [2019] [Memory Management in Lobster](https://aardappel.github.io/lobster/memory_management.html)
 
 ##### Video
+- [2022] [Memory safety in C++, Zig, & Rust (Part 1)](https://www.youtube.com/watch?v=qeiRGbYCD-0)
 - [2020] [What's a Memory Allocator Anyway?](https://www.youtube.com/watch?v=vHWiDx_l4V0) ⭐
