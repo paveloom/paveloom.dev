@@ -19,6 +19,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Python](python.md)
 - [Racket](https://racket-lang.org)
 - [Reason](https://reasonml.github.io)
+- [Roc](https://www.roc-lang.org)
 - [Rust](rust.md)
 - [Vale](vale.md)
 - [Wuffs](https://github.com/google/wuffs)
