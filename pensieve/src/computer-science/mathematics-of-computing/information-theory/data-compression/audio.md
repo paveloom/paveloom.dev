@@ -10,6 +10,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Data_compression#Audio).
 - [FLAC](https://xiph.org/flac) ⭐
 
 ##### Lossy
+- [EnCodec](https://github.com/facebookresearch/encodec)
 - [Lyra](https://github.com/google/lyra)
 - [MP3](https://en.wikipedia.org/wiki/MP3)
 - [Opus](https://opus-codec.org) ⭐
