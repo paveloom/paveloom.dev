@@ -106,6 +106,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [2020] [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) ⭐
 - [2019] [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust)
 - [2019] [Notes on a smaller Rust](https://without.boats/blog/notes-on-a-smaller-rust)
+- [2019] [Thoughts on Rust after six months](https://127.io/2019/02/22/rust-six-months-later)
 - [2016] [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
 
 ##### Video
