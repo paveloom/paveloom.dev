@@ -60,3 +60,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2021] [Taking the warts off C, with Andrew Kelley, creator of the Zig Software Foundation](https://www.youtube.com/watch?v=gn3YsZ6HUHw) ⭐
 - [2020] [Interview with Zig language creator Andrew Kelley](https://www.youtube.com/watch?v=ZvskDoP09Ao)
 - [2019] [The Road to Zig 1.0 - Andrew Kelley](https://www.youtube.com/watch?v=Gv2I7qTux7g)
+- [2018] [Zig: A programming language designed for robustness, optimality, and clarity](https://www.youtube.com/watch?v=Z4oYSByyRak) ⭐
