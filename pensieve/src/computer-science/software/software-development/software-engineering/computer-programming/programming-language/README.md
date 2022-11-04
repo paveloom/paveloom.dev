@@ -32,3 +32,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 
 ##### Resources
 - [An informal comparison of several programming languages](https://github.com/losvedir/transit-lang-cmp)
+- [Languish](https://tjpalmer.github.io/languish): Programming Language Trends ⭐
