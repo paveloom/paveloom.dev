@@ -28,6 +28,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 
 #### Community
 
+##### Documentation
+- [Rust Book experiment](https://rust-book.cs.brown.edu)
+
 ##### Sites
 - [Are we (I)DE yet?](https://areweideyet.com)
 - [Are we game yet](https://arewegameyet.rs)
