@@ -22,6 +22,7 @@
     - [Distributed file systems](computer-science/computer-networks/distributed-file-systems/README.md)
       - [Samba](computer-science/computer-networks/distributed-file-systems/samba/README.md)
         - [How to create a Samba share?](computer-science/computer-networks/distributed-file-systems/samba/how-to-create-a-samba-share.md)
+    - [Network delay](computer-science/computer-networks/network-delay.md)
     - [Network service](computer-science/computer-networks/network-service.md)
     - [Overlay network](computer-science/computer-networks/overlay-network/README.md)
       - [Tor](computer-science/computer-networks/overlay-network/tor.md)
