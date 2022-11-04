@@ -24,6 +24,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Memory_management).
 #### Resources
 
 ##### Text
+- [2022] [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc)
 - [2022] [Safety in Non-Memory-Safe Languages](https://verdagon.dev/blog/when-to-use-memory-safe-part-1) ⭐
 - [2022] [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator) ⭐
 - [2021] [Arenas in Rust](https://manishearth.github.io/blog/2021/03/15/arenas-in-rust)
