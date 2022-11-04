@@ -49,6 +49,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2022] [How (memory) safe is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig)
 - [2022] [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig)
 - [2022] [Zig Is Self-Hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what)
+- [2021] [An intro to Zig's integer casting for C programmers](https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers)
+- [2021] [Preventing integer overflow in Zig](https://www.lagerdata.com/articles/preventing-integer-overflow-in-zig)
 - [2021] [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun](https://kevinlynagh.com/rust-zig) ([HN](https://news.ycombinator.com/item?id=26374268))
 - [2021] [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome/)
 - [2020] [Assorted thoughts on Zig (and Rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust) ⭐
