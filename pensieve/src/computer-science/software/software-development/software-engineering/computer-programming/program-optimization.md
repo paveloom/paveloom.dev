@@ -13,6 +13,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
 - [Valgrind](https://en.wikipedia.org/wiki/Valgrind) ⭐
   - [`massif-visualizer`](https://github.com/KDE/massif-visualizer) ⭐
 
+#### Books
+- [2022] [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) ⭐
+- [2021] [Understanding Software Dynamics](https://www.amazon.de/gp/product/0137589735) ⭐
+
 #### Resources
 
 ##### Text
