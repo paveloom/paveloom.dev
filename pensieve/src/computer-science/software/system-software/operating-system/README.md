@@ -18,3 +18,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Operating_system).
 - Other
   - [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system))
   - [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
+
+#### Books
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP) ⭐
