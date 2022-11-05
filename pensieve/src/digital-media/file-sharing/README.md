@@ -5,4 +5,6 @@ File sharing is the practice of distributing or providing access to digital medi
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/File_sharing).
 
 #### Examples
-- [LBRY](lbry)
+- [BitTorrent](bittorrent.md)
+- [LBRY](lbry/index.md)
+- [Soulseek](soulseek.md)
