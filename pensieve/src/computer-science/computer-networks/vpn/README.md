@@ -7,10 +7,17 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_network).
 #### Protocols
 - [WireGuard](wireguard) ⭐
 
+#### Services
+- [Mullvad](https://mullvad.net) ⭐
+
 #### Related
 - [Safing Privacy Network](https://safing.io/spn)
 
 #### Resources
+
+##### Text
+- [Privacy Guides: VPN Overview](https://www.privacyguides.org/basics/vpn-overview) ⭐
+- [Privacy Guides: VPN Services](https://www.privacyguides.org/vpn) ⭐
 
 ##### Video
 - [2022] [Dispelling Myths of VPN Alternatives w/ Safing!](https://odysee.com/@techlore:3/dispelling-myths-of-vpn-alternatives-w:8)
