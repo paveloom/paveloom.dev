@@ -99,6 +99,8 @@
       - [Game engine](computer-science/software/system-software/game-engine/README.md)
         - [Source](computer-science/software/system-software/game-engine/source/README.md)
           - [How to create a high quality spray for Source games?](computer-science/software/system-software/game-engine/source/how-to-create-a-high-quality-spray-for-source-games.md)
+      - [Mathematical software](computer-science/software/system-software/mathematical-software/README.md)
+        - [Computer algebra system](computer-science/software/system-software/mathematical-software/computer-algebra-system.md)
       - [Operating system](computer-science/software/system-software/operating-system/README.md)
         - [Compatibility layer](computer-science/software/system-software/operating-system/compatibility-layer/README.md)
           - [Windows Subsystem for Linux](computer-science/software/system-software/operating-system/compatibility-layer/wsl/README.md)
