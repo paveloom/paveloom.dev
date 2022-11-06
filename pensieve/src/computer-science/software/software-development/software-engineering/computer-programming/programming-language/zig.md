@@ -8,6 +8,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 
 ##### Sites
 - [Zig](https://ziglang.org) ⭐
+- [Zig Performance](https://ziglang.org/perf)
 
 ##### Documentation
 - [Zig Language Reference](https://ziglang.org/documentation/master) ⭐
