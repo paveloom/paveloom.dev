@@ -26,6 +26,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 ##### Groups
 - [Zig Embedded Group](https://microzig.tech)
 
+##### News
+- [Zig monthly](https://zigmonthly.org) ⭐
+
 ##### Sites
 - [`ziglearn.org`](https://ziglearn.org): Get up to speed with Zig quickly ⭐
 - [Zig by Example](https://zigbyexample.github.io)
@@ -48,6 +51,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 
 ##### Text
 - [Awesome Zig](https://github.com/C-BJ/awesome-zig) ⭐
+- [2022] [Hot-code reloading on macOS/arm64 with Zig](https://www.jakubkonka.com/2022/03/16/hcs-zig.html)
 - [2022] [How (memory) safe is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig)
 - [2022] [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig)
 - [2022] [Zig Is Self-Hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what)
