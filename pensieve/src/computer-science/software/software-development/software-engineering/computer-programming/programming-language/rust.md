@@ -96,6 +96,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [A curated list of Rust code and resources](https://github.com/rust-unofficial/awesome-rust) ⭐
 - [How to minimize Rust binary size](https://github.com/johnthagen/min-sized-rust) ⭐
 - [Learn X in Y minutes where X = Rust](https://learnxinyminutes.com/docs/rust) ⭐
+- [Not-Yet-Awesome Rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
 - [2022] [6 things you can do with the Cow in Rust](https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55) ⭐
 - [2022] [A very small Rust binary indeed](https://darkcoding.net/software/a-very-small-rust-binary-indeed)
 - [2022] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
