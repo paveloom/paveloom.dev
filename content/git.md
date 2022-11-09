@@ -12,7 +12,8 @@ description = "This page contains a list of public Git repositories created by @
 - *`hello-world`* [[C](https://codeberg.org/paveloom-a/hello-world)] [[GH](https://github.com/paveloom-a/hello-world)] [[GL](https://gitlab.com/paveloom-g/apps/hello-world)]: A hello-world Tauri app `#hello-world` `#tauri`
 - *`julialang-slack-history`* [[C](https://codeberg.org/paveloom-a/julialang-slack-history)] [[GH](https://github.com/paveloom-a/julialang-slack-history)] [[GL](https://gitlab.com/paveloom-g/apps/julialang-slack-history)]: A read-only Slack clone for reading history from [julialang.slack.com](https://julialang.slack.com) `#julia` `#svelte` `#slack-clone`
 - *`Shuchu`* [[C](https://codeberg.org/paveloom-a/Shuchu)] [[GH](https://github.com/paveloom-a/Shuchu)] [[GL](https://gitlab.com/paveloom-g/apps/Shuchu)]
-- *Tidings* [[C](https://codeberg.org/paveloom-a/Tidings)] [[GH](https://github.com/paveloom-a/Tidings/)] [[GL](https://gitlab.com/paveloom-g/apps/Tidings)]: Finally, an RSS reader without a built-in browser
+- *Tracy* [[C](https://codeberg.org/paveloom-a/Tracy)] [[GH](https://github.com/paveloom-a/Tracy)] [[GL](https://gitlab.com/paveloom-g/apps/Tracy)]: A Flatpak manifest for the Tracy Profiler
+- *Tidings* [[C](https://codeberg.org/paveloom-a/Tidings)] [[GH](https://github.com/paveloom-a/Tidings)] [[GL](https://gitlab.com/paveloom-g/apps/Tidings)]: Finally, an RSS reader without a built-in browser
 
 <br>
 
