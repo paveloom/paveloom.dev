@@ -14,9 +14,6 @@ Git mirrors:
 Website mirrors:
 - [Fleek](https://paveloom.on.fleek.co) (IPFS)
 - [GitHub Pages](https://paveloom.github.io) / [GitLab Pages](https://paveloom-g.gitlab.io/personal/site)
-- [Self-hosted](https://paveloom)*
-
-\* Only accessible with a [DANE](https://datatracker.ietf.org/doc/html/rfc6698)-enabled [HNS](https://handshake.org) resolver (e.g., [Fingertip](https://impervious.com/fingertip))
 
 *This is a [Trade-Free](https://www.trade-free.org/) website.*
 
