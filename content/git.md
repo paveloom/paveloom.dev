@@ -45,6 +45,7 @@ description = "This page contains a list of public Git repositories created by @
 - *lbry-desktop* [[C](https://codeberg.org/paveloom-f/lbry-desktop)] [[GH](https://github.com/paveloom-f/lbry-desktop)] [[GL](https://gitlab.com/paveloom-g/forks/lbry-desktop)]: A browser and wallet for LBRY, the decentralized, user-controlled content marketplace (now without a blacklist) `#lbry` `#lbry-desktop`
 - *`scm-music-player`* [[GH](https://github.com/paveloom-f/scm-music-player)]: Seamless music for your website. HTML5 music player with continuous playback cross pages. `#music` `#player`
 - *`waka-box`* [[GH](https://github.com/paveloom-f/waka-box)]: Update a pinned gist to contain your weekly _WakaTime_ stats `#javascript` `#wakatime`
+- *zig-tracy-bindings* [[C](https://codeberg.org/paveloom-f/zig-tracy-bindings)] [[GH](https://github.com/paveloom-f/zig-tracy-bindings)] [[GL](https://gitlab.com/paveloom-g/forks/zig-tracy-bindings)]: Zig language bindings for the Tracy Profiler
 
 <br>
 
