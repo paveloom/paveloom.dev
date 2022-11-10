@@ -3,6 +3,9 @@
 [Introduction](README.md)
 
 ---
+- [Art](art/README.md)
+  - [Digital art](art/digital-art/README.md)
+    - [Computer music](art/digital-art/computer-music/README.md)
 - [Computer science](computer-science/README.md)
   - [Algorithms](computer-science/algorithms/README.md)
     - [Recursion](computer-science/algorithms/recursion.md)
