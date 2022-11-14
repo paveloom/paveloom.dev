@@ -19,6 +19,6 @@ Git mirrors:
 
 Website mirrors:
 - [Fleek](https://paveloom.on.fleek.co) (IPFS)
-- [GitHub Pages](https://paveloom.github.io) / [GitLab Pages](https://paveloom-g.gitlab.io/personal/site)
+- [Codeberg Pages](https://paveloom.codeberg.page) / [GitHub Pages](https://paveloom.github.io) / [GitLab Pages](https://paveloom-g.gitlab.io/personal/site)
 
 *This is a [Trade-Free](https://www.trade-free.org/) website.*
