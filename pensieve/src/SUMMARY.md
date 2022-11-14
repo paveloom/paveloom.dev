@@ -146,6 +146,7 @@
   - [Communication studies](social-science/communication-studies/README.md)
     - [Computer-mediated communication](social-science/communication-studies/computer-mediated-communication/README.md)
       - [Internet forum](social-science/communication-studies/computer-mediated-communication/internet-forum.md)
+      - [Microblogging](social-science/communication-studies/computer-mediated-communication/microblogging.md)
       - [Social news website](social-science/communication-studies/computer-mediated-communication/social-news-website.md)
 - [Web](web/README.md)
   - [Web page](web/web-page/README.md)
