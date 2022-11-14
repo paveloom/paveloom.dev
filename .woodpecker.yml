@@ -4,7 +4,7 @@ pipeline:
   build:
     image: bitnami/git
     commands:
-      - .github/scripts/build.bash https://paveloom.codeberg.page/
+      - scripts/build.bash https://paveloom.codeberg.page/
     when:
       event: push
   publish:

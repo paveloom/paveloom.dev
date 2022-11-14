@@ -4,8 +4,10 @@ set -e
 
 # A script to build the site on Ubuntu host
 
-# Install `curl`
-apt-get update >/dev/null 2>&1 && apt-get install -y curl >/dev/null 2>&1
+# Install `curl` if necessary
+if ! command -v foo > /dev/null; then
+    apt-get update >/dev/null 2>&1 && apt-get install -y curl >/dev/null 2>&1
+fi
 
 # Get Zola
 curl -L https://github.com/getzola/zola/releases/download/v0.16.1/zola-v0.16.1-x86_64-unknown-linux-gnu.tar.gz >zola.tar.gz 2>/dev/null

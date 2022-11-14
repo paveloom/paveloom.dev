@@ -13,7 +13,7 @@ jobs:
     - name: Checkout the repository
       uses: actions/checkout@master
     - name: Build the site
-      run: .github/scripts/build.bash https://paveloom.github.io/
+      run: scripts/build.bash https://paveloom.github.io/
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       with:

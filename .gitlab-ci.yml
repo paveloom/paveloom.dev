@@ -8,7 +8,7 @@ pages:
   rules:
     - if: '$CI_COMMIT_BRANCH == "master"'
   script:
-    - .github/scripts/build.bash https://paveloom-g.gitlab.io/personal/site/
+    - scripts/build.bash https://paveloom-g.gitlab.io/personal/site/
   artifacts:
     paths:
       - public
