@@ -10,6 +10,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Text-to-image_model).
 - [DALL-E](https://openai.com/blog/dall-e)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐
   - [InvokeAI](https://invoke-ai.github.io/InvokeAI)
+  - [NovelAI: Image Generation](https://docs.novelai.net)
   - [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion)
 
 ##### Video
@@ -18,9 +19,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Text-to-image_model).
 #### Resources
 
 ##### Text
-- [2022] [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion)
-- [2022] [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
 - [2022] [High-performance image generation using Stable Diffusion in KerasCV](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion)
+- [2022] [NovelAI Improvements on Stable Diffusion](https://blog.novelai.net/novelai-improvements-on-stable-diffusion-e10d38db82ac)
+- [2022] [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
+- [2022] [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion)
 
 ##### Video
 - [2022] [How AI Image Generators Work (Stable Diffusion / Dall-E)](https://www.youtube.com/watch?v=1CIpzeNxIhU)
