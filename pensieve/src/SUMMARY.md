@@ -60,7 +60,7 @@
       - [Planck EZ](computer-science/hardware/keyboards/planck-ez.md)
   - [Information system](computer-science/information-system/README.md)
     - [World Wide Web](computer-science/information-system/world-wide-web/README.md)
-      - [Web page](computer-science/information-system/world-wide-web/web-page/README.md)
+      - [Website](computer-science/information-system/world-wide-web/website/README.md)
   - [Mathematics of computing](computer-science/mathematics-of-computing/README.md)
     - [Information theory](computer-science/mathematics-of-computing/information-theory/README.md)
       - [Data compression](computer-science/mathematics-of-computing/information-theory/data-compression/README.md)
