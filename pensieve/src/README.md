@@ -1,6 +1,6 @@
 # Introduction
 
-This book is a collection of my notes on different topics.
+This [digital garden](computer-science/information-system/world-wide-web/website/digital-garden.md) is my collection of notes on different topics.
 
 Recommended materials are marked with ⭐.
 

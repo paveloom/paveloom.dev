@@ -61,6 +61,7 @@
   - [Information system](computer-science/information-system/README.md)
     - [World Wide Web](computer-science/information-system/world-wide-web/README.md)
       - [Website](computer-science/information-system/world-wide-web/website/README.md)
+        - [Digital garden](computer-science/information-system/world-wide-web/website/digital-garden.md)
   - [Mathematics of computing](computer-science/mathematics-of-computing/README.md)
     - [Information theory](computer-science/mathematics-of-computing/information-theory/README.md)
       - [Data compression](computer-science/mathematics-of-computing/information-theory/data-compression/README.md)
