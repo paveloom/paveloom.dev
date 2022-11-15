@@ -54,18 +54,18 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/WebAssembly).
 ##### Text
 - [Wasm By Example](https://wasmbyexample.dev)
 - [Wasmer vs. Wasmtime](https://wasmer.io/wasmer-vs-wasmtime)
-- [2022] [Avoiding allocations in Rust to shrink Wasm modules](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules) ⭐
-- [2022] [Isolates, microVMs, and WebAssembly](https://notes.crmarsh.com/isolates-microvms-and-webassembly)
-- [2022] [Performance Comparison between WASM/Yew and JavaScript/React — Part 1](https://medium.com/@0x4ndy/performance-comparison-between-wasm-yew-and-javascript-react-part-1-5accafce6315)
-- [2022] [Performance Comparison between WASM/Yew and JavaScript/React — Part 2](https://medium.com/@Lukeish/performance-comparison-between-wasm-yew-and-javascript-react-part-2-200ac2e4e368)
-- [2022] [Recommendations when publishing a Wasm library](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library) ⭐
-- [2022] [The Go WebAssembly ABI at a Low Level](https://xeiaso.net/talks/wasm-abi)
-- [2022] [The Promise of WASM](https://www.wasm.builders/antweiss/the-promise-of-wasm-58gp)
-- [2022] [The WebAssembly Component Model](https://www.fermyon.com/blog/webassembly-component-model)
-- [2022] [WebAssembly: The Future Looks Bright](https://chsrbrts.medium.com/webassembly-the-future-looks-bright-6c76a0afc621) ⭐
-- [2022] [Why WebAssembly Belongs Outside the Browser](https://www.wasm.builders/thomastaylor312/why-webassembly-belongs-outside-the-browser-331a)
-- [2020] [Can WASM become the new Docker?](https://adlrocha.substack.com/p/adlrocha-can-wasm-become-the-new)
+- \[2022\] [Avoiding allocations in Rust to shrink Wasm modules](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules) ⭐
+- \[2022\] [Isolates, microVMs, and WebAssembly](https://notes.crmarsh.com/isolates-microvms-and-webassembly)
+- \[2022\] [Performance Comparison between WASM/Yew and JavaScript/React — Part 1](https://medium.com/@0x4ndy/performance-comparison-between-wasm-yew-and-javascript-react-part-1-5accafce6315)
+- \[2022\] [Performance Comparison between WASM/Yew and JavaScript/React — Part 2](https://medium.com/@Lukeish/performance-comparison-between-wasm-yew-and-javascript-react-part-2-200ac2e4e368)
+- \[2022\] [Recommendations when publishing a Wasm library](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library) ⭐
+- \[2022\] [The Go WebAssembly ABI at a Low Level](https://xeiaso.net/talks/wasm-abi)
+- \[2022\] [The Promise of WASM](https://www.wasm.builders/antweiss/the-promise-of-wasm-58gp)
+- \[2022\] [The WebAssembly Component Model](https://www.fermyon.com/blog/webassembly-component-model)
+- \[2022\] [WebAssembly: The Future Looks Bright](https://chsrbrts.medium.com/webassembly-the-future-looks-bright-6c76a0afc621) ⭐
+- \[2022\] [Why WebAssembly Belongs Outside the Browser](https://www.wasm.builders/thomastaylor312/why-webassembly-belongs-outside-the-browser-331a)
+- \[2020\] [Can WASM become the new Docker?](https://adlrocha.substack.com/p/adlrocha-can-wasm-become-the-new)
 
 ##### Video
-- [2022] [Rust & Wasm (Safe and fast web development)](https://www.youtube.com/watch?v=P4LMfkFLRsI)
-- [2020] [WebAssembly and the Elusive Universal Binary](https://www.youtube.com/watch?v=4ZMY3QE5t9o&t=279s)
+- \[2022\] [Rust & Wasm (Safe and fast web development)](https://www.youtube.com/watch?v=P4LMfkFLRsI)
+- \[2020\] [WebAssembly and the Elusive Universal Binary](https://www.youtube.com/watch?v=4ZMY3QE5t9o&t=279s)

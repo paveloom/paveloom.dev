@@ -39,6 +39,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Tor_(network)).
 - [Privacy Guides: Tor Overview](https://www.privacyguides.org/basics/tor-overview)
 
 ##### Video
-- [2022] [How To Access The Dark Web (Using Tor)](https://odysee.com/@AlphaNerd:8/how-to-access-the-dark-web-(using-tor):7)
-- [2017] [How TOR Works](https://www.youtube.com/watch?v=QRYzre4bf7I)
-- [2017] [TOR Hidden Services](https://www.youtube.com/watch?v=lVcbq_a5N9I)
+- \[2022\] [How To Access The Dark Web (Using Tor)](https://odysee.com/@AlphaNerd:8/how-to-access-the-dark-web-(using-tor):7)
+- \[2017\] [How TOR Works](https://www.youtube.com/watch?v=QRYzre4bf7I)
+- \[2017\] [TOR Hidden Services](https://www.youtube.com/watch?v=lVcbq_a5N9I)

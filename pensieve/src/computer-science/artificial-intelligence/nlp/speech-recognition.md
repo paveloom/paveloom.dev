@@ -12,4 +12,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Speech_recognition).
 #### Resources
 
 ##### Video
-- [2022] [Open AI Whisper - Open Source Translation and Transcription](https://odysee.com/@AlphaNerd:8/open-ai-whisper-open-source-translation:e)
+- \[2022\] [Open AI Whisper - Open Source Translation and Transcription](https://odysee.com/@AlphaNerd:8/open-ai-whisper-open-source-translation:e)

@@ -3,7 +3,7 @@
 #### Updated: 1-Jun-2022
 
 The built-in video transcoding functionality in the LBRY desktop application starts an
-[FFmpeg](../../multimedia/software/ffmpeg) utility process with the following parameters:
+[FFmpeg](../../multimedia/software/ffmpeg/index.md) utility process with the following parameters:
 
 ```go
 ffmpeg -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \

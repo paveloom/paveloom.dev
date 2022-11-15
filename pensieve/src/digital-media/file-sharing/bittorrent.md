@@ -8,4 +8,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/BitTorrent).
 - [qBittorrent](https://www.qbittorrent.org) ⭐
 
 #### Resources
-- [2021] [Answered: Why you do need port-forwarding for Bittorrent](https://www.reddit.com/r/VPNTorrents/comments/p6h7em/answered_why_you_do_need_portforwarding_for) ⭐
+- \[2021\] [Answered: Why you do need port-forwarding for Bittorrent](https://www.reddit.com/r/VPNTorrents/comments/p6h7em/answered_why_you_do_need_portforwarding_for) ⭐

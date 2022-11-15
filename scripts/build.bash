@@ -5,7 +5,7 @@ set -e
 # A script to build the site on Ubuntu host
 
 # Install `curl` if necessary
-if ! command -v foo > /dev/null; then
+if ! command -v curl > /dev/null; then
     apt-get update >/dev/null 2>&1 && apt-get install -y curl >/dev/null 2>&1
 fi
 
@@ -32,6 +32,9 @@ tar -xf mdbook.tar.gz && rm mdbook.tar.gz
 
 # Delete mdBook
 rm mdbook
+
+# Copy pensieve to the site
+cp -r book/html public/pensieve
 
 # Get `minify`
 curl -L https://github.com/tdewolff/minify/releases/download/v2.12.1/minify_linux_amd64.tar.gz >minify.tar.gz 2>/dev/null

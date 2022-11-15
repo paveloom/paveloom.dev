@@ -7,4 +7,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_music).
 #### Resources
 
 ##### Video
-- [2022] [A Language for Making Languages for Making Synthesizers](https://www.youtube.com/watch?v=haEyHWokMuQ) ⭐
+- \[2022\] [A Language for Making Languages for Making Synthesizers](https://www.youtube.com/watch?v=haEyHWokMuQ) ⭐

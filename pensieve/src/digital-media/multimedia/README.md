@@ -9,4 +9,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Multimedia).
   - [Reference implementation](https://github.com/Netflix/vmaf)
 
 #### Resources
-- [2022] [This is a video about video](https://fasterthanli.me/videos/this-is-a-video-about-video)
+- \[2022\] [This is a video about video](https://fasterthanli.me/videos/this-is-a-video-about-video)

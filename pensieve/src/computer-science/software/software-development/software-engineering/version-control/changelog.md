@@ -5,4 +5,4 @@ A changelog is a log or record of all notable changes made to a project. The pro
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Changelog).
 
 #### Resources
-- [2021] [Keep a Changelog](https://keepachangelog.com) ⭐
+- \[2021\] [Keep a Changelog](https://keepachangelog.com) ⭐
