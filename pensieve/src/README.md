@@ -6,6 +6,8 @@ Recommended materials are marked with ⭐.
 
 Majorly inspired by Nikita Voloboev's [Knowledge Wiki](https://wiki.nikiv.dev).
 
+This is a subsite of my main website, see links below.
+
 Git mirrors:
 - [Codeberg](https://codeberg.org/paveloom/pages)
 - [GitHub](https://github.com/Paveloom/paveloom.github.io)
