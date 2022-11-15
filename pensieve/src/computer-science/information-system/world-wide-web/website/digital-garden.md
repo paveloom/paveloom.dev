@@ -14,7 +14,7 @@
 - [Mineral Existence](https://mineralexistence.com/home.html)
 - [Nikita Voloboev](https://wiki.nikiv.dev) ⭐
 - [Rachel Brindle](https://knowledge.rachelbrindle.com)
-- [The Blue Book](https://lyz-code.github.io/blue-book)
+- [The Blue Book](https://lyz-code.github.io/blue-book) ⭐
 
 #### Community
 
