@@ -1,0 +1,19 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Pavel Sobolev", email = "paveloom@riseup.net"},
+]
+dependencies = [
+    "mkdocs-material==8.5.10",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-pep517>=1.0.0"]
+build-backend = "pdm.pep517.api"
+
+[tool.pdm.scripts]
+mkdocs = "mkdocs"

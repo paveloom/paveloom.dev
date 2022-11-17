@@ -1,3 +1,7 @@
 # Generated site
-/public
-/book
+public
+book
+
+# PDM
+__pypackages__
+.pdm.toml
