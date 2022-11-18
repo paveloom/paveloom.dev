@@ -21,8 +21,16 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to the light theme
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - toc.follow
 extra_css:
   - assets/extra.css
+extra_javascript:
+  - assets/shortcuts.js
 markdown_extensions:
   - toc:
       permalink: "#"
