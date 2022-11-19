@@ -52,6 +52,3 @@ plugins:
 nav:
   - Home: index.md
   - Git: git.md
-  - Sharing:
-      - sharing/flex.md
-      - sharing/libgen.md
