@@ -41,6 +41,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 
 ###### List
 - [Mecha](https://github.com/Hejsil/mecha): A parser combinator library for Zig
+- [`zig-bench`](https://github.com/Hejsil/zig-bench): Simple benchmarking library
+- [2020] [`interface.zig`](https://github.com/alexnask/interface.zig): Dynamic dispatch for zig made easy
 
 ##### Tools
 - [Gyro](https://github.com/mattnite/gyro): A Zig package manager with an index, build runner, and build dependencies
@@ -51,23 +53,24 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 
 ##### Text
 - [Awesome Zig](https://github.com/C-BJ/awesome-zig) ⭐
-- \[2022\] [Hot-code reloading on macOS/arm64 with Zig](https://www.jakubkonka.com/2022/03/16/hcs-zig.html)
-- \[2022\] [How (memory) safe is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig)
-- \[2022\] [NuttX RTOS for PinePhone: Render Graphics in Zig](https://lupyuen.github.io/articles/de2)
-- \[2022\] [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig)
-- \[2022\] [Zig Is Self-Hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what)
-- \[2021\] [An intro to Zig's integer casting for C programmers](https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers)
-- \[2021\] [Preventing integer overflow in Zig](https://www.lagerdata.com/articles/preventing-integer-overflow-in-zig)
-- \[2021\] [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun](https://kevinlynagh.com/rust-zig) ([HN](https://news.ycombinator.com/item?id=26374268))
-- \[2021\] [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome/)
-- \[2020\] [Assorted thoughts on Zig (and Rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust) ⭐
-- \[2020\] [What is Zig's “Colorblind” Async/Await?](https://kristoff.it/blog/zig-colorblind-async-await)
+- [2022] [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
+- [2022] [Hot-code reloading on macOS/arm64 with Zig](https://www.jakubkonka.com/2022/03/16/hcs-zig.html)
+- [2022] [How (memory) safe is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig)
+- [2022] [NuttX RTOS for PinePhone: Render Graphics in Zig](https://lupyuen.github.io/articles/de2)
+- [2022] [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig)
+- [2022] [Zig Is Self-Hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what)
+- [2021] [An intro to Zig's integer casting for C programmers](https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers)
+- [2021] [Preventing integer overflow in Zig](https://www.lagerdata.com/articles/preventing-integer-overflow-in-zig)
+- [2021] [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun](https://kevinlynagh.com/rust-zig) ([HN](https://news.ycombinator.com/item?id=26374268))
+- [2021] [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome/)
+- [2020] [Assorted thoughts on Zig (and Rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust) ⭐
+- [2020] [What is Zig's “Colorblind” Async/Await?](https://kristoff.it/blog/zig-colorblind-async-await)
 
 ##### Video
-- \[Zig SHOWTIME\](https://www.youtube.com/channel/UC2EQzAewrC10KCDFSS4j-zA)
-- \[2022\] [Gettin' Ziggy Wit It - Why I am convinced Zig is the C successor we've been waiting for](https://www.youtube.com/watch?v=kCmOfRcmkN0)
-- \[2022\] [Zig Roadmap 2023](https://www.youtube.com/watch?v=AqDdWEiSwMM)
-- \[2021\] [Taking the warts off C, with Andrew Kelley, creator of the Zig Software Foundation](https://www.youtube.com/watch?v=gn3YsZ6HUHw) ⭐
-- \[2020\] [Interview with Zig language creator Andrew Kelley](https://www.youtube.com/watch?v=ZvskDoP09Ao)
-- \[2019\] [The Road to Zig 1.0 - Andrew Kelley](https://www.youtube.com/watch?v=Gv2I7qTux7g)
-- \[2018\] [Zig: A programming language designed for robustness, optimality, and clarity](https://www.youtube.com/watch?v=Z4oYSByyRak) ⭐
+- [Zig SHOWTIME](https://www.youtube.com/channel/UC2EQzAewrC10KCDFSS4j-zA)
+- [2022] [Gettin' Ziggy Wit It - Why I am convinced Zig is the C successor we've been waiting for](https://www.youtube.com/watch?v=kCmOfRcmkN0)
+- [2022] [Zig Roadmap 2023](https://www.youtube.com/watch?v=AqDdWEiSwMM)
+- [2021] [Taking the warts off C, with Andrew Kelley, creator of the Zig Software Foundation](https://www.youtube.com/watch?v=gn3YsZ6HUHw) ⭐
+- [2020] [Interview with Zig language creator Andrew Kelley](https://www.youtube.com/watch?v=ZvskDoP09Ao)
+- [2019] [The Road to Zig 1.0 - Andrew Kelley](https://www.youtube.com/watch?v=Gv2I7qTux7g)
+- [2018] [Zig: A programming language designed for robustness, optimality, and clarity](https://www.youtube.com/watch?v=Z4oYSByyRak) ⭐
