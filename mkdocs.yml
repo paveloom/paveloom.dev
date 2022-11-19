@@ -24,7 +24,6 @@ theme:
         icon: material/lightbulb-outline
         name: Switch to the light theme
   features:
-    - navigation.indexes
     - navigation.instant
     - navigation.tabs
     - navigation.top
@@ -56,18 +55,17 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.inlinehilite
+  - pymdownx.keys
   - pymdownx.superfences
   - toc:
       permalink: "#"
-  - wikilinks:
-      base_url: /pensieve/
-      html_class: ""
 plugins:
-  - search:
-      min_search_length: 1
   - git-revision-date-localized:
       exclude:
-        - index.md
-nav:
-  - Home: index.md
-  - Git: git.md
+        - README.md
+        - pensieve/README.md
+  - literate-nav:
+      nav_file: sitemap.md
+  - search:
+      min_search_length: 1
+  - section-index

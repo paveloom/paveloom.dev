@@ -452,7 +452,7 @@ A list of my public Git repositories
 
     *`#astronomy` `#julia`*
 
-#### Stellar Astronomy Special Workshop S10-2022 [:simple-codeberg:](https://codeberg.org/paveloom-university/Stellar-Astronomy-Special-Workshop-S10-2022) [:simple-github:](https://github.com/paveloom-university/Stellar-Astronomy-Special-Workshop-S10-2022) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/s10-2022/stellar-astronomy-special-workshop) [R](https://app.radicle.network/seeds/pine.radicle.garden/rad:git:hnrkdndabtj4dacxdmnh7grmbo5d1oz1jacso)
+#### Stellar Astronomy Special Workshop S10-2022 [:simple-codeberg:](https://codeberg.org/paveloom-university/Stellar-Astronomy-Special-Workshop-S10-2022) [:simple-github:](https://github.com/paveloom-university/Stellar-Astronomy-Special-Workshop-S10-2022) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/s10-2022/stellar-astronomy-special-workshop) [:material-sprout:](https://app.radicle.network/seeds/pine.radicle.garden/rad:git:hnrkdndabtj4dacxdmnh7grmbo5d1oz1jacso)
 
 :   Performing a Pearson's chi-squared test
 
