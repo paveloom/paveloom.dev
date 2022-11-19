@@ -1,19 +1,30 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# ~/paveloom
 
-## Commands
+An odd fellow steaming some code.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+#### Quick links
 
-## Project layout
+- [YouTube](https://youtube.com/Paveloom) / [LBRY](https://odysee.com/@paveloom:e)
+- [GitHub](https://github.com/Paveloom) / [GitLab](https://gitlab.com/paveloom) / [Codeberg](https://codeberg.org/paveloom)
 
-```
-mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-```
+#### Contacts
+
+- Email: [paveloom@riseup.net](mailto:paveloom@riseup.net) [[PGP](assets/pgp.txt)]
+
+#### Git mirrors
+
+- [Codeberg](https://codeberg.org/paveloom/pages)
+- [GitHub](https://github.com/Paveloom/paveloom.github.io)
+- [GitLab](https://gitlab.com/paveloom-g/personal/site)
+
+#### Website mirrors
+
+- [Fleek](https://paveloom.on.fleek.co) (IPFS)
+- [Codeberg Pages](https://paveloom.codeberg.page) / [GitHub Pages](https://paveloom.github.io) / [GitLab Pages](https://paveloom-g.gitlab.io/personal/site)
+
+*This is a [Trade-Free](https://www.trade-free.org/) website.*

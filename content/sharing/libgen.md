@@ -1,10 +1,6 @@
-+++
-title = "LibGen"
-description = "This page contains links to books uploaded on LibGen by @paveloom."
-+++
+# LibGen
 
-# {{ title() }}
-#### Links to books uploaded on [LibGen](https://libgen.is) by @paveloom. {#}
+Links to books uploaded by me on [LibGen](https://libgen.is).
 
 ## Fiction
 - [Джордж Оруэлл — "1984" и эссе разных лет](https://libgen.is/fiction/D6B87C20B61D197E681BFB5C4C591BD3)

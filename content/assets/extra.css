@@ -71,10 +71,14 @@
 }
 
 :root {
-  --md-text-font: "Roboto";
   --md-code-font: "Roboto Mono";
+  --md-text-font: "Roboto";
 }
 
 a[data-md-component="logo"] > img {
   filter: invert(100);
+}
+
+.md-typeset {
+  line-height: 1.3;
 }
