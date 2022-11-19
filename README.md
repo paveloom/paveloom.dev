@@ -1,6 +1,6 @@
 # Description
 
-Code of my website. Powered by [Zola](https://www.getzola.org) and [mdBook](https://rust-lang.github.io/mdBook).
+Code of my website. Powered by [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material).
 
 Git mirrors:
 - [Codeberg](https://codeberg.org/paveloom/pages)
@@ -13,16 +13,13 @@ Website mirrors:
 
 ## Build
 
-Build the site:
+Make sure you have [PDM](https://pdm.fming.dev) installed.
+
+Then, run
 
 ```bash
-zola build
-```
-
-Build the pensieve:
-
-```bash
-mdbook build pensieve
+pdm install
+pdm mkdocks build
 ```
 
 ## Develop
@@ -30,19 +27,5 @@ mdbook build pensieve
 Develop the site using a local server:
 
 ```bash
-zola serve
-```
-
-Develop the pensieve using a local server:
-
-```bash
-mdbook serve pensieve
-```
-
-## Minify
-
-[minify](https://github.com/tdewolff/minify) the content:
-
-```bash
-minify -ra -o . public
+pdm mkdocs serve
 ```
