@@ -60,12 +60,25 @@ markdown_extensions:
   - toc:
       permalink: "#"
 plugins:
+  - search:
+      min_search_length: 1
+  - exclude-search:
+      exclude:
+        - sitemap.md
   - git-revision-date-localized:
       exclude:
         - README.md
         - pensieve/README.md
   - literate-nav:
       nav_file: sitemap.md
-  - search:
-      min_search_length: 1
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      js_files:
+        - assets/shortcuts.js
+      css_files:
+        - assets/extra.css
   - section-index
