@@ -14,6 +14,7 @@
             - [Natural language processing](pensieve/natural-language-processing.md)
                 - [Speech recognition](pensieve/speech-recognition.md)
                 - [Speech synthesis](pensieve/speech-synthesis.md)
+            - [Super-resolution imaging](pensieve/super-resolution-imaging.md)
             - [Text-to-image model](pensieve/text-to-image-model.md)
         - [Computer graphics](pensieve/computer-graphics.md)
             - [Rendering](pensieve/rendering.md)
