@@ -4,6 +4,8 @@ site_author: Pavel Sobolev
 site_url: https://paveloom.github.io
 docs_dir: content
 site_dir: public
+repo_url: https://github.com/paveloom/paveloom.github.io
+repo_name: Source code
 theme:
   name: material
   favicon: assets/favicon.svg
@@ -26,7 +28,19 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.top
+    - search.share
+    - search.suggest
     - toc.follow
+copyright: |
+  <span style="color: var(--md-footer-fg-color--lighter)">Authored by</span> Pavel Sobolev
+extra:
+  social:
+    - icon: simple/codeberg
+      link: https://codeberg.org/paveloom/pages
+    - icon: simple/github
+      link: https://paveloom.github.io
+    - icon: simple/gitlab
+      link: https://paveloom-g.gitlab.io/personal/site
 extra_css:
   - assets/extra.css
 extra_javascript:
@@ -45,10 +59,15 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: "#"
+  - wikilinks:
+      base_url: /pensieve/
+      html_class: ""
 plugins:
   - search:
       min_search_length: 1
-      prebuild_index: true
+  - git-revision-date-localized:
+      exclude:
+        - index.md
 nav:
   - Home: index.md
   - Git: git.md

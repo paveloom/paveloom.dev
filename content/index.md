@@ -5,7 +5,7 @@ hide:
 
 # ~/paveloom
 
-An odd fellow steaming some code.
+An odd fellow steaming some code
 
 #### Quick links
 
@@ -15,16 +15,3 @@ An odd fellow steaming some code.
 #### Contacts
 
 - Email: [paveloom@riseup.net](mailto:paveloom@riseup.net) [[PGP](assets/pgp.txt)]
-
-#### Git mirrors
-
-- [Codeberg](https://codeberg.org/paveloom/pages)
-- [GitHub](https://github.com/Paveloom/paveloom.github.io)
-- [GitLab](https://gitlab.com/paveloom-g/personal/site)
-
-#### Website mirrors
-
-- [Fleek](https://paveloom.on.fleek.co) (IPFS)
-- [Codeberg Pages](https://paveloom.codeberg.page) / [GitHub Pages](https://paveloom.github.io) / [GitLab Pages](https://paveloom-g.gitlab.io/personal/site)
-
-*This is a [Trade-Free](https://www.trade-free.org/) website.*
