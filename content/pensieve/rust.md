@@ -97,24 +97,24 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [How to minimize Rust binary size](https://github.com/johnthagen/min-sized-rust) ⭐
 - [Learn X in Y minutes where X = Rust](https://learnxinyminutes.com/docs/rust) ⭐
 - [Not-Yet-Awesome Rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
-- \[2022\] [34 Must Know Terms for Embedded Rust Newbies](https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies)
-- \[2022\] [6 things you can do with the Cow in Rust](https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55) ⭐
-- \[2022\] [A very small Rust binary indeed](https://darkcoding.net/software/a-very-small-rust-binary-indeed)
-- \[2022\] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
-- \[2022\] [Comparing Rust supply chain safety tools](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools)
-- \[2022\] [Hard Mode Rust](https://matklad.github.io//2022/10/06/hard-mode-rust.html)
-- \[2022\] [Practical Parsing in Rust with `nom`](https://naiveai.hashnode.dev/practical-parsing-nom)
-- \[2022\] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
-- \[2022\] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
-- \[2022\] [Why Rust?](https://www.rerun.io/blog/why-rust)
-- \[2021\] [From Python into Rust](https://github.com/rochacbruno/py2rs) ⭐
-- \[2020\] [Revisiting a 'smaller Rust'](https://without.boats/blog/revisiting-a-smaller-rust)
-- \[2020\] [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) ⭐
-- \[2019\] [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust)
-- \[2019\] [Notes on a smaller Rust](https://without.boats/blog/notes-on-a-smaller-rust)
-- \[2019\] [Thoughts on Rust after six months](https://127.io/2019/02/22/rust-six-months-later)
-- \[2016\] [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
+- [2022] [34 Must Know Terms for Embedded Rust Newbies](https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies)
+- [2022] [6 things you can do with the Cow in Rust](https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55) ⭐
+- [2022] [A very small Rust binary indeed](https://darkcoding.net/software/a-very-small-rust-binary-indeed)
+- [2022] [Basics of asynchronous Rust with Tokio](https://jbarszczewski.com/basics-of-asynchronous-rust-with-tokio)
+- [2022] [Comparing Rust supply chain safety tools](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools)
+- [2022] [Hard Mode Rust](https://matklad.github.io//2022/10/06/hard-mode-rust.html)
+- [2022] [Practical Parsing in Rust with `nom`](https://naiveai.hashnode.dev/practical-parsing-nom)
+- [2022] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
+- [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
+- [2022] [Why Rust?](https://www.rerun.io/blog/why-rust)
+- [2021] [From Python into Rust](https://github.com/rochacbruno/py2rs) ⭐
+- [2020] [Revisiting a 'smaller Rust'](https://without.boats/blog/revisiting-a-smaller-rust)
+- [2020] [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust) ⭐
+- [2019] [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust)
+- [2019] [Notes on a smaller Rust](https://without.boats/blog/notes-on-a-smaller-rust)
+- [2019] [Thoughts on Rust after six months](https://127.io/2019/02/22/rust-six-months-later)
+- [2016] [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
 
 ##### Video
 - [No Boilerplate](https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA) ⭐
-- \[2022\] [Boxes, Heaps, and Stacks](https://www.youtube.com/watch?v=DEE1GKMbtgw)
+- [2022] [Boxes, Heaps, and Stacks](https://www.youtube.com/watch?v=DEE1GKMbtgw)

@@ -8,4 +8,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/File_system).
 - [Btrfs](https://en.wikipedia.org/wiki/Btrfs)
 
 #### Resources
-- \[2022\] [Working with Btrfs – General Concepts](https://fedoramagazine.org/working-with-btrfs-general-concepts)
+- [2022] [Working with Btrfs – General Concepts](https://fedoramagazine.org/working-with-btrfs-general-concepts)

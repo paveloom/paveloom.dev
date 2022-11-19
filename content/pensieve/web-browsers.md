@@ -7,7 +7,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Web_browser).
 #### Examples
 - [Brave](https://brave.com)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new)
-  - [LibreWolf](https://librewolf.net) ⭐
+    - [LibreWolf](https://librewolf.net) ⭐
 - [Google Chrome](https://www.google.com/chrome)
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [Opera](https://www.opera.com/browsers/opera)

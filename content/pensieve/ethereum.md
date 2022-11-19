@@ -24,6 +24,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Ethereum).
 #### Resources
 
 ##### Text
-- \[2022\] [The Ethereum Merge Is Done, Opening a New Era for the Second-Biggest Blockchain](https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work)
-- \[2022\] [Ethereum After the Merge: What Comes Next?](https://www.coindesk.com/tech/2022/08/01/ethereum-after-the-merge-what-comes-next)
-- \[2021\] [Why sharding is great: demystifying the technical properties](https://vitalik.ca/general/2021/04/07/sharding.html) ⭐
+- [2022] [The Ethereum Merge Is Done, Opening a New Era for the Second-Biggest Blockchain](https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work)
+- [2022] [Ethereum After the Merge: What Comes Next?](https://www.coindesk.com/tech/2022/08/01/ethereum-after-the-merge-what-comes-next)
+- [2021] [Why sharding is great: demystifying the technical properties](https://vitalik.ca/general/2021/04/07/sharding.html) ⭐

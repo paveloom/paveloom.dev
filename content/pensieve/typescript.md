@@ -15,4 +15,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/TypeScript).
 
 #### Community
 - [`type-challenges/type-challenges`](https://github.com/type-challenges/type-challenges)
-  - [`ghaiklor/type-challenges-solutions`](https://github.com/ghaiklor/type-challenges-solutions)
+    - [`ghaiklor/type-challenges-solutions`](https://github.com/ghaiklor/type-challenges-solutions)

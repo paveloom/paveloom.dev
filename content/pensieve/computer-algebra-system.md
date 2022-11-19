@@ -7,5 +7,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_algebra_system).
 #### Examples
 - [Mathics](https://mathics.org)
 - [Maxima](https://en.wikipedia.org/wiki/Maxima_(software)) ⭐
-  - [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima) ⭐
+   - [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima) ⭐
 - [Wolfram Mathematica](https://en.wikipedia.org/wiki/Wolfram_Mathematica)

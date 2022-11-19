@@ -6,19 +6,19 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Linux_distribution).
 
 #### Examples
 - [Arch Linux](https://archlinux.org)
-  - [Manjaro Linux](https://manjaro.org)
+    - [Manjaro Linux](https://manjaro.org)
 - [Debian](https://www.debian.org)
-  - [Ubuntu](https://ubuntu.com)
-    - [elementary OS](https://elementary.io)
-    - [Linux Mint](https://linuxmint.com)
+    - [Ubuntu](https://ubuntu.com)
+        - [elementary OS](https://elementary.io)
+        - [Linux Mint](https://linuxmint.com)
 - [Fedora Linux](https://getfedora.org) ⭐
-  - [Fedora Kinoite](https://kinoite.fedoraproject.org)
-  - [Fedora Silverblue](https://silverblue.fedoraproject.org) ⭐
-  - [Nobara Project](https://nobaraproject.org)
-  - [Red Hat Enterprise Linux](https://redhat.com/rhel)
+    - [Fedora Kinoite](https://kinoite.fedoraproject.org)
+    - [Fedora Silverblue](https://silverblue.fedoraproject.org) ⭐
+    - [Nobara Project](https://nobaraproject.org)
+    - [Red Hat Enterprise Linux](https://redhat.com/rhel)
 - [Gentoo](https://www.gentoo.org)
-  - [Funtoo](https://www.funtoo.org)
-  - [MocaccinoOS](https://www.mocaccino.org)
+    - [Funtoo](https://www.funtoo.org)
+    - [MocaccinoOS](https://www.mocaccino.org)
 - [openSUSE](https://www.opensuse.org)
 
 #### Resources
@@ -29,4 +29,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Linux_distribution).
 - [Privacy Guides: Linux](https://www.privacyguides.org/linux-desktop)
 
 ##### Videos
-- \[2019\] [Let's try Fedora Silverblue — an immutable desktop OS!](https://www.youtube.com/watch?v=-hpV5l-gJnQ)
+- [2019] [Let's try Fedora Silverblue — an immutable desktop OS!](https://www.youtube.com/watch?v=-hpV5l-gJnQ)

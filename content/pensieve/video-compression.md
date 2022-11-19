@@ -13,8 +13,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Data_compression#Video).
 #### Resources
 - [FFmpeg Wiki](https://trac.ffmpeg.org) ⭐
 - [Yuki Subs Guides](https://yukisubs.wordpress.com/guides) ⭐
-- \[2022\] [This is a video about video](https://fasterthanli.me/videos/this-is-a-video-about-video)
-- \[2019\] [Anime Encoding Guide for x265 (HEVC) & AAC/OPUS (and Why to Never Use FLAC)](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac) ⭐
+- [2022] [This is a video about video](https://fasterthanli.me/videos/this-is-a-video-about-video)
+- [2019] [Anime Encoding Guide for x265 (HEVC) & AAC/OPUS (and Why to Never Use FLAC)](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac) ⭐
 
 #### Software
 - [Av1an](https://github.com/master-of-zen/Av1an) ⭐

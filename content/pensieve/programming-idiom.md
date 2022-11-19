@@ -9,4 +9,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_idiom).
 
 #### Resources
 - [`programming-idioms.org`](https://programming-idioms.org)
-- \[2022\] [RAII: Compile-Time Memory Management in C++ and Rust](https://www.thecodedmessage.com/posts/raii) ⭐
+- [2022] [RAII: Compile-Time Memory Management in C++ and Rust](https://www.thecodedmessage.com/posts/raii) ⭐

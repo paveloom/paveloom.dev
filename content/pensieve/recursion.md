@@ -5,4 +5,4 @@ In computer science, recursion is a method of solving a computational problem wh
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science)).
 
 #### Resources
-- \[2022\] [Recursion Stinks](https://nested.substack.com/p/recursion-stinks) ⭐
+- [2022] [Recursion Stinks](https://nested.substack.com/p/recursion-stinks) ⭐

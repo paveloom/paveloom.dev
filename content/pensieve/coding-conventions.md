@@ -7,4 +7,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions).
 #### Examples
 
 ##### [Zig](zig.md)
-  - [Tiger Style](https://github.com/tigerbeetledb/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
+- [Tiger Style](https://github.com/tigerbeetledb/tigerbeetle/blob/main/docs/TIGER_STYLE.md)

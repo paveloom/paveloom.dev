@@ -12,6 +12,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Search_engine).
 - [Google](https://www.google.com) (For-profit, own index)
 - [mwmbl](https://mwmbl.org) (Non-profit, own index, open source)
 - [searx](https://github.com/searx/searx) (Metasearch engine, open source)
-  - [SearXNG](https://github.com/searxng/searxng) (Metasearch engine, open source) ⭐
+    - [SearXNG](https://github.com/searxng/searxng) (Metasearch engine, open source) ⭐
 - [Startpage](https://www.startpage.com) (For-profit, uses Google's index)
 - [YaCy](https://yacy.net) (Peer-to-peer / decentralized, shared index, open source)

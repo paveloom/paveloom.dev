@@ -9,4 +9,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Email_client).
 - [Geary](https://wiki.gnome.org/Apps/Geary)
 - [Mailspring](https://getmailspring.com)
 - [Mozilla Thunderbird](https://www.thunderbird.net)
-  - [Betterbird](https://www.betterbird.eu)
+    - [Betterbird](https://www.betterbird.eu)

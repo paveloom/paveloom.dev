@@ -7,9 +7,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Speech_recognition).
 #### Examples
 - [Project Shasta](https://pages.adobe.com/shasta/): AI-powered audio recording and editing, all in the web
 - [Whisper](https://github.com/openai/whisper): A general-purpose speech recognition model ⭐
-  - [`whisper.cpp`](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++
+    - [`whisper.cpp`](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 
 #### Resources
 
 ##### Video
-- \[2022\] [Open AI Whisper - Open Source Translation and Transcription](https://odysee.com/@AlphaNerd:8/open-ai-whisper-open-source-translation:e)
+- [2022] [Open AI Whisper - Open Source Translation and Transcription](https://odysee.com/@AlphaNerd:8/open-ai-whisper-open-source-translation:e)

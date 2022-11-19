@@ -7,11 +7,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 #### Examples
 - [Ante](https://antelang.org)
 - [Assembly](assembly)
-  - [WebAssembly](webassembly.md)
+    - [WebAssembly](webassembly.md)
 - [Go](go.md)
 - [Grain](https://grain-lang.org)
 - [JavaScript](javascript.md)
-  - [TypeScript](typescript.md)
+    - [TypeScript](typescript.md)
 - [Julia](julia.md)
 - [Lobster](lobster.md)
 - [Lua](lua.md)

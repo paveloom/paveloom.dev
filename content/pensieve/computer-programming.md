@@ -6,11 +6,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 
 #### Books
 - [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) ⭐
-  - [HTML5/EPUB3 version of SICP](https://github.com/sarabander/sicp)
-  - [Hexlet SICP](https://sicp.hexlet.io) ⭐
-  - [SICP PDF with Texinfo and LaTeX source](https://github.com/sarabander/sicp-pdf) ⭐
-  - [SICP in Texinfo Format](https://www.neilvandyke.org/sicp-texi)
-  - [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)
+    - [HTML5/EPUB3 version of SICP](https://github.com/sarabander/sicp)
+    - [Hexlet SICP](https://sicp.hexlet.io) ⭐
+    - [SICP PDF with Texinfo and LaTeX source](https://github.com/sarabander/sicp-pdf) ⭐
+    - [SICP in Texinfo Format](https://www.neilvandyke.org/sicp-texi)
+    - [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)
 
 #### Community
 
@@ -19,20 +19,20 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 
 ##### Forums
 - [`/r/learnprogramming/`](https://www.reddit.com/r/learnprogramming)
-  - [FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq) ⭐
+    - [FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq) ⭐
 
 ##### Courses
 - [Computer Science 61A, Spring 2011](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) ⭐
-  - Materials:
-    - [Berkeley's backup](https://wla.berkeley.edu/~cs61a/sp11)
-      - [Mirror](https://inst.eecs.berkeley.edu//~cs61a/sp11)
-    - [Brian Harvey's backup](https://people.eecs.berkeley.edu/~bh/61a-pages)
-    - [Roman Bird's compilation](https://romanbird.github.io/sicp)
-  - [Federico Galassi's solutions](https://github.com/fgalassi/cs61a-sp11)
+    - Materials:
+        - [Berkeley's backup](https://wla.berkeley.edu/~cs61a/sp11)
+            - [Mirror](https://inst.eecs.berkeley.edu//~cs61a/sp11)
+        - [Brian Harvey's backup](https://people.eecs.berkeley.edu/~bh/61a-pages)
+        - [Roman Bird's compilation](https://romanbird.github.io/sicp)
+    - [Federico Galassi's solutions](https://github.com/fgalassi/cs61a-sp11)
 
 #### Resources
 - [Just for Fun. No, Really](https://justforfunnoreally.dev)
-- \[2022\] [Does experience make you a better programmer?](https://austinhenley.com/blog/experienceversusskill.html)
-- \[2022\] [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
-- \[2022\] [The Secret Art of Storytelling in Programming](https://semaphoreci.com/blog/storytelling-programming)
-- \[2022\] [Variables](https://nested.substack.com/p/variables)
+- [2022] [Does experience make you a better programmer?](https://austinhenley.com/blog/experienceversusskill.html)
+- [2022] [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
+- [2022] [The Secret Art of Storytelling in Programming](https://semaphoreci.com/blog/storytelling-programming)
+- [2022] [Variables](https://nested.substack.com/p/variables)

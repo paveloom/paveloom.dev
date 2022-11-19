@@ -6,7 +6,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Multimedia).
 
 #### Video
 - [Video Multimethod Assessment Fusion](https://en.wikipedia.org/wiki/Video_Multimethod_Assessment_Fusion): Perceptual video quality assessment based on multi-method fusion
-  - [Reference implementation](https://github.com/Netflix/vmaf)
+    - [Reference implementation](https://github.com/Netflix/vmaf)
 
 #### Resources
-- \[2022\] [This is a video about video](https://fasterthanli.me/videos/this-is-a-video-about-video)
+- [2022] [This is a video about video](https://fasterthanli.me/videos/this-is-a-video-about-video)

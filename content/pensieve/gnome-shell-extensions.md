@@ -4,7 +4,7 @@ The functionality of GNOME Shell can be changed with extensions, which can be wr
 
 #### Sites
 - [GNOME Shell Extensions](https://extensions.gnome.org) ⭐
-  - [Unreviewed Extensions](https://extensions.gnome.org/review)
+    - [Unreviewed Extensions](https://extensions.gnome.org/review)
 
 #### Code
 - [`@gi-types`](https://www.npmjs.com/~ewlsh): TypeScript definitions for GNOME libraries ⭐
@@ -29,11 +29,11 @@ The functionality of GNOME Shell can be changed with extensions, which can be wr
 #### Resources
 
 ##### Text
-- \[2020\] [How to Create A GNOME Extension](https://www.codeproject.com/Articles/5271677/How-to-Create-A-GNOME-Extension) ⭐
-- \[2019\] [Developing my first Gnome Extension](https://medium.com/@baymac/using-sqlite-in-gnome-extension-c499661d9bd5)
-- \[2018\] [Are there any up-to-date documentation on writing Gnome Shell extensions?](https://www.reddit.com/r/gnome/comments/9z79ra/are_there_any_uptodate_documentation_on_writing) ⭐
-- \[2017\] [GNOME Shell Extension Reference](https://github.com/julio641742/gnome-shell-extension-reference)
-- \[2012\] [GNOME shell: Javascript Source Documentation (extensions development)](https://mathematicalcoffee.blogspot.com/2012/09/gnome-shell-javascript-source.html)
+- [2020] [How to Create A GNOME Extension](https://www.codeproject.com/Articles/5271677/How-to-Create-A-GNOME-Extension) ⭐
+- [2019] [Developing my first Gnome Extension](https://medium.com/@baymac/using-sqlite-in-gnome-extension-c499661d9bd5)
+- [2018] [Are there any up-to-date documentation on writing Gnome Shell extensions?](https://www.reddit.com/r/gnome/comments/9z79ra/are_there_any_uptodate_documentation_on_writing) ⭐
+- [2017] [GNOME Shell Extension Reference](https://github.com/julio641742/gnome-shell-extension-reference)
+- [2012] [GNOME shell: Javascript Source Documentation (extensions development)](https://mathematicalcoffee.blogspot.com/2012/09/gnome-shell-javascript-source.html)
 
 ##### Video
-- \[2020\] [How to Create GNOME Extension](https://www.youtube.com/playlist?list=PLr3kuDAFECjZhW-p56BoVB7SubdUHBVQT)
+- [2020] [How to Create GNOME Extension](https://www.youtube.com/playlist?list=PLr3kuDAFECjZhW-p56BoVB7SubdUHBVQT)

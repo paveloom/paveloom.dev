@@ -10,7 +10,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing)).
 - [Nushell](https://www.nushell.sh)
 - [Powershell](https://microsoft.com/powershell)
 - [Zsh](https://www.zsh.org)
-  - [Oh My ZSH!](https://ohmyz.sh)
+    - [Oh My ZSH!](https://ohmyz.sh)
 
 #### Tools
 - [`explainshell.com`](https://explainshell.com): Write down a command-line to see the help text that matches each argument

@@ -5,7 +5,7 @@ Linux is a family of open-source Unix-like operating systems based on the Linux 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Linux)
 
 #### Sites
-  - [Kernel](https://www.kernel.org) ⭐
+- [Kernel](https://www.kernel.org) ⭐
 
 #### Documentation
-  - [The Linux man-pages project](https://www.kernel.org/doc/man-pages) ⭐
+- [The Linux man-pages project](https://www.kernel.org/doc/man-pages) ⭐

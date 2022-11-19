@@ -5,4 +5,4 @@ In computer science, compile time (or compile-time) describes the time window du
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Compile_time).
 
 #### Resources
-- \[2022\] [Compile time evaluation in Nim, Zig, Rust and C++](https://castillodel.github.io/compile-time-evaluation) ⭐
+- [2022] [Compile time evaluation in Nim, Zig, Rust and C++](https://castillodel.github.io/compile-time-evaluation) ⭐

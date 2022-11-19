@@ -20,4 +20,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_network).
 - [Privacy Guides: VPN Services](https://www.privacyguides.org/vpn) ⭐
 
 ##### Video
-- \[2022\] [Dispelling Myths of VPN Alternatives w/ Safing!](https://odysee.com/@techlore:3/dispelling-myths-of-vpn-alternatives-w:8)
+- [2022] [Dispelling Myths of VPN Alternatives w/ Safing!](https://odysee.com/@techlore:3/dispelling-myths-of-vpn-alternatives-w:8)

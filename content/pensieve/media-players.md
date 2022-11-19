@@ -9,8 +9,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Media_player_software).
 ##### Media
 - [VLC](https://www.videolan.org/vlc)
 - [mpv](https://mpv.io) ⭐
-  - [Celluloid](https://celluloid-player.github.io)
-  - [SMPlayer](https://www.smplayer.info)
+    - [Celluloid](https://celluloid-player.github.io)
+    - [SMPlayer](https://www.smplayer.info)
 
 ##### Audio
 - [Amberol](https://gitlab.gnome.org/World/amberol)

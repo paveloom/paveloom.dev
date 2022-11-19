@@ -6,8 +6,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Memory_management).
 
 #### Approaches
 - [Garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
-  - [Reference counting](https://en.wikipedia.org/wiki/Reference_counting)
-  - [Tracing garbage collection](https://en.wikipedia.org/wiki/Tracing_garbage_collection)
+    - [Reference counting](https://en.wikipedia.org/wiki/Reference_counting)
+    - [Tracing garbage collection](https://en.wikipedia.org/wiki/Tracing_garbage_collection)
 - [Manual memory management](https://en.wikipedia.org/wiki/Manual_memory_management)
 - [Region-based memory management](https://en.wikipedia.org/wiki/Region-based_memory_management)
 - [Stack-based memory allocation](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
@@ -24,12 +24,12 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Memory_management).
 #### Resources
 
 ##### Text
-- \[2022\] [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc)
-- \[2022\] [Safety in Non-Memory-Safe Languages](https://verdagon.dev/blog/when-to-use-memory-safe-part-1) ⭐
-- \[2022\] [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator) ⭐
-- \[2021\] [Arenas in Rust](https://manishearth.github.io/blog/2021/03/15/arenas-in-rust)
-- \[2019\] [Memory Management in Lobster](https://aardappel.github.io/lobster/memory_management.html)
+- [2022] [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc)
+- [2022] [Safety in Non-Memory-Safe Languages](https://verdagon.dev/blog/when-to-use-memory-safe-part-1) ⭐
+- [2022] [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator) ⭐
+- [2021] [Arenas in Rust](https://manishearth.github.io/blog/2021/03/15/arenas-in-rust)
+- [2019] [Memory Management in Lobster](https://aardappel.github.io/lobster/memory_management.html)
 
 ##### Video
-- \[2022\] [Memory safety in C++, Zig, & Rust (Part 1)](https://www.youtube.com/watch?v=qeiRGbYCD-0)
-- \[2020\] [What's a Memory Allocator Anyway?](https://www.youtube.com/watch?v=vHWiDx_l4V0) ⭐
+- [2022] [Memory safety in C++, Zig, & Rust (Part 1)](https://www.youtube.com/watch?v=qeiRGbYCD-0)
+- [2020] [What's a Memory Allocator Anyway?](https://www.youtube.com/watch?v=vHWiDx_l4V0) ⭐

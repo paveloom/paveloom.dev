@@ -7,6 +7,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Typesetting).
 #### Typesetting systems
 - [SILE](https://sile-typesetter.org)
 - [TeX](https://en.wikipedia.org/wiki/TeX)
-  - [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
-  - [XeTeX](https://en.wikipedia.org/wiki/XeTeX) ⭐
+    - [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
+    - [XeTeX](https://en.wikipedia.org/wiki/XeTeX) ⭐
 - [Typst](https://typst.app)
