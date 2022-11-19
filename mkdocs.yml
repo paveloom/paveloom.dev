@@ -1,7 +1,6 @@
 site_name: ~/paveloom
 site_description: "@paveloom's website"
 site_author: Pavel Sobolev
-site_url: https://paveloom.github.io
 docs_dir: content
 site_dir: public
 repo_url: https://github.com/paveloom/paveloom.github.io
@@ -34,6 +33,8 @@ copyright: |
   <span style="color: var(--md-footer-fg-color--lighter)">Authored by</span> Pavel Sobolev
 extra:
   social:
+    - icon: fontawesome/solid/bolt
+      link: https://paveloom.on.fleek.co
     - icon: simple/codeberg
       link: https://codeberg.org/paveloom/pages
     - icon: simple/github

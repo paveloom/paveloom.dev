@@ -1,14 +1,17 @@
-image: ubuntu:latest
+image: python:3.11
 
 workflow:
   rules:
     - if: $CI_COMMIT_BRANCH
 
+variables:
+  GIT_DEPTH: 0
+
 pages:
   rules:
-    - if: '$CI_COMMIT_BRANCH == "master"'
+    - if: $CI_COMMIT_BRANCH == "master"
   script:
-    - scripts/build.bash https://paveloom-g.gitlab.io/personal/site/
+    - scripts/build.bash https://paveloom-g.gitlab.io/personal/site
   artifacts:
     paths:
       - public

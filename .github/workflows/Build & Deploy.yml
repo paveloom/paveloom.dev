@@ -6,17 +6,23 @@ on:
       - master
 
 jobs:
-  BuildAndDeploy:
+  build-and-deploy:
     name: Build & Deploy
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout the repository
-      uses: actions/checkout@master
-    - name: Build the site
-      run: scripts/build.bash https://paveloom.github.io/
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@v4
-      with:
-        branch: gh-pages
-        folder: public
-        single-commit: true
+      - name: Checkout the repository
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 0
+      - name: Setup PDM
+        uses: pdm-project/setup-pdm@v3
+        with:
+          python-version: 3.11
+      - name: Build the site
+        run: scripts/build.bash https://paveloom.github.io
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: public
+          single-commit: true

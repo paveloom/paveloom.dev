@@ -1,15 +1,22 @@
 branches: master
 
+clone:
+  git:
+    image: woodpeckerci/plugin-git
+    settings:
+      depth: 0
+      partial: false
+
 pipeline:
   build:
-    image: bitnami/git
+    image: python:3.11
     commands:
-      - scripts/build.bash https://paveloom.codeberg.page/
+      - scripts/build.bash https://paveloom.codeberg.page
     when:
       event: push
   publish:
     image: bitnami/git
-    secrets: [ mail, token ]
+    secrets: [mail, token]
     commands:
       # Configure Git
       - git config --global user.email $MAIL
