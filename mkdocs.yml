@@ -1,0 +1,84 @@
+site_name: ~/paveloom
+site_description: "@paveloom's website"
+site_author: Pavel Sobolev
+site_url: https://paveloom.github.io
+docs_dir: content
+site_dir: public
+repo_url: https://github.com/paveloom/paveloom.github.io
+repo_name: Source code
+theme:
+  name: material
+  favicon: assets/favicon.svg
+  logo: assets/favicon.svg
+  font: false
+  palette:
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/lightbulb
+        name: Switch to the dark theme
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      primary: deep purple
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to the light theme
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - search.share
+    - search.suggest
+    - toc.follow
+copyright: |
+  <span style="color: var(--md-footer-fg-color--lighter)">Authored by</span> Pavel Sobolev
+extra:
+  social:
+    - icon: simple/codeberg
+      link: https://codeberg.org/paveloom/pages
+    - icon: simple/github
+      link: https://paveloom.github.io
+    - icon: simple/gitlab
+      link: https://paveloom-g.gitlab.io/personal/site
+extra_css:
+  - assets/extra.css
+extra_javascript:
+  - assets/shortcuts.js
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.superfences
+  - toc:
+      permalink: "#"
+plugins:
+  - search:
+      min_search_length: 1
+  - exclude-search:
+      exclude:
+        - sitemap.md
+  - git-revision-date-localized:
+      exclude:
+        - README.md
+        - pensieve/README.md
+  - literate-nav:
+      nav_file: sitemap.md
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      js_files:
+        - assets/shortcuts.js
+      css_files:
+        - assets/extra.css
+  - section-index

@@ -1,3 +1,12 @@
 # Generated site
-/public
-/book
+public
+book
+
+# PDM
+__pypackages__
+.pdm.toml
+
+# JavaScript
+bun.lockb
+node_modules
+package-lock.json
