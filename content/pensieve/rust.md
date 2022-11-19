@@ -35,6 +35,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Are we (I)DE yet?](https://areweideyet.com)
 - [Are we game yet](https://arewegameyet.rs)
 - [Are we learning yet?](https://www.arewelearningyet.com)
+- [Are we stack-efficient yet?](https://arewestackefficientyet.com)
 - [Are we web yet?](https://www.arewewebyet.org)
 - [Blessed](https://blessed.rs/crates): An unofficial guide to the Rust ecosystem
 - [Rust Language Cheat Sheet](https://cheats.rs) ⭐
