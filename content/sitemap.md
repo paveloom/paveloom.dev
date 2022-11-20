@@ -100,7 +100,6 @@
                 - [Software engineering](pensieve/software-engineering.md)
                     - [Computer programming](pensieve/computer-programming.md)
                         - [Asynchrony](pensieve/asynchrony.md)
-                        - [Coding conventions](pensieve/coding-conventions.md)
                         - [Coding interview](pensieve/coding-interview.md)
                         - [Compiler](pensieve/compiler.md)
                             - [Compile time](pensieve/compile-time.md)
