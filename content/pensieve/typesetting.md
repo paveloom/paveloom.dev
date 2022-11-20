@@ -10,3 +10,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Typesetting).
     - [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
     - [XeTeX](https://en.wikipedia.org/wiki/XeTeX) ⭐
 - [Typst](https://typst.app)
+
+#### Resources
+- [2022] [Fast Typesetting with Incremental Compilation](https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf)
