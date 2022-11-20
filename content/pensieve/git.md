@@ -7,8 +7,20 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Git).
 #### Sites
 - [Git](https://git-scm.com) ⭐
 
-#### Tools
+#### Community
+
+##### Tools
+- [`git-absorb`](https://github.com/tummychow/git-absorb): `git commit --fixup`, but automatic
+- [`git-branchless`](https://github.com/arxanas/git-branchless): High-velocity, monorepo-scale workflow for Git
 - [`lazygit`](https://github.com/jesseduffield/lazygit): Simple terminal UI for git commands ⭐
 
+##### Version control systems
+- [Gitless](https://gitless.com): A simple version control system built on top of Git
+- [HighFlux](https://www.highflux.io): Next-Generation Git Client for the remote work era
+- [Jujutsu](https://github.com/martinvonz/jj): A Git-compatible DVCS that is both simple and powerful
+- [Legit](https://github.com/frostming/legit): Git Workflow for Humans
+- [Sturdy](https://github.com/sturdy-dev/sturdy): An open-source, real-time, version control platform for startups
+
 #### Resources
+- [2022] [What makes Git so hard to use?](https://www.highflux.io/blog/what-makes-git-hard-to-use)
 - [2020] [How to update a pull request from a fork with Git](https://monicalent.com/blog/2020/05/03/update-pull-request-from-fork-git)
