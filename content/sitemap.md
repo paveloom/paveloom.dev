@@ -122,7 +122,7 @@
                     - [Computer algebra system](pensieve/computer-algebra-system.md)
                 - [Operating system](pensieve/operating-system.md)
                     - [Compatibility layer](pensieve/compatibility-layer.md)
-                        - [Windows Subsystem for Linux](pensieve/wsl.md)
+                        - [Windows Subsystem for Linux](pensieve/windows-subsystem-for-linux.md)
                             - [How to SSH into WSL 2?](pensieve/how-to-ssh-into-wsl-2.md)
                             - [How to access a local server running inside WSL 2?](pensieve/how-to-access-a-local-server-running-inside-wsl-2.md)
                     - [File system](pensieve/file-system.md)
