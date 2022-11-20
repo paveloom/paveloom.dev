@@ -13,5 +13,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing)).
     - [Oh My ZSH!](https://ohmyz.sh)
 
 #### Tools
+- [Atuin](https://github.com/ellie/atuin): Magical shell history
 - [`explainshell.com`](https://explainshell.com): Write down a command-line to see the help text that matches each argument
+- [`fzf`](https://github.com/junegunn/fzf): A command-line fuzzy finder ⭐
 - [ShellCheck](https://github.com/koalaman/shellcheck): A static analysis tool for shell scripts ⭐
