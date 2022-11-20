@@ -24,6 +24,7 @@
                     - Examples
                         - [Assembly](pensieve/assembly.md)
                             - [WebAssembly](pensieve/webassembly.md)
+                        - [C++](pensieve/c-plus-plus.md)
                         - [C](pensieve/c.md)
                         - [Go](pensieve/go.md)
                         - [JavaScript](pensieve/javascript.md)
