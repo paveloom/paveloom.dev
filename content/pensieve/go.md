@@ -7,8 +7,20 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language)
 #### Sites
 - [Go](https://go.dev) ⭐
 
-#### Tools
+#### Community
+
+##### Coding conventions
+- [Google Go Style Best Practices](https://google.github.io/styleguide/go/best-practices) ⭐
+- [Google’s Go Style Guide](https://google.github.io/styleguide/go) ⭐
+
+##### Compilers
+- [TinyGo](https://tinygo.org): Go on embedded systems and WebAssembly
+
+##### Tools
 - [Goup](https://github.com/owenthereal/goup): Elegant Go installer ⭐
+
+##### Libraries
+- [`gopkg`](https://github.com/bytedance/gopkg): Universal Utilities for Go
 
 #### Resources
 - [2022] [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting)
