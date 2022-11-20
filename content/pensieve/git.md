@@ -11,15 +11,14 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Git).
 
 ##### Tools
 - [`git-absorb`](https://github.com/tummychow/git-absorb): `git commit --fixup`, but automatic
-- [`git-branchless`](https://github.com/arxanas/git-branchless): High-velocity, monorepo-scale workflow for Git
 - [`lazygit`](https://github.com/jesseduffield/lazygit): Simple terminal UI for git commands ⭐
 
-##### Git-compatible VCS
-- [Gitless](https://gitless.com): A simple version control system built on top of Git
-- [HighFlux](https://www.highflux.io): Next-Generation Git Client for the remote work era
-- [Jujutsu](https://github.com/martinvonz/jj): A Git-compatible DVCS that is both simple and powerful
+##### Workflows
+- [`git-branchless`](https://github.com/arxanas/git-branchless): High-velocity, monorepo-scale workflow for Git
 - [Legit](https://github.com/frostming/legit): Git Workflow for Humans
-- [Sapling](https://sapling-scm.com): A Scalable, User-Friendly Source Control System
+
+##### Platforms
+- [HighFlux](https://www.highflux.io): Next-Generation Git Client for the remote work era
 - [Sturdy](https://github.com/sturdy-dev/sturdy): An open-source, real-time, version control platform for startups
 
 #### Resources
