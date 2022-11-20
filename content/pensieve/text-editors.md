@@ -9,4 +9,5 @@ A text editor is a type of computer program that edits plain text. Text editors 
     - [Lite XL](https://lite-xl.com)
 - [Neovim](neovim.md) ⭐
 - [Visual Studio Code](https://code.visualstudio.com)
+    - [VSCodium](https://github.com/VSCodium/vscodium)
 - [Xi Editor](https://github.com/xi-editor/xi-editor)
