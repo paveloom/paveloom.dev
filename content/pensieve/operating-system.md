@@ -17,6 +17,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Operating_system).
 - [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
 - Other
     - [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system))
+    - [HelenOS](http://www.helenos.org)
     - [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
 
 #### Books
