@@ -40,6 +40,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Blessed](https://blessed.rs/crates): An unofficial guide to the Rust ecosystem
 - [Rust Language Cheat Sheet](https://cheats.rs) ⭐
 - [Rust Quiz](https://dtolnay.github.io/rust-quiz)
+- [School of Rust](https://rust-school.io) ⭐
 
 ##### Books
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
