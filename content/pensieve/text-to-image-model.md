@@ -8,6 +8,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Text-to-image_model).
 
 ##### Image
 - [DALL-E](https://openai.com/blog/dall-e)
+- [Midjourney](https://www.midjourney.com)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐
     - [InvokeAI](https://invoke-ai.github.io/InvokeAI)
     - [NovelAI: Image Generation](https://docs.novelai.net)
@@ -15,6 +16,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Text-to-image_model).
 
 ##### Video
 - [Imagen Video](https://imagen.research.google/video)
+
+#### Community
+
+##### Sites
+- [Deforum](https://deforum.github.io)
 
 #### Resources
 
