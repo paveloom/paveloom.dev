@@ -108,6 +108,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [2022] [Practical Parsing in Rust with `nom`](https://naiveai.hashnode.dev/practical-parsing-nom)
 - [2022] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [2022] [Ten challenges for Rust](https://www.ncameron.org/blog/ten-challenges-for-rust)
+- [2022] [What are Rust’s biggest weaknesses?](https://www.reddit.com/r/rust/comments/yxtjdc/what_are_rusts_biggest_weaknesses)
 - [2022] [Why Rust?](https://www.rerun.io/blog/why-rust)
 - [2021] [From Python into Rust](https://github.com/rochacbruno/py2rs) ⭐
 - [2020] [Revisiting a 'smaller Rust'](https://without.boats/blog/revisiting-a-smaller-rust)
