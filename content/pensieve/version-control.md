@@ -6,4 +6,3 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Version_control).
 
 #### Examples
 - [Git](git.md) ⭐
-- [Sapling](https://sapling-scm.com)
