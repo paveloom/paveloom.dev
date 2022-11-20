@@ -85,7 +85,7 @@
                         - [Widget toolkit](pensieve/widget-toolkit.md)
                 - [Media players](pensieve/media-players.md)
                 - [Terminal](pensieve/terminal.md)
-                    - [Command prompts](pensieve/command-prompts.md)
+                    - [Command prompt](pensieve/command-prompt.md)
                     - [Operating system shell](pensieve/operating-system-shell.md)
                     - [Terminal emulators](pensieve/terminal-emulators.md)
                 - [Text editors](pensieve/text-editors.md)
