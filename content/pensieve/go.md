@@ -17,6 +17,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language)
 - [TinyGo](https://tinygo.org): Go on embedded systems and WebAssembly
 
 ##### Tools
+- [Gocovsh](https://github.com/orlangure/gocovsh): Go Coverage in your terminal ⭐
 - [Goup](https://github.com/owenthereal/goup): Elegant Go installer ⭐
 
 ##### Libraries
