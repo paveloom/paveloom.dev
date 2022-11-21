@@ -23,6 +23,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 ##### Courses
 - [Ziglings](https://github.com/ratfactor/ziglings) ⭐
 
+##### Forums
+- [Zig NEWS](https://zig.news) ⭐
+- [Ziggit](https://ziggit.dev) ⭐
+
 ##### Groups
 - [Zig Embedded Group](https://microzig.tech)
 
@@ -30,8 +34,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [Zig monthly](https://zigmonthly.org) ⭐
 
 ##### Sites
-- [`ziglearn.org`](https://ziglearn.org): Get up to speed with Zig quickly ⭐
 - [Zig by Example](https://zigbyexample.github.io)
+- [`zigbin.io`](https://zigbin.io)
+- [`ziglearn.org`](https://ziglearn.org): Get up to speed with Zig quickly ⭐
 
 ##### Libraries
 
@@ -40,7 +45,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [`zpm`](https://zpm.random-projects.net)
 
 ###### List
+- [BYOL](https://github.com/hmusgrave/byol): A memory-efficient, straggler-avoiding, cache-friendly scheduler
 - [Mecha](https://github.com/Hejsil/mecha): A parser combinator library for Zig
+- [`zcirc`](https://github.com/hmusgrave/zcirc): A dynamic circular buffer allocator for Zig
 - [`zig-bench`](https://github.com/Hejsil/zig-bench): Simple benchmarking library
 - [2020] [`interface.zig`](https://github.com/alexnask/interface.zig): Dynamic dispatch for zig made easy
 
@@ -53,6 +60,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 
 ##### Text
 - [Awesome Zig](https://github.com/C-BJ/awesome-zig) ⭐
+- [2022] [Cool Zig Patterns - Gotta alloc fast](https://zig.news/xq/cool-zig-patterns-gotta-alloc-fast-23h) ⭐
 - [2022] [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
 - [2022] [Hot-code reloading on macOS/arm64 with Zig](https://www.jakubkonka.com/2022/03/16/hcs-zig.html)
 - [2022] [How (memory) safe is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig)
