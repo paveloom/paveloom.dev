@@ -161,6 +161,7 @@
     - [Social science](pensieve/social-science.md)
         - [Communication studies](pensieve/communication-studies.md)
             - [Computer-mediated communication](pensieve/computer-mediated-communication.md)
+                - [Instant messaging](pensieve/instant-messaging.md)
                 - [Internet forum](pensieve/internet-forum.md)
                 - [Microblogging](pensieve/microblogging.md)
                 - [Social news website](pensieve/social-news-website.md)
