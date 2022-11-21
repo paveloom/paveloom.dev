@@ -6,9 +6,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 
 #### Official
 
-##### Sites
-- [Rust](https://www.rust-lang.org) ⭐
-
 ##### Documentation
 - [Rust Book](https://doc.rust-lang.org/book) ⭐
 - [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example) ⭐
@@ -26,21 +23,18 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Chalk](https://github.com/rust-lang/chalk): An implementation and definition of the Rust trait system using a PROLOG-like logic solver
 - [Polonius](https://github.com/rust-lang/polonius): Defines the Rust borrow checker
 
+##### Sites
+- [Rust](https://www.rust-lang.org) ⭐
+
 #### Community
 
 ##### Documentation
 - [Rust Book experiment](https://rust-book.cs.brown.edu)
 
-##### Sites
-- [Are we (I)DE yet?](https://areweideyet.com)
-- [Are we game yet](https://arewegameyet.rs)
-- [Are we learning yet?](https://www.arewelearningyet.com)
-- [Are we stack-efficient yet?](https://arewestackefficientyet.com)
-- [Are we web yet?](https://www.arewewebyet.org)
-- [Blessed](https://blessed.rs/crates): An unofficial guide to the Rust ecosystem
-- [Rust Language Cheat Sheet](https://cheats.rs) ⭐
-- [Rust Quiz](https://dtolnay.github.io/rust-quiz)
-- [School of Rust](https://rust-school.io) ⭐
+##### Blogs
+- [Faster than Lime](https://fasterthanli.me) ⭐
+- [Read Rust](https://readrust.net)
+- [Sylvain Kerkour's blog](https://kerkour.com/posts) ⭐
 
 ##### Books
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
@@ -67,23 +61,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
 - [Rustlings](https://github.com/rust-lang/rustlings)
 
-##### News
-- [Awesome Rust Weekly](https://rust.libhunt.com/newsletter)
-- [Inside Rust Blog](https://blog.rust-lang.org/inside-rust)
-- [Rust Blog](https://blog.rust-lang.org) ⭐
-- [This Week in Rust](https://this-week-in-rust.org) ⭐
-
-##### Blogs
-- [Faster than Lime](https://fasterthanli.me) ⭐
-- [Read Rust](https://readrust.net)
-- [Sylvain Kerkour's blog](https://kerkour.com/posts) ⭐
-
-##### Tools
-- [`cargo-c`](https://github.com/lu-zero/cargo-c): Build and install C-compatible libraries
-- [`cargo-careful`](https://www.ralfj.de/blog/2022/09/26/cargo-careful.html): Run your Rust code with extra careful debug checking
-- [Prusti](https://github.com/viperproject/prusti-dev): A static verifier for Rust, based on the Viper verification infrastructure
-- [Rudra](https://github.com/sslab-gatech/Rudra): Rust Memory Safety & Undefined Behavior Detection
-
 ##### Libraries
 - [Kanal](https://github.com/fereidani/kanal): Fastest sync and async channel that Rust deserves
 - [`log`](https://docs.rs/log/latest/log): A lightweight logging facade
@@ -91,6 +68,34 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Serde](https://serde.rs): A framework for serializing and deserializing Rust data structures efficiently and generically ⭐
 - [Tokio](https://tokio.rs): An asynchronous runtime for the Rust programming language ⭐
 - [Yew](https://yew.rs): A modern Rust framework for creating multi-threaded front-end web apps using WebAssembly
+
+
+##### News
+- [Awesome Rust Weekly](https://rust.libhunt.com/newsletter)
+- [Inside Rust Blog](https://blog.rust-lang.org/inside-rust)
+- [Rust Blog](https://blog.rust-lang.org) ⭐
+- [This Week in Rust](https://this-week-in-rust.org) ⭐
+
+##### Podcasts
+- [The Rustacean Station Podcast](https://rustacean-station.org) ⭐
+
+##### Sites
+- [Are we (I)DE yet?](https://areweideyet.com)
+- [Are we game yet](https://arewegameyet.rs)
+- [Are we learning yet?](https://www.arewelearningyet.com)
+- [Are we stack-efficient yet?](https://arewestackefficientyet.com)
+- [Are we web yet?](https://www.arewewebyet.org)
+- [Blessed](https://blessed.rs/crates): An unofficial guide to the Rust ecosystem
+- [Rust Academy](https://rust-academy.com)
+- [Rust Language Cheat Sheet](https://cheats.rs) ⭐
+- [Rust Quiz](https://dtolnay.github.io/rust-quiz)
+- [School of Rust](https://rust-school.io) ⭐
+
+##### Tools
+- [`cargo-c`](https://github.com/lu-zero/cargo-c): Build and install C-compatible libraries
+- [`cargo-careful`](https://www.ralfj.de/blog/2022/09/26/cargo-careful.html): Run your Rust code with extra careful debug checking
+- [Prusti](https://github.com/viperproject/prusti-dev): A static verifier for Rust, based on the Viper verification infrastructure
+- [Rudra](https://github.com/sslab-gatech/Rudra): Rust Memory Safety & Undefined Behavior Detection
 
 #### Resources
 
