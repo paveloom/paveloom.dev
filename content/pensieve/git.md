@@ -11,6 +11,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Git).
 
 ##### Tools
 - [`git-absorb`](https://github.com/tummychow/git-absorb): `git commit --fixup`, but automatic
+- [`git-subrepo`](https://github.com/ingydotnet/git-subrepo): Git Submodule Alternative
 - [`lazygit`](https://github.com/jesseduffield/lazygit): Simple terminal UI for git commands ⭐
 
 ##### Workflows
