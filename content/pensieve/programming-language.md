@@ -8,6 +8,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Ante](https://antelang.org)
 - [Assembly](assembly)
     - [WebAssembly](webassembly.md)
+- [Buzz](https://github.com/buzz-language/buzz)
 - [C++](c-plus-plus.md)
 - [C3](https://c3-lang.org)
 - [C](c.md)
