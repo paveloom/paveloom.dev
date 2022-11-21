@@ -6,3 +6,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Compile_time).
 
 #### Resources
 - [2022] [Compile time evaluation in Nim, Zig, Rust and C++](https://castillodel.github.io/compile-time-evaluation) ⭐
+- [2022] [The downsides of compile time evaluation](https://c3.handmade.network/blog/p/8590-the_downsides_of_compile_time_evaluation)
