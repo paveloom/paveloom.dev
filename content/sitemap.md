@@ -83,6 +83,7 @@
                     - [Graphical widget](pensieve/graphical-widget.md)
                         - [Icon](pensieve/icon.md)
                         - [Widget toolkit](pensieve/widget-toolkit.md)
+                    - [Wallpaper](pensieve/wallpaper.md)
                 - [Media players](pensieve/media-players.md)
                 - [Terminal](pensieve/terminal.md)
                     - [Command prompt](pensieve/command-prompt.md)
