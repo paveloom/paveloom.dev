@@ -6,6 +6,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 
 #### Official
 
+##### Sites
+- [Rust](https://www.rust-lang.org) ⭐
+
 ##### Documentation
 - [Rust Book](https://doc.rust-lang.org/book) ⭐
 - [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example) ⭐
@@ -22,9 +25,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 ##### Core
 - [Chalk](https://github.com/rust-lang/chalk): An implementation and definition of the Rust trait system using a PROLOG-like logic solver
 - [Polonius](https://github.com/rust-lang/polonius): Defines the Rust borrow checker
-
-##### Sites
-- [Rust](https://www.rust-lang.org) ⭐
 
 #### Community
 
@@ -62,13 +62,13 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Rustlings](https://github.com/rust-lang/rustlings)
 
 ##### Libraries
+- [`faer`](https://github.com/sarah-ek/faer-rs): A collection of crates that implement low level linear algebra routines in pure Rust
 - [Kanal](https://github.com/fereidani/kanal): Fastest sync and async channel that Rust deserves
 - [`log`](https://docs.rs/log/latest/log): A lightweight logging facade
 - [`nom`](https://github.com/Geal/nom): Rust parser combinator framework
 - [Serde](https://serde.rs): A framework for serializing and deserializing Rust data structures efficiently and generically ⭐
 - [Tokio](https://tokio.rs): An asynchronous runtime for the Rust programming language ⭐
 - [Yew](https://yew.rs): A modern Rust framework for creating multi-threaded front-end web apps using WebAssembly
-
 
 ##### News
 - [Awesome Rust Weekly](https://rust.libhunt.com/newsletter)
