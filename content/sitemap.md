@@ -137,6 +137,8 @@
                 - [Search engine](pensieve/search-engine.md)
                     - [Web search engine](pensieve/web-search-engine.md)
     - [Humanities](pensieve/humanities.md)
+        - [Philosophy](pensieve/philosophy.md)
+            - [Stoicism](pensieve/stoicism.md)
         - [The arts](pensieve/the-arts.md)
             - [Performing arts](pensieve/performing-arts.md)
                 - [Music](pensieve/music.md)
