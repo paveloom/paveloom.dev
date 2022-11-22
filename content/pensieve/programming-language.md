@@ -13,6 +13,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [C3](https://c3-lang.org)
 - [C](c.md)
 - [Go](go.md)
+- [Gluon](https://github.com/gluon-lang/gluon)
 - [Grain](https://grain-lang.org)
 - [JavaScript](javascript.md)
     - [TypeScript](typescript.md)
