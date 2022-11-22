@@ -4,15 +4,22 @@ TypeScript is a free and open source programming language developed and maintain
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/TypeScript).
 
-#### Sites
+#### Official
+
+##### Sites
 - [TypeScript](https://www.typescriptlang.org) ⭐
 
-#### Documentation
+##### Documentation
 - [TypeScript Documentation](https://www.typescriptlang.org/docs) ⭐
 
-#### Courses
-- [Type-level TypeScript](https://type-level-typescript.com)
-
 #### Community
+
+##### Exercises
 - [`type-challenges/type-challenges`](https://github.com/type-challenges/type-challenges)
     - [`ghaiklor/type-challenges-solutions`](https://github.com/ghaiklor/type-challenges-solutions)
+
+##### Courses
+- [Type-level TypeScript](https://type-level-typescript.com)
+
+#### Resources
+- [Algorithms and data structures in TypeScript: string tokenizer, rate limiter](https://developerlife.com/2022/11/21/algo-ts-1)
