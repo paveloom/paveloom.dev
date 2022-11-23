@@ -4,5 +4,9 @@ In information theory, data compression, source coding, or bit-rate reduction is
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Data_compression).
 
+#### Algorithms
+- [Brotli](https://en.wikipedia.org/wiki/Brotli)
+    - [Brotli-G SDK](https://github.com/GPUOpen-LibrariesAndSDKs/brotli_g_sdk)
+
 #### Resources
 - [Yuki Subs Guides](https://yukisubs.wordpress.com/guides) ⭐
