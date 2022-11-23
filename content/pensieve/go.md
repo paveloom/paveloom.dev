@@ -25,3 +25,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language)
 
 #### Resources
 - [2022] [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting)
+- [2022] [The carcinization of Go programs](https://xeiaso.net/blog/carcinization-golang)
