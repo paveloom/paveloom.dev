@@ -21,6 +21,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Lobster](lobster.md)
 - [Lua](lua.md)
 - [Nim](nim.md)
+- [Pony](https://www.ponylang.io)
 - [Python](python.md)
 - [Racket](https://racket-lang.org)
 - [Reason](https://reasonml.github.io)
