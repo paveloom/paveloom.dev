@@ -152,6 +152,7 @@
     - [Social science](pensieve/social-science.md)
         - [Communication studies](pensieve/communication-studies.md)
             - [Computer-mediated communication](pensieve/computer-mediated-communication.md)
+                - [Collaborative software](pensieve/collaborative-software.md)
                 - [Instant messaging](pensieve/instant-messaging.md)
                 - [Internet forum](pensieve/internet-forum.md)
                 - [Microblogging](pensieve/microblogging.md)
