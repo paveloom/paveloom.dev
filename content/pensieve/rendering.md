@@ -9,3 +9,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rendering_(computer_graph
 
 #### Books
 - [Physically Based Rendering: From Theory to Implementation](https://pbrt.org) ⭐
+
+#### 3D Graphics API
+- [OpenGL](https://en.wikipedia.org/wiki/OpenGL)
+    - [TinyGL](https://bellard.org/TinyGL)
+        - [`tinygl-rs`](https://github.com/RoastVeg/tinygl-rs)
