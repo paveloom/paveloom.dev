@@ -23,5 +23,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Git).
 - [Sturdy](https://github.com/sturdy-dev/sturdy): An open-source, real-time, version control platform for startups
 
 #### Resources
+- [2022] [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
 - [2022] [What makes Git so hard to use?](https://www.highflux.io/blog/what-makes-git-hard-to-use)
 - [2020] [How to update a pull request from a fork with Git](https://monicalent.com/blog/2020/05/03/update-pull-request-from-fork-git)
