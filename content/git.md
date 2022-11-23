@@ -457,3 +457,9 @@ A list of my public Git repositories
 :   Performing a Pearson's chi-squared test
 
     *`#astronomy` `#julia`*
+
+#### Computational Gas Dynamics S11-2022 [:simple-codeberg:](https://codeberg.org/paveloom-university/Computational-Gas-Dynamics-S11-2022) [:simple-github:](https://github.com/paveloom-university/Computational-Gas-Dynamics-S11-2022) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/s11-2022/computational-gas-dynamics)
+
+:   Modelling convection with the large-particle method
+
+    *`#astronomy` `#zig`*
