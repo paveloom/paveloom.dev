@@ -9,6 +9,7 @@
         - [Artificial intelligence](pensieve/artificial-intelligence.md)
             - [Artificial intelligence art](pensieve/artificial-intelligence-art.md)
             - [Image scaling](pensieve/image-scaling.md)
+            - [Music and artificial intelligence](pensieve/music-and-artificial-intelligence.md)
             - [Natural language processing](pensieve/natural-language-processing.md)
                 - [Speech recognition](pensieve/speech-recognition.md)
                 - [Speech synthesis](pensieve/speech-synthesis.md)
