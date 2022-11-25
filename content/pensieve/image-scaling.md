@@ -12,3 +12,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Image_scaling).
 
 #### Applications
 - [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler)
+- [Upscayl](https://upscayl.github.io)
