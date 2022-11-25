@@ -36,7 +36,7 @@ extra:
     - icon: fontawesome/solid/bolt
       link: https://paveloom.on.fleek.co
     - icon: simple/codeberg
-      link: https://codeberg.org/paveloom/pages
+      link: https://paveloom.codeberg.page
     - icon: simple/github
       link: https://paveloom.github.io
     - icon: simple/gitlab
