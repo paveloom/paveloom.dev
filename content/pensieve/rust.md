@@ -86,6 +86,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Are we stack-efficient yet?](https://arewestackefficientyet.com)
 - [Are we web yet?](https://www.arewewebyet.org)
 - [Blessed](https://blessed.rs/crates): An unofficial guide to the Rust ecosystem
+- [Design Patterns in Rust](https://refactoring.guru/design-patterns/rust) ⭐
 - [Rust Academy](https://rust-academy.com)
 - [Rust Language Cheat Sheet](https://cheats.rs) ⭐
 - [Rust Quiz](https://dtolnay.github.io/rust-quiz)
