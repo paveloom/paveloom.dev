@@ -9,11 +9,18 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Stoicism).
 ##### Books
 - [Discourses and Selected Writings](https://www.goodreads.com/book/show/4143812-discourses-and-selected-writings)
 - [Letters from a Stoic](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic)
-- [Meditations](https://www.goodreads.com/book/show/30659.Meditations)
-    - [Meditations: A New Translation](https://www.goodreads.com/book/show/19617217-meditations)
+- Meditations
+    - [Meditations (Penguin Classics)](https://www.goodreads.com/book/show/30659.Meditations)
+    - [Meditations: A New Translation](https://www.goodreads.com/book/show/60103459-meditations) ⭐
+    - [Meditations: The Annotated Edition](https://www.goodreads.com/book/show/58950970-meditations)
+    - [Meditations: With Selected Correspondence](https://www.goodreads.com/book/show/10429637-meditations)
+    - [The Meditations: An Emperor's Guide to Mastery](https://www.goodreads.com/book/show/58451610-the-meditations)
 - [On the Shortness of Life: Life Is Long if You Know How to Use It](https://www.goodreads.com/book/show/97412.On_the_Shortness_of_Life)
 - [The Daily Stoic Journal: 366 Days of Writing and Reflection on the Art of Living](https://www.goodreads.com/book/show/36517689-the-daily-stoic-journal)
 - [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way)
+
+##### Forums
+- [`/r/Stoicism`](https://reddit.com/r/Stoicism) ⭐
 
 ##### Sites
 - [Daily Stoic](https://dailystoic.com)
