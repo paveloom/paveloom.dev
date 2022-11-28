@@ -23,3 +23,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_engineering).
 ##### Video
 - [Internet Made Coder](https://www.youtube.com/channel/UCcJQ96WlEhJ0Ve0SLmU310Q)
 - [ThePrimeagen](https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw) ⭐
+- [2022] [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity) ⭐
