@@ -6,12 +6,12 @@ authors = [
     {name = "Pavel Sobolev", email = "paveloom@riseup.net"},
 ]
 dependencies = [
-    "mkdocs-material==8.5.10",
+    "mkdocs-material==8.5.11",
     "mkdocs-git-revision-date-localized-plugin==1.1.0",
     "mkdocs-literate-nav==0.5.0",
     "mkdocs-section-index==0.3.4",
     "mkdocs-exclude-search==0.6.4",
-    "mkdocs-minify-plugin==0.6.1",
+    "mkdocs-minify-plugin==0.6.2",
 ]
 requires-python = ">=3.11"
 license = {text = "MIT"}

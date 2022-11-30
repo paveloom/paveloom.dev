@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+ᴴₒᴴₒᴴₒ: true
 ---
 
 # ~/paveloom
