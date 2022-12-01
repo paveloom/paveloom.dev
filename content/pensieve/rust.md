@@ -90,7 +90,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Rust Academy](https://rust-academy.com)
 - [Rust Language Cheat Sheet](https://cheats.rs) ⭐
 - [Rust Quiz](https://dtolnay.github.io/rust-quiz)
-- [School of Rust](https://rust-school.io) ⭐
+- [RustRepo](https://rustrepo.com)
+- [School of Rust](https://rust-school.io)
 
 ##### Tools
 - [`cargo-c`](https://github.com/lu-zero/cargo-c): Build and install C-compatible libraries
