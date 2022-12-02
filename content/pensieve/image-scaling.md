@@ -11,5 +11,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Image_scaling).
     - [waifu2x ncnn Vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
 
 #### Applications
+- [Upscale-rs](https://github.com/OLoKo64/upscale-rs)
 - [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler)
 - [Upscayl](https://upscayl.github.io)
