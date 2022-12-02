@@ -88,6 +88,7 @@
                     - [Operating system shell](pensieve/operating-system-shell.md)
                     - [Terminal emulators](pensieve/terminal-emulators.md)
                 - [Text editors](pensieve/text-editors.md)
+                    - [Helix](pensieve/helix.md)
                     - [Neovim](pensieve/neovim.md)
                 - [Tools](pensieve/tools.md)
                 - [Virtualization](pensieve/virtualization.md)
