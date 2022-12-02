@@ -6,6 +6,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Instant_messaging).
 
 #### Applications
 - [Berty](https://berty.tech) ⭐
+- [Discord](https://en.wikipedia.org/wiki/Discord)
+- [Revolt](https://revolt.chat)
 - [Signal](https://en.wikipedia.org/wiki/Signal_(software))
     - [Session](https://getsession.org)
 - [Telegram](https://en.wikipedia.org/wiki/Telegram_(software))
