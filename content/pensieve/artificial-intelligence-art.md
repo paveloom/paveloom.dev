@@ -30,6 +30,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence_a
 - [2022] [NovelAI Improvements on Stable Diffusion](https://blog.novelai.net/novelai-improvements-on-stable-diffusion-e10d38db82ac)
 - [2022] [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
 - [2022] [Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
+- [2022] [Stable Diffusion 2.0 and the Importance of Negative Prompts for Good Results](https://minimaxir.com/2022/11/stable-diffusion-negative-prompt)
 - [2022] [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion)
 
 ##### Video
