@@ -8,6 +8,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence_a
 
 ##### Image
 - [DALL-E](https://openai.com/blog/dall-e)
+- [Different Dimension Me](https://h5.tu.qq.com/web/ai-2d/cartoon/index)
 - [Midjourney](https://www.midjourney.com)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐
     - [InvokeAI](https://invoke-ai.github.io/InvokeAI)
