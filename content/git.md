@@ -464,3 +464,9 @@ A list of my public Git repositories
 :   Modelling convection with the large-particle method
 
     *`#astronomy` `#zig`*
+
+#### Stellar Astronomy Laboratory Workshop S11-2022 [:simple-codeberg:](https://codeberg.org/paveloom-university/Stellar-Astronomy-Laboratory-Workshop-S11-2022) [:simple-github:](https://github.com/paveloom-university/Stellar-Astronomy-Laboratory-Workshop-S11-2022) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/s11-2022/stellar-astronomy-laboratory-workshop)
+
+:   Generating and inferring galaxy rotation curves
+
+    *`#astronomy` `#julia`*
