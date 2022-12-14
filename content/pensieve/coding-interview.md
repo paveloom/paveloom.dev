@@ -6,3 +6,12 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Coding_interview).
 
 #### Books
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/dp/0984782850) ⭐
+
+#### Resources
+
+##### Text
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
+##### Video
+- [How I got a job at Amazon as a software engineer](https://www.youtube.com/watch?v=vcyXrlGKec4) ⭐
