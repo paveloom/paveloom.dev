@@ -470,3 +470,9 @@ A list of my public Git repositories
 :   Generating and inferring galaxy rotation curves
 
     *`#astronomy` `#julia`*
+
+#### Stellar Astronomy Special Workshop S11-2022 [:simple-codeberg:](https://codeberg.org/paveloom-university/Stellar-Astronomy-Special-Workshop-S11-2022) [:simple-github:](https://github.com/paveloom-university/Stellar-Astronomy-Special-Workshop-S11-2022) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/s11-2022/stellar-astronomy-special-workshop)
+
+:   Performing weighted orthogonal regression
+
+    *`#regression` `#julia`*
