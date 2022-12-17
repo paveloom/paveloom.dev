@@ -9,6 +9,13 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Git).
 
 #### Community
 
+##### Forges
+- [GitHub](https://github.com)
+- [GitLab](https://gitlab.com)
+- [Gitea](https://gitea.io)
+    - [Forgejo](https://forgejo.org)
+        - [Codeberg](https://codeberg.org)
+
 ##### Tools
 - [`git-absorb`](https://github.com/tummychow/git-absorb): `git commit --fixup`, but automatic
 - [`git-subrepo`](https://github.com/ingydotnet/git-subrepo): Git Submodule Alternative
