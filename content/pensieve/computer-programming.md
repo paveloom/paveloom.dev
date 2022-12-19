@@ -5,6 +5,7 @@ Computer programming is the process of performing a particular computation (or m
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 
 #### Books
+- [Coders at Work: Reflections on the Craft of Programming](https://codersatwork.com) ⭐
 - [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) ⭐
     - [HTML5/EPUB3 version of SICP](https://github.com/sarabander/sicp)
     - [Hexlet SICP](https://sicp.hexlet.io) ⭐
