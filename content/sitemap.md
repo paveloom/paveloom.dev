@@ -11,6 +11,7 @@
             - [Image scaling](pensieve/image-scaling.md)
             - [Music and artificial intelligence](pensieve/music-and-artificial-intelligence.md)
             - [Natural language processing](pensieve/natural-language-processing.md)
+                - [Chatbot](pensieve/chatbot.md)
                 - [Speech recognition](pensieve/speech-recognition.md)
                 - [Speech synthesis](pensieve/speech-synthesis.md)
             - [Programming assistance](pensieve/programming-assistance.md)
