@@ -9,6 +9,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_langu
 
 #### Tools
 
+##### Compilers
+- [Codon](https://github.com/exaloop/codon)
+
 ##### Linters
 - [Ruff](https://github.com/charliermarsh/ruff) ⭐
 
