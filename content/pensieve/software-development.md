@@ -4,5 +4,24 @@ Software development is the process of conceiving, specifying, designing, progra
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 
+#### Community
+
+##### Blogs
+- [Deeply Nested](https://nested.substack.com) ⭐
+
+##### Social networks
+- [GitHub](https://github.com)
+- [Showwcase](https://www.showwcase.com)
+
+##### Showcase
+- [CodersRank](https://codersrank.io)
+
 #### Resources
+
+##### Text
 - [Technology Radar](https://www.thoughtworks.com/radar) ⭐
+
+##### Video
+- [Internet Made Coder](https://www.youtube.com/channel/UCcJQ96WlEhJ0Ve0SLmU310Q)
+- [ThePrimeagen](https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw) ⭐
+- [2022] [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity) ⭐
