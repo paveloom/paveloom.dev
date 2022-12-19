@@ -9,6 +9,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 ##### Blogs
 - [Deeply Nested](https://nested.substack.com) ⭐
 
+##### Books
+- [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) ⭐
+- [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete) ⭐
+- [Coders at Work: Reflections on the Craft of Programming](https://codersatwork.com) ⭐
+
 ##### Social networks
 - [GitHub](https://github.com)
 - [Showwcase](https://www.showwcase.com)
