@@ -17,6 +17,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 
 #### Community
 
+##### Applications
+- [Pixi](https://github.com/foxnne/pixi): Pixel art editor made with Zig
+
 ##### Coding conventions
 - [Tiger Style](https://github.com/tigerbeetledb/tigerbeetle/blob/main/docs/TIGER_STYLE.md) ⭐
 
@@ -48,12 +51,12 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [BYOL](https://github.com/hmusgrave/byol): A memory-efficient, straggler-avoiding, cache-friendly scheduler
 - [Mecha](https://github.com/Hejsil/mecha): A parser combinator library for Zig
 - [`zcirc`](https://github.com/hmusgrave/zcirc): A dynamic circular buffer allocator for Zig
-- [`zig-bench`](https://github.com/Hejsil/zig-bench): Simple benchmarking library
+- [`zig-gamedev`](https://github.com/michal-z/zig-gamedev): Building game development ecosystem for @ziglang! ⭐
 - [2020] [`interface.zig`](https://github.com/alexnask/interface.zig): Dynamic dispatch for zig made easy
 
 ##### Tools
 - [Gyro](https://github.com/mattnite/gyro): A Zig package manager with an index, build runner, and build dependencies
-- [Zigmod](https://github.com/nektro/zigmod): A package manager for the Zig programming language
+- [Zigmod](https://github.com/nektro/zigmod): A package manager for the Zig programming language ⭐
 - [Zigup](https://github.com/marler8997/zigup): Download and manage Zig compilers ⭐
 
 #### Resources
