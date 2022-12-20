@@ -89,6 +89,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Design Patterns in Rust](https://refactoring.guru/design-patterns/rust) ⭐
 - [Rust Academy](https://rust-academy.com)
 - [Rust Language Cheat Sheet](https://cheats.rs) ⭐
+- [Rust Magazine](https://rustmagazine.github.io)
 - [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 - [RustRepo](https://rustrepo.com)
 - [School of Rust](https://rust-school.io)
