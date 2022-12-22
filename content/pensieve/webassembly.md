@@ -67,5 +67,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/WebAssembly).
 - [2020] [Can WASM become the new Docker?](https://adlrocha.substack.com/p/adlrocha-can-wasm-become-the-new)
 
 ##### Video
+- [2022] [Compile WebAssembly on Linux to native Windows using Wasmer & Zig](https://www.youtube.com/watch?v=VbYy2gqjnJI)
 - [2022] [Rust & Wasm (Safe and fast web development)](https://www.youtube.com/watch?v=P4LMfkFLRsI)
 - [2020] [WebAssembly and the Elusive Universal Binary](https://www.youtube.com/watch?v=4ZMY3QE5t9o&t=279s)
