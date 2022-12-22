@@ -6,3 +6,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 
 #### Books
 - [Introduction to Algorithms](https://www.amazon.com/dp/0262033844) ⭐
+
+#### Resources
+- [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
