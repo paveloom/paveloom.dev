@@ -18,6 +18,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
 - [2021] [The Art of Writing Efficient Programs](https://www.packtpub.com/product/the-art-of-writing-efficient-programs/9781800208117)
     - [Code](https://github.com/PacktPublishing/The-Art-of-Writing-Efficient-Programs)
 - [2021] [Understanding Software Dynamics](https://www.amazon.de/gp/product/0137589735) ⭐
+- [2003] [Code Optimization: Effective Memory Usage](https://www.goodreads.com/book/show/435688.Code_Optimization)
 
 #### Resources
 
