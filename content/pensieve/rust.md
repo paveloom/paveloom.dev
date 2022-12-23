@@ -41,6 +41,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [Black Hat Rust](https://kerkour.com/black-hat-rust)
 - [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
 - [Command Line Applications in Rust](https://rust-cli.github.io/book)
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/welcome.html) ⭐
 - [High Assurance Rust](https://highassurance.rs)
 - [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
 - [Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
