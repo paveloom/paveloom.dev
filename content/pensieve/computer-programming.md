@@ -32,8 +32,13 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
     - [Federico Galassi's solutions](https://github.com/fgalassi/cs61a-sp11)
 
 #### Resources
+
+##### Text
 - [Just for Fun. No, Really](https://justforfunnoreally.dev)
 - [2022] [Does experience make you a better programmer?](https://austinhenley.com/blog/experienceversusskill.html)
 - [2022] [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
 - [2022] [The Secret Art of Storytelling in Programming](https://semaphoreci.com/blog/storytelling-programming)
 - [2022] [Variables](https://nested.substack.com/p/variables)
+
+##### Video
+- [CodeAesthetic](https://www.youtube.com/@CodeAesthetic) ⭐
