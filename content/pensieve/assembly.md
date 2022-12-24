@@ -4,5 +4,8 @@ In computer programming, assembly language (or assembler language, or symbolic m
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Assembly_language).
 
+#### Instruction references
+- [x86 and amd64](https://www.felixcloutier.com/x86) ⭐
+
 #### Books
 - [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)
