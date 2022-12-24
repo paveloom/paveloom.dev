@@ -4,8 +4,14 @@ In mathematics and computer science, an algorithm is a finite sequence of rigoro
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 
-#### Books
+#### Community
+
+##### Books
 - [Introduction to Algorithms](https://www.amazon.com/dp/0262033844) ⭐
+
+##### Sites
+- [Algorithms for Competitive Programming](https://cp-algorithms.com) ⭐
+- [Алгоритмика](https://ru.algorithmica.org) ⭐
 
 #### Resources
 - [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
