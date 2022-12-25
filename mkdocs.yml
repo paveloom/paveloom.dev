@@ -1,5 +1,5 @@
 site_name: ~/paveloom
-site_description: "@paveloom's website"
+site_description: An odd fellow steaming some code
 site_author: Pavel Sobolev
 docs_dir: content
 site_dir: public
@@ -68,7 +68,6 @@ plugins:
         - sitemap.md
   - git-revision-date-localized:
       exclude:
-        - README.md
         - pensieve/README.md
   - literate-nav:
       nav_file: sitemap.md
