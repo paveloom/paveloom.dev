@@ -31,6 +31,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
         - [Roman Bird's compilation](https://romanbird.github.io/sicp)
     - [Federico Galassi's solutions](https://github.com/fgalassi/cs61a-sp11)
 
+##### Wikis
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) ⭐
+
 #### Resources
 
 ##### Text
