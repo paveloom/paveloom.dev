@@ -17,6 +17,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_langu
 ##### Linters
 - [Ruff](https://github.com/charliermarsh/ruff) ⭐
 
+##### LSP
+- [`pylyzer`](https://github.com/mtshiba/pylyzer)
+
 ##### Package and dependency managers
 - [Conda](https://conda.io)
 - [PDM](https://pdm.fming.dev) ⭐
