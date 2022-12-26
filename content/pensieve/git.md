@@ -18,6 +18,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Git).
 
 ##### Tools
 - [`git-absorb`](https://github.com/tummychow/git-absorb): `git commit --fixup`, but automatic
+- [`git-appraise`](https://github.com/google/git-appraise): Distributed code review system for Git repos
 - [`git-subrepo`](https://github.com/ingydotnet/git-subrepo): Git Submodule Alternative
 - [`lazygit`](https://github.com/jesseduffield/lazygit): Simple terminal UI for git commands ⭐
 
@@ -31,5 +32,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Git).
 
 #### Resources
 - [2022] [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
+- [2022] [Git Notes: git's coolest, most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature)
 - [2022] [What makes Git so hard to use?](https://www.highflux.io/blog/what-makes-git-hard-to-use)
 - [2020] [How to update a pull request from a fork with Git](https://monicalent.com/blog/2020/05/03/update-pull-request-from-fork-git)
+- [2018] [A Plumber’s Guide to Git](https://alexwlchan.net/a-plumbers-guide-to-git) ⭐
