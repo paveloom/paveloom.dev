@@ -20,7 +20,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_font).
 - [Nerd Fonts](https://www.nerdfonts.com): Iconic font aggregator, collection, and patcher ⭐
 
 #### Tools
-- [`google-webfonts-helper`](https://google-webfonts-helper.herokuapp.com): A Hassle-Free Way to Self-Host Google Fonts
+- [`google-webfonts-helper`](https://gwfh.mranftl.com/fonts): A Hassle-Free Way to Self-Host Google Fonts
 - [Programming Fonts](https://www.programmingfonts.org): Test drive programming fonts online
 
 #### Resources

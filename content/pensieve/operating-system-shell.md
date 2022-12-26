@@ -8,7 +8,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing)).
 - [Bash](https://www.gnu.org/software/bash)
 - [Fish](https://fishshell.com) ⭐
 - [Nushell](https://www.nushell.sh)
-- [Powershell](https://microsoft.com/powershell)
+- [Powershell](https://en.wikipedia.org/wiki/PowerShell)
 - [Zsh](https://www.zsh.org)
     - [Oh My ZSH!](https://ohmyz.sh)
 

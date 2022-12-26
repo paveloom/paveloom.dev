@@ -22,7 +22,7 @@
 - [Best-of: Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens) ⭐
 - [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
 - [Maggie Appleton's compilation](https://github.com/MaggieAppleton/digital-gardeners)
-- [Nikita Voloboev's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
+- [Nikita Voloboev's compilation](https://wiki.nikiv.dev/other/wiki-workflow#similar-wikis-i-liked)
 - [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
 
 ##### Forums

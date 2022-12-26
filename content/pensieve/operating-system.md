@@ -13,7 +13,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Operating_system).
         - [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD)
         - [ravynOS](https://ravynos.com)
     - [macOS](https://en.wikipedia.org/wiki/MacOS)
-    - [Linux](linux)
+    - [Linux](linux.md)
 - [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
 - Other
     - [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system))

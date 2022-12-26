@@ -6,7 +6,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 
 #### Examples
 - [Ante](https://antelang.org)
-- [Assembly](assembly)
+- [Assembly](assembly.md)
     - [WebAssembly](webassembly.md)
 - [Buzz](https://github.com/buzz-language/buzz)
 - [C++](c-plus-plus.md)

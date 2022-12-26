@@ -5,4 +5,4 @@ In software engineering, a compatibility layer is an interface that allows binar
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Compatibility_layer).
 
 #### Examples
-- [Windows Subsystem for Linux](wsl)
+- [Windows Subsystem for Linux](windows-subsystem-for-linux.md)

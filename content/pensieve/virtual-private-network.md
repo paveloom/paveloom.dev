@@ -5,7 +5,7 @@ A virtual private network (VPN) extends a private network across a public networ
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_network).
 
 #### Protocols
-- [WireGuard](wireguard) ⭐
+- [WireGuard](wireguard.md) ⭐
 
 #### Services
 - [Mullvad](https://mullvad.net) ⭐

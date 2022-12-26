@@ -5,5 +5,5 @@ In computing, a desktop environment (DE) is an implementation of the desktop met
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Desktop_environment).
 
 #### Examples
-- [GNOME](gnome) ⭐
+- [GNOME](gnome.md) ⭐
 - [KDE](https://kde.org)
