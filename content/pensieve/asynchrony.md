@@ -4,6 +4,12 @@ Asynchrony, in computer programming, refers to the occurrence of events independ
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)).
 
+#### Libraries
+- [Asio](https://en.wikipedia.org/wiki/Asio_C%2B%2B_library)
+- [GLib](https://en.wikipedia.org/wiki/GLib)
+- [`libevent`](https://en.wikipedia.org/wiki/Libevent)
+- [`libuv`](https://en.wikipedia.org/wiki/Libuv) ⭐
+
 #### Resources
 
 ##### Video
