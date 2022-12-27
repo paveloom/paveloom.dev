@@ -7,9 +7,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_langu
 #### Sites
 - [Python](https://www.python.org) ⭐
 
-#### Implementations
+#### Interpreters & Compilers
 - [CPython](https://en.wikipedia.org/wiki/CPython)
 - [Codon](https://github.com/exaloop/codon)
+- [Numba](https://en.wikipedia.org/wiki/Numba)
 - [PyPy](https://en.wikipedia.org/wiki/PyPy)
 
 #### Tools
