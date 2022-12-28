@@ -72,6 +72,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2022] [Zig Is Self-Hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what)
 - [2021] [An intro to Zig's integer casting for C programmers](https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers)
 - [2021] [Async CPU bound workers in Zig](https://dev.to/stein/async-cpu-bound-workers-in-zig-24b0) ⭐
+- [2021] [C/C++/Zig Series](https://zig.news/kristoff/series/3) ⭐
 - [2021] [Preventing integer overflow in Zig](https://www.lagerdata.com/articles/preventing-integer-overflow-in-zig)
 - [2021] [Resource efficient Thread Pools with Zig](https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291) ⭐
 - [2021] [Struct of Arrays (SoA) in Zig? Easy & in Userland!](https://zig.news/kristoff/struct-of-arrays-soa-in-zig-easy-in-userland-40m0)
