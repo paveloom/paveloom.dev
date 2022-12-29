@@ -13,11 +13,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/JavaScript).
 - [Deno](https://en.wikipedia.org/wiki/Deno_(software))
 - [Node](https://en.wikipedia.org/wiki/Node.js)
 
-#### Web Frameworks
-- [Fresh](https://fresh.deno.dev)
-- [Solid](https://www.solidjs.com)
-- [Svelte](https://en.wikipedia.org/wiki/Svelte)
-
 #### Tools
 
 ##### Bundlers
