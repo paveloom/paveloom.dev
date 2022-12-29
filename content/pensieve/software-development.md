@@ -10,9 +10,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 - [Deeply Nested](https://nested.substack.com) ⭐
 
 ##### Books
-- [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) ⭐
-- [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete) ⭐
-- [Coders at Work: Reflections on the Craft of Programming](https://codersatwork.com) ⭐
+- [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
+- [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
+- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder)
 
 ##### Social networks
 - [GitHub](https://github.com)
