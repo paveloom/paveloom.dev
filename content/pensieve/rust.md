@@ -106,6 +106,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 ##### Text
 - [A curated list of Rust code and resources](https://github.com/rust-unofficial/awesome-rust) ⭐
 - [How to minimize Rust binary size](https://github.com/johnthagen/min-sized-rust) ⭐
+- [Idiomatic Rust](https://github.com/mre/idiomatic-rust) ⭐
 - [Learn X in Y minutes where X = Rust](https://learnxinyminutes.com/docs/rust) ⭐
 - [Not-Yet-Awesome Rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
 - [2022] [34 Must Know Terms for Embedded Rust Newbies](https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies)
