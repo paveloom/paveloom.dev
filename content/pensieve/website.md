@@ -4,12 +4,6 @@ A website (also written as a web site) is a collection of web pages and related 
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Website).
 
-#### Web Frameworks
-- [Fresh](https://fresh.deno.dev)
-- [Leptos](https://github.com/gbj/leptos)
-- [Solid](https://www.solidjs.com)
-- [Svelte](https://en.wikipedia.org/wiki/Svelte)
-
-#### Posts
+#### Resources
 - [2022] [Rewriting the Modern Web in Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust)
 - [2022] [My Blog is Hilariously Overengineered to the Point People Think it's a Static Site](https://xeiaso.net/talks/how-my-website-works)

@@ -67,7 +67,9 @@
         - [Information system](pensieve/information-system.md)
             - [World Wide Web](pensieve/world-wide-web.md)
                 - [Website](pensieve/website.md)
-                    - [Digital garden](pensieve/digital-garden.md)
+                    - Examples
+                        - [Digital garden](pensieve/digital-garden.md)
+                    - [Web framework](pensieve/web-framework.md)
         - [Mathematics of computing](pensieve/mathematics-of-computing.md)
             - [Information theory](pensieve/information-theory.md)
                 - [Data](pensieve/data.md)
