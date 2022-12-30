@@ -480,3 +480,13 @@ A list of my public Git repositories
 :   Performing weighted orthogonal regression
 
     *`#regression` `#julia`*
+
+## Zig [:simple-codeberg:](https://codeberg.org/paveloom-z) [:simple-github:](https://github.com/paveloom-z) [:simple-gitlab:](https://gitlab.com/paveloom-g/zig)
+
+:   Zig projects
+
+### `zig-libuv` [:simple-codeberg:](https://codeberg.org/paveloom-z/zig-libuv) [:simple-github:](https://github.com/paveloom-z/zig-libuv) [:simple-gitlab:](https://gitlab.com/paveloom-g/zig/zig-libuv)
+
+:   Zig bindings for the libuv library
+
+    *`#zig`  `#libuv`*
