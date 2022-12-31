@@ -17,7 +17,7 @@
             - [Programming assistance](pensieve/programming-assistance.md)
         - [Computer graphics](pensieve/computer-graphics.md)
             - [Rendering](pensieve/rendering.md)
-        - [Computer language](pensieve/computer-language.md)
+        - [Formal language](pensieve/formal-language.md)
             - [Construction language](pensieve/construction-language.md)
                 - [Programming language](pensieve/programming-language.md)
                     - Examples
@@ -42,6 +42,7 @@
                                 - [Dynamic dispatch](pensieve/dynamic-dispatch.md)
             - [Markup language](pensieve/markup-language.md)
                 - [HTML](pensieve/html.md)
+            - [Regular language](pensieve/regular-language.md)
         - [Computer networks](pensieve/computer-networks.md)
             - [Distributed file systems](pensieve/distributed-file-systems.md)
                 - [Samba](pensieve/samba.md)
