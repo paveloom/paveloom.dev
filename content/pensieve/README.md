@@ -1,7 +1,3 @@
----
-ᴴₒᴴₒᴴₒ: true
----
-
 # Pensieve
 
 This [digital garden](digital-garden.md) is my collection of notes on different topics.

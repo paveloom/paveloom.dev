@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Sitemap
 
 - [Home](README.md)

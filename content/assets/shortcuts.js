@@ -1,29 +1,25 @@
 /* global keyboard$ */
 
+/**
+ * Go to the link in the selected element
+ */
+function setLocation(selector) {
+  const link = document.querySelector(selector) || undefined;
+  if (typeof link !== "undefined") window.location.href = link.href;
+}
+
 // Let the user navigate the pages with arrow keys
 keyboard$.subscribe((key) => {
-  let href = null;
   if (key.mode === "global") {
     switch (key.type) {
       case "ArrowLeft": {
-        key.claim();
-        let a = document.querySelector('a[rel="prev"]');
-        if (a) {
-          href = a.getAttribute("href");
-        }
+        setLocation("link[rel=prev]");
         break;
       }
       case "ArrowRight": {
-        key.claim();
-        let a = document.querySelector('a[rel="next"]');
-        if (a) {
-          href = a.getAttribute("href");
-        }
+        setLocation("link[rel=next]");
         break;
       }
     }
-  }
-  if (href) {
-    window.location.href = href;
   }
 });
