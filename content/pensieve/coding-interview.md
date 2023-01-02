@@ -10,8 +10,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Coding_interview).
 #### Resources
 
 ##### Text
-- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
-- [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+- [2023] [How does a hobby programmer get hired?](https://news.ycombinator.com/item?id=34206559) ⭐
+- [2019] [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [2019] [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 ##### Video
-- [How I got a job at Amazon as a software engineer](https://www.youtube.com/watch?v=vcyXrlGKec4) ⭐
+- [2022] [How I got a job at Amazon as a software engineer](https://www.youtube.com/watch?v=vcyXrlGKec4) ⭐
