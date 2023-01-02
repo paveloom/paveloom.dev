@@ -26,7 +26,7 @@ A list of my public Git repositories
 
 #### Groovy [:simple-codeberg:](https://codeberg.org/paveloom-a/Groovy) [:simple-github:](https://github.com/paveloom-a/Groovy) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps/Groovy)
 
-:   *`#zig`*
+:   *`#zig` <code style="color: var(--md-primary-fg-color)">#work-in-progress</code>*
 
 #### `hello-world` [:simple-codeberg:](https://codeberg.org/paveloom-a/hello-world) [:simple-github:](https://github.com/paveloom-a/hello-world) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps/hello-world)
 
