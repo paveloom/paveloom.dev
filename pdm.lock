@@ -148,7 +148,7 @@ dependencies = [
 
 [[package]]
 name = "mkdocs-material"
-version = "9.0.0"
+version = "9.0.1"
 requires_python = ">=3.7"
 summary = "Documentation that simply works"
 dependencies = [
@@ -157,7 +157,6 @@ dependencies = [
     "markdown>=3.2",
     "mkdocs-material-extensions>=1.1",
     "mkdocs>=1.4.2",
-    "pipdeptree>=2.3",
     "pygments>=2.14",
     "pymdown-extensions>=9.9",
     "regex>=2022.4.24",
@@ -199,12 +198,6 @@ summary = "Core utilities for Python packages"
 dependencies = [
     "pyparsing!=3.0.5,>=2.0.2",
 ]
-
-[[package]]
-name = "pipdeptree"
-version = "2.3.3"
-requires_python = ">=3.7"
-summary = "Command line utility to show dependency tree of packages."
 
 [[package]]
 name = "pygments"
@@ -300,7 +293,7 @@ summary = "Filesystem events monitoring"
 
 [metadata]
 lock_version = "4.1"
-content_hash = "sha256:2fe1a700f09ace5e01e2a24915ac9ed4822da13496aefc00aa68505f6b12f02a"
+content_hash = "sha256:256b242db81a3be4b70cebd0b38a0e100c8f96bbd56759ab8de56ef02383969e"
 
 [metadata.files]
 "babel 2.11.0" = [
@@ -414,9 +407,9 @@ content_hash = "sha256:2fe1a700f09ace5e01e2a24915ac9ed4822da13496aefc00aa68505f6
     {url = "https://files.pythonhosted.org/packages/8b/77/32560d67b72984a568d2630b2dbd261d4a3f745b4ac163a3d3c3ae272d08/mkdocs_literate_nav-0.5.0-py3-none-any.whl", hash = "sha256:b41149172af38c1a1df5e8d63292cbe7ed2a1431cd5daf884289036f2a9c7cca"},
     {url = "https://files.pythonhosted.org/packages/aa/5f/1568d02ffaf38476395b6275effc776a4f4cc93047ba3a1573eedb9eea62/mkdocs-literate-nav-0.5.0.tar.gz", hash = "sha256:c63d4385bb2b520baede25badad2d0936acebff3da175922c600d0a91902d8ff"},
 ]
-"mkdocs-material 9.0.0" = [
-    {url = "https://files.pythonhosted.org/packages/4f/bd/2707dd149e6ae83e0f895d81855482b47fb28bd69b27a63426b7f563b3a4/mkdocs_material-9.0.0-py3-none-any.whl", hash = "sha256:2caf92a0aab3123ff505466578ded45ee3f14125128c68fe800254c4a4044310"},
-    {url = "https://files.pythonhosted.org/packages/a1/15/47992b6b7ce8bfd9299b25ce35af27630183228d57a5cdbf7446c900f0e2/mkdocs_material-9.0.0.tar.gz", hash = "sha256:d523c1d5d01cc8cf2aac78ba6393958501f3d2f060a9afb7cbd15337e77c21c3"},
+"mkdocs-material 9.0.1" = [
+    {url = "https://files.pythonhosted.org/packages/44/0f/3eb96356a2be1659a840a3478af6ceeb2b4d066507f79247d9cbb364465a/mkdocs_material-9.0.1.tar.gz", hash = "sha256:c0e2df04adeac45b8051160d042624c44429c4dd3efc8baaa9ddb2cd1309afb0"},
+    {url = "https://files.pythonhosted.org/packages/62/f5/b62cb94beebe2f7831918d794287ddb3c4e42ac1b947870de6051ed82492/mkdocs_material-9.0.1-py3-none-any.whl", hash = "sha256:5f838dffa46796575932ae2083cd1373e27c6d87254e090cea573a7d393e3f04"},
 ]
 "mkdocs-material-extensions 1.1" = [
     {url = "https://files.pythonhosted.org/packages/7c/60/60b7767c99e81326892c49bd80735952dab128e7bca7e903d9fa5accd00e/mkdocs_material_extensions-1.1.tar.gz", hash = "sha256:96ca979dae66d65c2099eefe189b49d5ac62f76afb59c38e069ffc7cf3c131ec"},
@@ -433,10 +426,6 @@ content_hash = "sha256:2fe1a700f09ace5e01e2a24915ac9ed4822da13496aefc00aa68505f6
 "packaging 21.3" = [
     {url = "https://files.pythonhosted.org/packages/05/8e/8de486cbd03baba4deef4142bd643a3e7bbe954a784dc1bb17142572d127/packaging-21.3-py3-none-any.whl", hash = "sha256:ef103e05f519cdc783ae24ea4e2e0f508a9c99b2d4969652eed6a2e1ea5bd522"},
     {url = "https://files.pythonhosted.org/packages/df/9e/d1a7217f69310c1db8fdf8ab396229f55a699ce34a203691794c5d1cad0c/packaging-21.3.tar.gz", hash = "sha256:dd47c42927d89ab911e606518907cc2d3a1f38bbd026385970643f9c5b8ecfeb"},
-]
-"pipdeptree 2.3.3" = [
-    {url = "https://files.pythonhosted.org/packages/73/83/6db58ab558d511302941af4d4b70e9ee7d603c9b87dc073635e2000d9715/pipdeptree-2.3.3-py3-none-any.whl", hash = "sha256:8c012fd8ee79083806db9d1410a44648f71dba11364719aa40ed718f4762e964"},
-    {url = "https://files.pythonhosted.org/packages/99/02/1f0f5e6ec82d22bb7c68b699d626f46a41d05f8e32269b2543348d345734/pipdeptree-2.3.3.tar.gz", hash = "sha256:9d666f77ff1b9528d01b3d98594096484f56de70d752abe22f13e681be239bd8"},
 ]
 "pygments 2.14.0" = [
     {url = "https://files.pythonhosted.org/packages/0b/42/d9d95cc461f098f204cd20c85642ae40fbff81f74c300341b8d0e0df14e0/Pygments-2.14.0-py3-none-any.whl", hash = "sha256:fa7bd7bd2771287c0de303af8bfdfc731f51bd2c6a47ab69d117138893b82717"},

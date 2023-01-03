@@ -4,7 +4,6 @@ site_author: Pavel Sobolev
 docs_dir: content
 site_dir: public
 repo_url: https://github.com/paveloom/paveloom.github.io
-edit_uri: blob/master/content/
 repo_name: Source code
 theme:
   name: material
@@ -26,7 +25,6 @@ theme:
         icon: material/lightbulb-outline
         name: Switch to the light theme
   features:
-    - content.action.view
     - content.code.copy
     - navigation.instant
     - navigation.tabs
