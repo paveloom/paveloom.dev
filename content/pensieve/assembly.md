@@ -9,3 +9,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Assembly_language).
 
 #### Books
 - [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)
+
+#### Resources
+
+##### Video
+- [2018] [Intro to x86 Assembly Language](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
