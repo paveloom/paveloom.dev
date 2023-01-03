@@ -321,13 +321,13 @@ A list of my public Git repositories
 
 :   Projects developed during my time studying at Saint Petersburg State University
 
-### Astrometric Workshop Summer 2019 [:simple-codeberg:](https://codeberg.org/paveloom-university/Astrometric-Workshop-Summer-2019) [:simple-github:](https://github.com/paveloom-university/Astrometric-Workshop-Summer-2019) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/astrometric-workshop-summer-2019)
+#### Astrometric Workshop Summer 2019 [:simple-codeberg:](https://codeberg.org/paveloom-university/Astrometric-Workshop-Summer-2019) [:simple-github:](https://github.com/paveloom-university/Astrometric-Workshop-Summer-2019) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/astrometric-workshop-summer-2019)
 
 :   Scripts and programs from the astrometric workshop
 
     *`#observations`  `#astronomy` `#astrometry`*
 
-### Astrophysical Workshop Summer 2021 [:simple-codeberg:](https://codeberg.org/paveloom-university/Astrophysical-Workshop-Summer-2021) [:simple-github:](https://github.com/paveloom-university/Astrophysical-Workshop-Summer-2021) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/astrophysical-workshop-summer-2021)
+#### Astrophysical Workshop Summer 2021 [:simple-codeberg:](https://codeberg.org/paveloom-university/Astrophysical-Workshop-Summer-2021) [:simple-github:](https://github.com/paveloom-university/Astrophysical-Workshop-Summer-2021) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/astrophysical-workshop-summer-2021)
 
 :   Materials developed during the laboratory work at the astrophysical workshop
 
@@ -480,12 +480,18 @@ A list of my public Git repositories
 
     *`#regression` `#julia`*
 
+#### Resonances in Celestial Mechanics S11-2022 [:simple-codeberg:](https://codeberg.org/paveloom-university/Resonances-in-Celestial-Mechanics-S11-2022) [:simple-github:](https://github.com/paveloom-university/Resonances-in-Celestial-Mechanics-S11-2022) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/s11-2022/resonances-in-celestial-mechanics)
+
+:   Modelling dynamics of main-belt asteroids
+
+    *`#astronomy` `#celestial-mechanics` `#resonances` `#julia`*
+
 ## Zig [:simple-codeberg:](https://codeberg.org/paveloom-z) [:simple-github:](https://github.com/paveloom-z) [:simple-gitlab:](https://gitlab.com/paveloom-g/zig)
 
 :   Zig projects
 
-### `zig-libuv` [:simple-codeberg:](https://codeberg.org/paveloom-z/zig-libuv) [:simple-github:](https://github.com/paveloom-z/zig-libuv) [:simple-gitlab:](https://gitlab.com/paveloom-g/zig/zig-libuv)
+#### `zig-libuv` [:simple-codeberg:](https://codeberg.org/paveloom-z/zig-libuv) [:simple-github:](https://github.com/paveloom-z/zig-libuv) [:simple-gitlab:](https://gitlab.com/paveloom-g/zig/zig-libuv)
 
 :   Zig bindings for the libuv library
 
-    *`#zig`  `#libuv`*
+    *`#libuv` `#zig`*
