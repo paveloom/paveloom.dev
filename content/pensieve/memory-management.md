@@ -4,6 +4,9 @@ Memory management is a form of resource management applied to computer memory. T
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Memory_management).
 
+#### Allocators
+- [`mimalloc`](https://github.com/microsoft/mimalloc): A compact general purpose allocator with excellent performance
+
 #### Approaches
 - [Garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
     - [Reference counting](https://en.wikipedia.org/wiki/Reference_counting)
