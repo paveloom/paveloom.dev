@@ -31,6 +31,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Wuffs](https://github.com/google/wuffs)
 - [Zig](zig.md)
 
+#### Books
+- [Crafting Interpreters](https://craftinginterpreters.com) ⭐
+
 #### Community
 
 ##### Sites
