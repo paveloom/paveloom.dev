@@ -12,3 +12,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Version_control).
     - [Jujutsu](https://github.com/martinvonz/jj): A Git-compatible DVCS that is both simple and powerful
     - [Sapling](https://sapling-scm.com): A Scalable, User-Friendly Source Control System
 - [Mercurial](https://www.mercurial-scm.org)
+
+#### Community
+
+##### Sites
+- [Semantic Versioning](https://semver.org) ⭐
