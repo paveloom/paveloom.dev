@@ -11,6 +11,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Speech_synthesis).
 - [FakeYou](https://fakeyou.com): Use FakeYou deep fake tech to say stuff with your favorite characters ⭐
 - [Mimic 3](https://github.com/MycroftAI/mimic3): A fast local neural text to speech engine for Mycroft ⭐
 - [Sonantic](https://www.sonantic.io): Deliver compelling, lifelike performances with fully expressive AI-generated voices
+- [SpeechBrain](https://github.com/speechbrain/speechbrain): A PyTorch-based Speech Toolkit
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts): A multi-voice TTS system trained with an emphasis on quality ⭐
 - [2020] [Glow-TTS](https://github.com/jaywalnut310/glow-tts): A Generative Flow for Text-to-Speech via Monotonic Alignment Search
 - [2020] [HiFi-GAN](https://github.com/jik876/hifi-gan): Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis
