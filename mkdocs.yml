@@ -64,7 +64,8 @@ markdown_extensions:
   - toc:
       permalink: "#"
 plugins:
-  - search
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - git-revision-date-localized:
       exclude:
         - pensieve/README.md

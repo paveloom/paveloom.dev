@@ -6,7 +6,7 @@ Recommended materials are marked with ⭐.
 
 Majorly inspired by Nikita Voloboev's [Knowledge Wiki](https://wiki.nikiv.dev).
 
-### Keyboard shortcuts
+### Navigation
 
 There are two modes:
 
@@ -28,3 +28,5 @@ There are two modes:
     * ++arrow-down++ , ++arrow-up++ : select next / previous result
     * ++esc++ , ++tab++ : close search dialog
     * ++enter++ : follow selected result
+
+You might also want to take a look on [how to use the search](https://lunrjs.com/guides/searching.html).
