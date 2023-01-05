@@ -8,17 +8,20 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
 - [Data-oriented design](https://en.wikipedia.org/wiki/Data-oriented_design) ⭐
 - [Profile-guided optimization](https://en.wikipedia.org/wiki/Profile-guided_optimization) ⭐
 
-#### Profilers
-- [Tracy](https://github.com/wolfpld/tracy) ⭐
-- [Valgrind](https://en.wikipedia.org/wiki/Valgrind) ⭐
-    - [`massif-visualizer`](https://github.com/KDE/massif-visualizer) ⭐
-
 #### Books
 - [2022] [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) ⭐
 - [2021] [The Art of Writing Efficient Programs](https://www.packtpub.com/product/the-art-of-writing-efficient-programs/9781800208117)
-    - [Code](https://github.com/PacktPublishing/The-Art-of-Writing-Efficient-Programs)
-- [2021] [Understanding Software Dynamics](https://www.amazon.de/gp/product/0137589735) ⭐
+- [2021] [Understanding Software Dynamics](https://www.goodreads.com/book/show/57850403-understanding-software-dynamics)
 - [2003] [Code Optimization: Effective Memory Usage](https://www.goodreads.com/book/show/435688.Code_Optimization)
+
+#### Profilers
+- [Tracy](https://github.com/wolfpld/tracy) ⭐
+- [Valgrind](https://en.wikipedia.org/wiki/Valgrind)
+    - [`massif-visualizer`](https://github.com/KDE/massif-visualizer)
+
+#### Tools
+- [AutoFDO](https://github.com/google/autofdo): Automatic feedback-directed optimization for warehouse-scale applications
+- [BOLT](https://github.com/llvm/llvm-project/tree/main/bolt): A post-link optimizer developed to speed up large applications
 
 #### Resources
 
