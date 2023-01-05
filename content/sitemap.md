@@ -187,3 +187,5 @@ search:
                 - [Currency](pensieve/currency.md)
                     - [Cryptocurrency](pensieve/cryptocurrency.md)
                         - [Ethereum](pensieve/ethereum.md)
+        - [Psychology](pensieve/psychology.md)
+            - [Positive psychology](pensieve/positive-psychology.md)
