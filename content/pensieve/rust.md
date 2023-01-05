@@ -57,6 +57,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_languag
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book)
 - [The Rust Programming Language, 2nd Edition](https://nostarch.com/rust-programming-language-2nd-edition)
 - [The Rust Rand Book](https://rust-random.github.io/book)
+- [Zero To Production In Rust](https://www.zero2prod.com)
 
 ##### Courses
 - [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
