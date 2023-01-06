@@ -10,10 +10,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/WebAssembly).
 - [WebAssembly](https://webassembly.org) ⭐
 
 #### Standards and interfaces
-- [Component Model](https://github.com/WebAssembly/component-model)
-- [The WebAssembly System Interface (WASI)](https://wasi.dev)
-    - [`wasi-nn`](https://github.com/WebAssembly/wasi-nn): Neural Network proposal for WASI
-- [WAGI: WebAssembly Gateway Interface](https://github.com/deislabs/wagi)
+- [Component Model](https://github.com/WebAssembly/component-model): A module interface
+    - [WASI](https://wasi.dev): The WebAssembly System Interface
+        - [`wasi-nn`](https://github.com/WebAssembly/wasi-nn): Neural Network proposal for WASI
+        - [WAGI](https://github.com/deislabs/wagi): WebAssembly Gateway Interface
+- [Extism](https://extism.org): The Universal Plug-in System
 
 #### Example modules
 - [Wavacity](https://wavacity.com): A free, open source audio editor for the web
