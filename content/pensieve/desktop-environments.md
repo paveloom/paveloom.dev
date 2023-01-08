@@ -7,3 +7,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Desktop_environment).
 #### Examples
 - [GNOME](gnome.md) ⭐
 - [KDE](https://kde.org)
+- [Regolith](https://regolith-desktop.com)
