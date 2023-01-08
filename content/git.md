@@ -139,6 +139,12 @@ A list of my public Git repositories
 
     *`#image` `#oci` `#development-environment` `#docker`*
 
+#### `paveloom-os` [:simple-codeberg:](https://codeberg.org/paveloom-d/paveloom-os) [:simple-github:](https://github.com/paveloom-d/paveloom-os) [:simple-gitlab:](https://gitlab.com/paveloom-g/docker/paveloom-os)
+
+:   An OSTree native container for personal use
+
+    *`#image` `#podman` `#oci` `#ostree`*
+
 ## Forks [:simple-codeberg:](https://codeberg.org/paveloom-f/) [:simple-github:](https://github.com/paveloom-f) [:simple-gitlab:](https://gitlab.com/paveloom-g/forks)
 
 :   Small little patches here and there
