@@ -27,6 +27,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Reason](https://reasonml.github.io)
 - [Roc](https://www.roc-lang.org)
 - [Rust](rust.md)
+- [Unison](https://www.unison-lang.org)
 - [Vale](vale.md)
 - [Wuffs](https://github.com/google/wuffs)
 - [Zig](zig.md)
