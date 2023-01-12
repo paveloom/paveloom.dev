@@ -29,6 +29,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 
 ##### Text
 - [Technology Radar](https://www.thoughtworks.com/radar) ⭐
+- [2023] [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you) ⭐
+- [2022] [Software Development is very subjective](https://vadimkravcenko.com/shorts/software-development-subjective)
 
 ##### Video
 - [Internet Made Coder](https://www.youtube.com/channel/UCcJQ96WlEhJ0Ve0SLmU310Q)
