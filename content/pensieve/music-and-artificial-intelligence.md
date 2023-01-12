@@ -5,4 +5,5 @@ Artificial intelligence and music (AIM) is a common subject in the International
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Music_and_artificial_intelligence).
 
 #### Examples
+- [Riffusion](https://www.riffusion.com)
 - [Soundraw](https://soundraw.io)
