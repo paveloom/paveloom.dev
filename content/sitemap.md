@@ -188,4 +188,7 @@ search:
                     - [Cryptocurrency](pensieve/cryptocurrency.md)
                         - [Ethereum](pensieve/ethereum.md)
         - [Psychology](pensieve/psychology.md)
+            - [Human intelligence](pensieve/human-intelligence.md)
+                - [Planning](pensieve/planning.md)
+                    - [Time management](pensieve/time-management.md)
             - [Positive psychology](pensieve/positive-psychology.md)
