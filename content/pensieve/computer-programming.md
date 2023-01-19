@@ -5,14 +5,15 @@ Computer programming is the process of performing a particular computation (or m
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 
 #### Books
-- [Coders at Work: Reflections on the Craft of Programming](https://codersatwork.com) ⭐
-- [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
+- [2009] [Coders at Work: Reflections on the Craft of Programming](https://codersatwork.com)
+- [1999] [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+    - [2019] [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
+- [1984] [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
     - [HTML5/EPUB3 version of SICP](https://github.com/sarabander/sicp)
     - [Hexlet SICP](https://sicp.hexlet.io) ⭐
     - [SICP PDF with Texinfo and LaTeX source](https://github.com/sarabander/sicp-pdf) ⭐
     - [SICP in Texinfo Format](https://www.neilvandyke.org/sicp-texi)
     - [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)
-- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 
 #### Community
 
