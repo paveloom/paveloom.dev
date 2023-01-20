@@ -151,7 +151,7 @@ dependencies = [
 
 [[package]]
 name = "mkdocs-material"
-version = "9.0.5"
+version = "9.0.6"
 requires_python = ">=3.7"
 summary = "Documentation that simply works"
 dependencies = [
@@ -296,7 +296,7 @@ summary = "Filesystem events monitoring"
 
 [metadata]
 lock_version = "4.1"
-content_hash = "sha256:96161e3bbb32f0fd34e4cfc020f83c14b1ca6ccdabf3c0f0ebcf4fa5bf423423"
+content_hash = "sha256:c0c99660dfb933fd304d1a397abc4b943da76440af717fb92b1faff8c70b9aad"
 
 [metadata.files]
 "babel 2.11.0" = [
@@ -410,9 +410,9 @@ content_hash = "sha256:96161e3bbb32f0fd34e4cfc020f83c14b1ca6ccdabf3c0f0ebcf4fa5b
     {url = "https://files.pythonhosted.org/packages/46/91/75eb48eafdbe609ca80d6c271ad5bc4edc75cffde4d1d70604f2a4c2145a/mkdocs_literate_nav-0.6.0.tar.gz", hash = "sha256:81ccbea18163ae8e10bd0bd39237fe70c32a1f2dff6c170779f5d52dd98a0470"},
     {url = "https://files.pythonhosted.org/packages/8d/e0/4c04aa187e4c0a3f1218681e7389106fad8f25ecaae90b1e68636f04d15b/mkdocs_literate_nav-0.6.0-py3-none-any.whl", hash = "sha256:8c1b84714e5974da5e44e011ec0069275ae7647270c13a679662cf6ffce675a4"},
 ]
-"mkdocs-material 9.0.5" = [
-    {url = "https://files.pythonhosted.org/packages/ca/b0/e33d0fc0f721ad5f377fd585e1c04ccf691cbd797ccf9860e082e4ce2f68/mkdocs_material-9.0.5-py3-none-any.whl", hash = "sha256:53194bf8ae7dfb527fef2892a6ee291d3efc7b57d010b04dbb818b4ee88074a5"},
-    {url = "https://files.pythonhosted.org/packages/ee/28/8471c1f8392e35917868c31e8e36964c36a280ec32de68c941f34b1ded3d/mkdocs_material-9.0.5.tar.gz", hash = "sha256:bbfed71788223b4c548a6e637cb7a9ee5b6ad6593c6d5b04e57c9c4d2c39d76b"},
+"mkdocs-material 9.0.6" = [
+    {url = "https://files.pythonhosted.org/packages/26/e9/9e1595637a3245201a5f00c63814ae7cdbcacb66fccf90ea764fc65a3aca/mkdocs_material-9.0.6.tar.gz", hash = "sha256:6065b573e38746dc267d7fc84252be31b73da955b2ce553687806b6030e51ee0"},
+    {url = "https://files.pythonhosted.org/packages/8c/cb/efd1fa25762d32f2c4a5e524ce920b2e806563031655f8a2f6833d3e8f26/mkdocs_material-9.0.6-py3-none-any.whl", hash = "sha256:4a71195ddc100dddf07d4b23b53373f36c5f0f1010fa4ea301ca7a8e949dd9e7"},
 ]
 "mkdocs-material-extensions 1.1" = [
     {url = "https://files.pythonhosted.org/packages/7c/60/60b7767c99e81326892c49bd80735952dab128e7bca7e903d9fa5accd00e/mkdocs_material_extensions-1.1.tar.gz", hash = "sha256:96ca979dae66d65c2099eefe189b49d5ac62f76afb59c38e069ffc7cf3c131ec"},
