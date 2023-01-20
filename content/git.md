@@ -496,6 +496,12 @@ A list of my public Git repositories
 
 :   Zig projects
 
+#### `zig-girepository` [:simple-codeberg:](https://codeberg.org/paveloom-z/zig-girepository) [:simple-github:](https://github.com/paveloom-z/zig-girepository) [:simple-gitlab:](https://gitlab.com/paveloom-g/zig/zig-girepository)
+
+:   Zig bindings for the `girepository` library
+
+    *`#girepository` `#zig`*
+
 #### `zig-gtk4` [:simple-codeberg:](https://codeberg.org/paveloom-z/zig-gtk4) [:simple-github:](https://github.com/paveloom-z/zig-gtk4) [:simple-gitlab:](https://gitlab.com/paveloom-g/zig/zig-gtk4)
 
 :   Zig bindings for the `gtk4` library
