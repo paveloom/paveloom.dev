@@ -21,6 +21,7 @@ theme:
     - scheme: slate
       media: "(prefers-color-scheme: dark)"
       primary: deep purple
+      accent: purple
       toggle:
         icon: material/lightbulb-outline
         name: Switch to the light theme
