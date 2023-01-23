@@ -130,6 +130,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "mkdocs-blogging-plugin"
+version = "2.2.2"
+requires_python = ">=3.6"
+summary = "Mkdocs plugin that generates a blog index page sorted by creation date."
+dependencies = [
+    "GitPython>=3.1.18",
+    "babel>=2.7.0",
+    "jinja2>=2",
+    "mkdocs>=1.0",
+]
+
+[[package]]
 name = "mkdocs-git-revision-date-localized-plugin"
 version = "1.1.0"
 requires_python = ">=3.6"
@@ -296,7 +308,7 @@ summary = "Filesystem events monitoring"
 
 [metadata]
 lock_version = "4.1"
-content_hash = "sha256:c0c99660dfb933fd304d1a397abc4b943da76440af717fb92b1faff8c70b9aad"
+content_hash = "sha256:198d6964f8d7e2ce850dd67c41e4d20b2072636a74676364491a6c0fa1708d57"
 
 [metadata.files]
 "babel 2.11.0" = [
@@ -401,6 +413,10 @@ content_hash = "sha256:c0c99660dfb933fd304d1a397abc4b943da76440af717fb92b1faff8c
 "mkdocs 1.4.2" = [
     {url = "https://files.pythonhosted.org/packages/ff/00/58f2939f8e6c5f981d9ad9b685c9915a3b315c8f34ba93f0020d64929f70/mkdocs-1.4.2-py3-none-any.whl", hash = "sha256:c8856a832c1e56702577023cd64cc5f84948280c1c0fcc6af4cd39006ea6aa8c"},
     {url = "https://files.pythonhosted.org/packages/ff/2c/932a6df2847c0ecf0875cd00bede939225734b2815fc866c78edb46d9e5d/mkdocs-1.4.2.tar.gz", hash = "sha256:8947af423a6d0facf41ea1195b8e1e8c85ad94ac95ae307fe11232e0424b11c5"},
+]
+"mkdocs-blogging-plugin 2.2.2" = [
+    {url = "https://files.pythonhosted.org/packages/40/64/57dafb3a14e5b9a9731d680d90151e5fe08647af8ef9db2e9592b912c5f5/mkdocs_blogging_plugin-2.2.2-py3-none-any.whl", hash = "sha256:75638b791556cf399f1ba19e158e32034555a880f747d315421b6d018942ae10"},
+    {url = "https://files.pythonhosted.org/packages/82/39/04699a4e5d9440a5992c876bfedcceee30417aab9b71d4d0c81a5c3c0419/mkdocs-blogging-plugin-2.2.2.tar.gz", hash = "sha256:297cae8ff7baae4b9cdcef3a2a6317a5954664c5d67223b5104a9e7bfa78eb50"},
 ]
 "mkdocs-git-revision-date-localized-plugin 1.1.0" = [
     {url = "https://files.pythonhosted.org/packages/30/44/3d732ad3cb6e7875e216e0ef496939643ca46fb007806ac44e10b1b9cddb/mkdocs-git-revision-date-localized-plugin-1.1.0.tar.gz", hash = "sha256:38517e2084229da1a1b9460e846c2748d238c2d79efd405d1b9174a87bd81d79"},

@@ -1,7 +1,7 @@
 # How to transcode a video for LBRY before uploading?
 
 The built-in video transcoding functionality in the LBRY desktop application starts an
-[FFmpeg](ffmpeg.md) utility process with the following parameters:
+FFmpeg utility process with the following parameters:
 
 ```go
 ffmpeg -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
@@ -25,8 +25,8 @@ The meanings of the passed parameters:
   with a buffer equal to 5000 Kb/s;
 - `-movflags +faststart` tells FFmpeg to move the «moov atom» (the metadata)
   from the end of the file to its beginning to improve playback in browsers;
-- `-c:a aac -b:a 160k` tells FFmpeg to transcode the audio using the native `AAC` codec with constant bitrate equal to
-  160 kb/s.
+- `-c:a aac -b:a 160k` tells FFmpeg to transcode the audio using the native `AAC` codec with
+  constant bitrate equal to 160 kb/s.
 
 An alternative option for transcoding a horizontal video with increased bitrate, better
 quality and compression:

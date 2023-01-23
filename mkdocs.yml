@@ -64,6 +64,11 @@ markdown_extensions:
   - toc:
       permalink: "#"
 plugins:
+  - blogging:
+      dirs:
+        - blog
+      paging: false
+      time_format: '%Y-%m-%d'
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|\.(?!\d)|&[lg]t;'
   - git-revision-date-localized:
