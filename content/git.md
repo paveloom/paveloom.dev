@@ -496,6 +496,12 @@ A list of my public Git repositories
 
 :   Zig projects
 
+#### `zig-gir-ffi` [:simple-codeberg:](https://codeberg.org/paveloom-z/zig-gir-ffi) [:simple-github:](https://github.com/paveloom-z/zig-gir-ffi) [:simple-gitlab:](https://gitlab.com/paveloom-g/zig/zig-gir-ffi)
+
+:    Generate FFI bindings for Zig using GObject Introspection
+
+    *`#gobject-introspection` `#ffi` `#zig`*
+
 #### `zig-girepository` [:simple-codeberg:](https://codeberg.org/paveloom-z/zig-girepository) [:simple-github:](https://github.com/paveloom-z/zig-girepository) [:simple-gitlab:](https://gitlab.com/paveloom-g/zig/zig-girepository)
 
 :   Zig bindings for the `girepository` library
