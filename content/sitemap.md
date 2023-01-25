@@ -1,11 +1,13 @@
 ---
+hide:
+  - navigation
 search:
   exclude: true
 ---
 
 # Sitemap
 
-- [Home](README.md)
+- [About](README.md)
 - [Git](git.md)
 - [Pensieve](pensieve/README.md)
     - [Computer science](pensieve/computer-science.md)
@@ -193,3 +195,4 @@ search:
     - [How to manage websites or services under a Handshake domain?](blog/how-to-manage-websites-or-services-under-a-handshake-domain.md)
     - [How to set up a firewall for services behind WireGuard?](blog/how-to-set-up-a-firewall-for-services-behind-wireguard.md)
     - [How to transcode a video for LBRY before uploading?](blog/how-to-transcode-a-video-for-lbry-before-uploading.md)
+- [Sitemap](sitemap.md)
