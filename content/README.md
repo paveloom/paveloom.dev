@@ -21,3 +21,28 @@ I am always striving to learn new things and improve my skills. You can check ou
 #### Contacts
 
 - Email: [paveloom@riseup.net](mailto:paveloom@riseup.net) [[PGP](assets/pgp.txt)]
+
+#### Site navigation
+
+There are two modes:
+
+[`global`](#mode:global){ #mode:global }
+
+:   This mode is active when _search is not focussed_ and when there's no other
+    focussed element that is susceptible to keyboard input. The following keys
+    are bound:
+
+    * ++f++ , ++s++ , ++slash++ : open search dialog
+    * ++p++ , ++comma++, ++arrow-left++ : go to previous page
+    * ++n++ , ++period++, ++arrow-right++ : go to next page
+
+[`search`](#mode:search){ #mode:search }
+
+:   This mode is active when the _search is focused_. It provides several key
+    bindings to make search accessible and navigable via keyboard:
+
+    * ++arrow-down++ , ++arrow-up++ : select next / previous result
+    * ++esc++ , ++tab++ : close search dialog
+    * ++enter++ : follow selected result
+
+You might also want to take a look on [how to use the search](https://lunrjs.com/guides/searching.html).

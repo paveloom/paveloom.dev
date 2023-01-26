@@ -5,7 +5,7 @@ hide:
 
 # Git
 
-A list of my public Git repositories
+A list of my public Git repositories.
 
 ## Apps [:simple-codeberg:](https://codeberg.org/paveloom-a) [:simple-github:](https://github.com/paveloom-a) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps)
 
