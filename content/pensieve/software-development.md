@@ -12,6 +12,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 ##### Books
 - [2021] [The Essence of Software](https://essenceofsoftware.com)
 - [2020] [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google)
+- [2020] [The Coding Career Handbook](https://www.learninpublic.org)
 - [2018] [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
 - [2017] [Developer Hegemony: The Future of Labor](https://www.goodreads.com/book/show/35051753-developer-hegemony)
 - [2015] [Designing Data-Intensive Applications](https://dataintensive.net)
