@@ -183,6 +183,8 @@ search:
             - [Human intelligence](pensieve/human-intelligence.md)
                 - [Planning](pensieve/planning.md)
                     - [Time management](pensieve/time-management.md)
+                - [Writing](pensieve/writing.md)
+                    - [Diary](pensieve/diary.md)
             - [Positive psychology](pensieve/positive-psychology.md)
 - [Blog](blog/README.md)
     - [How to SSH into WSL 2?](blog/how-to-ssh-into-wsl-2.md)
