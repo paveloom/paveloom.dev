@@ -6,6 +6,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Time_management).
 
 #### Books
 - [2021] [Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
+- [2001] [Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
 
 #### Resources
 - [Four Thousand Weeks](https://leebyron.com/4000) ⭐
