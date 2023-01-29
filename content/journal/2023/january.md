@@ -1,5 +1,23 @@
 # January 2023
 
+### Sunday, 29 {#29}
+
+#### `libxev`
+
+[`libxev`](https://github.com/mitchellh/libxev) is a cross-platform event loop written in Zig. An example on how to make a Zig library open to the C world.
+
+The author would like to create a generalized event loop comparable to [`libuv`](https://libuv.org). Ironically, I created the [Zig bindings for the `libuv` library](../../git.md#zig-libuv) recently.
+
+#### NixOS
+
+Looking into [NixOS](https://nixos.org) today (again). This might take a while...
+
+I guess I will carry on with the [NixOS manual](https://nixos.org/manual/nixos/stable) (which propagates [Nix channels](https://nixos.wiki/wiki/Nix_channels)), but I can already see [Nix Flakes](https://nixos.wiki/wiki/Flakes#Using_nix_flakes_with_NixOS) being [recommended](https://zero-to-nix.com/concepts/flakes) instead.
+
+#### [`zig-gir-ffi`](../../git.md#zig-gir-ffi) {#29#zig-gir-ffi}
+
+The announced changes are live. Except for casting, that will be in a separate commit.
+
 ### Saturday, 28 {#28}
 
 #### FFmpeg
@@ -90,7 +108,7 @@ Also, I can see the design shaping: `from` and `toString` methods for all types.
 
 ### Thursday, 26 {#26}
 
-So it begins…
+So it begins...
 
 #### Neovim
 
