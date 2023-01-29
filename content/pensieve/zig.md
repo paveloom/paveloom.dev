@@ -50,6 +50,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 
 ###### List
 - [BYOL](https://github.com/hmusgrave/byol): A memory-efficient, straggler-avoiding, cache-friendly scheduler
+- [`libxev`](https://github.com/mitchellh/libxev): A cross-platform event loop ⭐
 - [Mecha](https://github.com/Hejsil/mecha): A parser combinator library for Zig
 - [`zcirc`](https://github.com/hmusgrave/zcirc): A dynamic circular buffer allocator for Zig
 - [`zig-gamedev`](https://github.com/michal-z/zig-gamedev): Building game development ecosystem for @ziglang! ⭐
