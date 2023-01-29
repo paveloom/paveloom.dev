@@ -148,6 +148,7 @@ search:
                                 - [GNOME Shell](pensieve/gnome-shell.md)
                                     - [Extensions](pensieve/gnome-shell-extensions.md)
                         - [Distributions](pensieve/distributions.md)
+                            - [NixOS](pensieve/nixos.md)
                         - [Package manager](pensieve/package-manager.md)
                         - [User commands](pensieve/user-commands.md)
                             - [Locale](pensieve/locale.md)

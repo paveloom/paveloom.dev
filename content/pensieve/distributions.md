@@ -19,6 +19,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Linux_distribution).
 - [Gentoo](https://www.gentoo.org)
     - [Funtoo](https://www.funtoo.org)
     - [MocaccinoOS](https://www.mocaccino.org)
+- [Guix](https://guix.gnu.org)
+- [NixOS](nixos.md) ⭐
 - [openSUSE](https://www.opensuse.org)
 
 #### Resources
