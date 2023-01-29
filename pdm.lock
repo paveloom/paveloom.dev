@@ -163,7 +163,7 @@ dependencies = [
 
 [[package]]
 name = "mkdocs-material"
-version = "9.0.6"
+version = "9.0.8"
 requires_python = ">=3.7"
 summary = "Documentation that simply works"
 dependencies = [
@@ -198,11 +198,11 @@ dependencies = [
 
 [[package]]
 name = "mkdocs-section-index"
-version = "0.3.4"
-requires_python = ">=3.6,<4.0"
+version = "0.3.5"
+requires_python = ">=3.7"
 summary = "MkDocs plugin to allow clickable sections that lead to an index page"
 dependencies = [
-    "mkdocs<2.0,>=1.1",
+    "mkdocs>=1.0.3",
 ]
 
 [[package]]
@@ -308,7 +308,7 @@ summary = "Filesystem events monitoring"
 
 [metadata]
 lock_version = "4.1"
-content_hash = "sha256:198d6964f8d7e2ce850dd67c41e4d20b2072636a74676364491a6c0fa1708d57"
+content_hash = "sha256:d4888faaf50020d38b3470aef38dc7e51e3bb1a9e4dc0b0734fb4f927d7c61b8"
 
 [metadata.files]
 "babel 2.11.0" = [
@@ -426,9 +426,9 @@ content_hash = "sha256:198d6964f8d7e2ce850dd67c41e4d20b2072636a74676364491a6c0fa
     {url = "https://files.pythonhosted.org/packages/46/91/75eb48eafdbe609ca80d6c271ad5bc4edc75cffde4d1d70604f2a4c2145a/mkdocs_literate_nav-0.6.0.tar.gz", hash = "sha256:81ccbea18163ae8e10bd0bd39237fe70c32a1f2dff6c170779f5d52dd98a0470"},
     {url = "https://files.pythonhosted.org/packages/8d/e0/4c04aa187e4c0a3f1218681e7389106fad8f25ecaae90b1e68636f04d15b/mkdocs_literate_nav-0.6.0-py3-none-any.whl", hash = "sha256:8c1b84714e5974da5e44e011ec0069275ae7647270c13a679662cf6ffce675a4"},
 ]
-"mkdocs-material 9.0.6" = [
-    {url = "https://files.pythonhosted.org/packages/26/e9/9e1595637a3245201a5f00c63814ae7cdbcacb66fccf90ea764fc65a3aca/mkdocs_material-9.0.6.tar.gz", hash = "sha256:6065b573e38746dc267d7fc84252be31b73da955b2ce553687806b6030e51ee0"},
-    {url = "https://files.pythonhosted.org/packages/8c/cb/efd1fa25762d32f2c4a5e524ce920b2e806563031655f8a2f6833d3e8f26/mkdocs_material-9.0.6-py3-none-any.whl", hash = "sha256:4a71195ddc100dddf07d4b23b53373f36c5f0f1010fa4ea301ca7a8e949dd9e7"},
+"mkdocs-material 9.0.8" = [
+    {url = "https://files.pythonhosted.org/packages/ad/61/c6fabffda152050ffdaba0251ba989101d712e6590b39d54b7e1222abb8f/mkdocs_material-9.0.8.tar.gz", hash = "sha256:268e7aab0b8585352400b4e93bfe4efd0ca213005d7bae1a0ec69b7ded205fcd"},
+    {url = "https://files.pythonhosted.org/packages/f0/13/fbce1b00bfe8e2afd41467f5ee8c1b7cc22ed4f93d6948e02968e60dcaf2/mkdocs_material-9.0.8-py3-none-any.whl", hash = "sha256:03f8a2249627efb91a57d9f4a4e298d2d61d6e65fe2a864cc5961dc540bdd540"},
 ]
 "mkdocs-material-extensions 1.1" = [
     {url = "https://files.pythonhosted.org/packages/7c/60/60b7767c99e81326892c49bd80735952dab128e7bca7e903d9fa5accd00e/mkdocs_material_extensions-1.1.tar.gz", hash = "sha256:96ca979dae66d65c2099eefe189b49d5ac62f76afb59c38e069ffc7cf3c131ec"},
@@ -438,9 +438,9 @@ content_hash = "sha256:198d6964f8d7e2ce850dd67c41e4d20b2072636a74676364491a6c0fa
     {url = "https://files.pythonhosted.org/packages/2a/ca/1a8c11ebee63bd478d31b146663dc90bc2a8662b294be344221a9cfd889b/mkdocs_minify_plugin-0.6.2-py3-none-any.whl", hash = "sha256:b9f43751f515372b766f1e9e77422fd1c9acfaf8c2bf018ff461fd97476e05e3"},
     {url = "https://files.pythonhosted.org/packages/dc/7d/ff775e363ddd3c14fc530f5ec5cfb036a1d168020c93dd410fca842cfb90/mkdocs-minify-plugin-0.6.2.tar.gz", hash = "sha256:679f6e430bf49845649d0a1f183e36be3a0da5fdc60fee5fdab4356db0a18e2c"},
 ]
-"mkdocs-section-index 0.3.4" = [
-    {url = "https://files.pythonhosted.org/packages/3d/04/bbbde3f90711457d4c8748fca5345b6102908fe4285b6699c74818447e76/mkdocs_section_index-0.3.4-py3-none-any.whl", hash = "sha256:214f7a6df9d35a5772e9577f3899ff3edd90044064589e6dd4d84615b72a8024"},
-    {url = "https://files.pythonhosted.org/packages/a7/05/66dd7c31d5254d3756c4bd77908a3029bf1efd01bfd57ed058b07e4d1340/mkdocs-section-index-0.3.4.tar.gz", hash = "sha256:050151bfe7c0e374f197335e0ecb19c45b53dbafc0f817aa203f0cc24bcf7d10"},
+"mkdocs-section-index 0.3.5" = [
+    {url = "https://files.pythonhosted.org/packages/57/d6/8dcb7ee8e7f450007ab1e9c722db67941010542210532ac7f972216567dc/mkdocs_section_index-0.3.5-py3-none-any.whl", hash = "sha256:1f6359287b0a823d6297cf1cb6c0a49ed75851d0d1cea8b425b207a45ce10141"},
+    {url = "https://files.pythonhosted.org/packages/66/a9/6035523224ff83bccbc459733d6153666d208cb0e078584945ae26fcd38c/mkdocs_section_index-0.3.5.tar.gz", hash = "sha256:fa8b1ce0649326b1873c6460c1df2bb0c4825fd21e3dd416f13ec212d31edf12"},
 ]
 "packaging 21.3" = [
     {url = "https://files.pythonhosted.org/packages/05/8e/8de486cbd03baba4deef4142bd643a3e7bbe954a784dc1bb17142572d127/packaging-21.3-py3-none-any.whl", hash = "sha256:ef103e05f519cdc783ae24ea4e2e0f508a9c99b2d4969652eed6a2e1ea5bd522"},
