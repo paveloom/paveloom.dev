@@ -150,6 +150,7 @@ search:
                         - [Distributions](pensieve/distributions.md)
                             - [NixOS](pensieve/nixos.md)
                         - [Package manager](pensieve/package-manager.md)
+                            - [Nix](pensieve/nix.md)
                         - [User commands](pensieve/user-commands.md)
                             - [Locale](pensieve/locale.md)
                         - [Window managers](pensieve/window-managers.md)

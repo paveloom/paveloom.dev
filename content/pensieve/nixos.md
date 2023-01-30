@@ -17,10 +17,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/NixOS).
 
 ##### Sites
 - [NixOS Wiki](https://nixos.wiki)
-- [Zero to Nix](https://zero-to-nix.com)
 
-#### Resources
-- [2020] Nix Flakes Series ⭐
-    - [Part 1: An introduction and tutorial](https://www.tweag.io/blog/2020-05-25-flakes)
-    - [Part 2: Evaluation caching](https://www.tweag.io/blog/2020-06-25-eval-cache)
-    - [Part 3: Managing NixOS systems](https://www.tweag.io/blog/2020-07-31-nixos-flakes)
+#### See also
+- [Nix](nix.md)
