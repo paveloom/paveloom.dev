@@ -1,5 +1,52 @@
 # January 2023
 
+### Monday, 30 {#30}
+
+#### Neovim {#30#neovim}
+
+Here's an example of setting up a Nix LSP server:
+
+```lua
+-- <...>
+require("lspconfig").nil_ls.setup({
+  capabilities = capabilities,
+  on_attach = on_attach,
+  settings = {
+    ["nil"] = {
+      formatting = {
+        command = { "alejandra" },
+      },
+    },
+  },
+})
+-- <...>
+```
+
+#### Nix
+
+You can install [Nil](https://github.com/oxalica/nil) (an LSP server) and [Alejandra](https://github.com/kamadorueda/alejandra) (a formatter) from source:
+
+```bash
+cargo install --git https://github.com/oxalica/nil nil
+cargo install --git https://github.com/kamadorueda/alejandra
+```
+
+#### NixOS {#30#nixos}
+
+To enable SPICE integration for Linux QEMU guest system, add
+
+```nix
+services.spice-vdagentd.enable = true;
+```
+
+to your `configuration.nix`. This will install the [`spice-vdagent`](https://search.nixos.org/packages?channel=22.11&show=spice-vdagent&query=spice-vdagent) package as a dependency.
+
+To get a list of installed packages, run
+
+```bash
+nix-store -qR /run/current-system
+```
+
 ### Sunday, 29 {#29}
 
 #### `libxev`
@@ -8,7 +55,7 @@
 
 The author would like to create a generalized event loop comparable to [`libuv`](https://libuv.org). Ironically, I created the [Zig bindings for the `libuv` library](../../git.md#zig-libuv) recently.
 
-#### NixOS
+#### NixOS {#29#nixos}
 
 Looking into [NixOS](https://nixos.org) today (again). This might take a while...
 
@@ -110,7 +157,7 @@ Also, I can see the design shaping: `from` and `toString` methods for all types.
 
 So it begins...
 
-#### Neovim
+#### Neovim {#26#neovim}
 
 If you don't want your windows resized after closing one, set
 
