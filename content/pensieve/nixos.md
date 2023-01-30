@@ -14,6 +14,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/NixOS).
 ##### Configuration examples
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) ⭐
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) ⭐
+- [Misterio77/nix-config](https://github.com/Misterio77/nix-config) ⭐
 
 ##### Sites
 - [NixOS Wiki](https://nixos.wiki)
