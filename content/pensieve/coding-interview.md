@@ -11,6 +11,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Coding_interview).
 
 ##### Text
 - [2023] [How does a hobby programmer get hired?](https://news.ycombinator.com/item?id=34206559) ⭐
+- [2023] [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) ⭐
 - [2019] [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [2019] [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
