@@ -1,5 +1,19 @@
 # January 2023
 
+### Tuesday, 31 {#31}
+
+#### Helix
+
+The [softwrap / virtual text PR](https://github.com/helix-editor/helix/pull/5420) got merged today in the [Helix](https://github.com/helix-editor/helix) project. Waiting on the [persistent undo PR](https://github.com/helix-editor/helix/pull/5608), then might give Helix a shot again (currently using [Neovim](https://neovim.io)).
+
+#### Nix {#31#nix}
+
+There are [built-in functions](https://nixos.org/manual/nix/stable/language/builtins.html) in Nix and a [standard library](https://nixos.org/manual/nixpkgs/stable/#chap-functions) in Nixpkgs which make writing Nix code slightly easier.
+
+#### NixOS {#31#nixos}
+
+Aight, done with the [NixOS manual](https://nixos.org/manual/nixos/stable) (phew!). This and the [NixOS Wiki](https://nixos.wiki) have been the best resources so far. [Home Manager](https://github.com/nix-community/home-manager) is next.
+
 ### Monday, 30 {#30}
 
 #### Neovim {#30#neovim}
@@ -22,7 +36,7 @@ require("lspconfig").nil_ls.setup({
 -- <...>
 ```
 
-#### Nix
+#### Nix {#30#nix}
 
 You can install [Nil](https://github.com/oxalica/nil) (an LSP server) and [Alejandra](https://github.com/kamadorueda/alejandra) (a formatter) from source:
 
