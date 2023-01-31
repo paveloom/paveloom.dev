@@ -17,7 +17,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/NixOS).
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) ⭐
 
 ##### Sites
-- [NixOS Wiki](https://nixos.wiki)
+- [NixOS Wiki](https://nixos.wiki) ⭐
+
+#### Resources
+- [NixOS Guide](https://github.com/mikeroyal/NixOS-Guide) ⭐
 
 #### See also
 - [Nix](nix.md)
