@@ -22,6 +22,7 @@ search:
 - [Git](git.md)
 - [Journal](journal/README.md)
     - 2023
+        - [February](journal/2023/february.md)
         - [January](journal/2023/january.md)
 - [Pensieve](pensieve/README.md)
     - [Computer science](pensieve/computer-science.md)
