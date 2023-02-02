@@ -1,5 +1,48 @@
 # January 2023
 
+### Thursday, 2 {#2}
+
+#### NixOS {#2#nixos}
+
+I added support for secrets in [my configuration](https://github.com/paveloom/dotfiles) via [`sops-nix`](https://github.com/Mic92/sops-nix), [`ssh-to-age`](https://github.com/Mic92/ssh-to-age), [`sops`](https://github.com/mozilla/sops), and [`age`](https://github.com/FiloSottile/age).
+
+Create an [Ed25519](https://en.wikipedia.org/wiki/EdDSA#Ed25519) SSH key if you don't have one yet:
+
+```bash
+ssh-keygen -t ed25519 -C "<email>"
+```
+
+Derive an `age` key from the SSH key:
+
+```bash
+mkdir -p ~/.config/sops/age
+read -s SSH_TO_AGE_PASSPHRASE; export SSH_TO_AGE_PASSPHRASE
+go run github.com/Mic92/ssh-to-age/cmd/ssh-to-age@latest -i ~/.ssh/id_ed25519.pub
+go run github.com/Mic92/ssh-to-age/cmd/ssh-to-age@latest -private-key -i ~/.ssh/id_ed25519 -o ~/.config/sops/age/keys.txt
+```
+
+Test the `age` key:
+
+```bash
+echo "Hello there!" > test
+age -e -r "<public key>" test > test.age
+age -d -i ~/.config/sops/age/keys.txt test.age
+```
+
+`.sops.yaml`:
+
+```yaml
+keys:
+  - &age-key <public key>
+creation_rules:
+  - path_regex: ^secrets.yaml$
+    key_groups:
+      - age:
+          - *age-key
+```
+
+Create / edit secrets via `sops secrets.yaml`.
+
 ### Wednesday, 1 {#1}
 
 #### NixOS {#1#nixos}
