@@ -1,5 +1,15 @@
 # January 2023
 
+### Friday, 3 {#3}
+
+#### NixOS {#3#nixos}
+
+Okay, added lots of packages. Definitely struggled with [overlays](https://nixos.wiki/wiki/Overlays) for a while, but I figured it out.
+
+[Here](https://github.com/Misterio77/nix-starter-configs)'s a good example of a simple config.
+
+This entry is committed from the new OS!
+
 ### Thursday, 2 {#2}
 
 #### NixOS {#2#nixos}
