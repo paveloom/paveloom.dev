@@ -1,5 +1,11 @@
 # January 2023
 
+### Saturday, 4 {#4}
+
+#### NixOS {#4#nixos}
+
+A bit more configuration done.
+
 ### Friday, 3 {#3}
 
 #### NixOS {#3#nixos}
