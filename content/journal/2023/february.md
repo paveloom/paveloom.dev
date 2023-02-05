@@ -1,5 +1,13 @@
 # January 2023
 
+### Sunday, 5 {#5}
+
+#### *Arrs
+
+Last night, while trying to fall asleep, I found out that I missed the beginning of the new season of [The Owl House](https://en.wikipedia.org/wiki/The_Owl_House)... which started 4 months ago. So, today I set up [Sonarr](https://wiki.servarr.com/en/sonarr) and [Prowlarr](https://wiki.servarr.com/en/prowlarr) to make missing shows a thing of the past. I would recommend [the wiki](https://wiki.servarr.com/) and [TRaSH Guides](https://trash-guides.info) if you'd like to have an automated way to get the newest episodes of the shows. Make sure to check out variants for other media types, too!
+
+Make sure you got the permissions right, though, I spent some time [dealing with that](https://github.com/paveloom/dotfiles/blob/04cb805a628da521f00a2a6eb9b78e10fefcb5d8/configuration.nix#L74-L81). There is also a nuance with the public indexers lying about the number of seeds, so that's something you might need to address, too.
+
 ### Saturday, 4 {#4}
 
 #### NixOS {#4#nixos}
