@@ -1,4 +1,19 @@
-# January 2023
+# February 2023
+
+### Monday, 6 {#6}
+
+#### `mpv`
+
+Okay, if you don't want your movie evening ruined like it is now for me, change the `mpv`'s `hwdec` setting to `auto` instead of `auto-safe`. For some reason, in the latter variant, the player doesn't pick up the `dav1d` (AV1) decoder automatically.
+
+#### Reflections on a decade of coding
+
+Reading [Jamie Brandon](https://www.scattered-thoughts.net)'s [reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding) today.
+
+While I'm going through that, I would like to point out two very general pieces of advice I try to use everywhere in my life, especially in software development:
+
+1. Be pragmatic
+2. Be curious
 
 ### Sunday, 5 {#5}
 
