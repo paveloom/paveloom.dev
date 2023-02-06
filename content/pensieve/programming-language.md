@@ -43,3 +43,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 ##### Resources
 - [An informal comparison of several programming languages](https://github.com/losvedir/transit-lang-cmp)
 - [Languish](https://tjpalmer.github.io/languish): Programming Language Trends ⭐
+- [2020] [Your Language Sucks, It Doesn’t Matter](https://matklad.github.io/2020/09/13/your-language-sucks.html)
+- [2015] [A defense of boring languages](https://danluu.com/boring-languages)
