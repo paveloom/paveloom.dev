@@ -126,6 +126,7 @@ search:
                         - [Compile time](pensieve/compile-time.md)
                     - [Data type](pensieve/data-type.md)
                         - [Floating-point arithmetic](pensieve/floating-point-arithmetic.md)
+                    - [Debugging](pensieve/debugging.md)
                     - [Memory management](pensieve/memory-management.md)
                     - [Program optimization](pensieve/program-optimization.md)
                     - [Programming idiom](pensieve/programming-idiom.md)
