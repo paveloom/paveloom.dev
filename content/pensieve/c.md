@@ -5,5 +5,6 @@ C (pronounced like the letter c) is a general-purpose computer programming langu
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)).
 
 #### Resources
+- [2023] [Why I Use C When I Believe in Memory Safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety)
 - [2022] [Everything I wish I knew when learning C](https://tmewett.com/c-tips)
 - [2012] [What’s to love about C?](https://mortoray.com/whats-to-love-about-c)
