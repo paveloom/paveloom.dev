@@ -41,3 +41,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 - [Internet Made Coder](https://www.youtube.com/channel/UCcJQ96WlEhJ0Ve0SLmU310Q)
 - [ThePrimeagen](https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw) ⭐
 - [2022] [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity) ⭐
+- [2018] [Build impossible programs](https://www.deconstructconf.com/2018/julia-evans-build-impossible-programs) ⭐
+- [2017] [So you want to be a wizard](https://jvns.ca/blog/so-you-want-to-be-a-wizard) ⭐
