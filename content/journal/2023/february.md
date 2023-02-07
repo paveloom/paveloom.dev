@@ -1,5 +1,15 @@
 # February 2023
 
+### Tuesday, 7 {#7}
+
+#### Leave No Trace
+
+Even though [the movie](https://www.imdb.com/title/tt3892172) is mostly about struggles with [PTSD](https://en.wikipedia.org/wiki/Post-traumatic_stress_disorder), I really like its seemingly (intentional?) anti-societal message. Or, rather, that it propagates a more non-conformal and down-to-earth approach to human relationships rather than the one cultivated by contemporary culture.
+
+#### So You Want to Be a Wizard
+
+Julia Evans's "[So you want to be a wizard](https://jvns.ca/blog/so-you-want-to-be-a-wizard)" talk is pretty inspiring. She has a [blog](https://jvns.ca) and she publishes computer zines at [Wizard Zines](https://wizardzines.com). There's an [accompanying zine](https://wizardzines.com/zines/wizard) to that talk, and the "[The Pocket Guide to Debugging](https://wizardzines.com/zines/debugging-guide)" one is a good overview of practical approaches for debugging.
+
 ### Monday, 6 {#6}
 
 #### `mpv`
@@ -8,7 +18,7 @@ Okay, if you don't want your movie evening ruined like it is now for me, change 
 
 #### Reflections on a decade of coding
 
-Reading [Jamie Brandon](https://www.scattered-thoughts.net)'s [reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding) today.
+Reading [Jamie Brandon](https://www.scattered-thoughts.net)'s "[Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding)" today.
 
 While I'm going through that, I would like to point out two very general pieces of advice I try to use everywhere in my life, especially in software development:
 
