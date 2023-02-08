@@ -9,6 +9,7 @@ search:
 
 - [About](README.md)
 - [Blog](blog/README.md)
+    - [FFmpeg notes](blog/ffmpeg-notes.md)
     - [How to SSH into WSL 2?](blog/how-to-ssh-into-wsl-2.md)
     - [How to access a local server running inside WSL 2?](blog/how-to-access-a-local-server-running-inside-wsl-2.md)
     - [How to create a Samba share?](blog/how-to-create-a-samba-share.md)
@@ -191,7 +192,6 @@ search:
                     - [Multimedia](pensieve/multimedia.md)
                         - [Multimedia software](pensieve/multimedia-software.md)
                             - [FFmpeg](pensieve/ffmpeg.md)
-                                - [FFmpeg notes](pensieve/ffmpeg-notes.md)
         - [Economics](pensieve/economics.md)
             - [Medium of exchange](pensieve/medium-of-exchange.md)
                 - [Currency](pensieve/currency.md)

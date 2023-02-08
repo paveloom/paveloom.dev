@@ -1,7 +1,5 @@
 # FFmpeg notes
 
-#### Updated: 27-Oct-2022
-
 These are short notes on how to do some tasks using FFmpeg.
 
 #### Adding subtitles, cutting two streams, normalizing the loudness
@@ -45,6 +43,7 @@ ffmpeg -ss 00:00:10 -i input.mkv -t 00:00:20 \
 ```
 
 Notes:
+
 - the usage of [combined seeking](https://trac.ffmpeg.org/wiki/Seeking) for the subtitles stream;
 - downsampling the audio to 48 kHz since the `loudnorm` filter upsamples it to 192 kHz.
 - [`ffmpeg-normalize`](https://github.com/slhck/ffmpeg-normalize) provides a simpler interface for loudness normalization
