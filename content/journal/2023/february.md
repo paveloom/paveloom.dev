@@ -1,5 +1,15 @@
 # February 2023
 
+### Wednesday, 8 {#8}
+
+#### Fish
+
+You can immediately incorporate history changes from other sessions of the [Fish shell](https://fishshell.com) via [`history merge`](https://fishshell.com/docs/current/cmds/history.html). That's something I wanted for a long time but thought was not available. Here is a [thread](https://github.com/fish-shell/fish-shell/issues/825) with examples on automating the synchronization if necessary.
+
+#### Nix
+
+Reading the [Nix manual](https://nixos.org/manual/nix/stable) today.
+
 ### Tuesday, 7 {#7}
 
 #### Leave No Trace
