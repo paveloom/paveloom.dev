@@ -14,6 +14,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
 - [2021] [Understanding Software Dynamics](https://www.goodreads.com/book/show/57850403-understanding-software-dynamics)
 - [2003] [Code Optimization: Effective Memory Usage](https://www.goodreads.com/book/show/435688.Code_Optimization)
 
+#### Courses
+- [Performance Ninja Class](https://github.com/dendibakh/perf-ninja)
+
 #### Profilers
 - [Tracy](https://github.com/wolfpld/tracy) ⭐
 - [Valgrind](https://en.wikipedia.org/wiki/Valgrind)
