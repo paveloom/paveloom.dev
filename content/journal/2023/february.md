@@ -1,5 +1,11 @@
 # February 2023
 
+### Thursday, 9 {#9}
+
+#### Nixpkgs
+
+Reading the [Nixpkgs manual](https://nixos.org/manual/nixpkgs/stable) today.
+
 ### Wednesday, 8 {#8}
 
 #### Fish
