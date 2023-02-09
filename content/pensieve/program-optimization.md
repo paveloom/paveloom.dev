@@ -37,3 +37,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
 - [2022] [A Practical Guide to Applying Data-Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design) ⭐
 - [2022] [Profiling Code in Rust](https://www.youtube.com/watch?v=JRMOIE_wAFk) ⭐
 - [2022] [Оптимизируем бинарный поиск](https://www.youtube.com/watch?v=CzcTb08ufnY) ⭐
+- [2014] [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) ⭐
