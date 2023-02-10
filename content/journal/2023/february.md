@@ -1,5 +1,23 @@
 # February 2023
 
+### Friday, 10 {#10}
+
+#### Git
+
+To quickly fetch a branch of the upstream repo in a fork, run
+
+```bash
+git remote add upstream $UPSTREAM_REPO
+git fetch --depth $DEPTH upstream $REMOTE_BRANCH:$LOCAL_BRANCH
+git checkout $LOCAL_BRANCH
+```
+
+#### Subtitle Edit
+
+Trying to package [Subtitle Edit](https://nikse.dk/subtitleedit) today. Downloading from the [cache](https://cache.nixos.org) is painfully slow... I'm not sure whether building it using the [`buildDotfileModule`](https://github.com/NixOS/nixpkgs/blob/master/pkgs/build-support/dotnet/build-dotnet-module/default.nix) function will work, but I'd like to try that first instead of wrapping the executable from the portable version with [Mono](https://www.mono-project.com).
+
+I need this program to run [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) on picture-based subtitles (`dvdsub`, specifically).
+
 ### Thursday, 9 {#9}
 
 #### Nixpkgs
