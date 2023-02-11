@@ -1,8 +1,39 @@
 # February 2023
 
+### Saturday, 11 {#11}
+
+#### Git {#11#git}
+
+Rant time: there is no way to update a repo from a shallow clone.
+
+Welp, gotta `git fetch --unshallow upstream master` the [`nixpkgs`](https://github.com/NixOS/nixpkgs) repo for a few hours now...
+
+#### Subtitle Edit {#11#subtitle-edit}
+
+Seems like [Subtitle Edit](https://nikse.dk/subtitleedit) requires .NET Framework 4.8. This is problematic since Nixpkgs switched to .NET 6.0 as the default (LTS) version, which is incompatible with the Framework one. [`buildDotfileModule`](https://github.com/NixOS/nixpkgs/blob/master/pkgs/build-support/dotnet/build-dotnet-module/default.nix) wouldn't work, and I'm unsure how to fetch proper [NuGet](https://www.nuget.org) dependencies for [`buildDotfilePackage`](https://github.com/NixOS/nixpkgs/blob/master/pkgs/build-support/dotnet/build-dotnet-package/default.nix). There is no [`passthru.fetch-deps`](https://github.com/NixOS/nixpkgs/blob/aebc76376ca2da5ee4524326e6f83a3a18587d54/pkgs/build-support/dotnet/build-dotnet-module/default.nix#L164) in the latter one.
+
+I switched to the backup plan of wrapping with [Mono](https://www.mono-project.com).
+
+###### `DllImport`
+
+Some gotcha I found out: you probably should not add `lib` in front of a library when using `DllImport`. An example of that in the Subtitle Edit's code:
+
+```c#
+[DllImport("libhunspell")]
+[DllImport("mpv", CallingConvention = CallingConvention.Cdecl)]
+```
+
+The application would find `libmpv` in the `LD_LIBRARY_PATH`, but would ignore `libhunspell`. A workaround for that is to add a symbolic link to the library's shared object to the directory from which the application is loaded:
+
+```nix
+ln -s ${hunspell.out}/lib/libhunspell*.so $out/bin/libhunspell.so
+```
+
+That's described [here](https://www.mono-project.com/docs/advanced/pinvoke/#linux-shared-library-search-path) and [here](https://www.mono-project.com/docs/advanced/pinvoke/#library-names).
+
 ### Friday, 10 {#10}
 
-#### Git
+#### Git {#10#git}
 
 To quickly fetch a branch of the upstream repo in a fork, run
 
@@ -12,7 +43,7 @@ git fetch --depth $DEPTH upstream $REMOTE_BRANCH:$LOCAL_BRANCH
 git checkout $LOCAL_BRANCH
 ```
 
-#### Subtitle Edit
+#### Subtitle Edit {#10#subtitle-edit}
 
 Trying to package [Subtitle Edit](https://nikse.dk/subtitleedit) today. Downloading from the [cache](https://cache.nixos.org) is painfully slow... I'm not sure whether building it using the [`buildDotfileModule`](https://github.com/NixOS/nixpkgs/blob/master/pkgs/build-support/dotnet/build-dotnet-module/default.nix) function will work, but I'd like to try that first instead of wrapping the executable from the portable version with [Mono](https://www.mono-project.com).
 
