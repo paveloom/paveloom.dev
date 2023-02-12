@@ -11,6 +11,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Web_browser).
 - [Google Chrome](https://www.google.com/chrome)
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [Opera](https://www.opera.com/browsers/opera)
+- [Pale Moon](https://www.palemoon.org)
 - [Polypane](https://polypane.app)
 - [qutebrowser](https://www.qutebrowser.org)
 - [Safari](https://www.apple.com/safari)
@@ -20,8 +21,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Web_browser).
 #### Resources
 
 ##### Relevant
-- [Privacy Guides: Desktop Browsers](https://www.privacyguides.org/desktop-browsers): Recommended desktop web browsers and configurations
-- [PrivacyTests](https://privacytests.org): Open-source tests of web browser privacy
+- [How to choose a browser for everyday use?](https://digdeeper.neocities.org/articles/browsers)
+- [Privacy Guides: Desktop Browsers](https://www.privacyguides.org/desktop-browsers)
+- [PrivacyTests](https://privacytests.org)
 
 ##### Outdated
 - [PRISM Break: Web Browsers](https://prism-break.org/en/all/#web-browsers)
