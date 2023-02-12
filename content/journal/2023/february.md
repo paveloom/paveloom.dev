@@ -1,5 +1,21 @@
 # February 2023
 
+### Sunday, 12 {#12}
+
+#### NixOS {#12#nixos}
+
+Adding more packages to [my configuration](https://github.com/paveloom/dotfiles) today, preparing to nuke [Silverblue](https://silverblue.fedoraproject.org)'s partitions.
+
+Stumbled on a couple of issues with the packages:
+
+- [`pipiwire-rs` is broken](https://github.com/NixOS/nixpkgs/issues/211610) (affects [Authenticator](https://gitlab.gnome.org/World/Authenticator) and [Fractal Next](https://gitlab.gnome.org/GNOME/fractal) for me)
+- [`radicle-cli` is broken](https://github.com/NixOS/nixpkgs/issues/216013)
+- No package for [NormCap](https://github.com/dynobo/normcap)
+
+#### Subtitle Edit {#12#subtitle-edit}
+
+I've created a [PR](https://github.com/NixOS/nixpkgs/pull/215877) this night to [`nixpkgs`](https://github.com/NixOS/nixpkgs).
+
 ### Saturday, 11 {#11}
 
 #### Git {#11#git}
