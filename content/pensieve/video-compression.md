@@ -9,6 +9,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Data_compression#Video).
 - [Advanced Video Coding (H.264 / MPEG-4 AVC)](https://en.wikipedia.org/wiki/Advanced_Video_Coding)
 - [High Efficiency Video Coding (H.265 / MPEG-H HEVC)](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding)
 - [VP9](https://en.wikipedia.org/wiki/VP9)
+- [Versatile Video Coding (H.266 / VVC)](https://en.wikipedia.org/wiki/Versatile_Video_Coding)
 
 #### Software
 - [Av1an](https://github.com/master-of-zen/Av1an) ⭐
