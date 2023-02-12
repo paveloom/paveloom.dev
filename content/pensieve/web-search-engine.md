@@ -15,3 +15,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Search_engine).
     - [SearXNG](https://github.com/searxng/searxng) (Metasearch engine, open source) ⭐
 - [Startpage](https://www.startpage.com) (For-profit, uses Google's index)
 - [YaCy](https://yacy.net) (Peer-to-peer / decentralized, shared index, open source)
+
+#### Resources
+- [Search Engines - which one to choose?](https://digdeeper.neocities.org/articles/search)
