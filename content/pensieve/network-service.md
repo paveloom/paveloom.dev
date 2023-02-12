@@ -5,4 +5,5 @@ In computer networking, a network service is an application running at the netwo
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Network_service).
 
 #### Resources
+- [`LandChad.net`](https://landchad.net)
 - [2022] [Redundancy, Part 1](https://nested.substack.com/p/redundancy-part-1)
