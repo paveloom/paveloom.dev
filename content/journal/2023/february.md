@@ -1,5 +1,37 @@
 # February 2023
 
+### Monday, 13 {#13}
+
+#### Anytype
+
+Got an invite to [Anytype](https://anytype.io)'s Alpha Program today. You know... after two years of signing up for it, or something like that.
+
+And yeah, it's basically [Notion](https://www.notion.so). And also an [Electron](https://www.electronjs.org) app. I don't really have any use for it right now.
+
+#### Home Manager
+
+I found out that [Home Manager](https://github.com/nix-community/home-manager) doesn't trigger package rebuilds on changing overlay attributes. Just as a user package does, it also binds packages to the garbage collector root that is attached to the currently running session (check with `nix-store --query --roots`). However, since a rebuild didn't happen, it reuses the built version in the store. Hence, you cannot apply changes until you reboot and garbage collect (via `sudo nix-collect-garbage`) again.
+
+This might be a case against putting packages in `home.packages` instead of `users.users.<name>.packages`.
+
+#### NixOS {#13#nixos}
+
+Moved to [NixOS](https://nixos.org) completely. [Silverblue](https://silverblue.fedoraproject.org) is gone.
+
+#### Nixpkgs {#13#nixpkgs}
+
+More missing packages:
+
+- [Identity](https://gitlab.gnome.org/YaLTeR/identity)
+- [Login Manager Settings](https://github.com/realmazharhussain/gdm-settings)
+- [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler)
+
+Also, a [package](https://github.com/NixOS/nixpkgs/blob/nixos-unstable/pkgs/development/tools/tracy/default.nix) for [Tracy](https://github.com/wolfpld/tracy) is missing a desktop file.
+
+###### Subtitle Edit {#13#subtitle-edit}
+
+Added a [desktop file](https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html) to the package. Learned how to use [`icoutils`](https://www.nongnu.org/icoutils) for extracting icons from Windows executables. `nixpkgs` also provide the [`makeDesktopItem`](https://github.com/NixOS/nixpkgs/blob/master/pkgs/build-support/make-desktopitem/default.nix) function which makes creating desktop files easier.
+
 ### Sunday, 12 {#12}
 
 #### NixOS {#12#nixos}
@@ -67,7 +99,7 @@ I need this program to run [OCR](https://en.wikipedia.org/wiki/Optical_character
 
 ### Thursday, 9 {#9}
 
-#### Nixpkgs
+#### Nixpkgs {#9#nixpkgs}
 
 Reading the [Nixpkgs manual](https://nixos.org/manual/nixpkgs/stable) today.
 
