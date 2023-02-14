@@ -1,5 +1,52 @@
 # February 2023
 
+### Tuesday, 14 {#14}
+
+#### LBRY
+
+You have to transcode audio from [Dolby AC-3](https://en.wikipedia.org/wiki/Dolby_Digital) to [AAC](https://en.wikipedia.org/wiki/Advanced_Audio_Coding) before uploading to [LBRY](https://lbry.com), otherwise there will be no sound.
+
+I would recommend the [FDK AAC](https://en.wikipedia.org/wiki/Fraunhofer_FDK_AAC) codec.
+
+#### [`lbry-desktop`](../../git.md#lbry-desktop)
+
+Updated my no blacklist fork to version [`0.53.9`](https://github.com/paveloom-f/lbry-desktop/releases/tag/v0.53.9).
+
+#### Leave No Trace {#14#leave-no-trace}
+
+Transcoding "[Leave No Trace](https://www.imdb.com/title/tt3892172)" extras today.
+
+Uploaded them on [YouTube](https://www.youtube.com/playlist?list=PL2EO_Vc8r8e0Nz48xRHe1OhZy185FvDt2) and [LBRY](https://odysee.com/@paveloom:e/Leave-No-Trace-%282018%29-Extras:c).
+
+#### Nixpkgs {#14#nixpkgs}
+
+If you want to `nix develop` a package and your `unpackPhase` fails with something like
+
+```
+<...>
+cp: cannot create regular file 'source/<hash>-source/<file>': Permission denied
+<...>
+do not know how to unpack source archive /nix/store/<hash>-source
+```
+
+that's probably because the unpacker wanted to unpack the source directory, but the `source` directory wasn't empty. It creates a directory inside, but if there are other directories, it won't be sure what to unpack.
+
+You can fix this by adding
+
+```nix
+preUnpack = ''
+  rm -rf source
+'';
+```
+
+to your Nix expression.
+
+#### Transmission
+
+I am somewhat impressed that [Transmission](https://transmissionbt.com) developers have created native clients for all major platforms. That's something I thought was really cool but also pretty hard to do in general.
+
+I still prefer [qBittorrent](https://www.qbittorrent.org), though.
+
 ### Monday, 13 {#13}
 
 #### Anytype
@@ -115,7 +162,7 @@ Reading the [Nix manual](https://nixos.org/manual/nix/stable) today.
 
 ### Tuesday, 7 {#7}
 
-#### Leave No Trace
+#### Leave No Trace {#7#leave-no-trace}
 
 Even though [the movie](https://www.imdb.com/title/tt3892172) is mostly about struggles with [PTSD](https://en.wikipedia.org/wiki/Post-traumatic_stress_disorder), I really like its seemingly (intentional?) anti-societal message. Or, rather, that it propagates a more non-conformal and down-to-earth approach to human relationships rather than the one cultivated by contemporary culture.
 
