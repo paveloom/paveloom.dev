@@ -1,5 +1,48 @@
 # February 2023
 
+### Wednesday, 15 {#15}
+
+#### `core-js`
+
+The [story](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md) of the [`core-js`](https://github.com/zloirock/core-js)'s maintainer is horrifying.
+
+As an open source developer myself, I will *most likely* have similar problems in terms of monetary income. The current plan is to seek a job in the field which would allow me to work on open source on a side. I strongly believe in [Trade Free](https://www.trade-free.org)'s take on this:
+
+> The ones who offer, should not ask anything in return. The ones who receive, should not have to give anything in return.
+
+Some of the [LiberaManifesto](https://liberamanifesto.com)'s takes are relatable, too:
+
+> We owe you nothing. You owe us nothing.
+
+This is why I would *probably* hesitate from any kind of donations on my projects. But to make that work, a traditional job seems to be the only viable choice. I'm not *yet* sure startups are worth the risk, even though they give much more freedom.
+
+#### FFmpeg
+
+Preparing the "[Hello there!](https://odysee.com/@paveloom:e/Hello-there:cf)" and "[Unlimited Power!](https://odysee.com/@paveloom:e/Unlimited-Power:b)" clips today so I can link to them on my [about](about) page.
+
+One of the features that I miss from [µTorrent](https://www.utorrent.com) while using [qBittorrent](https://www.qbittorrent.org) is media streaming. It allows one to seek a video file while it is being sequentially downloaded, and by doing so changing *what part* of the file is being downloaded. This is very useful for extracting small clips out of big releases that are otherwise too big to download in the whole.
+
+Today I used [WebTorrent](https://webtorrent.io) for the first time. It's pretty bad, but it has support for media streaming (it is its prime feature). Using it, I was able to
+
+- Find the timestamps of the scenes in a smaller release by seeking it while it is being downloaded
+- Find the same scenes in a 4K release while it is also being downloaded
+
+Then, I was able to extract the scenes from a partially downloaded file via FFmpeg:
+
+```bash
+ffmpeg -y -ss 01:14:40 -i input.mkv -t 40 -c copy -map 0 "cut.mkv"
+```
+
+After that, I did a more precise cut, splitting on I-frames, as I described [here](../../../blog/ffmpeg-notes/#cutting-an-m2ts-video-starting-with-an-i-frame). Turns out chapters and subtitles can make the duration of the resulting file longer, so I have added a note about that.
+
+Also, apparently LBRY's player converts HDR to SDR just fine (Odysee's grays it out, though).
+
+#### Maniac
+
+In other news, the [Maniac](https://www.imdb.com/title/tt5580146) series are pretty good. Silly at times, but it's good silly. Why aren't they more popular, though?
+
+And I still don't understand why are they called Maniac (besides being based on other series of the same name).
+
 ### Tuesday, 14 {#14}
 
 #### LBRY
