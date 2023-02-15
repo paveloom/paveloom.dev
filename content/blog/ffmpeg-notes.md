@@ -66,7 +66,8 @@ ffmpeg -i input.mkv \
 Get a list of I-frames:
 
 ```bash
-  ffprobe -skip_frame nokey \
+  ffprobe -v error -hide_banner \
+      -skip_frame nokey \
       -show_entries frame=pkt_dts_time:timecode=value \
       -select_streams v:0 \
       -print_format default=nw=1:nk=1 \
@@ -76,7 +77,15 @@ Get a list of I-frames:
 Cut 40s of the video without re-encoding, starting from one of the I-frames:
 
 ```bash
-  ffmpeg -y -i input.m2ts -ss 1007.562244 -t 40 -c copy -copyts cut.mkv
+  ffmpeg -v error -hide_banner -y \
+    -i input.m2ts \
+    -ss 1007.562244 \
+    -t 40 \
+    -map_chapters -1 \
+    -c copy -copyts \
+    cut.mkv
 ```
+
+Note that we don't copy subtitles and data (e.g., chapters) here. Those can make the duration longer.
 
 See [FFprobe documentation](https://ffmpeg.org/ffprobe.html) and [FFprobeTips](https://trac.ffmpeg.org/wiki/FFprobeTips) for more info.
