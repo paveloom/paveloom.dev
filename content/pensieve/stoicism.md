@@ -33,6 +33,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Stoicism).
 - [28 Books On Stoicism: The (Hopefully) Ultimate Reading List](https://dailystoic.com/books-on-stoicism)
 - [The Stoic Reading List: 3 Must-Read Books To Get You Started](https://dailystoic.com/stoic-reading-list)
 - [What Is Stoicism? A Definition & 9 Stoic Exercises To Get You Started](https://dailystoic.com/what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started) ⭐
+- [2022] [Life Is Not Short](https://dkb.show/post/life-is-not-short) ⭐
 
 ##### Video
 - [Daily Stoic](https://www.youtube.com/@DailyStoic)
