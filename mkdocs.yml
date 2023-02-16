@@ -75,6 +75,8 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|\.(?!\d)|&[lg]t;'
   - git-revision-date-localized:
       exclude:
+        - blog/README.md
+        - journal/README.md
         - pensieve/README.md
   - literate-nav:
       nav_file: sitemap.md
