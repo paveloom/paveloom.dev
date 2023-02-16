@@ -1,5 +1,15 @@
 # February 2023
 
+### Thursday, 16 {#16}
+
+#### Nix Pills
+
+Finished [Nix Pills](https://nixos.org/guides/nix-pills) today. Those are good for understanding the core concepts behind basic functions used in [Nixpkgs](https://nixos.org/manual/nixpkgs/stable).
+
+#### Star Wars {#16#star-wars}
+
+I've replaced the "[Hello there!](https://odysee.com/@paveloom:e/Hello-there:cf)" and "[Unlimited power!](https://odysee.com/@paveloom:e/Unlimited-Power:b)" clips on Odysee with [SDR](https://en.wikipedia.org/wiki/Standard-dynamic-range_video) versions (different release). That way, you can watch it on mobile devices, too.
+
 ### Wednesday, 15 {#15}
 
 #### `core-js`
@@ -16,9 +26,15 @@ Some of the [LiberaManifesto](https://liberamanifesto.com)'s takes are relatable
 
 This is why I would *probably* hesitate from any kind of donations on my projects. But to make that work, a traditional job seems to be the only viable choice. I'm not *yet* sure startups are worth the risk, even though they give much more freedom.
 
-#### FFmpeg
+#### Maniac
 
-Preparing the "[Hello there!](https://odysee.com/@paveloom:e/Hello-there:cf)" and "[Unlimited Power!](https://odysee.com/@paveloom:e/Unlimited-Power:b)" clips today so I can link to them on my [about](about) page.
+In other news, the [Maniac](https://www.imdb.com/title/tt5580146) series are pretty good. Silly at times, but it's good silly. Why aren't they more popular, though?
+
+And I still don't understand why are they called Maniac (besides being based on other series of the same name).
+
+#### Star Wars {#15#star-wars}
+
+Preparing the "[Hello there!](https://odysee.com/@paveloom:e/Hello-there:cf)" and "[Unlimited power!](https://odysee.com/@paveloom:e/Unlimited-Power:b)" clips today so I can link to them on my [about](about) page.
 
 One of the features that I miss from [µTorrent](https://www.utorrent.com) while using [qBittorrent](https://www.qbittorrent.org) is media streaming. It allows one to seek a video file while it is being sequentially downloaded, and by doing so changing *what part* of the file is being downloaded. This is very useful for extracting small clips out of big releases that are otherwise too big to download in the whole.
 
@@ -35,13 +51,7 @@ ffmpeg -y -ss 01:14:40 -i input.mkv -t 40 -c copy -map 0 "cut.mkv"
 
 After that, I did a more precise cut, splitting on I-frames, as I described [here](../../../blog/ffmpeg-notes/#cutting-an-m2ts-video-starting-with-an-i-frame). Turns out chapters and subtitles can make the duration of the resulting file longer, so I have added a note about that.
 
-Also, apparently LBRY's player converts HDR to SDR just fine (Odysee's grays it out, though).
-
-#### Maniac
-
-In other news, the [Maniac](https://www.imdb.com/title/tt5580146) series are pretty good. Silly at times, but it's good silly. Why aren't they more popular, though?
-
-And I still don't understand why are they called Maniac (besides being based on other series of the same name).
+Also, apparently LBRY's player converts [HDR](https://en.wikipedia.org/wiki/High_dynamic_range) to [SDR](https://en.wikipedia.org/wiki/Standard-dynamic-range_video) just fine (Odysee's grays it out, though).
 
 ### Tuesday, 14 {#14}
 
