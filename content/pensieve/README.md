@@ -4,4 +4,4 @@ This [digital garden](digital-garden.md) is my collection of notes on different 
 
 Recommended materials are marked with ⭐.
 
-Majorly inspired by Nikita Voloboev's [Knowledge Wiki](https://wiki.nikiv.dev).
+Majorly inspired by [Nikita Voloboev's Knowledge Wiki](https://wiki.nikiv.dev).
