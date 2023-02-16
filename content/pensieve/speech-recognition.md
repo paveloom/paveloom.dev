@@ -9,6 +9,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Speech_recognition).
 - [Project Shasta](https://pages.adobe.com/shasta/): AI-powered audio recording and editing, all in the web
 - [SpeechBrain](https://github.com/speechbrain/speechbrain): A PyTorch-based Speech Toolkit
 - [Whisper](https://github.com/openai/whisper): A general-purpose speech recognition model ⭐
+    - [Faster Whisper](https://github.com/guillaumekln/faster-whisper): Faster Whisper transcription with CTranslate2
     - [`whisper.cpp`](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++
     - [WhisperX](https://github.com/m-bain/whisperX): Timestamp-Accurate Automatic Speech Recognition
 
