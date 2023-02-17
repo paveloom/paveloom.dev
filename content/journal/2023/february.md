@@ -1,5 +1,15 @@
 # February 2023
 
+### Friday, 17 {#17}
+
+#### Nixpkgs {#17#nixpkgs}
+
+My first ever [pull request](https://github.com/NixOS/nixpkgs/pull/215877) to [Nixpkgs](https://github.com/NixOS/nixpkgs) got merged this night. I am officially one of the maintainers and a member of the organization now!
+
+#### Objectivism
+
+Watched the "[Introduction to Objectivism, by Leonard Peikoff](https://www.youtube.com/watch?v=hlJD0i_WwdQ)" lecture. It's amazing. I correlate many of the ideas of [objectivism](../../pensieve/objectivism.md) with my own beliefs, so I am eager to dive into the works of [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand) as soon as possible.
+
 ### Thursday, 16 {#16}
 
 #### Nix Pills
