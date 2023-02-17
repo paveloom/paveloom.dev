@@ -12,3 +12,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/File_system).
     1. [General Concepts](https://fedoramagazine.org/working-with-btrfs-general-concepts)
     2. [Subvolumes](https://fedoramagazine.org/working-with-btrfs-subvolumes)
     3. [Snapshots](https://fedoramagazine.org/working-with-btrfs-snapshots)
+    4. [Compression](https://fedoramagazine.org/working-with-btrfs-compression)
