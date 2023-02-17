@@ -23,12 +23,14 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Linux_distribution).
 - [NixOS](nixos.md) ⭐
 - [openSUSE](https://www.opensuse.org)
 
-#### Resources
+#### Community
 
 ##### Sites
 - [DistroWatch](https://distrowatch.com) ⭐
 - [Privacy Guides: Linux Overview](https://www.privacyguides.org/linux-desktop/overview)
 - [Privacy Guides: Linux](https://www.privacyguides.org/linux-desktop)
 
-##### Videos
+#### Resources
+
+##### Video
 - [2019] [Let's try Fedora Silverblue — an immutable desktop OS!](https://www.youtube.com/watch?v=-hpV5l-gJnQ)
