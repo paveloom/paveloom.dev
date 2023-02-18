@@ -6,7 +6,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing)).
 
 #### Examples
 - [Bash](https://www.gnu.org/software/bash)
-- [Fish](https://fishshell.com) ⭐
+- [`fish`](fish.md) ⭐
 - [Nushell](https://www.nushell.sh)
 - [Oil](https://www.oilshell.org)
 - [Powershell](https://en.wikipedia.org/wiki/PowerShell)
