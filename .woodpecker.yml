@@ -1,12 +1,10 @@
 branches: master
-
 clone:
   git:
     image: woodpeckerci/plugin-git
     settings:
       depth: 0
       partial: false
-
 pipeline:
   build:
     image: python:3.11
