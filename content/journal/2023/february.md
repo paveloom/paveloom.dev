@@ -1,5 +1,23 @@
 # February 2023
 
+### Saturday, 18 {#18}
+
+#### `direnv`
+
+Set up [`direnv`](https://github.com/direnv/direnv) and [`nix-direnv`](https://github.com/nix-community/nix-direnv) today for the first time.
+
+I have a couple of use cases in mind for them:
+
+- Setting up specific versions of tools easily (Zig stable vs. nightly, for example)
+- Setting up native dependencies easily
+- Making builds more reproducible
+
+I've created a [flake for this very site](https://github.com/paveloom/paveloom.github.io/blob/6f385d534b64fe31ef3ac2bd0ca920e46cfe04a8/flake.nix). I've also set up CI/CD using Nix (which turned out to be somewhat more complicated than I thought).
+
+#### Wezterm
+
+Solved the [mystery](https://github.com/wez/wezterm/issues/3106) with the disappearing cursor that bugged me since I installed NixOS for the first time. Just gotta set the `XCURSOR_THEME` variable to your theme (`Adwaita` in my case).
+
 ### Friday, 17 {#17}
 
 #### Nixpkgs {#17#nixpkgs}
