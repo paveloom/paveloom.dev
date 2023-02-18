@@ -14,6 +14,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Objectivism).
 
 ##### Non-fiction
 - [1982] [Philosophy: Who Needs It](https://en.wikipedia.org/wiki/Philosophy:_Who_Needs_It)
+- [1969] [The Romantic Manifesto: A Philosophy of Literature](https://en.wikipedia.org/wiki/The_Romantic_Manifesto)
+- [1966] [Capitalism: The Unknown Ideal](https://en.wikipedia.org/wiki/Capitalism:_The_Unknown_Ideal)
+- [1964] [The Virtue of Selfishness](https://en.wikipedia.org/wiki/The_Virtue_of_Selfishness)
 
 #### Official
 
