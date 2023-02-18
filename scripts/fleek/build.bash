@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# A script to build the site on Fleek.
-# Expects to be used on the `bitnami/minideb` Docker image.
+set -e
 
-# Install auxiliary packages
-install_packages wget ca-certificates >/dev/null
+# A script to build the site on Fleek
 
 # Define the paths
 FLEEK=$(dirname "${BASH_SOURCE[0]}")

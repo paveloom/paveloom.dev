@@ -1,22 +1,29 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 set -e
 
-# A script to build the site
+# A script to install Nix and to build the site
 
-# Install PDM
-if ! command -v pdm > /dev/null; then
-    pip install -U pip setuptools wheel
-    pip install pdm
+# Expected to be run on an Ubuntu runner
+
+SCRIPTS=$(dirname "${BASH_SOURCE[0]}")
+
+if [ -z "$GITHUB_ACTIONS" ]; then
+    apt-get update
+    apt-get -y install \
+        curl \
+        git \
+        xz-utils
+
+    mkdir /etc/nix
+    mkdir -m 0755 /nix && chown "$USER" /nix
+    echo "build-users-group =" > /etc/nix/nix.conf
 fi
 
-# Install the dependencies
-pdm install
-
-# Add the site URL to the config
-if [ ! ${#} -eq 0 ]; then
-    echo "site_url: ${1}" >> mkdocs.yml
+if ! command -v nix; then
+    sh <(curl -L https://nixos.org/nix/install) --no-daemon
+    mkdir -p ~/.config/nix
+    echo "experimental-features = nix-command flakes" > ~/.config/nix/nix.conf
 fi
 
-# Build the site
-pdm mkdocs build
+~/.nix-profile/bin/nix develop -c bash -c "${SCRIPTS}/nix-build.bash $*"

@@ -7,15 +7,11 @@ clone:
       partial: false
 pipeline:
   build:
-    image: python:3.11
-    commands:
-      - scripts/build.bash https://paveloom.codeberg.page
-    when:
-      event: push
-  publish:
-    image: bitnami/git
+    image: ubuntu:lunar
     secrets: [mail, token]
     commands:
+      # Build the site
+      - scripts/build.bash https://paveloom.codeberg.page
       # Configure Git
       - git config --global user.email $MAIL
       - git config --global user.name "Pavel Sobolev"

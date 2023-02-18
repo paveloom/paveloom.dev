@@ -91,3 +91,7 @@ plugins:
       css_files:
         - assets/extra.css
   - section-index
+site_url: https://paveloom.github.io
+site_url: paveloom.gitlab.com
+site_url: https://paveloom.gitlab.com
+site_url: https://paveloom.gitlab.com
