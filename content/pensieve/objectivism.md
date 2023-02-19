@@ -20,8 +20,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Objectivism).
 
 #### Official
 
-##### Sites
-- [The Ayn Rand Institute](https://aynrand.org) ⭐
+##### Organizations
+- [Ayn Rand Institute](https://en.wikipedia.org/wiki/Ayn_Rand_Institute)
+- [The Atlas Society](https://en.wikipedia.org/wiki/The_Atlas_Society)
 
 #### Community
 
