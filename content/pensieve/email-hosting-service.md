@@ -5,7 +5,12 @@ An email hosting service is an Internet hosting service that operates email serv
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Email_hosting_service).
 
 #### Examples
+
+##### Hosted
 - [Riseup](https://riseup.net) ⭐
+
+##### Self-hosted
+- [Mox](https://github.com/mjl-/mox)
 
 #### Resources
 - [E-mail providers - which one to choose?](https://digdeeper.neocities.org/articles/email)
