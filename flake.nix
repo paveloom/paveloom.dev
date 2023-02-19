@@ -9,26 +9,12 @@
   }:
     flake-utils.lib.eachDefaultSystem (system: let
       pkgs = nixpkgs.legacyPackages.${system};
-      default_pkgs = with pkgs; [
-        pdm
-        python311
-      ];
     in {
-      devShells = {
-        default = pkgs.mkShell {
-          packages = default_pkgs;
-        };
-        dev = pkgs.mkShell {
-          packages =
-            default_pkgs
-            ++ (with pkgs; [
-              shellcheck
-              yamlfmt
-              yamllint
-              alejandra
-              ltex-ls
-            ]);
-        };
+      devShells.default = pkgs.mkShell {
+        packages = with pkgs; [
+          pdm
+          python311
+        ];
       };
     });
 }
