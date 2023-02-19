@@ -1,8 +1,22 @@
 # February 2023
 
+### Sunday, 19 {#19}
+
+#### `direnv` {#19#direnv}
+
+Okay, I guess I will just have tooling available globally instead of specifying it in flakes. This solves an issue with forks (like `nixpkgs`) where it's often inconvenient to add extra files that are not covered by a `.gitignore`.
+
+#### Zigmod
+
+Created a [PR](https://github.com/NixOS/nixpkgs/pull/217229) for adding [Zigmod](https://github.com/nektro/zigmod) to [`nixpkgs`](https://github.com/NixOS/nixpkgs).
+
+It's a package manager for Zig that I use. The official one is [in the works](https://github.com/ziglang/zig/pull/14265), though!
+
+Shout-out to [Meghan](https://github.com/nektro), by the way. She created Zigmod and also inspired this very journal!
+
 ### Saturday, 18 {#18}
 
-#### `direnv`
+#### `direnv` {#18#direnv}
 
 Set up [`direnv`](https://github.com/direnv/direnv) and [`nix-direnv`](https://github.com/nix-community/nix-direnv) today for the first time.
 
