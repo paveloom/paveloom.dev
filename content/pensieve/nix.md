@@ -24,6 +24,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 - [Nix package versions](https://lazamar.co.uk/nix-versions)
 - [Zero to Nix](https://zero-to-nix.com)
 
+##### Tools
+- [Flake Parts](https://github.com/hercules-ci/flake-parts): Simplify Nix Flakes with the module system
+
 #### Resources
 
 ##### Text
