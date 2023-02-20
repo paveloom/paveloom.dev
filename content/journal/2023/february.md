@@ -1,5 +1,19 @@
 # February 2023
 
+### Monday, 20 {#20}
+
+#### Objectivism {#20#objectivism}
+
+Poking around some topics in an interest to know how [objectivism](../../pensieve/objectivism.md) would apply to them.
+
+Issues like
+
+- Poverty, medical care, etc.
+- Altruism vs. charity
+- Communism vs. social betterment
+
+There are a lot of interpretations (and misinterpretations) around these and many other topics applied to this philosophy. It seems to me, though, that the answers are mostly common sense.
+
 ### Sunday, 19 {#19}
 
 #### `direnv` {#19#direnv}
@@ -38,7 +52,7 @@ Solved the [mystery](https://github.com/wez/wezterm/issues/3106) with the disapp
 
 My first ever [pull request](https://github.com/NixOS/nixpkgs/pull/215877) to [Nixpkgs](https://github.com/NixOS/nixpkgs) got merged this night. I am officially one of the maintainers and a member of the organization now!
 
-#### Objectivism
+#### Objectivism {#17#objectivism}
 
 Watched the "[Introduction to Objectivism, by Leonard Peikoff](https://www.youtube.com/watch?v=hlJD0i_WwdQ)" lecture. It's amazing. I correlate many of the ideas of [objectivism](../../pensieve/objectivism.md) with my own beliefs, so I am eager to dive into the works of [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand) as soon as possible.
 
