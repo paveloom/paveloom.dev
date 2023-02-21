@@ -1,5 +1,11 @@
 # February 2023
 
+### Tuesday, 21 {#21}
+
+#### [`zig-gir-ffi`](../../git.md#zig-gir-ffi) {#21#zig-gir-ffi}
+
+Added a Nix flake. This required me to somehow address the fact that there is no `/usr/share` on Nix based systems. I decided to traverse `XDG_DATA_DIRS` paths as a solution.
+
 ### Monday, 20 {#20}
 
 #### Objectivism {#20#objectivism}
