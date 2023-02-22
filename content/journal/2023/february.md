@@ -1,5 +1,24 @@
 # February 2023
 
+### Wednesday, 22 {#22}
+
+#### Git {#22#git}
+
+Apparently, you can fetch a single commit from a repo ([source](https://stackoverflow.com/a/43136160)):
+
+```bash
+git init
+git remote add origin $URL
+git fetch --depth 1 origin $SHA1
+git checkout FETCH_HEAD
+```
+
+#### Zigmod {#22#zigmod}
+
+[Added](https://github.com/NixOS/nixpkgs/pull/217229#issuecomment-1440782009) a script for generating the list of dependencies.
+
+Thinking that it's better to do it like that than packaging the whole dependency tree in Nixpkgs.
+
 ### Tuesday, 21 {#21}
 
 #### [`zig-gir-ffi`](../../git.md#zig-gir-ffi) {#21#zig-gir-ffi}
@@ -26,7 +45,7 @@ There are a lot of interpretations (and misinterpretations) around these and man
 
 Okay, I guess I will just have tooling available globally instead of specifying it in flakes. This solves an issue with forks (like `nixpkgs`) where it's often inconvenient to add extra files that are not covered by a `.gitignore`.
 
-#### Zigmod
+#### Zigmod {#19#zigmod}
 
 Created a [PR](https://github.com/NixOS/nixpkgs/pull/217229) for adding [Zigmod](https://github.com/nektro/zigmod) to [`nixpkgs`](https://github.com/NixOS/nixpkgs).
 
