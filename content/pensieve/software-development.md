@@ -36,6 +36,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 - [2022] [Software Development is very subjective](https://vadimkravcenko.com/shorts/software-development-subjective)
 - [2021] [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer) ⭐
 - [2021] [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding) ⭐
+- [2000] [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code)
 
 ##### Video
 - [Internet Made Coder](https://www.youtube.com/channel/UCcJQ96WlEhJ0Ve0SLmU310Q)
