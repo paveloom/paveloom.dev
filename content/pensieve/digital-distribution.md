@@ -9,3 +9,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution).
 ##### Music
 - [Bandcamp](https://bandcamp.com) ⭐
 - [Spotify](https://open.spotify.com)
+
+##### Games
+- [Steam](steam.md) ⭐

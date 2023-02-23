@@ -80,6 +80,8 @@ search:
                     - [Microblogging](pensieve/microblogging.md)
                     - [Social news website](pensieve/social-news-website.md)
                 - [Digital distribution](pensieve/digital-distribution.md)
+                    - Games
+                        - [Steam](pensieve/steam.md)
                 - [Email hosting service](pensieve/email-hosting-service.md)
                 - [File sharing](pensieve/file-sharing.md)
                     - [BitTorrent](pensieve/bittorrent.md)
