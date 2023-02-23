@@ -1,5 +1,11 @@
 # February 2023
 
+### Thursday, 23 {#23}
+
+#### Dwarf Fortress
+
+Wanted to buy the Steam version of [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress) today (and to try it with the [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) runtime on NixOS). That's somewhat tricky to do in Russia. I tried to do it via [Qiwi](https://qiwi.com)'s Steam Kazakhstan option, but apparently the Steam store is [down right now](https://gamerant.com/is-steam-down-february-2023-sons-forest-release) because of the new [Sons Of The Forest](https://store.steampowered.com/app/1326470/Sons_Of_The_Forest) game. What a coincidence. And I haven't been playing games in a long while.
+
 ### Wednesday, 22 {#22}
 
 #### Git {#22#git}
