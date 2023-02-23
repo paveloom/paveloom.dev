@@ -12,12 +12,13 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [C++](c-plus-plus.md)
 - [C3](https://c3-lang.org)
 - [C](c.md)
-- [Go](go.md)
+- [Cyber](https://cyberscript.dev)
 - [Gluon](https://github.com/gluon-lang/gluon)
+- [Go](go.md)
 - [Grain](https://grain-lang.org)
 - [JavaScript](javascript.md)
     - [TypeScript](typescript.md)
-- [Julia](julia.md)
+- [Julia](julia.md) ⭐
 - [Lobster](lobster.md)
 - [Lua](lua.md)
 - [Nim](nim.md)
@@ -26,11 +27,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Racket](https://racket-lang.org)
 - [Reason](https://reasonml.github.io)
 - [Roc](https://www.roc-lang.org)
-- [Rust](rust.md)
+- [Rust](rust.md) ⭐
 - [Unison](https://www.unison-lang.org)
 - [Vale](vale.md)
 - [Wuffs](https://github.com/google/wuffs)
-- [Zig](zig.md)
+- [Zig](zig.md) ⭐
 
 #### Books
 - [Crafting Interpreters](https://craftinginterpreters.com) ⭐
