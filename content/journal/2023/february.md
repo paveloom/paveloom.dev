@@ -1,5 +1,11 @@
 # February 2023
 
+### Friday, 24 {#24}
+
+#### Noita
+
+Learned how to use [Lutris](https://lutris.net) today, played [Noita](https://noitagame.com) using it. Enjoyed the game very much.
+
 ### Thursday, 23 {#23}
 
 #### Dwarf Fortress
