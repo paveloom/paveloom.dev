@@ -10,6 +10,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Email_hosting_service).
 - [Riseup](https://riseup.net) ⭐
 
 ##### Self-hosted
+- [Mail-in-a-Box](https://mailinabox.email)
 - [Mox](https://github.com/mjl-/mox)
 
 #### Resources
