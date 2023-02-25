@@ -1,5 +1,22 @@
 # February 2023
 
+### Saturday, 25 {#25}
+
+#### [`zig-gir-ffi`](../../git.md#zig-gir-ffi) {#25#zig-gir-ffi}
+
+Done lots of refactoring today.
+
+Most of the changes I did can be described by the following reflection:
+
+> It should probably be refactored if you have to write a comment that isn't a docstring. Every new line of comments increases this probability.
+>
+> [Reflections on 10,000 Hours of Programming](https://matt-rickard.com/reflections-on-10-000-hours-of-programming)
+
+More on this in the Linux kernel coding style:
+
+- [Functions](https://www.kernel.org/doc/html/v4.10/process/coding-style.html#functions)
+- [Commenting](https://www.kernel.org/doc/html/v4.10/process/coding-style.html#commenting)
+
 ### Friday, 24 {#24}
 
 #### Noita
