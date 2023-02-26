@@ -1,5 +1,15 @@
 # February 2023
 
+### Sunday, 26 {#26}
+
+#### [`zig-gir-ffi`](../../git.md#zig-gir-ffi) {#26#zig-gir-ffi}
+
+Done more refactoring. Reduced the number of repeated parameters by generalizing `EmitRequest` into `Repository`.
+
+Implemented casting (there are still some edge cases left, e.g., arrays of interfaces).
+
+Stopped at implementing support for global constants. Gotta deal with these pesky bare unions.
+
 ### Saturday, 25 {#25}
 
 #### [`zig-gir-ffi`](../../git.md#zig-gir-ffi) {#25#zig-gir-ffi}
