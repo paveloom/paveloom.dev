@@ -7,6 +7,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Coding_interview).
 #### Books
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/dp/0984782850) ⭐
 
+#### Community
+
+##### Sites
+- [NeetCode](https://neetcode.io) ⭐
+
 #### Resources
 
 ##### Text
