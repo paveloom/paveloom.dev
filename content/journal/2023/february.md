@@ -1,5 +1,23 @@
 # February 2023
 
+### Monday, 27 {#27}
+
+#### Counter-Strike: Source
+
+Played my favorite game (the Zombie Escape mode) for the first time in a long time. Learned about [`gamemode`](https://github.com/FeralInteractive/gamemode). Fonts are scuffed on the Linux version, though. And my network stability has been atrocious.
+
+#### Every Noise at Once
+
+[Every Noise at Once](https://everynoise.com) is amazing. It's a rabbit hole of the music world.
+
+Besides the map, they also have other subsites. Here's a few I would recommend checking out:
+
+- [2022 Around the World](https://everynoise.com/2022_around_the_world.cgi)
+- [Research](https://everynoise.com/research.cgi)
+- [The Canonical Path](https://everynoise.com/canonicalpath.cgi)
+
+Definitely click that Scan button and give it a shot!
+
 ### Sunday, 26 {#26}
 
 #### [`zig-gir-ffi`](../../git.md#zig-gir-ffi) {#26#zig-gir-ffi}
