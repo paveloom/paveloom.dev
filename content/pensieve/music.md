@@ -10,7 +10,14 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Music).
 - [Rate Your Music](https://en.wikipedia.org/wiki/Rate_Your_Music)
 
 #### Discover
+- [Album of the Year](https://www.albumoftheyear.org) ⭐
 - [Every Noise at Once](https://everynoise.com) ⭐
+- [Gnoosic](https://www.gnoosic.com) ⭐
+
+#### Tracking
+- [Last.fm](https://www.last.fm)
+- [ListenBrainz](https://listenbrainz.org) ⭐
+- [Maloja](https://github.com/krateng/maloja)
 
 #### See also
 - [Digital distribution: Music](digital-distribution.md#music)
