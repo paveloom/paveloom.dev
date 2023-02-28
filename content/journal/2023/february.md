@@ -1,5 +1,23 @@
 # February 2023
 
+### Tuesday, 28 {#28}
+
+#### ListenBrainz
+
+I'm back on [ListenBrainz](https://listenbrainz.org/user/Paveloom). Gotta put some trust in this open-source / open data solution for music tracking and personalized recommendations.
+
+#### [`zig-gir-ffi`](../../git.md#zig-gir-ffi) {#26#zig-gir-ffi}
+
+Added support for emitting global constants. Refactored the code for handling types.
+
+Storing what would normally be local variables inside the output structs bothers me, though.
+
+#### Zigmod {#28#zigmod}
+
+I've started working on a more generic builder for Zigmod packages in Nixpkgs, but the [Gist dependency](https://gist.github.com/nektro/d468fea84f8217e4c26ee8fbeeea38cc) (which already was a red flag in itself) of Zigmod has been [deleted](https://github.com/nektro/zigmod/issues/90) recently. Seems like taken down by GitHub staff.
+
+> [don't put all your eggs in one basket](https://en.wiktionary.org/wiki/don%27t_put_all_your_eggs_in_one_basket)
+
 ### Monday, 27 {#27}
 
 #### Counter-Strike: Source
