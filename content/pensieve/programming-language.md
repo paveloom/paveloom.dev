@@ -13,6 +13,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [C3](https://c3-lang.org)
 - [C](c.md)
 - [Cyber](https://cyberscript.dev)
+- [Gleam](https://gleam.run)
 - [Gluon](https://github.com/gluon-lang/gluon)
 - [Go](go.md)
 - [Grain](https://grain-lang.org)
