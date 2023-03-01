@@ -176,6 +176,7 @@ search:
                     - [Web search engine](pensieve/web-search-engine.md)
     - [Humanities](pensieve/humanities.md)
         - [Philosophy](pensieve/philosophy.md)
+            - [Aristotelianism](pensieve/aristotelianism.md)
             - [Objectivism](pensieve/objectivism.md)
             - [Stoicism](pensieve/stoicism.md)
         - [The arts](pensieve/the-arts.md)
