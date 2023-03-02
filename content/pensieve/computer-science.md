@@ -4,14 +4,17 @@ Computer science is the study of computation, automation, and information. Compu
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_science).
 
+#### Books
+- [Elementary Computer Science: From Bits and Bytes to the Big Picture](https://github.com/ckirsch/book)
+
+#### Courses
+- [CS Primer](https://csprimer.com) ⭐
+
 #### Community
 
 ##### Forums
 - [`/r/CSCareerQuestions`](https://www.reddit.com/r/CSCareerQuestions)
     - [Wiki](https://www.reddit.com/r/CSCareerQuestions/wiki/index)
-
-#### Books
-- [Elementary Computer Science: From Bits and Bytes to the Big Picture](https://github.com/ckirsch/book)
 
 #### Resources
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
