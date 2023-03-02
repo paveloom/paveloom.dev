@@ -9,16 +9,19 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/NixOS).
 ##### Sites
 - [NixOS](https://nixos.org) ⭐
 
+##### Documentation
+- [NixOS Manual](https://nixos.org/manual/nixos/stable) ⭐
+
 #### Community
+
+##### Documentation
+- [NixOS Wiki](https://nixos.wiki) ⭐
 
 ##### Configuration examples
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) ⭐
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) ⭐
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) ⭐
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) ⭐
-
-##### Sites
-- [NixOS Wiki](https://nixos.wiki) ⭐
 
 #### Resources
 - [NixOS Guide](https://github.com/mikeroyal/NixOS-Guide)

@@ -9,6 +9,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 ##### Sites
 - [NixOS](https://nixos.org) ⭐
 
+##### Documentation
+- [Nix Manual](https://nixos.org/manual/nix/stable) ⭐
+- [Nixpkgs Manual](https://nixos.org/manual/nixpkgs/stable) ⭐
+
 ##### Configuration examples
 - [Flake templates](https://github.com/NixOS/templates) ⭐
 
@@ -22,6 +26,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 
 ##### Sites
 - [Nix package versions](https://lazamar.co.uk/nix-versions)
+
+##### Documentation
+- [Nix Pills](https://nixos.org/guides/nix-pills)
+- [`nix.dev`](https://nix.dev)
 - [Zero to Nix](https://zero-to-nix.com)
 
 ##### Tools
@@ -30,15 +38,20 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 #### Resources
 
 ##### Text
+- [2023] [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs) ⭐
 - [2022] [Nix Flakes: an Introduction](https://xeiaso.net/blog/nix-flakes-1-2022-02-21)
+- [2022] [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition)
 - [2021] [Ditch your version manager](https://juliu.is/ditch-your-version-manager) ⭐
+- [2021] [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix)
 - [2020] Nix Flakes Series
     - [Part 1: An introduction and tutorial](https://www.tweag.io/blog/2020-05-25-flakes)
     - [Part 2: Evaluation caching](https://www.tweag.io/blog/2020-06-25-eval-cache)
     - [Part 3: Managing NixOS systems](https://www.tweag.io/blog/2020-07-31-nixos-flakes)
 - [2020] [My usage of Nix, and Lorri + Direnv](https://cbailey.co.uk/posts/my_usage_of_nix_and_lorri__direnv)
+- [2020] [Searching and installing old versions of Nix packages](https://lazamar.github.io/download-specific-package-version-with-nix)
 
 ##### Video
+- [The Nix Hour](https://www.youtube.com/playlist?list=PLyzwHTVJlRc8yjlx4VR4LU5A5O44og9in)
 - [2020] [Better than virtualenv | direnv + nix-shell + lorri + flakes](https://www.youtube.com/watch?v=irPTtmP4xuM) ⭐
 
 #### See also
