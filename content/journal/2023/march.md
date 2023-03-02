@@ -1,5 +1,11 @@
 # March 2023
 
+### Thursday, 2 {#2}
+
+#### Zigmod {#2#zigmod}
+
+[Finished](https://github.com/NixOS/nixpkgs/pull/217229#issuecomment-1451479971) the yesterday's work. Learned how to write [package tests](https://nixos.org/manual/nixpkgs/stable/#sec-package-tests) along the way.
+
 ### Wednesday, 1 {#1}
 
 #### Objectivism
