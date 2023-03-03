@@ -1,5 +1,19 @@
 # March 2023
 
+### Friday, 3 {#3}
+
+#### Nix
+
+I've been trying to rewrite the Nix expression of this very site to take advantage of fixed-output derivations. I've encountered some issues
+
+- The `.git` directory is pruned from the local source (e.g., `./.`)
+- Seems like there is something non-deterministic in [PDM](https://pdm.fming.dev/latest)'s cache
+- Timestamps of all files in the store are reset (this breaks latest revision dates)
+
+The first one can be bypassed by fetching the repo from a Git forge. Proper investigation would be required for the second one. And the third one is making this whole idea a no-go.
+
+Gotta stick with the development shell on this one.
+
 ### Thursday, 2 {#2}
 
 #### Zigmod {#2#zigmod}
