@@ -15,4 +15,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Floating-point_arithmetic
 #### Resources
 
 ##### Video
-- [How floating point works](https://www.youtube.com/watch?v=dQhj5RGtag0) ⭐
+- [2022] [How floating point works](https://www.youtube.com/watch?v=dQhj5RGtag0) ⭐
