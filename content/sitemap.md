@@ -202,6 +202,8 @@ search:
                         - [Ethereum](pensieve/ethereum.md)
         - [Psychology](pensieve/psychology.md)
             - [Human intelligence](pensieve/human-intelligence.md)
+                - [Motivation](pensieve/motivation.md)
+                    - [Habit](pensieve/habit.md)
                 - [Planning](pensieve/planning.md)
                     - [Time management](pensieve/time-management.md)
                 - [Writing](pensieve/writing.md)
