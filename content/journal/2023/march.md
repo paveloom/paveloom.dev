@@ -1,5 +1,39 @@
 # March 2023
 
+### Saturday, 4 {#4}
+
+#### [`gnome-shell-memento-mori`](../../git.md#gnome-shell-memento-mori)
+
+I've tested my extension on [GNOME OS Nightly](https://os.gnome.org), [added support](https://extensions.gnome.org/review/39009) for GNOME 44.
+
+I've also switched to pure [NPM](https://www.npmjs.com) from [Bun](https://bun.sh) and added a [Nix flake](https://github.com/paveloom-t/gnome-shell-memento-mori/blob/4ac49ec193dca04509982e4433c9ef0ba3a43b12/flake.nix).
+
+#### Virt-Manager
+
+Learned how to set up [Virtual Machine Manager](https://virt-manager.org) with file sharing between the host and the guest systems on NixOS:
+
+1. Follow the instructions on the [NixOS Wiki](https://nixos.wiki/wiki/Virt-manager)
+2. Add the [`virtiofsd`](https://gitlab.com/virtio-fs/virtiofsd) package
+3. From the virtual hardware details of a machine: `Add Hardware` → `Filesystem`.
+
+    Set driver to `virtiofs`, source path -- to the path on your host machine. Target path is an arbitrary string used as a mount tag (e.g., `host`).
+
+4. Add
+
+    ```xml
+    <binary path="/run/current-system/sw/bin/virtiofsd" xattr="on"/>
+    ```
+
+    to the XML config of the new Filesystem virtual hardware.
+
+5. In the Guest system: run `sudo mkdir /media/host` and put
+
+    ```
+    host /media/host virtiofs rw,users,_netdev 0 0
+    ```
+
+    in `/etc/fstab`. Should mount automatically, but you might need to log out and log in again.
+
 ### Friday, 3 {#3}
 
 #### Nix
