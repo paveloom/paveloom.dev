@@ -141,10 +141,11 @@ search:
                     - [Coding interview](pensieve/coding-interview.md)
                     - [Compiler](pensieve/compiler.md)
                         - [Compile time](pensieve/compile-time.md)
-                    - [Data type](pensieve/data-type.md)
-                        - [Floating-point arithmetic](pensieve/floating-point-arithmetic.md)
                     - [Debugging](pensieve/debugging.md)
                     - [Memory management](pensieve/memory-management.md)
+                    - Operations
+                        - [Bitwise operation](pensieve/bitwise-operation.md)
+                        - [Floating-point arithmetic](pensieve/floating-point-arithmetic.md)
                     - [Program optimization](pensieve/program-optimization.md)
                     - [Programming idiom](pensieve/programming-idiom.md)
                 - [Software testing](pensieve/software-testing.md)
