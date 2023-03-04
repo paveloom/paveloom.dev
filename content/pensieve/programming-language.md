@@ -17,6 +17,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Gluon](https://github.com/gluon-lang/gluon)
 - [Go](go.md)
 - [Grain](https://grain-lang.org)
+- [Hare](https://harelang.org)
 - [JavaScript](javascript.md)
     - [TypeScript](typescript.md)
 - [Julia](julia.md) ⭐
@@ -30,6 +31,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Roc](https://www.roc-lang.org)
 - [Rust](rust.md) ⭐
 - [Unison](https://www.unison-lang.org)
+- [V](https://vlang.io)
 - [Vale](vale.md)
 - [Wuffs](https://github.com/google/wuffs)
 - [Zig](zig.md) ⭐
