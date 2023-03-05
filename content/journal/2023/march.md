@@ -1,5 +1,17 @@
 # March 2023
 
+### Sunday, 5 {#5}
+
+#### Counter-Strike: Source
+
+So, my procrastination suggested me to play CSS ZE again. I always thought of this game as of sort of a time capsule, and I saw this again today: it's the same players playing the same maps and joking the same jokes. I still enjoy it, though.
+
+#### Livestreaming
+
+I've read the `noopkat`'s (Suz Hinton) old article "[Lessons from my first year of live coding on Twitch](https://www.freecodecamp.org/news/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)" today. Livestreaming coding sessions is something I thought of for a while now. In the few articles that I saw, people often give advice on how to make them more entertaining (as far as that's possible for this niche). But what if I would do it just for the sake of keeping myself accountable? Sort of like this journal, but, you know, the next level.
+
+And become a silent coding [VTuber](https://en.wikipedia.org/wiki/VTuber), maybe?!
+
 ### Saturday, 4 {#4}
 
 #### [`gnome-shell-memento-mori`](../../git.md#gnome-shell-memento-mori)
