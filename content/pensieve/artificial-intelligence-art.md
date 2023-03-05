@@ -12,8 +12,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence_a
 - [Midjourney](https://www.midjourney.com)
     - [OpenJourney](https://open-journey.github.io)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐
+    - [Anything](https://huggingface.co/andite/anything-v4.0)
+    - [Counterfeit](https://huggingface.co/gsdf/Counterfeit-V2.5)
     - [InvokeAI](https://invoke-ai.github.io/InvokeAI)
     - [NovelAI: Image Generation](https://docs.novelai.net)
+    - [OrangeMixs](https://huggingface.co/WarriorMama777/OrangeMixs)
     - [Stable Diffusion 2.0](https://github.com/Stability-AI/stablediffusion)
     - [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion)
 
