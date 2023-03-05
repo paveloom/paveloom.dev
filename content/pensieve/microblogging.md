@@ -5,9 +5,11 @@ Microblogging is an online broadcast medium that exists as a specific form of bl
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Microblogging).
 
 #### Services
+
+##### Hosted
 - [cohost](https://cohost.org)
 - [Tumblr](https://en.wikipedia.org/wiki/Tumblr)
 - [Twitter](https://en.wikipedia.org/wiki/Twitter)
 
-#### Software
+##### Self-hosted
 - [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software)) ⭐

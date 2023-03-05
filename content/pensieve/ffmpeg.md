@@ -13,7 +13,3 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/FFmpeg).
 
 #### Resources
 - [2022] [FFmpeg - The Ultimate Guide](https://img.ly/blog/ultimate-guide-to-ffmpeg) ⭐
-
-#### See also
-- [Audio compression](audio-compression.md)
-- [Video compression](video-compression.md)

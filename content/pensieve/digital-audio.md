@@ -1,8 +1,8 @@
-# Audio compression
+# Digital audio
 
-Audio data compression, not to be confused with dynamic range compression, has the potential to reduce the transmission bandwidth and storage requirements of audio data. Audio compression algorithms are implemented in software as audio codecs. In both lossy and lossless compression, information redundancy is reduced, using methods such as coding, quantization, discrete cosine transform and linear prediction to reduce the amount of information used to represent the uncompressed data.
+Digital audio is a representation of sound recorded in, or converted into, digital form. In digital audio, the sound wave of the audio signal is typically encoded as numerical samples in a continuous sequence. For example, in CD audio, samples are taken 44,100 times per second, each with 16-bit sample depth. Digital audio is also the name for the entire technology of sound recording and reproduction using audio signals that have been encoded in digital form. Following significant advances in digital audio technology during the 1970s and 1980s, it gradually replaced analog audio technology in many areas of audio engineering, record production and telecommunications in the 1990s and 2000s.
 
-Read more on [Wikipedia](https://en.wikipedia.org/wiki/Data_compression#Audio).
+Read more on [Wikipedia](https://en.wikipedia.org/wiki/Digital_audio).
 
 #### Formats
 

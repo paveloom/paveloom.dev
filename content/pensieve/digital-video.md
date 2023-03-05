@@ -1,8 +1,8 @@
-# Video compression
+# Digital video
 
-Uncompressed video requires a very high data rate. Although lossless video compression codecs perform at a compression factor of 5 to 12, a typical H.264 lossy compression video has a compression factor between 20 and 200.
+Digital video is an electronic representation of moving visual images (video) in the form of encoded digital data. This is in contrast to analog video, which represents moving visual images in the form of analog signals. Digital video comprises a series of digital images displayed in rapid succession, usually at 24 frames per second. Digital video has many advantages such as easy copying, multicasting, sharing and storage.
 
-Read more on [Wikipedia](https://en.wikipedia.org/wiki/Data_compression#Video).
+Read more on [Wikipedia](https://en.wikipedia.org/wiki/Digital_video).
 
 #### Formats
 - [AV1](https://en.wikipedia.org/wiki/AV1)
@@ -10,6 +10,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Data_compression#Video).
 - [High Efficiency Video Coding (H.265 / MPEG-H HEVC)](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding)
 - [VP9](https://en.wikipedia.org/wiki/VP9)
 - [Versatile Video Coding (H.266 / VVC)](https://en.wikipedia.org/wiki/Versatile_Video_Coding)
+
+#### Quality assessment
+- [Video Multimethod Assessment Fusion](https://en.wikipedia.org/wiki/Video_Multimethod_Assessment_Fusion) ⭐
+    - [Reference implementation](https://github.com/Netflix/vmaf)
 
 #### Software
 - [Av1an](https://github.com/master-of-zen/Av1an) ⭐
