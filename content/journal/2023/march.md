@@ -1,5 +1,17 @@
 # March 2023
 
+### Monday, 6 {#6}
+
+#### Livestreaming
+
+Looked into streaming today. I might actually do it for the sake of the "public accountability" idea. That is, the idea to accompany [timeboxing](https://en.wikipedia.org/wiki/Timeboxing) with the schedule and the work done being public. I fiddled with OBS today, preparing scenes and learning basic shortcuts. That said, it's probably gonna be a simple screen share.
+
+Also looked into [VTubing](https://en.wikipedia.org/wiki/VTuber), but that seems to be somewhat expensive to run and hard to make pretty, and I don't feel like it's gonna add much (I'm not gonna be speaking, after all).
+
+#### OBS
+
+Created a [PR](https://github.com/NixOS/nixpkgs/pull/219872) to [Nixpkgs](https://github.com/NixOS/nixpkgs) for the [Advanced Scene Switcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395) plugin for [OBS](https://obsproject.com). I wanted to check whether it will allow me to automatically switch scenes depending on which window is focused. Alas, you can't do that on Wayland.
+
 ### Sunday, 5 {#5}
 
 #### Counter-Strike: Source
