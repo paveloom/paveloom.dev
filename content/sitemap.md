@@ -189,6 +189,7 @@ search:
                 - [Digital data](pensieve/digital-data.md)
                 - [Digital video](pensieve/digital-video.md)
                 - [Livestreaming](pensieve/livestreaming.md)
+                    - [VTuber](pensieve/vtuber.md)
                 - [Website](pensieve/website.md)
                     - Examples
                         - [Blog](pensieve/blog.md)
