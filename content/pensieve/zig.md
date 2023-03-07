@@ -89,6 +89,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 ##### Video
 - [Zig SHOWTIME](https://www.youtube.com/channel/UC2EQzAewrC10KCDFSS4j-zA)
 - [2023] [3 things you might like about Zig](https://www.youtube.com/watch?v=3DxjZmLBizI)
+- [2023] [Using Zig to write native extension modules for Python](https://www.youtube.com/watch?v=AKhqFOdjUfg) ⭐
 - [2022] [Gettin' Ziggy Wit It - Why I am convinced Zig is the C successor we've been waiting for](https://www.youtube.com/watch?v=kCmOfRcmkN0)
 - [2022] [Zig Roadmap 2023](https://www.youtube.com/watch?v=AqDdWEiSwMM)
 - [2021] [Taking the warts off C, with Andrew Kelley, creator of the Zig Software Foundation](https://www.youtube.com/watch?v=gn3YsZ6HUHw) ⭐
