@@ -7,6 +7,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Livestreaming).
 #### Services
 
 ##### Hosted
+- [Odysee](https://odysee.com)
 - [Twitch](https://en.wikipedia.org/wiki/Twitch_(service))
 - [YouTube](https://en.wikipedia.org/wiki/YouTube)
 
