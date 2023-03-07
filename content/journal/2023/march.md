@@ -1,8 +1,45 @@
 # March 2023
 
+### Tuesday, 7 {#7}
+
+#### Livestreaming {#7#livestreaming}
+
+I did a [test stream](https://odysee.com/@paveloom-streams:3/test-stream-playing-noita:e) today, playing [Noita](https://noitagame.com). It ended with the game crashing my laptop. That's the first time on the GOG version of the game, while both streaming and recording, but happens all the time on the Steam version, for some reason.
+
+I decided to stick with [Odysee](https://odysee.com) (as opposed to YouTube and Twitch) mostly because I'm planning to play copyrighted music on streams. Never understood why this is considered illegal. It literally harms no one, but helps every artist with exposure. Also, Odysee is based on the [LBRY](https://lbry.com)'s open-source stack underneath the closed-source front-end, the network is peer-to-peer and uncensorable (if someone keeps seeding the content, that is).
+
+Some notes:
+
+- I need something notifying me that I lose frames (I have flaky internet)
+- I can put a chat pop-up on top of all windows, but it's somewhat inconvenient for full screen applications (like games) on a single display
+
+Streaming settings:
+
+- Encoder: `x264`
+- Rate Control: `VBR`
+- Bit rate: 7Mbps, then 6Mbps, then 5Mbps
+- CRF: 17
+- Key frame interval: 2s
+- Preset: `veryfast`
+- Profile: High
+- Tune: `zerolatency`
+
+Recording settings:
+
+- Encoder: `x264`
+- Rate Control: `CRF`
+- CRF: 17
+- Key frame interval: 0s
+- Profile: None
+- Tune: None
+
+Forgot to change the profile for the recording settings. Hard to tell about the bit rate for streaming until I download the replay (the live version was lagging for me, but I don't think it's that bad in reality). From what I can see now, 7Mbps was a bit too much, but 6Mbps and 5Mbps were fine (network-wise). The overall bit rate of the recording is way lower, though, almost 4Mbps, so not sure what happened there. This also might be a case for just using `CRF` for screen sharing, and using the same settings for the recording to lower CPU usage.
+
+Also, someone really made sure to leave a slime right after I started streaming...
+
 ### Monday, 6 {#6}
 
-#### Livestreaming
+#### Livestreaming {#6#livestreaming}
 
 Looked into streaming today. I might actually do it for the sake of the "public accountability" idea. That is, the idea to accompany [timeboxing](https://en.wikipedia.org/wiki/Timeboxing) with the schedule and the work done being public. I fiddled with OBS today, preparing scenes and learning basic shortcuts. That said, it's probably gonna be a simple screen share.
 
@@ -18,7 +55,7 @@ Created a [PR](https://github.com/NixOS/nixpkgs/pull/219872) to [Nixpkgs](https:
 
 So, my procrastination suggested me to play CSS ZE again. I always thought of this game as of sort of a time capsule, and I saw this again today: it's the same players playing the same maps and joking the same jokes. I still enjoy it, though.
 
-#### Livestreaming
+#### Livestreaming {#5#livestreaming}
 
 I've read the `noopkat`'s (Suz Hinton) old article "[Lessons from my first year of live coding on Twitch](https://www.freecodecamp.org/news/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)" today. Livestreaming coding sessions is something I thought of for a while now. In the few articles that I saw, people often give advice on how to make them more entertaining (as far as that's possible for this niche). But what if I would do it just for the sake of keeping myself accountable? Sort of like this journal, but, you know, the next level.
 
