@@ -95,7 +95,7 @@ A list of my public Git repositories.
 
     *`#astronomy` `#gaussian-processes` `#julia` <code style="color: var(--md-primary-fg-color)">#unfinished</code>*
 
-#### PMG [:simple-codeberg:](https://codeberg.org/paveloom-c/PMG) [:simple-github:](https://github.com/paveloom-c/PMG) [:simple-gitlab:](https://gitlab.com/paveloom-g/complex/PMG) [:material-sprout:](https://app.radicle.xyz/seeds/pine.radicle.garden/rad:git:hnrkfwgg3khhx8keec53drptixg16xqhud3oo)
+#### PMG [:simple-codeberg:](https://codeberg.org/paveloom-c/PMG) [:simple-github:](https://github.com/paveloom-c/PMG) [:simple-gitlab:](https://gitlab.com/paveloom-g/complex/PMG)
 
 :   Spatial-kinematic modelling of a flat subsystem of the Milky Way by the method of maximum likelihood
 
