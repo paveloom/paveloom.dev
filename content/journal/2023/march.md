@@ -1,5 +1,45 @@
 # March 2023
 
+### Wednesday, 8 {#8}
+
+#### Livestreaming {#7#livestreaming}
+
+Some notes after [today's stream](https://odysee.com/@paveloom-streams:3/pmg-1:b):
+
+- Overall bit rate for streaming the screen turned out to be way lower than streaming Noita yesterday: around 1Mbps. VBR is supposed to be capping the maximum bit rate, but I was missing some frames until I switched from 6Mbps to 5Mbps (I show stats on the recording). So, I wonder if this rate control mode might use more bits when necessary. I'm downloading the replay right now, and it is 1.75 times bigger than the recorded one. Also, since the recording's bit rate is pretty small, as I pointed out yesterday, there might be no reason to use VBR in my use case. However, I would like to try 60 FPS tomorrow.
+- Colors seem to be a bit more pale. I wonder if I can fiddle with the color space.
+- I might try a slower preset for the recording.
+- If I do stick with VBR, I might also try to lower the bit rate and make the buffer size the same or twice as that.
+- Might increase the audio bit rate, too.
+- I would like to take a look on how it looks on mobile while I'm streaming.
+
+Here are the best resources on rate control modes:
+
+- [CRF Guide (Constant Rate Factor in x264, x265 and libvpx)](https://slhck.info/video/2017/02/24/crf-guide.html)
+- [Understanding Rate Control Modes (x264, x265, vpx)](https://slhck.info/video/2017/03/01/rate-control.html)
+
+I've been thinking more about the "public accountability" idea. Here's a simple recap in 3 key points:
+
+1. [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing) (you schedule your work)
+2. Public schedule (e.g., announcing livestreams)
+3. Public work (e.g., livestreaming)
+
+The main pro, of course, is that you get things done. You might also get fun along the way if you look into creating a community (not me, ironically, but check out [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)). I was also thinking about it being an analogy to traditional work, except, you know... it's on your terms.
+
+#### OBS {#7#obs}
+
+Had problems with adding the [Dropped Frame Alarm](https://obsproject.com/forum/resources/dropped-frame-alarm.675) Lua script for OBS. Looks like Lua's `CPATH` is broken, the correct path to `obslua.so` is appended twice in a single entry.
+
+#### Odysee
+
+I said yesterday that Odysee's front-end is closed-source, but apparently it *is* [open-source](https://github.com/OdyseeTeam/odysee-frontend). And the mobile apps are, too!
+
+A YouTube / Twitch alternative that goes brrr.
+
+#### [PMG](../../git.md#pmg)
+
+Updated everything, added a Nix flake. Somehow that took 4 hours... Done on a [stream](https://odysee.com/@paveloom-streams:3/pmg-1:b)!
+
 ### Tuesday, 7 {#7}
 
 #### Livestreaming {#7#livestreaming}
@@ -45,7 +85,7 @@ Looked into streaming today. I might actually do it for the sake of the "public 
 
 Also looked into [VTubing](https://en.wikipedia.org/wiki/VTuber), but that seems to be somewhat expensive to run and hard to make pretty, and I don't feel like it's gonna add much (I'm not gonna be speaking, after all).
 
-#### OBS
+#### OBS {#6#obs}
 
 Created a [PR](https://github.com/NixOS/nixpkgs/pull/219872) to [Nixpkgs](https://github.com/NixOS/nixpkgs) for the [Advanced Scene Switcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395) plugin for [OBS](https://obsproject.com). I wanted to check whether it will allow me to automatically switch scenes depending on which window is focused. Alas, you can't do that on Wayland.
 
