@@ -65,6 +65,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 
 ##### Text
 - [Awesome Zig](https://github.com/C-BJ/awesome-zig) ⭐
+- [The Algorithms: Zig](https://github.com/TheAlgorithms/Zig): All algorithms implemented in Zig
 - [2023] [Code study: interface idioms/patterns in zig standard libraries](https://zig.news/yglcode/code-study-interface-idiomspatterns-in-zig-standard-libraries-4lkj) ⭐
 - [2023] [When Zig is safer and faster than Rust](https://zackoverflow.dev/writing/unsafe-rust-vs-zig) ⭐
 - [2022] [Building Zig structs at Compile Time](https://mht.wtf/post/comptime-struct) ⭐
