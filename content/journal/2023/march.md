@@ -1,8 +1,14 @@
 # March 2023
 
+### Thursday, 9 {#9}
+
+#### Livestreaming {#9#livestreaming}
+
+No stream today, busy with important personal matters.
+
 ### Wednesday, 8 {#8}
 
-#### Livestreaming {#7#livestreaming}
+#### Livestreaming {#8#livestreaming}
 
 Some notes after [today's stream](https://odysee.com/@paveloom-streams:3/pmg-1:b):
 
