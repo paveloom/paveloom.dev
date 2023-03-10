@@ -40,6 +40,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 
 ##### Text
 - [Just for Fun. No, Really](https://justforfunnoreally.dev)
+- [2023] [When to comment that code](https://drewdevault.com/2023/03/09/2023-03-09-Comment-or-no-comment.html) ⭐
 - [2022] [Does experience make you a better programmer?](https://austinhenley.com/blog/experienceversusskill.html)
 - [2022] [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
 - [2022] [The Secret Art of Storytelling in Programming](https://semaphoreci.com/blog/storytelling-programming)
