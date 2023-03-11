@@ -17,6 +17,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/NixOS).
 ##### Documentation
 - [NixOS Wiki](https://nixos.wiki) ⭐
 
+##### Books
+- [NixOS in Production](https://leanpub.com/nixos-in-production)
+
 ##### Configuration examples
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) ⭐
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) ⭐
