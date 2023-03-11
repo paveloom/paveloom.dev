@@ -17,6 +17,13 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 
 #### Community
 
+##### Documentation
+- [Ikrima's Gamedev Guide](https://ikrima.dev): ⭐
+    - [Zig Build](https://ikrima.dev/dev-notes/zig/zig-build)
+    - [Zig Crash Course](https://ikrima.dev/dev-notes/zig/zig-crash-course)
+    - [Zig Metaprogramming](https://ikrima.dev/dev-notes/zig/zig-metaprogramming)
+    - [Zig Testing](https://ikrima.dev/dev-notes/zig/zig-test)
+
 ##### Applications
 - [Pixi](https://github.com/foxnne/pixi): Pixel art editor made with Zig
 
@@ -69,6 +76,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2023] [Code study: interface idioms/patterns in zig standard libraries](https://zig.news/yglcode/code-study-interface-idiomspatterns-in-zig-standard-libraries-4lkj) ⭐
 - [2023] [Meet Zig: The modern alternative to C](https://www.infoworld.com/article/3689648/meet-the-zig-programming-language.html) ⭐
 - [2023] [When Zig is safer and faster than Rust](https://zackoverflow.dev/writing/unsafe-rust-vs-zig) ⭐
+- [2022] [A Refresh for Zig Programmers and Dabblers](https://itnext.io/a-refresh-for-zig-programmers-and-dabblers-d33f02c6a362) ⭐
 - [2022] [Building Zig structs at Compile Time](https://mht.wtf/post/comptime-struct) ⭐
 - [2022] [Cool Zig Patterns - Gotta alloc fast](https://zig.news/xq/cool-zig-patterns-gotta-alloc-fast-23h) ⭐
 - [2022] [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
@@ -76,7 +84,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2022] [How (memory) safe is Zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig)
 - [2022] [NuttX RTOS for PinePhone: Render Graphics in Zig](https://lupyuen.github.io/articles/de2)
 - [2022] [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig)
+- [2022] [The Zig and Go Programming Showdown!](https://itnext.io/the-zig-and-go-programming-showdown-2244b261c051) ⭐
+- [2022] [What Makes the Zig Programming Language Unique?](https://itnext.io/what-makes-zig-unique-1b98bfb95701) ⭐
 - [2022] [Zig Is Self-Hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what)
+- [2021] [A Review of the Zig Programming Language (using Advent of Code 2021)](https://www.duskborn.com/posts/2021-aoc-zig)
 - [2021] [An intro to Zig's integer casting for C programmers](https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers)
 - [2021] [Async CPU bound workers in Zig](https://dev.to/stein/async-cpu-bound-workers-in-zig-24b0) ⭐
 - [2021] [C/C++/Zig Series](https://zig.news/kristoff/series/3) ⭐
@@ -87,6 +98,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2021] [Zig Build Explained](https://zig.news/xq/series/2) ⭐
 - [2021] [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome/)
 - [2020] [Assorted thoughts on Zig (and Rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust) ⭐
+- [2020] [Understanding the Zig Programming Language](https://medium.com/swlh/zig-the-introduction-dcd173a86975) ⭐
 - [2020] [What is Zig's “Colorblind” Async/Await?](https://kristoff.it/blog/zig-colorblind-async-await)
 
 ##### Video
