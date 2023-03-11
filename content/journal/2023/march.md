@@ -1,5 +1,11 @@
 # March 2023
 
+### Saturday, 11 {#11}
+
+#### Zig
+
+Turns out you can provide a [custom format function for any user type](https://ziglang.org/documentation/0.10.1/std/#root;fmt.format). I did not know that!
+
 ### Friday, 10 {#10}
 
 #### Divolt
