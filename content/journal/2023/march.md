@@ -1,5 +1,11 @@
 # March 2023
 
+### Sunday, 12 {#12}
+
+#### `tmux`
+
+Started learning [`tmux`](https://github.com/tmux/tmux) today. I wonder if it's better to outsource some functionality of my Neovim config (e.g., tree-like file system manager plugins) to related external programs (e.g., [`xplr`](https://xplr.dev)). I do that with [Lazygit](https://github.com/jesseduffield/lazygit) already. It's especially useful if I'm ever to switch to [Helix](https://helix-editor.com) which doesn't have a plugin system yet.
+
 ### Saturday, 11 {#11}
 
 #### Zig
