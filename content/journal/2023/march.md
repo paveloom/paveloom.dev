@@ -1,5 +1,11 @@
 # March 2023
 
+### Tuesday, 14 {#14}
+
+#### Zigmod {#14#zigmod}
+
+Did a bit more work on the [PR](https://github.com/NixOS/nixpkgs/pull/217229) to Nixpkgs.
+
 ### Sunday, 12 {#12}
 
 #### `tmux`
