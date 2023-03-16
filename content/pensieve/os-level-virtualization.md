@@ -11,3 +11,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/OS-level_virtualization).
 
 #### Tools
 - [Toast](https://github.com/stepchowfun/toast): Containerize your development and continuous integration environments
+
+#### Resources
+- [2020] [The tool that really runs your containers: deep dive into `runc` and OCI specifications](https://mkdev.me/posts/the-tool-that-really-runs-your-containers-deep-dive-into-runc-and-oci-specifications) ⭐
