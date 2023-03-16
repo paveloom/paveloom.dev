@@ -1,5 +1,11 @@
 # March 2023
 
+### Thursday, 16 {#16}
+
+#### OCI
+
+Tried to build an [OCI](https://opencontainers.org) image for my website today using [`ociTools`](https://nixos.org/manual/nixpkgs/stable/#sec-pkgs-ociTools) in [Nixpkgs](https://github.com/NixOS/nixpkgs). Turns out the [`buildContainer`](https://nixos.org/manual/nixpkgs/stable/#ssec-pkgs-ociTools-buildContainer) function actually creates a [filesystem bundle](https://github.com/opencontainers/runtime-spec/blob/main/bundle.md) instead of an image. Tried to use [`runc`](https://github.com/opencontainers/runc) to run a container from the bundle, but found out that the generated config is [incorrect](https://github.com/NixOS/nixpkgs/pull/130061). I fixed the `realatime` typo locally, but got stuck on trying to implement a working config for a [rootless container](https://github.com/opencontainers/runc/blob/main/README.md#rootless-containers). Might pick up the PR later.
+
 ### Tuesday, 14 {#14}
 
 #### Zigmod {#14#zigmod}
