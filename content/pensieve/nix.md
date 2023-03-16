@@ -41,6 +41,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 - [2023] [Connecting Bash to Nix](https://www.zombiezen.com/blog/2023/03/connecting-bash-to-nix) ⭐
 - [2023] [How do Nix builds work?](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-)
 - [2023] [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs) ⭐
+- [2022] [Building containers with Nix and Gitlab CI](https://scvalex.net/posts/68) ⭐
 - [2022] [Nix Flakes: an Introduction](https://xeiaso.net/blog/nix-flakes-1-2022-02-21)
 - [2022] [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition)
 - [2021] [Ditch your version manager](https://juliu.is/ditch-your-version-manager) ⭐
