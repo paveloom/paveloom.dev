@@ -19,15 +19,17 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Icon_(computing)).
 - [Good Stuff No Nonsense](https://goodstuffnononsense.com): Hand Drawn Vector Icons & Elements
 - [GraphicBurger](https://graphicburger.com): A buffet of premium quality design resources offered for free to the community
 - [Iconfinder](https://www.iconfinder.com): The world's greatest resource for high-quality icons and illustrations
+- [Iconify](https://iconify.design): All popular icon sets, one framework. Over 150,000 open source vector icons ⭐
+    - [Icônes](https://icones.js.org): Alternative front-end
 - [iconmonstr](https://iconmonstr.com): Free, monstrously big and continuously growing source of simple icons run by one creator
 - [Icons8](https://icons8.com): Icons, illustrations, photos, music, and design tools ⭐
-- [PNG Repo](https://www.pngrepo.com): Search and find best Free PNG graphics
-- [SVG Repo](https://www.svgrepo.com): Search and find open source SVG graphics fastest way ⭐
-- [The Noun Project](https://thenounproject.com): Icons and Photos For Everything
+- [IconsFlow](https://iconsflow.com): Create dozens of personalized icons for your App, Web, Creative projects & Startups
 - [Iconshock](https://www.iconshock.com): The biggest icon pack
 - [Pixeden](https://www.pixeden.com): Premium Design & Web Resources
-- [IconsFlow](https://iconsflow.com): Create dozens of personalized icons for your App, Web, Creative projects & Startups
+- [PNG Repo](https://www.pngrepo.com): Search and find best Free PNG graphics
 - [Streamline](https://www.streamlinehq.com): The world's largest and most consistent icon and illustration sets
+- [SVG Repo](https://www.svgrepo.com): Search and find open source SVG graphics fastest way ⭐
+- [The Noun Project](https://thenounproject.com): Icons and Photos For Everything
 
 #### Resources
 - [18 Websites To Download The Best Free Icons For Commercial Use](https://www.websiteplanet.com/blog/free-icons-for-commercial-use) ⭐
