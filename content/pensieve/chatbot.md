@@ -6,3 +6,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Chatbot).
 
 #### Examples
 - [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) ⭐
+- [LLaMA](https://en.wikipedia.org/wiki/LLaMA)
+    - [`llama.cpp`](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+        - [`alpaca.cpp`](https://github.com/antimatter15/alpaca.cpp): Locally run an Instruction-Tuned Chat-Style LLM
+
+#### Resources
+
+##### Video
+- [LLaMA — как ChatGPT только лучше](https://www.youtube.com/watch?v=6soofz98PGk) ⭐
