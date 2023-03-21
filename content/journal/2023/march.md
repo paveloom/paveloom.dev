@@ -1,8 +1,28 @@
 # March 2023
 
+### Tuesday, 21 {#21}
+
+#### OCI {#21#oci}
+
+Learned how to use [`umoci`](https://umo.ci). Ditched the [`buildContainer`](https://nixos.org/manual/nixpkgs/stable/#ssec-pkgs-ociTools-buildContainer) function in favor of using `umoci` for building an OCI image from scratch. It simplifies stuff since there is no need for a `config.json` file, you just need to put what you want in your file system in a `rootfs` directory, and then `umoci insert` it.
+
+[`dive`](https://github.com/wagoodman/dive) works fine for OCI images, surprisingly. The last update for it was in 2021.
+
+#### [PMG](../../git.md#pmg)
+
+Did a couple of stylistic changes in the code.
+
+#### [Site](../../git.md#site)
+
+I switched to using an OCI image for CI/CD. The image is built via Nix.
+
+This way the runners don't require Nix anymore to run the build, and the image contains only required packages.
+
+[Woodpecker](https://ci.codeberg.org/paveloom/pages/pipeline/632/3) doesn't see `/bin/sh`, though, for some reason. Image cache, perhaps?
+
 ### Thursday, 16 {#16}
 
-#### OCI
+#### OCI {#16#oci}
 
 Tried to build an [OCI](https://opencontainers.org) image for my website today using [`ociTools`](https://nixos.org/manual/nixpkgs/stable/#sec-pkgs-ociTools) in [Nixpkgs](https://github.com/NixOS/nixpkgs). Turns out the [`buildContainer`](https://nixos.org/manual/nixpkgs/stable/#ssec-pkgs-ociTools-buildContainer) function actually creates a [filesystem bundle](https://github.com/opencontainers/runtime-spec/blob/main/bundle.md) instead of an image. Tried to use [`runc`](https://github.com/opencontainers/runc) to run a container from the bundle, but found out that the generated config is [incorrect](https://github.com/NixOS/nixpkgs/pull/130061). I fixed the `realatime` typo locally, but got stuck on trying to implement a working config for a [rootless container](https://github.com/opencontainers/runc/blob/main/README.md#rootless-containers). Might pick up the PR later.
 
