@@ -7,7 +7,7 @@ clone:
       partial: false
 pipeline:
   build:
-    image: ubuntu:lunar
+    image: paveloom/site
     secrets: [mail, token]
     commands:
       # Build the site

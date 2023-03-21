@@ -1,6 +1,9 @@
 # Direnv
 .direnv
 
+# Nix
+result
+
 # Generated site
 public
 book

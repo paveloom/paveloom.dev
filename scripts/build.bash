@@ -2,28 +2,29 @@
 
 set -e
 
-# A script to install Nix and to build the site
+# A script to build the site
 
-# Expected to be run on an Ubuntu runner
-
-SCRIPTS=$(dirname "${BASH_SOURCE[0]}")
-
-if [ -z "$GITHUB_ACTIONS" ]; then
-    apt-get update
-    apt-get -y install \
-        curl \
-        git \
-        xz-utils
-
-    mkdir /etc/nix
-    mkdir -m 0755 /nix && chown "$USER" /nix
-    echo "build-users-group =" > /etc/nix/nix.conf
+if [ -n "$GITHUB_ACTIONS" ]; then
+    git config --global --add safe.directory /github/workspace
 fi
 
-if ! command -v nix; then
-    sh <(curl -L https://nixos.org/nix/install) --no-daemon
-    mkdir -p ~/.config/nix
-    echo "experimental-features = nix-command flakes" > ~/.config/nix/nix.conf
+# Don't check for a new version
+pdm config check_update false
+
+# Make sure we don't use a virtual environment
+pdm config python.use_venv false
+
+# Install the dependencies
+pdm install
+
+# Add the site URL to the config
+if [ ! ${#} -eq 0 ]; then
+    echo "site_url: ${1}" >> mkdocs.yml
 fi
 
-~/.nix-profile/bin/nix develop -c bash -c "${SCRIPTS}/nix-build.bash $*"
+# Build the site
+pdm mkdocs build
+
+if [ -n "$FLEEK" ]; then
+    cp public/404.html public/ipfs-404.html
+fi

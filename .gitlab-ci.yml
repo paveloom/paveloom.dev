@@ -1,4 +1,4 @@
-image: ubuntu:lunar
+image: paveloom/site
 workflow:
   rules:
     - if: $CI_COMMIT_BRANCH

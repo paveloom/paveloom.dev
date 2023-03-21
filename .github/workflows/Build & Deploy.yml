@@ -9,11 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
       - name: Build the site
-        run: scripts/build.bash https://paveloom.github.io
+        uses: docker://paveloom/site
+        with:
+          args: scripts/build.bash https://paveloom.github.io
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
