@@ -11,10 +11,10 @@
       pkgs = nixpkgs.legacyPackages.${system};
       nativeBuildInputs = with pkgs; [
         bashInteractive
+        cacert
         coreutils
         git
         pdm
-        python311
       ];
       buildImage = {tag}: let
         env = pkgs.buildEnv {
