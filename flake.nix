@@ -11,7 +11,6 @@
       pkgs = nixpkgs.legacyPackages.${system};
       nativeBuildInputs = with pkgs; [
         bashInteractive
-        cacert
         coreutils
         git
         pdm
@@ -38,6 +37,7 @@
             --config.cmd ${pkgs.bashInteractive}/bin/bash \
             --created "1970-01-01T00:00:01Z" --image image:${tag} \
             --config.env "PATH=${(with pkgs; lib.makeBinPath nativeBuildInputs)}" \
+            --config.env "SSL_CERT_FILE=${pkgs.cacert}/etc/ssl/certs/ca-bundle.crt" \
             --image image:${tag}
 
           tar -C image -czf $out .
