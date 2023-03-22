@@ -1,5 +1,23 @@
 # March 2023
 
+### Tuesday, 22 {#22}
+
+#### [PMG](../../git.md#pmg) {#22#pmg}
+
+Started refactoring code to (hopefully) make it simpler. The galactocentric distance is stored in one place now instead of two.
+
+Passing so many arguments around is bothering me (same thing I had with Zig). Unfortunately, Rust doesn't have anonymous structs, so I will probably have to create a general struct with optional fields. Perhaps, simplifying the `Object` struct itself to this state would be possible.
+
+#### [Site](../../git.md#site) {#22#site}
+
+Yeah, Codeberg's Woodpecker instance updates the image cache infrequently. I believe I solved the issue with
+
+```
+fatal: unable to access 'https://codeberg.org/paveloom/pages.git/': OpenSSL/3.0.8: error:16000069:STORE routines::unregistered scheme
+```
+
+by setting the `SSL_CERT_FILE` environment variable to `${pkgs.cacert}/etc/ssl/certs/ca-bundle.crt` in the image. Still can't test it, though!
+
 ### Tuesday, 21 {#21}
 
 #### OCI {#21#oci}
@@ -8,11 +26,11 @@ Learned how to use [`umoci`](https://umo.ci). Ditched the [`buildContainer`](htt
 
 [`dive`](https://github.com/wagoodman/dive) works fine for OCI images, surprisingly. The last update for it was in 2021.
 
-#### [PMG](../../git.md#pmg)
+#### [PMG](../../git.md#pmg) {#21#pmg}
 
 Did a couple of stylistic changes in the code.
 
-#### [Site](../../git.md#site)
+#### [Site](../../git.md#site) {#21#site}
 
 I switched to using an OCI image for CI/CD. The image is built via Nix.
 
@@ -82,7 +100,7 @@ I've been thinking more about the "public accountability" idea. Here's a simple 
 
 The main pro, of course, is that you get things done. You might also get fun along the way if you look into creating a community (not me, ironically, but check out [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)). I was also thinking about it being an analogy to traditional work, except, you know... it's on your terms.
 
-#### OBS {#7#obs}
+#### OBS {#8#obs}
 
 Had problems with adding the [Dropped Frame Alarm](https://obsproject.com/forum/resources/dropped-frame-alarm.675) Lua script for OBS. Looks like Lua's `CPATH` is broken, the correct path to `obslua.so` is appended twice in a single entry.
 
@@ -92,7 +110,7 @@ I said yesterday that Odysee's front-end is closed-source, but apparently it *is
 
 A YouTube / Twitch alternative that goes brrr.
 
-#### [PMG](../../git.md#pmg)
+#### [PMG](../../git.md#pmg) {#8#pmg}
 
 Updated everything, added a Nix flake. Somehow that took 4 hours... Done on a [stream](https://odysee.com/@paveloom-streams:3/pmg-1:b)!
 
