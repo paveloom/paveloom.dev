@@ -9,6 +9,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Git).
 
 #### Community
 
+##### Books
+- [A Hacker's Guide to Git](https://leanpub.com/a-hackers-guide-to-git) ⭐
+- [Pro Git](https://git-scm.com/book) ⭐
+
 ##### Forges
 - [GitHub](https://github.com)
 - [GitLab](https://gitlab.com)
@@ -36,3 +40,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Git).
 - [2022] [What makes Git so hard to use?](https://www.highflux.io/blog/what-makes-git-hard-to-use)
 - [2020] [How to update a pull request from a fork with Git](https://monicalent.com/blog/2020/05/03/update-pull-request-from-fork-git)
 - [2018] [A Plumber’s Guide to Git](https://alexwlchan.net/a-plumbers-guide-to-git) ⭐
+- [2014] [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git) ⭐
