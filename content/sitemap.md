@@ -141,6 +141,7 @@ search:
                     - [Programming idiom](pensieve/programming-idiom.md)
                 - [Software testing](pensieve/software-testing.md)
                     - [Fuzzing](pensieve/fuzzing.md)
+                - [Systems design](pensieve/systems-design.md)
                 - [Version control](pensieve/version-control.md)
                     - [Changelog](pensieve/changelog.md)
                     - [Git](pensieve/git.md)
