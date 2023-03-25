@@ -8,10 +8,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/GNOME).
 - [GNOME](https://www.gnome.org) ⭐
 - [GitLab](https://gitlab.gnome.org)
 
-#### News
+#### Resources
 
 ##### Text
 - [This Week in GNOME](https://thisweek.gnome.org) ⭐
+- [2023] [How to Propose Features to GNOME](https://theevilskeleton.gitlab.io/2023/03/24/how-to-propose-features-to-gnome.html)
 
 ##### Video
-- [baby WOGUE](https://www.youtube.com/c/babyWOGUE)
+- [baby WOGUE](https://www.youtube.com/c/babyWOGUE) ⭐
