@@ -1,5 +1,13 @@
 # March 2023
 
+### Saturday, 25 {#25}
+
+#### Identity
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/223048) to add [Identity](https://gitlab.gnome.org/YaLTeR/identity) to Nixpkgs.
+
+The author of the program has implemented the long-awaited [side-by-side comparison mode](https://thisweek.gnome.org/posts/2023/03/twig-88/#identity), which is very useful. You can zoom in/out and drag the image, too!
+
 ### Tuesday, 22 {#22}
 
 #### [PMG](../../git.md#pmg) {#22#pmg}
