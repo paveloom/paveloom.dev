@@ -20,6 +20,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 - [2007] [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 - [1993] [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
 
+##### Intentional communities
+- [Major League Hacking](https://mlh.io)
+- [Recurse Center](https://en.wikipedia.org/wiki/Recurse_Center) ⭐
+- [The Collab Lab](https://the-collab-lab.codes)
+
 ##### Social networks
 - [GitHub](https://github.com)
 - [Showwcase](https://www.showwcase.com)
@@ -42,5 +47,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 - [Internet Made Coder](https://www.youtube.com/channel/UCcJQ96WlEhJ0Ve0SLmU310Q)
 - [ThePrimeagen](https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw) ⭐
 - [2022] [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity) ⭐
+- [2022] [How I became a software engineer without a CS degree](https://www.youtube.com/watch?v=8CDCv_mtHig) ⭐
 - [2018] [Build impossible programs](https://www.deconstructconf.com/2018/julia-evans-build-impossible-programs) ⭐
 - [2017] [So you want to be a wizard](https://jvns.ca/blog/so-you-want-to-be-a-wizard) ⭐
