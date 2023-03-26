@@ -1,5 +1,13 @@
 # March 2023
 
+### Sunday, 26 {#26}
+
+#### [PMG](../../git.md#pmg) {#26#pmg}
+
+Finished refactoring. Seems like that fixed weird errors I had on the rotation curve. However, there is no easy way to check the correctness (except, well, by going through the math again).
+
+Implemented some requests, too (e.g., outputting more computed values).
+
 ### Saturday, 25 {#25}
 
 #### Identity
