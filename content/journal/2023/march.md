@@ -1,5 +1,13 @@
 # March 2023
 
+### Monday, 27 {#27}
+
+#### [PMG](../../git.md#pmg) {#27#pmg}
+
+Found the culprit of the errors on the rotation curve: the uncertainties related to the distances should have been inherited from parallax's errors only. However, after fixing it, the uncertainties related to the velocities are still mostly bigger than before. Taking into account that operations done by [automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation) are implicit, it's hard to tell whether it's a regression or an improvement.
+
+Finished with the old requests and now ready to work towards improving the fitting algorithm.
+
 ### Sunday, 26 {#26}
 
 #### [PMG](../../git.md#pmg) {#26#pmg}
