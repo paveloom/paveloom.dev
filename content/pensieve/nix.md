@@ -40,6 +40,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 ##### Text
 - [2023] [Connecting Bash to Nix](https://www.zombiezen.com/blog/2023/03/connecting-bash-to-nix) ⭐
 - [2023] [How do Nix builds work?](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-)
+- [2023] [Moving stuff around with Nix](https://determinate.systems/posts/moving-stuff-around-with-nix)
 - [2023] [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs) ⭐
 - [2022] [Building containers with Nix and Gitlab CI](https://scvalex.net/posts/68) ⭐
 - [2022] [Nix Flakes: an Introduction](https://xeiaso.net/blog/nix-flakes-1-2022-02-21)
