@@ -82,6 +82,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2023] Zig Bits:
     - [0x1: Returning slices from functions](https://blog.orhun.dev/zig-bits-01)
     - [0x2: Using `defer` to defeat memory leaks](https://blog.orhun.dev/zig-bits-02)
+- [2023] [Zig Quirks](https://www.openmymind.net/Zig-Quirks) ⭐
 - [2022] [A Refresh for Zig Programmers and Dabblers](https://itnext.io/a-refresh-for-zig-programmers-and-dabblers-d33f02c6a362) ⭐
 - [2022] [Building Zig structs at Compile Time](https://mht.wtf/post/comptime-struct) ⭐
 - [2022] [Cool Zig Patterns - Gotta alloc fast](https://zig.news/xq/cool-zig-patterns-gotta-alloc-fast-23h) ⭐
