@@ -271,7 +271,7 @@ A list of my public Git repositories.
 
 #### `dotfiles` [:simple-codeberg:](https://codeberg.org/paveloom/dotfiles) [:simple-github:](https://github.com/Paveloom/dotfiles) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/dotfiles)
 
-:   Files with dots!
+:   Personal system configuration
 
 #### Exercism [:simple-codeberg:](https://codeberg.org/paveloom/Exercism) [:simple-github:](https://github.com/Paveloom/Exercism) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/Exercism)
 
