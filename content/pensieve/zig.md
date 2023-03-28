@@ -79,6 +79,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2023] [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 - [2023] [When Zig is safer and faster than Rust](https://zackoverflow.dev/writing/unsafe-rust-vs-zig) ⭐
 - [2023] [Writing JSON to a custom output in Zig](https://www.openmymind.net/Writing-Json-To-A-Custom-Output-in-Zig)
+- [2023] [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html) ⭐
 - [2023] Zig Bits:
     - [0x1: Returning slices from functions](https://blog.orhun.dev/zig-bits-01)
     - [0x2: Using `defer` to defeat memory leaks](https://blog.orhun.dev/zig-bits-02)
