@@ -4,7 +4,7 @@ Code of my website. Powered by [MkDocs](https://www.mkdocs.org) and [Material fo
 
 Git mirrors:
 - [Codeberg](https://codeberg.org/paveloom/pages)
-- [GitHub](https://github.com/Paveloom/paveloom.github.io)
+- [GitHub](https://github.com/paveloom/paveloom.github.io)
 - [GitLab](https://gitlab.com/paveloom-g/personal/site)
 
 Website mirrors:

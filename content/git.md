@@ -265,39 +265,39 @@ A list of my public Git repositories.
 
     *`#ffmpeg` `#tex` `#bash`*
 
-## Personal [:simple-codeberg:](https://codeberg.org/Paveloom) [:simple-github:](https://github.com/Paveloom) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal)
+## Personal [:simple-codeberg:](https://codeberg.org/paveloom) [:simple-github:](https://github.com/paveloom) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal)
 
 :   Projects that are very specific to me
 
-#### `dotfiles` [:simple-codeberg:](https://codeberg.org/paveloom/dotfiles) [:simple-github:](https://github.com/Paveloom/dotfiles) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/dotfiles)
+#### `dotfiles` [:simple-codeberg:](https://codeberg.org/paveloom/dotfiles) [:simple-github:](https://github.com/paveloom/dotfiles) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/dotfiles)
 
 :   Personal system configuration
 
-#### Exercism [:simple-codeberg:](https://codeberg.org/paveloom/Exercism) [:simple-github:](https://github.com/Paveloom/Exercism) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/Exercism)
+#### Exercism [:simple-codeberg:](https://codeberg.org/paveloom/Exercism) [:simple-github:](https://github.com/paveloom/Exercism) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/Exercism)
 
 :   Exercism exercises completed by me
 
     *`#rust` <code style="color: var(--md-primary-fg-color)">#unfinished</code>*
 
-#### `old_wiki` [:simple-codeberg:](https://codeberg.org/paveloom/old_wiki) [:simple-github:](https://github.com/Paveloom/old_wiki) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/old_wiki)
+#### `old_wiki` [:simple-codeberg:](https://codeberg.org/paveloom/old_wiki) [:simple-github:](https://github.com/paveloom/old_wiki) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/old_wiki)
 
 :   An old version of Pensieve, powered by Franklin
 
     *`#franklin` `#julia`*
 
-#### OpenSearchDescriptionFiles [:simple-github:](https://github.com/Paveloom/OpenSearchDescriptionFiles)
+#### OpenSearchDescriptionFiles [:simple-github:](https://github.com/paveloom/OpenSearchDescriptionFiles)
 
 :   Custom OpenSearch description files
 
     *`#search-engine` `#opensearch`*
 
-#### Paveloom [:simple-github:](https://github.com/Paveloom/Paveloom)
+#### Paveloom [:simple-github:](https://github.com/paveloom/Paveloom)
 
 :   A *special* repository to manage my GitHub profile's landing page
 
     *`#github-readme`*
 
-#### Site [:simple-codeberg:](https://codeberg.org/paveloom/pages) [:simple-github:](https://github.com/Paveloom/paveloom.github.io) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/site)
+#### Site [:simple-codeberg:](https://codeberg.org/paveloom/pages) [:simple-github:](https://github.com/paveloom/paveloom.github.io) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/site)
 
 :   Personal website
 

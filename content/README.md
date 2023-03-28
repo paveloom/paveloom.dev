@@ -16,7 +16,7 @@ I am always striving to learn new things and improve my skills. You can check ou
 #### Quick links
 
 - [YouTube](https://youtube.com/Paveloom) / [LBRY](https://odysee.com/@paveloom:e)
-- [GitHub](https://github.com/Paveloom) / [GitLab](https://gitlab.com/paveloom) / [Codeberg](https://codeberg.org/paveloom)
+- [GitHub](https://github.com/paveloom) / [GitLab](https://gitlab.com/paveloom) / [Codeberg](https://codeberg.org/paveloom)
 
 #### Contacts
 
