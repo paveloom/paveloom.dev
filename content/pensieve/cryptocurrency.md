@@ -4,11 +4,17 @@ A cryptocurrency, crypto-currency, or crypto is a digital currency designed to w
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Cryptocurrency).
 
-#### Wallets
-- [Unstoppable Wallet](https://unstoppable.money) ⭐
+#### Examples
+- [Ethereum](ethereum.md)
+- [Monero](monero.md)
 
-#### News
+#### Community
+
+##### Exchanges
+- [BestChange](https://www.bestchange.ru) ⭐
+
+##### News
 - [OurNetwork](https://ournetwork.substack.com)
 
-#### Exchanges
-- [BestChange](https://www.bestchange.ru) ⭐
+##### Wallets
+- [Unstoppable Wallet](https://unstoppable.money) ⭐

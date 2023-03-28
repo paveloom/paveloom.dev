@@ -202,6 +202,7 @@ search:
                 - [Currency](pensieve/currency.md)
                     - [Cryptocurrency](pensieve/cryptocurrency.md)
                         - [Ethereum](pensieve/ethereum.md)
+                        - [Monero](pensieve/monero.md)
         - [Psychology](pensieve/psychology.md)
             - [Human intelligence](pensieve/human-intelligence.md)
                 - [Motivation](pensieve/motivation.md)
