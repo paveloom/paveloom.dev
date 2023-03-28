@@ -139,6 +139,8 @@ search:
                         - [Floating-point arithmetic](pensieve/floating-point-arithmetic.md)
                     - [Program optimization](pensieve/program-optimization.md)
                     - [Programming idiom](pensieve/programming-idiom.md)
+                - [Intentional community](pensieve/intentional-community.md)
+                    - [Recurse Center](pensieve/recurse-center.md)
                 - [Software testing](pensieve/software-testing.md)
                     - [Fuzzing](pensieve/fuzzing.md)
                 - [Systems design](pensieve/systems-design.md)

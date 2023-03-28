@@ -20,11 +20,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 - [2007] [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 - [1993] [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
 
-##### Intentional communities
-- [Major League Hacking](https://mlh.io)
-- [Recurse Center](https://en.wikipedia.org/wiki/Recurse_Center) ⭐
-- [The Collab Lab](https://the-collab-lab.codes)
-
 ##### Social networks
 - [GitHub](https://github.com)
 - [Showwcase](https://www.showwcase.com)
