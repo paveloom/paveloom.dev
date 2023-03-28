@@ -137,6 +137,7 @@ search:
                     - Operations
                         - [Bitwise operation](pensieve/bitwise-operation.md)
                         - [Floating-point arithmetic](pensieve/floating-point-arithmetic.md)
+                    - [Pair programming](pensieve/pair-programming.md)
                     - [Program optimization](pensieve/program-optimization.md)
                     - [Programming idiom](pensieve/programming-idiom.md)
                 - [Intentional community](pensieve/intentional-community.md)
