@@ -1,5 +1,55 @@
 # March 2023
 
+### Tuesday, 28 {#28}
+
+#### [PMG](../../git.md#pmg) {#28#pmg}
+
+Made plotting multi-threaded. While I don't have much experience with multi-threading in [Julia](https://julialang.org), spawning [`Task`](https://docs.julialang.org/en/v1/base/parallel/#Core.Task)s turned out to be trivial via the [`@spawn`](https://docs.julialang.org/en/v1/base/multi-threading/#Base.Threads.@spawn) macro. I also learned about [`ReentrantLock`](https://docs.julialang.org/en/v1/base/parallel/#Base.ReentrantLock) and used that to share the standard output between the tasks in a thread-safe manner.
+
+Reduced trait coupling in the [Rust](https://www.rust-lang.org) code. This is a quirk of the trait system that bothers me.
+
+Here's an example:
+
+```rust
+impl<F> Object<F>
+where
+    T: A + B
+{
+    fn a(&mut self) -> Result<()> {
+        // <...>
+    }
+    fn b(&mut self) -> Result<()> {
+        // <...>
+    }
+}
+```
+
+Now everything that uses either of these methods should implement both traits. This scales really badly and leads to weird trait bounds (I had [`SampleUniform`](https://docs.rs/rand/latest/rand/distributions/uniform/trait.SampleUniform.html) being a requirement for using an iterator of a wrapped vector...).
+
+However, you can separate the trait bounds, like so:
+
+```rust
+impl<T> Object<T>
+{
+    fn a(&mut self) -> Result<()>
+    where
+        T: A,
+    {
+        // <...>
+    }
+    fn b(&mut self) -> Result<()>
+    where
+        T: B,
+    {
+        // <...>
+    }
+}
+```
+
+And now the problem is solved by excessive copying/pasting.
+
+Also, if you specify the trait bounds in the declaration of an item, you will have to carry around them everywhere. I found it not being worth it for binary crates.
+
 ### Monday, 27 {#27}
 
 #### [PMG](../../git.md#pmg) {#27#pmg}
