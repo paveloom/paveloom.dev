@@ -1,6 +1,12 @@
 # March 2023
 
-### Tuesday, 28 {#28}
+### Thursday, 30 {#30}
+
+#### `obs-teleport`
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/223953) to add [`obs-teleport`](https://github.com/fzwoch/obs-teleport) to Nixpkgs.
+
+### Wednesday, 29 {#29}
 
 #### [PMG](../../git.md#pmg) {#28#pmg}
 
