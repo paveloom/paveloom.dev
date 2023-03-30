@@ -11,3 +11,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Recurse_Center).
 
 #### Resources
 - [2020] [Recurse](https://vishnubharathi.codes/blog/recurse) ⭐
+- [2020] [Return Statement: reflections on Spring 2'20 and beyond](https://words.serenaperuzzo.com/posts/return-statement)
