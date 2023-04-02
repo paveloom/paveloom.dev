@@ -1,5 +1,15 @@
 # April 2023
 
+### Sunday, 2 {#2}
+
+#### `flatpak-github-actions`
+
+Sometimes you just wonder, does it make sense to resurrect a [5-months old issue](https://github.com/flatpak/flatpak-github-actions/issues/105) which lost all relevance...
+
+#### [PMG](../../git.md#pmg) {#2#pmg}
+
+Finished some requests. One of them required me to drop the functionality of configuring the bounds for the parameters via CLI. I distinctly remember investing some time into bringing it in a while back, and now it's gone (it's not a hard feature, though). I like to think about things like this as "design evolution", even though it's mostly just going back and forth and testing what sticks.
+
 ### Saturday, 1 {#1}
 
 #### Codon
