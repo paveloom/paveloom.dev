@@ -27,10 +27,15 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/NixOS).
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) ⭐
 
 #### Resources
+
+##### Text
 - [NixOS Guide](https://github.com/mikeroyal/NixOS-Guide)
 - [2023] [Quick VMs with NixOS](https://galowicz.de/2023/03/13/quick-vms-with-nixos)
 - [2022] [Getting NixOS to keep a secret](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret) ⭐
 - [2021] [Encrypted Secrets with NixOS](https://xeiaso.net/blog/nixos-encrypted-secrets-2021-01-20)
+
+##### Video
+- [2023] [Immutable OSes for Hacking!](https://www.youtube.com/watch?v=hDJ0OsxWLb8) ⭐
 
 #### See also
 - [Nix](nix.md)
