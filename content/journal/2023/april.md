@@ -1,5 +1,11 @@
 # April 2023
 
+### Monday, 3 {#3}
+
+#### [PMG](../../git.md#pmg) {#3#pmg}
+
+There is now a rotation curve computed based on the fitted parameters (the model is still linear, though). Somehow implementing it took more time than I have expected. Made some design decisions: going to flatten out the data objects, so they represent the output records as close as possible (getting rid of those pesky `Measurement`s). Had a weird thing happening in a Julia script, turned out to be a data race bug (yikes!).
+
 ### Sunday, 2 {#2}
 
 #### `flatpak-github-actions`
