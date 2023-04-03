@@ -13,6 +13,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/GNOME).
 ##### Text
 - [This Week in GNOME](https://thisweek.gnome.org) ⭐
 - [2023] [How to Propose Features to GNOME](https://theevilskeleton.gitlab.io/2023/03/24/how-to-propose-features-to-gnome.html)
+- [2023] [What is GNOME's Philosophy?](https://theevilskeleton.gitlab.io/2023/04/02/what-is-gnomes-philosophy.html)
 
 ##### Video
 - [baby WOGUE](https://www.youtube.com/c/babyWOGUE) ⭐
