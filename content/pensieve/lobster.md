@@ -11,4 +11,9 @@ Lobster is a programming language that tries to combine the advantages of static
 - [Lobster Documentation](https://aardappel.github.io/lobster/README_FIRST.html) ⭐
 
 #### Resources
+
+##### Text
 - [2019] [Memory Management in Lobster](https://aardappel.github.io/lobster/memory_management.html)
+
+##### Video
+- [2023] [The Dream Programming Language? Lobster](https://www.youtube.com/watch?v=uuPeBKdnBOI) ⭐
