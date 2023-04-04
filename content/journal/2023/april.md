@@ -1,5 +1,11 @@
 # April 2023
 
+### Tuesday, 4 {#4}
+
+#### [PMG](../../git.md#pmg) {#3#pmg}
+
+`Params` are now a serializable object, and I'm almost done with making the same for the `Object` type, too. I would like to make [`serde`](https://serde.rs) serialize `Option<T>` as `T` when it's a `Some<T>` variant and skip it if it's a `None` variant. Right now it writes the tag before the value, which is somewhat annoying to parse.
+
 ### Monday, 3 {#3}
 
 #### [PMG](../../git.md#pmg) {#3#pmg}
