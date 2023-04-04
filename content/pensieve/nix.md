@@ -42,6 +42,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 - [2023] [How do Nix builds work?](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-)
 - [2023] [Moving stuff around with Nix](https://determinate.systems/posts/moving-stuff-around-with-nix)
 - [2023] [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs) ⭐
+- [2023] [Stopping evaluation from blocking in Nix](https://jade.fyi/blog/nix-evaluation-blocking)
 - [2022] [Building containers with Nix and Gitlab CI](https://scvalex.net/posts/68) ⭐
 - [2022] [Nix Flakes: an Introduction](https://xeiaso.net/blog/nix-flakes-1-2022-02-21)
 - [2022] [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition)
