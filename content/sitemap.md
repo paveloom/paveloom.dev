@@ -192,6 +192,7 @@ search:
             - [Digital media](pensieve/digital-media.md)
                 - [Digital audio](pensieve/digital-audio.md)
                 - [Digital data](pensieve/digital-data.md)
+                - [Digital image](pensieve/digital-image.md)
                 - [Digital video](pensieve/digital-video.md)
                 - [Livestreaming](pensieve/livestreaming.md)
                     - [VTuber](pensieve/vtuber.md)
