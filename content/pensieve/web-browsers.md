@@ -10,6 +10,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Web_browser).
     - [LibreWolf](https://librewolf.net) ⭐
 - [Google Chrome](https://www.google.com/chrome)
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- [Mullvad Browser](https://mullvad.net/en/browser)
 - [Opera](https://www.opera.com/browsers/opera)
 - [Pale Moon](https://www.palemoon.org)
 - [Polypane](https://polypane.app)
