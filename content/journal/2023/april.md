@@ -1,8 +1,14 @@
 # April 2023
 
+### Wednesday, 5 {#5}
+
+#### [PMG](../../git.md#pmg) {#5#pmg}
+
+Done more requests. Stopped at fixing the fitting procedure: turns out I was optimizing the wrong parameters all along, but since they didn't conflict with the correct ones in the subroutine, the results are still technically correct. There are changes to the formulae, though, so I will have to account to that, too.
+
 ### Tuesday, 4 {#4}
 
-#### [PMG](../../git.md#pmg) {#3#pmg}
+#### [PMG](../../git.md#pmg) {#4#pmg}
 
 `Params` are now a serializable object, and I'm almost done with making the same for the `Object` type, too. I would like to make [`serde`](https://serde.rs) serialize `Option<T>` as `T` when it's a `Some<T>` variant and skip it if it's a `None` variant. Right now it writes the tag before the value, which is somewhat annoying to parse.
 
