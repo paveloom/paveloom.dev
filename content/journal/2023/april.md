@@ -1,5 +1,13 @@
 # April 2023
 
+### Friday, 7 {#7}
+
+#### [PMG](../../git.md#pmg) {#7#pmg}
+
+Fixed the fitting procedure today in accordance with the new description. Found some mistakes in the previous implementation.
+
+Was trying to figure out why the uncertainties in the azimuthal velocity inherited from the uncertainties in the catalog velocities are different from the previous versions of the program. Yep, still a mystery, but seems like the new ones are the correct ones.
+
 ### Thursday, 6 {#6}
 
 #### Recurse Center
