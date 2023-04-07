@@ -1,5 +1,11 @@
 # April 2023
 
+### Thursday, 6 {#6}
+
+#### Recurse Center
+
+Applied to the [Recurse Center](https://www.recurse.com) today. Fingers crossed!
+
 ### Wednesday, 5 {#5}
 
 #### [PMG](../../git.md#pmg) {#5#pmg}
