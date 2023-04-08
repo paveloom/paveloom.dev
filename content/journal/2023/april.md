@@ -1,5 +1,13 @@
 # April 2023
 
+### Saturday, 8 {#8}
+
+#### [PMG](../../git.md#pmg) {#8#pmg}
+
+The discrete rotation curve on the fitted rotation curve plot is now computed against the optimized parameters.
+
+Started changing the algorithm for the inner optimization from [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) to [L-BFGS](https://en.wikipedia.org/wiki/Limited-memory_BFGS). This should hopefully speed things up. Right now I'm doing exactly 100000 iterations for the search of the reduced parallax, which is definitely excessive. There is no guarantee that this a local optimization problem instead of the global one, though.
+
 ### Friday, 7 {#7}
 
 #### [PMG](../../git.md#pmg) {#7#pmg}
