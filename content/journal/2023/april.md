@@ -1,5 +1,54 @@
 # April 2023
 
+### Sunday, 9 {#9}
+
+#### [PMG](../../git.md#pmg) {#8#pmg}
+
+Okay, here's an example of what I'm trying to deal with here:
+
+```rust
+fn compute_l_1<F>(
+    objects: &mut Objects<F>,
+    fit_params: &Params<F>,
+    par_pairs: &mut Vec<(F, F, F)>,
+) -> Result<F>
+where
+    F: Debug
+        + Default
+        + Display
+        + SampleUniform
+        + Sync
+        + Send
+        + ArgminFloat
+        + argmin_math::ArgminMul<std::vec::Vec<F>, std::vec::Vec<F>>
+        + argmin_math::ArgminZeroLike,
+    StandardNormal: Distribution<F>,
+    std::vec::Vec<F>: argmin_math::ArgminL2Norm<F>,
+    std::vec::Vec<F>: argmin_math::ArgminSub<std::vec::Vec<F>, std::vec::Vec<F>>,
+    std::vec::Vec<F>: argmin_math::ArgminAdd<std::vec::Vec<F>, std::vec::Vec<F>>,
+    std::vec::Vec<F>: argmin_math::ArgminSub<F, std::vec::Vec<F>>,
+    std::vec::Vec<F>: argmin_math::ArgminAdd<F, std::vec::Vec<F>>,
+    std::vec::Vec<F>: argmin_math::ArgminMul<F, std::vec::Vec<F>>,
+    std::vec::Vec<F>: argmin_math::ArgminDot<std::vec::Vec<F>, F>,
+    std::vec::Vec<F>: argmin_math::ArgminMul<std::vec::Vec<F>, std::vec::Vec<F>>,
+    std::vec::Vec<F>: argmin_math::ArgminL1Norm<F>,
+    std::vec::Vec<F>: argmin_math::ArgminSignum,
+    std::vec::Vec<F>: argmin_math::ArgminMinMax,
+{
+    // <...>
+}
+```
+
+I mean, are trait bounds really worth it?! And that's just me using [`argmin`](https://argmin-rs.org)'s `Vec` backend. It's a complete nightmare if I switch to the `ndarray` or the `nalgebra` backend.
+
+On a positive side, it takes about 4-5 iterations to find the minimum of the reduced parallax function with L-BFGS. Instead of exactly 100000 with simulated annealing. I checked the function, too: it seems to always have a local minimum near the observed parallax.
+
+#### Recurse Center {#9#recurse-center}
+
+[Implemented](https://github.com/paveloom/mini-database-server-in-zig) the [database server task](https://www.recurse.com/pairing-tasks) in [Zig](https://ziglang.org) for the [Recurse Center](https://www.recurse.com) interview.
+
+Had the conversational interview yesterday. First time speaking to a native English speaker, by the way! Using voice, that is.
+
 ### Saturday, 8 {#8}
 
 #### [PMG](../../git.md#pmg) {#8#pmg}
@@ -18,7 +67,7 @@ Was trying to figure out why the uncertainties in the azimuthal velocity inherit
 
 ### Thursday, 6 {#6}
 
-#### Recurse Center
+#### Recurse Center {#6#recurse-center}
 
 Applied to the [Recurse Center](https://www.recurse.com) today. Fingers crossed!
 
