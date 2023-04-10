@@ -1,8 +1,14 @@
 # April 2023
 
+### Sunday, 10 {#10}
+
+#### [PMG](../../git.md#pmg) {#10#pmg}
+
+[`argmin`](https://argmin-rs.org)'s [L-BFGS](https://docs.rs/argmin/latest/argmin/solver/quasinewton/struct.LBFGS.html) solver with the [More-Thuente line search](https://docs.rs/argmin/latest/argmin/solver/linesearch/struct.MoreThuenteLineSearch.html) failed consistently on later iterations with `Search direction must be a descent direction`. I guess that's because the gradient of the inner target function is getting too small. Kept [my implementation of simulated annealing](https://github.com/paveloom-r/simulated_annealing), but reduced the number of iterations. Seems like it's not that important to have exact values of the reduced parallaxes since both optimizations use different streams of the pseudo-random number generator. Meaning, if a set of parameters is found to be optimal at some iteration, it will be found to be optimal again at the same iteration if reduced parallaxes differ only in mantissa.
+
 ### Sunday, 9 {#9}
 
-#### [PMG](../../git.md#pmg) {#8#pmg}
+#### [PMG](../../git.md#pmg) {#9#pmg}
 
 Okay, here's an example of what I'm trying to deal with here:
 
