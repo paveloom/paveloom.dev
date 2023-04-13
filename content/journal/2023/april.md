@@ -1,6 +1,12 @@
 # April 2023
 
-### Sunday, 11 {#11}
+### Thursday, 13 {#13}
+
+#### [`simulated_annealing`](../../git.md#simulated_annealing) {#13#simulated-annealing}
+
+A small update to the library I've written as part of a university course: you can now use closures for all the custom functions.
+
+### Tuesday, 11 {#11}
 
 #### [PMG](../../git.md#pmg) {#11#pmg}
 
@@ -8,7 +14,7 @@ Almost done with implementing an algorithm for computing the confidence interval
 
 Also, found out that I need to capture outside world in the closures passed to my implementation of the simulated annealing algorithm, so I went and patched that (the commit is almost done).
 
-### Sunday, 10 {#10}
+### Monday, 10 {#10}
 
 #### [PMG](../../git.md#pmg) {#10#pmg}
 
