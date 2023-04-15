@@ -1,5 +1,27 @@
 # April 2023
 
+### Saturday, 15 {#15}
+
+#### Codon {#15#codon}
+
+I've created a [PR](https://github.com/NixOS/nixpkgs/pull/226125) to update [Codon](https://docs.exaloop.io/codon) in [Nixpkgs](https://github.com/NixOS/nixpkgs) yesterday. A user reported that Codon's dependencies have a different hash on Darwin systems. So, to test that, I've installed [macOS Catalina](https://en.wikipedia.org/wiki/MacOS_Catalina) in a virtual machine ([QEMU](https://en.wikipedia.org/wiki/QEMU), accelerated by [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine)).
+
+I first tried the scripts in the [`kholia/OSX-KVM`](https://github.com/kholia/OSX-KVM) repository. Tip: replace `-device virtio-net-pci` with `-device e1000-82545em` in the `OpenCore-Boot.sh` script if you have [`virt-manager`](https://virt-manager.org) installed and its network interface (`virbr0`) is started. In my case, though, the virtual machine just failed to start the installation process after downloading the installation files (which took a while!).
+
+I then tried the scripts from the [`foxlet/macOS-Simple-KVM`](https://github.com/foxlet/macOS-Simple-KVM) repository, and after a bit of tweaking they worked fine (the scripts are similar, really). The installation worked as expected, and I got a working Apple system. There is no guest support, though, so no clipboard integration (I used [Pastebin](https://pastebin.com) instead), and I had to tweak the resolution by modifying a file in the EFI partition.
+
+Anyhow, it works, and I compiled a fork of [LLVM](https://llvm.org) (which is required for Codon) on a Darwin system.
+
+#### [PMG](../../git.md#pmg) {#15#pmg}
+
+Added a stab at computing the confidence intervals of the fitted parameters. However, it's broken right now, because I had to lower the number of iterations for the simulated annealing.
+
+Turns out the outer optimization problem is also a local one, so I will be switching to local optimization methods. This should simplify the whole procedure. However, it also means that I will have to deal with making generics and [`argmin`](https://www.argmin-rs.org) work nicely (again!).
+
+#### Recurse Center {#15#recurse-center}
+
+Had a pair programming interview yesterday, got a rejection today. Oh well!
+
 ### Thursday, 13 {#13}
 
 #### [`simulated_annealing`](../../git.md#simulated_annealing) {#13#simulated-annealing}
@@ -121,7 +143,7 @@ Finished some requests. One of them required me to drop the functionality of con
 
 ### Saturday, 1 {#1}
 
-#### Codon
+#### Codon {#1#codon}
 
 Created a [pull request](https://github.com/NixOS/nixpkgs/pull/224257) to add [Codon](https://docs.exaloop.io/codon) to Nixpkgs.
 
