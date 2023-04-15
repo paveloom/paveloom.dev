@@ -38,6 +38,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 #### Resources
 
 ##### Text
+- [2023] [Building 15-year-old software with Nix](https://blinry.org/nix-time-travel)
 - [2023] [Connecting Bash to Nix](https://www.zombiezen.com/blog/2023/03/connecting-bash-to-nix) ⭐
 - [2023] [How do Nix builds work?](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-)
 - [2023] [Moving stuff around with Nix](https://determinate.systems/posts/moving-stuff-around-with-nix)
