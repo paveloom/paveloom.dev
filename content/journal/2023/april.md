@@ -1,5 +1,13 @@
 # April 2023
 
+### Sunday, 16 {#16}
+
+#### [PMG](../../git.md#pmg) {#16#pmg}
+
+Switched to local methods for both optimizations. This took quite a bit of trial and error, but now I'm using [L-BFGS](https://docs.rs/argmin/0.8.1/argmin/solver/quasinewton/struct.LBFGS.html) with the [More-Thuente line search](https://docs.rs/argmin/0.8.1/argmin/solver/linesearch/struct.MoreThuenteLineSearch.html) for the outer optimization and [Golden-section search](https://docs.rs/argmin/0.8.1/argmin/solver/goldensectionsearch/struct.GoldenSectionSearch.html) for the inner optimization.
+
+Also, found out that floating-point arithmetic operations are not associative. Since I'm using parallel fold and reduce operations in the outer optimization, this actually affects the result, compared to a sequential fold. Will try to fix this tomorrow.
+
 ### Saturday, 15 {#15}
 
 #### Codon {#15#codon}
