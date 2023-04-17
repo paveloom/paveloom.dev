@@ -1,5 +1,13 @@
 # April 2023
 
+### Monday, 17 {#17}
+
+#### [PMG](../../git.md#pmg) {#17#pmg}
+
+Implemented a couple of requests. Fitting is seemingly correct now, but the procedure is somewhat unstable. Had to fiddle with the cost function tolerances to make it work for the current samples.
+
+Almost done with reintroducing computation of the confidence intervals: the bracketing requirement of the [Brent method](https://docs.rs/argmin/0.8.1/argmin/solver/brent/struct.BrentOpt.html) is giving me a hard time.
+
 ### Sunday, 16 {#16}
 
 #### [PMG](../../git.md#pmg) {#16#pmg}
