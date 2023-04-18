@@ -96,7 +96,7 @@ search:
             - [Cryptography](pensieve/cryptography.md)
                 - [Hash function](pensieve/hash-function.md)
                 - [Key derivation function](pensieve/key-derivation-function.md)
-            - [Hardening](pensieve/hardening.md)
+            - [Sandbox](pensieve/sandbox.md)
         - [Hardware](pensieve/hardware.md)
             - [Computer keyboard](pensieve/computer-keyboard.md)
                 - [Planck EZ](pensieve/planck-ez.md)

@@ -6,3 +6,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_security).
 
 #### Books
 - [Hacking: The Art of Exploitation, 2nd Edition](https://nostarch.com/hacking2.htm) ⭐
+
+#### Resources
+- [ArchWiki: Security](https://wiki.archlinux.org/title/Security) ⭐
