@@ -1,5 +1,13 @@
 # April 2023
 
+### Wednesday, 19 {#19}
+
+#### [PMG](../../git.md#pmg) {#19#pmg}
+
+Added a log for the confidence intervals. Changed the Armijo condition's parameter to `1-e4` and the [Backtracking line search](https://en.wikipedia.org/wiki/Backtracking_line_search)'s parameter to `0.5`, as recommended in [this article](https://medium.com/practical-coding/line-search-methods-in-optimization-dee49c1dec0c). This changed the results again (as I said before, the routine is *really* finicky), but made the confidence intervals slightly more reasonable.
+
+I also thought about adding options alongside the `Goal` enum, so a user can opt in to some time-consuming computations (like computing confidence intervals and profiles). Will work on the profiles tomorrow.
+
 ### Tuesday, 18 {#18}
 
 #### [PMG](../../git.md#pmg) {#18#pmg}
