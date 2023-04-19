@@ -1,5 +1,11 @@
 # April 2023
 
+### Tuesday, 18 {#18}
+
+#### [PMG](../../git.md#pmg) {#18#pmg}
+
+Reintroduced the computation of confidence intervals. Although, the convergence is weird, and debugging it is annoying.
+
 ### Monday, 17 {#17}
 
 #### [PMG](../../git.md#pmg) {#17#pmg}
