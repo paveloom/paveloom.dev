@@ -1,5 +1,19 @@
 # April 2023
 
+### Thursday, 20 {#20}
+
+#### KeePassXC
+
+Switched from [Secrets](https://gitlab.gnome.org/World/secrets) back to [KeePassXC](https://keepassxc.org), mostly for the hidden attributes feature.
+
+#### Mullvad Browser
+
+Tried [Mullvad Browser](https://mullvad.net/en/browser) today. While tweaking it for my liking, decided to stick with [Librewolf](https://librewolf.net), since it's more up to date and somehow [more private](https://privacytests.org). I'm ignoring some recommendations to avoid fingerprinting anyway (e.g., letterboxing), so I guess it checks out.
+
+#### [PMG](../../git.md#pmg) {#20#pmg}
+
+Did a couple of small errands today, stopped at moving all results in one directory (fixing Julia scripts so that they don't assume the output directory anymore). Also, finally using [`direnv`](https://github.com/direnv/direnv) for its main purpose -- setting up environment variables.
+
 ### Wednesday, 19 {#19}
 
 #### [PMG](../../git.md#pmg) {#19#pmg}
