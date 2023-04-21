@@ -7,3 +7,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Sandbox_(computer_securit
 #### Implementations
 - [AppArmor](https://en.wikipedia.org/wiki/AppArmor)
 - [Firejail](https://firejail.wordpress.com) ⭐
+
+#### Resources
+- [2022] [How to debug a firejail sandbox](https://debugging.works/blog/debugging-firejail)
