@@ -1,5 +1,11 @@
 # April 2023
 
+### Friday, 21 {#21}
+
+#### [PMG](../../git.md#pmg) {#21#pmg}
+
+Finished with the errands, wrote code for computing the profiles. Hopefully, this will help find those pesky local minimums.
+
 ### Thursday, 20 {#20}
 
 #### KeePassXC
