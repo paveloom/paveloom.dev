@@ -1,5 +1,15 @@
 # April 2023
 
+### Saturday, 22 {#22}
+
+#### Firejail
+
+I was able to create a custom desktop file for Firefox via [`home-manager`](https://nix-community.github.io/home-manager)'s [`xdg.desktopEntries`](https://nix-community.github.io/home-manager/options.html#opt-xdg.desktopEntries) option, wrapping the binary with [Firejail](https://firejail.wordpress.com). I discovered that Firejail doesn't really hide Nix store (which contains everything runnable on the system), and there are other holes all around. I was using Flatpak for sandboxing applications before I switched to [NixOS](https://nixos.org), and now it seems like it is still the only reasonable solution.
+
+#### [PMG](../../git.md#pmg) {#22#pmg}
+
+Added an option to compute profiles. It's enabled for the near solar circle sample, and those profiles are... definitely not parabolas. Will have to investigate this, but so far it doesn't seem like there is a local minimum for the most parameters...
+
 ### Friday, 21 {#21}
 
 #### [PMG](../../git.md#pmg) {#21#pmg}
