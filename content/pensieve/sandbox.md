@@ -4,9 +4,10 @@ In computer security, a sandbox is a security mechanism for separating running p
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Sandbox_(computer_security)).
 
-#### Implementations
+#### Solutions
 - [AppArmor](https://en.wikipedia.org/wiki/AppArmor)
-- [Firejail](https://firejail.wordpress.com) ⭐
+- [Firejail](https://firejail.wordpress.com)
+- [Flatpak](https://en.wikipedia.org/wiki/Flatpak) ⭐
 
 #### Resources
 - [2022] [How to debug a firejail sandbox](https://debugging.works/blog/debugging-firejail)
