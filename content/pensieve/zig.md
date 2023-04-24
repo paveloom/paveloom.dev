@@ -78,6 +78,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2023] [Data driven polymorphism](https://zig.news/rutenkolk/data-driven-polymorphism-45bk)
 - [2023] [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
 - [2023] [Meet Zig: The modern alternative to C](https://www.infoworld.com/article/3689648/meet-the-zig-programming-language.html) ⭐
+- [2023] [Regular Expressions in Zig](https://www.openmymind.net/Regular-Expressions-in-Zig)
 - [2023] [Sneaky Error Payloads](https://zig.news/ityonemo/sneaky-error-payloads-1aka)
 - [2023] [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 - [2023] [When should I use an UNTAGGED union?](https://zig.news/kristoff/when-should-i-use-an-untagged-union-56ek)
