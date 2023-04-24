@@ -2,7 +2,7 @@
 
 I recommend using the official Flatpak package. Install it from [Flathub](https://flathub.org/apps/details/com.spotify.Client), launch it and login into your account. This will create session files which we will need later. After that, close the application.
 
-Install [`spicetify-cli`](https://github.com/khanhas/spicetify-cli) by grabbing [an archive of a release](https://github.com/khanhas/spicetify-cli/releases). Unpack it and add the binary's directory to your `PATH`.
+Install [`spicetify-cli`](https://github.com/khanhas/spicetify-cli).
 
 Add permissions to change the Spotify's files:
 
@@ -15,9 +15,10 @@ sudo chmod a+wr ${SPOTIFY_PATH}/current/active/files/extra/share/spotify/Apps -R
 [Here](https://github.com/Daksh777/SpotifyNoPremium)'s a theme we can use, thanks to [@Daksh777](https://github.com/Daksh777). Clone the repository to the `Themes` directory and copy the AdBlock extension to the `Extensions` directory:
 
 ```bash
-cd "$(dirname "$(spicetify -c)")/Themes"
+CONFIG_PATH=$(dirname "$(spicetify -c)")
+cd "${CONFIG_PATH}/Themes"
 git clone https://github.com/Daksh777/SpotifyNoPremium
-cp "$(dirname "$(spicetify -c)")/Themes/SpotifyNoPremium/adblock.js" "$(dirname "$(spicetify -c)")/Extensions"
+cp "${CONFIG_PATH}/Themes/SpotifyNoPremium/adblock.js" "${CONFIG_PATH}/Extensions"
 ```
 
 Now, set the Spotify client's location in the Spicetify's config. Go to `~/.config/spicetify/config-xpui.ini` and edit the following lines:
@@ -41,7 +42,7 @@ spicetify config extensions adblock.js
 
 Now backup the installation and apply the theme:
 
-```
+```bash
 spicetify backup apply
 ```
 
