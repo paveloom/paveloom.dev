@@ -1,5 +1,15 @@
 # April 2023
 
+### Monday, 24 {#24}
+
+#### Flatpak
+
+Switched to [Flatpak](https://www.flatpak.org) apps where possible on my [NixOS](https://nixos.org) machine.
+
+#### [PMG](../../git.md#pmg) {#24#pmg}
+
+Started implementing support for varying the degree of the polynomial of the rotation curve (and then choosing the best fit via minimal cost). Gotta slice and dice these pesky vectors.
+
 ### Saturday, 22 {#22}
 
 #### Firejail
