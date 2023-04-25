@@ -1,5 +1,13 @@
 # April 2023
 
+### Tuesday, 25 {#25}
+
+#### [PMG](../../git.md#pmg) {#25#pmg}
+
+The model is now being fitted for the degrees of the polynomial of the rotation curve from 1 to 10.
+
+The profiles are sawtoothed, will be investigating this next.
+
 ### Monday, 24 {#24}
 
 #### Flatpak
