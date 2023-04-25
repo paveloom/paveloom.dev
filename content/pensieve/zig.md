@@ -76,6 +76,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [Zig Vs C - Minimal HTTP server](https://richiejp.com/zig-vs-c-mini-http-server) ⭐
 - [2023] [Code study: interface idioms/patterns in zig standard libraries](https://zig.news/yglcode/code-study-interface-idiomspatterns-in-zig-standard-libraries-4lkj) ⭐
 - [2023] [Data driven polymorphism](https://zig.news/rutenkolk/data-driven-polymorphism-45bk)
+- [2023] [DNNs from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 - [2023] [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
 - [2023] [Meet Zig: The modern alternative to C](https://www.infoworld.com/article/3689648/meet-the-zig-programming-language.html) ⭐
 - [2023] [Regular Expressions in Zig](https://www.openmymind.net/Regular-Expressions-in-Zig)
