@@ -24,6 +24,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language)
 - [`gopkg`](https://github.com/bytedance/gopkg): Universal Utilities for Go
 
 #### Resources
+- [go-profiler-notes](https://github.com/DataDog/go-profiler-notes)
 - [2023] [Profiling Go Programs](https://benchkram.de/blog/dev/profiling-go-programs)
 - [2023] [The Smallest Go Binary (5KB)](https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb)
 - [2022] [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting)
