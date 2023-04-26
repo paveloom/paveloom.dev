@@ -1,5 +1,13 @@
 # April 2023
 
+### Wednesday, 26 {#26}
+
+#### [PMG](../../git.md#pmg) {#26#pmg}
+
+Added support for plotting frozen profiles. Applied small fixes here and there.
+
+Still struggling with the profiles being wonky.
+
 ### Tuesday, 25 {#25}
 
 #### [PMG](../../git.md#pmg) {#25#pmg}
