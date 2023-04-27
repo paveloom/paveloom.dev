@@ -1,5 +1,11 @@
 # April 2023
 
+### Thursday, 27 {#27}
+
+#### [PMG](../../git.md#pmg) {#27#pmg}
+
+Okay, so the issue with the sawtoothed profiles is because of the inner optimization. It looks like occasionally the sum there gets an extra constant term. I was able to tune the parameters, so the profiles are (mostly) smooth for the first-order model, but they're still choppy for the 5th- (and higher) order models. No idea where this extra term comes from, considering the reduced parallaxes are supposed to be in the local minimum vicinity.
+
 ### Wednesday, 26 {#26}
 
 #### [PMG](../../git.md#pmg) {#26#pmg}
