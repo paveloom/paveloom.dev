@@ -1,5 +1,16 @@
 # April 2023
 
+### Thursday, 28 {#28}
+
+#### [PMG](../../git.md#pmg) {#28#pmg}
+
+I solved it. Well, almost. The sawtoothed profiles were happening because of the inner optimization suddenly converging to a different reduced parallax, thus increasing the outer sum (via discrepancies) and creating sort of a step on the frozen profile. I've found two ways to bypass this:
+
+1. Simply increase the precision of the inner optimization method
+2. Mark objects with high discrepancies as blacklisted
+
+I've developed an algorithm for the latter point: we find the objects with high discrepancies by traversing the vicinity of the minimum (via frozen profiles). It seems to mostly work now.
+
 ### Thursday, 27 {#27}
 
 #### [PMG](../../git.md#pmg) {#27#pmg}
