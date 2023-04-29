@@ -1,5 +1,11 @@
 # April 2023
 
+### Thursday, 29 {#29}
+
+#### [PMG](../../git.md#pmg) {#29#pmg}
+
+Tried to tune the optimization process more today, but failed. Plotted the parallax vicinities, and those most often are not smooth parabolas. Yikes.
+
 ### Thursday, 28 {#28}
 
 #### [PMG](../../git.md#pmg) {#28#pmg}
