@@ -1,12 +1,18 @@
 # April 2023
 
-### Thursday, 29 {#29}
+### Sunday, 30 {#30}
+
+#### [PMG](../../git.md#pmg) {#30#pmg}
+
+Implemented an algorithm for blacklisting objects that don't have a smooth vicinity near the reduced parallaxes. Tried combining it with the frozen profiles blacklisting mechanism, but it still doesn't quite work as expected.
+
+### Saturday, 29 {#29}
 
 #### [PMG](../../git.md#pmg) {#29#pmg}
 
 Tried to tune the optimization process more today, but failed. Plotted the parallax vicinities, and those most often are not smooth parabolas. Yikes.
 
-### Thursday, 28 {#28}
+### Friday, 28 {#28}
 
 #### [PMG](../../git.md#pmg) {#28#pmg}
 
