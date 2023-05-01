@@ -18,3 +18,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Fuzzing).
 
 #### Resources
 - [`google/fuzzing`](https://github.com/google/fuzzing/tree/master/docs)
+- [2019] [The Day I Fell in Love with Fuzzing](https://nullprogram.com/blog/2019/01/25)
