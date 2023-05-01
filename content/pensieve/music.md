@@ -21,3 +21,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Music).
 
 #### See also
 - [Digital distribution: Music](digital-distribution.md#music)
+
+#### Resources
+- [Awesome Music Theory](https://github.com/vpavlenko/study-music) ⭐
