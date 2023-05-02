@@ -1,5 +1,11 @@
 # May 2023
 
+### Tuesday, 2 {#2}
+
+#### [PMG](../../git.md#pmg) {#2#pmg}
+
+Added an option to output extra information about the blacklisted objects. It's their (X, Y) distribution, discrepancies, and inner profiles.
+
 ### Monday, 1 {#1}
 
 #### [PMG](../../git.md#pmg) {#1#pmg}
