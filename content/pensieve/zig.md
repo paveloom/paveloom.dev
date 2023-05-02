@@ -124,9 +124,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2023] [3 things you might like about Zig](https://www.youtube.com/watch?v=3DxjZmLBizI)
 - [2023] [Intro to the Zig Programming Language](https://www.youtube.com/watch?v=YXrb-DqsBNU)
 - [2023] [Using Zig to write native extension modules for Python](https://www.youtube.com/watch?v=AKhqFOdjUfg) ⭐
+- [2023] [Zig feedback: real-life example with LibIPC](https://www.youtube.com/watch?v=GZyRHyuHvpk) ⭐
 - [2022] [Gettin' Ziggy Wit It - Why I am convinced Zig is the C successor we've been waiting for](https://www.youtube.com/watch?v=kCmOfRcmkN0)
 - [2022] [Zig Roadmap 2023](https://www.youtube.com/watch?v=AqDdWEiSwMM)
 - [2021] [Taking the warts off C, with Andrew Kelley, creator of the Zig Software Foundation](https://www.youtube.com/watch?v=gn3YsZ6HUHw) ⭐
+- [2021] [Zig language: a WAY better C!](https://www.youtube.com/watch?v=J6ZxxnSp_fY) ⭐
 - [2020] [Interview with Zig language creator Andrew Kelley](https://www.youtube.com/watch?v=ZvskDoP09Ao)
 - [2019] [The Road to Zig 1.0 - Andrew Kelley](https://www.youtube.com/watch?v=Gv2I7qTux7g)
 - [2018] [Zig: A programming language designed for robustness, optimality, and clarity](https://www.youtube.com/watch?v=Z4oYSByyRak) ⭐
