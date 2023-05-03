@@ -74,6 +74,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [Awesome Zig](https://github.com/C-BJ/awesome-zig) ⭐
 - [The Algorithms: Zig](https://github.com/TheAlgorithms/Zig): All algorithms implemented in Zig
 - [Zig Vs C - Minimal HTTP server](https://richiejp.com/zig-vs-c-mini-http-server) ⭐
+- [2023] [Anytype Antics](https://zig.news/perky/anytype-antics-2398)
 - [2023] [Code study: interface idioms/patterns in zig standard libraries](https://zig.news/yglcode/code-study-interface-idiomspatterns-in-zig-standard-libraries-4lkj) ⭐
 - [2023] [Data driven polymorphism](https://zig.news/rutenkolk/data-driven-polymorphism-45bk)
 - [2023] [DNNs from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
