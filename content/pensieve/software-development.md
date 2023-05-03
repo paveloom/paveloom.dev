@@ -32,6 +32,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Software_development).
 ##### Text
 - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) ⭐
 - [Technology Radar](https://www.thoughtworks.com/radar) ⭐
+- [2023] [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates) ⭐
 - [2023] [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you) ⭐
 - [2022] [Software Development is very subjective](https://vadimkravcenko.com/shorts/software-development-subjective)
 - [2021] [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer) ⭐
