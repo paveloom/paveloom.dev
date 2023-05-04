@@ -1,5 +1,11 @@
 # May 2023
 
+### Thursday, 4 {#4}
+
+#### [PMG](../../git.md#pmg) {#4#pmg}
+
+Started reimplementing the optimization process to make it possible to go through all degrees of the polynomial of the rotation curve via the same sample (by sharing the blacklist). This will allow us to define which degree is the best.
+
 ### Tuesday, 2 {#2}
 
 #### [PMG](../../git.md#pmg) {#2#pmg}
