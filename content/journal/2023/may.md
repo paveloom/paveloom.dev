@@ -1,5 +1,11 @@
 # May 2023
 
+### Thursday, 5 {#5}
+
+#### [PMG](../../git.md#pmg) {#5#pmg}
+
+Okay, I was able to make the inner optimization mostly work by switching to subintervals and finding the global minimum in the interval that way. The interval is now expanded from ±3 to ±6 to ±9 sigmas as necessary.
+
 ### Thursday, 4 {#4}
 
 #### [PMG](../../git.md#pmg) {#4#pmg}
