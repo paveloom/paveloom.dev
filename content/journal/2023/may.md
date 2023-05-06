@@ -1,6 +1,12 @@
 # May 2023
 
-### Thursday, 5 {#5}
+### Saturday, 6 {#6}
+
+#### [PMG](../../git.md#pmg) {#6#pmg}
+
+Finished with other errands. Computing the errors for all models. This takes forever...
+
+### Friday, 5 {#5}
 
 #### [PMG](../../git.md#pmg) {#5#pmg}
 
