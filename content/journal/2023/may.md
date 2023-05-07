@@ -1,5 +1,11 @@
 # May 2023
 
+### Sunday, 7 {#7}
+
+#### [PMG](../../git.md#pmg) {#7#pmg}
+
+Okay, computing errors works now for all models. Many don't converge well, though, but it's fine.
+
 ### Saturday, 6 {#6}
 
 #### [PMG](../../git.md#pmg) {#6#pmg}
