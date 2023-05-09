@@ -30,6 +30,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/NixOS).
 
 ##### Text
 - [NixOS Guide](https://github.com/mikeroyal/NixOS-Guide)
+- [2023] [NixOS: A personal post-mortem](https://nathan-kim.org/writing/nixos-post-mortem) ⭐
 - [2023] [Quick VMs with NixOS](https://galowicz.de/2023/03/13/quick-vms-with-nixos)
 - [2022] [Getting NixOS to keep a secret](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret) ⭐
 - [2021] [Encrypted Secrets with NixOS](https://xeiaso.net/blog/nixos-encrypted-secrets-2021-01-20)
