@@ -5,6 +5,7 @@ C (pronounced like the letter c) is a general-purpose computer programming langu
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)).
 
 #### Books
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc)
 - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) ⭐
 
 #### Resources
