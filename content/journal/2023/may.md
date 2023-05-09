@@ -1,5 +1,13 @@
 # May 2023
 
+### Tuesday, 9 {#9}
+
+#### [PMG](../../git.md#pmg) {#9#pmg}
+
+Still writing an introduction...
+
+I've learned how to create bibliographies today in XeTeX. Basically, I've set up a combination of [Zotero](https://www.zotero.org) (with their browser add-on) and [Better BibTeX](https://retorque.re/zotero-better-bibtex) for automatic generation of `.bib` files, and a combination of [`tectonic`](https://tectonic-typesetting.github.io), [`biber`](https://github.com/plk/biber) and [`biblatex`](https://sourceforge.net/projects/biblatex) for typesetting.
+
 ### Monday, 8 {#8}
 
 #### [PMG](../../git.md#pmg) {#8#pmg}
