@@ -1,5 +1,11 @@
 # May 2023
 
+### Wednesday, 10 {#10}
+
+#### [PMG](../../git.md#pmg) {#10#pmg}
+
+Finished with the introduction, started writing the theoretical part of the diploma.
+
 ### Tuesday, 9 {#9}
 
 #### [PMG](../../git.md#pmg) {#9#pmg}
