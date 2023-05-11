@@ -1,5 +1,13 @@
 # May 2023
 
+### Thursday, 11 {#11}
+
+#### [PMG](../../git.md#pmg) {#11#pmg}
+
+Made the HMSFRs sample more uniform by adding an extra error term to the non-from-Reid objects. The `best_n` for HMSFRs is found to be 3, and the profiles and relative errors are adequate now.
+
+Started making the outliers routine more intricate.
+
 ### Wednesday, 10 {#10}
 
 #### [PMG](../../git.md#pmg) {#10#pmg}
