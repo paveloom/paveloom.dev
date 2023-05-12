@@ -1,5 +1,13 @@
 # May 2023
 
+### Friday, 12 {#12}
+
+#### [PMG](../../git.md#pmg) {#12#pmg}
+
+Outliers are now searched with L' = 3 first, then with L' = 1. This is (hopefully) a final touch, and the realization of the method of parametric modelling of the Galaxy is now complete.
+
+Was also writing the theoretical part of the diploma. That's definitely taking a while...
+
 ### Thursday, 11 {#11}
 
 #### [PMG](../../git.md#pmg) {#11#pmg}
