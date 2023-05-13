@@ -1,5 +1,13 @@
 # May 2023
 
+### Saturday, 13 {#13}
+
+#### [PMG](../../git.md#pmg) {#13#pmg}
+
+Added a four-dimensional method (next to the one-dimensional one) for checking for outliers. Okay, I hope *this* is the last change to the algorithm.
+
+Wrote most of the theory in the diploma. Thinking about writing about more practical bits of the algorithm next, separate from the theory.
+
 ### Friday, 12 {#12}
 
 #### [PMG](../../git.md#pmg) {#12#pmg}
