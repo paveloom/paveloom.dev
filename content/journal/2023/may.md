@@ -1,5 +1,11 @@
 # May 2023
 
+### Sunday, 14 {#14}
+
+#### [PMG](../../git.md#pmg) {#14#pmg}
+
+Wrote about the algorithm in the diploma.
+
 ### Saturday, 13 {#13}
 
 #### [PMG](../../git.md#pmg) {#13#pmg}
