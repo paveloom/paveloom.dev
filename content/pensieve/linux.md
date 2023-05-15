@@ -4,8 +4,16 @@ Linux is a family of open-source Unix-like operating systems based on the Linux 
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Linux)
 
-#### Sites
+#### Official
+
+##### Sites
 - [Kernel](https://www.kernel.org) ⭐
 
-#### Documentation
+##### Documentation
 - [The Linux man-pages project](https://www.kernel.org/doc/man-pages) ⭐
+
+#### Community
+
+##### Books
+- [A Heavily Commented Linux kernel Source Code](http://oldlinux.org) ⭐
+- [Understanding the Linux Kernel](https://www.oreilly.com/library/view/understanding-the-linux/0596005652) ⭐
