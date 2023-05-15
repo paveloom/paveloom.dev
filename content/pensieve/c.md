@@ -8,6 +8,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc)
 - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) ⭐
 
+#### Community
+
+##### Coding conventions
+- [Malcolm Inglis's favorite C programming practices](https://github.com/mcinglis/c-style) ⭐
+
 #### Resources
 - [2023] [Driving Compilers](https://fabiensanglard.net/dc/index.php) ⭐
 - [2023] [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29) ⭐
