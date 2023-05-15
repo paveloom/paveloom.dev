@@ -1,5 +1,11 @@
 # May 2023
 
+### Monday, 15 {#15}
+
+#### [PMG](../../git.md#pmg) {#15#pmg}
+
+Wrote about the samples today. Started writing about the inner target function not being smooth. This required me to write some extra code to compute and plot the inner profiles, and to find the objects with more than one local minima on these profiles and to plot their (X, Y) distribution. The latter is almost done, and hopefully it will show what I think it should.
+
 ### Sunday, 14 {#14}
 
 #### [PMG](../../git.md#pmg) {#14#pmg}
