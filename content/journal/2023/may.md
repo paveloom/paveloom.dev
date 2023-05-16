@@ -1,5 +1,13 @@
 # May 2023
 
+### Tuesday, 16 {#16}
+
+#### [PMG](../../git.md#pmg) {#16#pmg}
+
+Welp, turns out I've got the L' thing wrong. Struggled, but made it proper today.
+
+Also, there are a bunch of other errands, and not much time left...
+
 ### Monday, 15 {#15}
 
 #### [PMG](../../git.md#pmg) {#15#pmg}
