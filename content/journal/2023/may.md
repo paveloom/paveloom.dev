@@ -1,5 +1,11 @@
 # May 2023
 
+### Wednesday, 17 {#17}
+
+#### [PMG](../../git.md#pmg) {#17#pmg}
+
+Finished with the errands. Added a section to the diploma about applying the algorithm.
+
 ### Tuesday, 16 {#16}
 
 #### [PMG](../../git.md#pmg) {#16#pmg}
