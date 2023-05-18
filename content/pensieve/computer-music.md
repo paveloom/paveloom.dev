@@ -6,5 +6,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_music).
 
 #### Resources
 
+##### Text
+- [Get started making music](https://learningmusic.ableton.com) ⭐
+
 ##### Video
 - [2022] [A Language for Making Languages for Making Synthesizers](https://www.youtube.com/watch?v=haEyHWokMuQ) ⭐
