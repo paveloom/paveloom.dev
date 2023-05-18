@@ -1,5 +1,11 @@
 # May 2023
 
+### Thursday, 18 {#18}
+
+#### Nixpkgs
+
+An [update](https://github.com/NixOS/nixpkgs/pull/232581) to [`obs-studio-plugins.advanced-theme-switched`](https://github.com/WarmUpTill/SceneSwitcher) required me to [add](https://github.com/NixOS/nixpkgs/pull/232578) [`libremidi`](https://github.com/jcelerier/libremidi) to [Nixpkgs](https://github.com/NixOS/nixpkgs). Did that.
+
 ### Wednesday, 17 {#17}
 
 #### [PMG](../../git.md#pmg) {#17#pmg}
