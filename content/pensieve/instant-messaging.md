@@ -10,6 +10,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Instant_messaging).
 - [Revolt](https://revolt.chat)
 - [Signal](https://en.wikipedia.org/wiki/Signal_(software))
     - [Session](https://getsession.org)
+- [SimpleX](https://simplex.chat)
+- [Status](https://status.im)
 - [Telegram](https://en.wikipedia.org/wiki/Telegram_(software))
 
 #### Protocols
