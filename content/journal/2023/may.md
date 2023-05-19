@@ -1,5 +1,13 @@
 # May 2023
 
+### Friday, 19 {#19}
+
+#### [PMG](../../git.md#pmg) {#19#pmg}
+
+Added variants for checking self-consistency of the models. Added a comparison chart for original parallaxes vs. reduced ones (it shows that the algorithm of getting proper parallaxes via the statistical method works). Switched to the `chi^2_3` characteristic when checking for outliers for the variants with disabled inner optimization.
+
+That's kinda it... just gotta put the results into the diploma now.
+
 ### Thursday, 18 {#18}
 
 #### Nixpkgs
