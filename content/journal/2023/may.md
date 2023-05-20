@@ -1,5 +1,13 @@
 # May 2023
 
+### Saturday, 20 {#20}
+
+#### [PMG](../../git.md#pmg) {#20#pmg}
+
+Added a variant for the optimal sample of HMSFRs, but with disabled inner optimization and outliers checks (to check for the effect of assuming zero parallax errors separately from the effect of reducing the sample volume).
+
+Added most of the results to the diploma.
+
 ### Friday, 19 {#19}
 
 #### [PMG](../../git.md#pmg) {#19#pmg}
