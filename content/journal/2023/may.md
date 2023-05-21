@@ -1,5 +1,13 @@
 # May 2023
 
+### Sunday, 21 {#21}
+
+#### [PMG](../../git.md#pmg) {#21#pmg}
+
+Corrected the way an extra error term is added to the velocity uncertainties. There are now two sets of bars for the non-from-Reid objects on the rotation curves. Added a near the solar circle sample that is self-consistent.
+
+And finally, I finished writing the diploma! Will have to insert the new results tomorrow, though, but still!
+
 ### Saturday, 20 {#20}
 
 #### [PMG](../../git.md#pmg) {#20#pmg}
