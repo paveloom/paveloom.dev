@@ -1,5 +1,11 @@
 # May 2023
 
+### Sunday, 22 {#22}
+
+#### [PMG](../../git.md#pmg) {#22#pmg}
+
+Edited the diploma according to the received remarks. Somehow that took the whole day...
+
 ### Sunday, 21 {#21}
 
 #### [PMG](../../git.md#pmg) {#21#pmg}
