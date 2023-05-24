@@ -1,6 +1,12 @@
 # May 2023
 
-### Sunday, 22 {#22}
+### Tuesday, 23 {#23}
+
+#### [PMG](../../git.md#pmg) {#23#pmg}
+
+Finished the diploma.
+
+### Monday, 22 {#22}
 
 #### [PMG](../../git.md#pmg) {#22#pmg}
 
