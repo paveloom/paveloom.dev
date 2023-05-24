@@ -1,5 +1,13 @@
 # May 2023
 
+### Wednesday, 24 {#24}
+
+#### Codon
+
+I might have just wasted a huge part of my free day updating the [Nixpkgs package](https://github.com/NixOS/nixpkgs/pull/226125) of [Codon](https://github.com/exaloop/codon) from `0.16.0` to `0.16.1` only to realize later that the dependency hashes are the same...
+
+Also, yeah, I finally got some free time away from the diploma.
+
 ### Tuesday, 23 {#23}
 
 #### [PMG](../../git.md#pmg) {#23#pmg}
