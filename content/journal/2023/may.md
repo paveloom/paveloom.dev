@@ -1,5 +1,15 @@
 # May 2023
 
+### Friday, 26 {#26}
+
+#### C
+
+Started reading [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language). Learned how to set up a very basic C project using [Clang](https://clang.llvm.org), [Meson](https://mesonbuild.com), [Nix](https://nixos.org), and how to set up [`clangd`](https://clangd.llvm.org) (ain't that straightforward with how Nix works).
+
+#### [PMG](../../git.md#pmg) {#26#pmg}
+
+Forgot to extract a square root when computing the estimate mean error, fixed that.
+
 ### Thursday, 25 {#25}
 
 #### [PMG](../../git.md#pmg) {#25#pmg}
