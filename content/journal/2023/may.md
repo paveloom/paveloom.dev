@@ -1,5 +1,11 @@
 # May 2023
 
+### Thursday, 25 {#25}
+
+#### [PMG](../../git.md#pmg) {#25#pmg}
+
+Covariance matrices and related to them matrices are now computed. Added model confidence intervals on the rotation curves plots.
+
 ### Wednesday, 24 {#24}
 
 #### Codon
