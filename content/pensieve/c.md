@@ -6,7 +6,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 
 #### Books
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc)
-- [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) ⭐
+- [2012] [21st Century C: C Tips from the New School](https://www.goodreads.com/book/show/14514281-21st-century-c)
+- [1994] [Expert C Programming: Deep C Secrets](https://www.goodreads.com/en/book/show/198207)
+- [1992] [Practical C Programming](https://www.goodreads.com/book/show/574686.Practical_C_Programming)
+- [1978] [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) ⭐
 
 #### Community
 
@@ -18,6 +21,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 - [2023] [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29) ⭐
 - [2023] [Why I Use C When I Believe in Memory Safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety)
 - [2022] [Everything I wish I knew when learning C](https://tmewett.com/c-tips)
+- [2019] [Post modern C tooling](https://renesd.blogspot.com/2019/09/post-modern-c-tooling.html) ⭐
+- [2018] [One year of C](https://floooh.github.io/2018/06/02/one-year-of-c.html)
 - [2017] [How to Write Portable C Without Complicating Your Build](https://nullprogram.com/blog/2017/03/30)
 - [2017] [OpenMP and pwrite()](https://nullprogram.com/blog/2017/03/01)
 - [2012] [What’s to love about C?](https://mortoray.com/whats-to-love-about-c)
