@@ -1,5 +1,17 @@
 # May 2023
 
+### Saturday, 27 {#27}
+
+#### C
+
+Today I learned that C doesn't have boolean types (well, without including the standard library header `stdbool.h`). I mean, makes sense, but I guess I'll have to get used to inserting `0` and `1` instead of `false` and `true`, respectively. The tricks with the bitwise XOR operator (`x ^= 1`) and explicit negation (`x = !x`) are neat, but they obfuscate the logic. K&R suggest using symbolic constants, but I prefer `boolean`-ish variable names (e.g., `if (empty) {}`).
+
+I am happy with how snappy `clangd` is, and compilation times (I'm using `clang`) in a release mode are almost instant.
+
+#### [PMG](../../git.md#pmg) {#27#pmg}
+
+Fixed another error when computing the estimate mean error. I was mutating the same vector of parameters when computing the finite differences (and so I was accidentally computing a half of the forward finite difference instead of the full central one).
+
 ### Friday, 26 {#26}
 
 #### C
