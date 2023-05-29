@@ -1,5 +1,13 @@
 # May 2023
 
+### Monday, 29 {#29}
+
+#### [PMG](../../git.md#pmg) {#29#pmg}
+
+Started writing the presentation.
+
+Found a bunch of small typos in the diploma... and missing error lines on the rotation curve plots.
+
 ### Saturday, 27 {#27}
 
 #### C
