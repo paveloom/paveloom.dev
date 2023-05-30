@@ -1,5 +1,18 @@
 # May 2023
 
+### Monday, 30 {#30}
+
+#### AirVPN
+
+[Mullvad](https://mullvad.net) announced yesterday that [they will be removing the support for forwarded ports](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports), disabling the ability to add new ports immediately and removing all existing forwarded ports on July, 1st. Unfortunately, this affects me since I'm very active in the [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) and [Soulseek](https://en.wikipedia.org/wiki/Soulseek) P2P-networks, which rely solely on [port forwarding](https://en.wikipedia.org/wiki/Port_forwarding) (to establish a connection one of the peers *must* have an open port, and of course many people torrent behind VPNs).
+
+After some research, I decided to switch to [AirVPN](airvpn.org). They support up to 20 port forwards, but also *seemingly* take a [stance](https://airvpn.org/aboutus) at protecting the privacy of their users. They provide a config generation tool, and I've imported several WireGuard configs on my NixOS machine via `NetworkManager`:
+
+```bash
+ln -s NL-Alblasserdam-Celaeno.conf Celaeno.conf
+nmcli connection import type wireguard file Celaeno.conf
+```
+
 ### Monday, 29 {#29}
 
 #### [PMG](../../git.md#pmg) {#29#pmg}
