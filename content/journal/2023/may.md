@@ -1,6 +1,12 @@
 # May 2023
 
-### Monday, 30 {#30}
+### Wednesday, 31 {#31}
+
+#### [PMG](../../git.md#pmg) {#31#pmg}
+
+Roughly put up some text for the presentation (it's basically the same as in the diploma, really).
+
+### Tuesday, 30 {#30}
 
 #### AirVPN
 
