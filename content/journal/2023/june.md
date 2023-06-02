@@ -1,5 +1,11 @@
 # June 2023
 
+### Friday, 2 {#2}
+
+#### [PMG](../../git.md#pmg) {#2#pmg}
+
+Spent most of the day just walking outside in circles, preparing the speech for the presentation. It's kinda chilly out there.
+
 ### Thursday, 1 {#1}
 
 #### [PMG](../../git.md#pmg) {#1#pmg}
