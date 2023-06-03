@@ -1,5 +1,11 @@
 # June 2023
 
+### Saturday, 3 {#3}
+
+#### [PMG](../../git.md#pmg) {#3#pmg}
+
+Committed the code of the presentation, rehearsed and reduced the text more (turns out there's really not that much you can fit under 10 minutes). I might reduce it even more, will do some more timing tomorrow.
+
 ### Friday, 2 {#2}
 
 #### [PMG](../../git.md#pmg) {#2#pmg}
