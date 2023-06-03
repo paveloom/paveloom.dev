@@ -14,4 +14,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 - [Алгоритмика](https://ru.algorithmica.org) ⭐
 
 #### Resources
+
+##### Text
 - [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
+
+##### Video
+- [2023] [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms)
