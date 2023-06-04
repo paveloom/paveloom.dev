@@ -1,5 +1,13 @@
 # June 2023
 
+### Sunday, 4 {#4}
+
+#### [PMG](../../git.md#pmg) {#4#pmg}
+
+Aight, done did it: compressed the presentation under 10 minutes.
+
+My legs hurt from walking in circles so much (pretty much the whole day on feet).
+
 ### Saturday, 3 {#3}
 
 #### [PMG](../../git.md#pmg) {#3#pmg}
