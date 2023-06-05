@@ -1,5 +1,11 @@
 # June 2023
 
+### Monday, 5 {#5}
+
+#### [PMG](../../git.md#pmg) {#5#pmg}
+
+We gathered with groupmates today to discuss the presentations. Applied some stylistic changes as a result.
+
 ### Sunday, 4 {#4}
 
 #### [PMG](../../git.md#pmg) {#4#pmg}
