@@ -1,5 +1,13 @@
 # June 2023
 
+### Monday, 6 {#6}
+
+#### [PMG](../../git.md#pmg) {#6#pmg}
+
+Defended my diploma today and received an "excellent" rating! This work is finally finished.
+
+Dobby is free!
+
 ### Monday, 5 {#5}
 
 #### [PMG](../../git.md#pmg) {#5#pmg}
