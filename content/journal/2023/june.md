@@ -1,6 +1,12 @@
 # June 2023
 
-### Monday, 6 {#6}
+### Friday, 9 {#9}
+
+#### Meson
+
+Home at last. Reading into [Meson](https://mesonbuild.com).
+
+### Tuesday, 6 {#6}
 
 #### [PMG](../../git.md#pmg) {#6#pmg}
 
