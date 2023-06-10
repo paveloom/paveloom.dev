@@ -132,6 +132,7 @@ search:
                         - [Podman](pensieve/podman.md)
                 - [Web browsers](pensieve/web-browsers.md)
             - [Software development](pensieve/software-development.md)
+                - [Build automation](pensieve/build-automation.md)
                 - [Computer programming](pensieve/computer-programming.md)
                     - [Asynchrony](pensieve/asynchrony.md)
                     - [Coding interview](pensieve/coding-interview.md)
