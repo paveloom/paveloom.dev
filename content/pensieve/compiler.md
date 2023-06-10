@@ -4,5 +4,9 @@ In computing, a compiler is a computer program that translates computer code wri
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Compiler).
 
+#### Sites
+- [Compiler Explorer](https://godbolt.org) ⭐
+
 #### Tools
-- [Compiler Explorer](https://godbolt.org): Run compilers interactively from your web browser and interact with the assembly ⭐
+- [Ccache](https://en.wikipedia.org/wiki/Ccache) ⭐
+- [`distcc`](https://en.wikipedia.org/wiki/Distcc)
