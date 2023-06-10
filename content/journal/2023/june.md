@@ -1,8 +1,14 @@
 # June 2023
 
+### Saturday, 10 {#10}
+
+#### Meson {#10#meson}
+
+Finished reading the manuals and playing around with [Meson](https://mesonbuild.com), [Ninja](https://ninja-build.org) and [Ccache](https://ccache.dev). Ready for some blazingly fast builds!
+
 ### Friday, 9 {#9}
 
-#### Meson
+#### Meson {#9#meson}
 
 Home at last. Reading into [Meson](https://mesonbuild.com).
 
