@@ -1,5 +1,11 @@
 # June 2023
 
+### Sunday, 11 {#11}
+
+#### Nix
+
+Was researching ways of sandboxing [Nix](https://nixos.org) applications today (again). Aside from [Flatpak](https://www.flatpak.org) (which I use now) and [`firejail`](https://firejail.wordpress.com) (which I tried last time), I looked into [`bubblewrap`](https://github.com/containers/bubblewrap), [`bubblejail`](https://github.com/igo95862/bubblejail), [`nixpak`](https://github.com/nixpak/nixpak), [AppArmor](https://www.apparmor.net). All of these new ones pretty much expect you to write your own profiles when necessary, which is rather inconvenient. Compared to others, AppArmor doesn't require you to wrap the binaries and works as a kernel module based on system policies, which is very close to what I'd like. And yet, I missed easily declaring [Spotify](https://www.spotify.com) in conjunction with [`spicetify`](https://spicetify.app) (via [`spicetify-nix`](https://github.com/the-argus/spicetify-nix)); having better plugin support (e.g., for [`mpv`](https://mpv.io), [OBS](https://obsproject.com) and [VLC](https://www.videolan.org/vlc)); having [KeePassXC](https://keepassxc.org)'s browser integration working. So I nuked all Flatpaks and switched back to native packages. This is probably gonna bite me someday, but hey, whatever.
+
 ### Saturday, 10 {#10}
 
 #### Meson {#10#meson}
