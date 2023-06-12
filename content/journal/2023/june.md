@@ -1,5 +1,19 @@
 # June 2023
 
+### Monday, 12 {#12}
+
+#### BookBrainz
+
+I will be switching to [BookBrainz](https://bookbrainz.org) for linking to books going forward. Even though it's very much a work-in-progress, it seems to be the only viable open source bibliographical database. I've been using [Goodreads](https://en.wikipedia.org/wiki/Goodreads) before, but it's proprietary and owned by Amazon (big yikes). [Open Library](https://openlibrary.org) is fine, but I much prefer [MetaBrainz](https://metabrainz.org)'s products as a happy [MusicBrainz](https://musicbrainz.org) and [ListenBrainz](https://listenbrainz.org) user.
+
+#### C {#12#c}
+
+Read more of the [C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language) book. I learned today that the [C2x standard](https://en.wikipedia.org/wiki/C2x) will introduce traditional one-byte booleans, and that using `goto`s is okay to break out of a nested loop or to handle cleanup code from multiple locations.
+
+#### Nixpkgs
+
+Spent some time refining the [derivation](https://github.com/NixOS/nixpkgs/pull/217229) for [Zigmod](https://github.com/nektro/zigmod).
+
 ### Sunday, 11 {#11}
 
 #### Nix
