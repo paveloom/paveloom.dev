@@ -6,10 +6,15 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Microblogging).
 
 #### Services
 
-##### Hosted
+##### Centralized
 - [cohost](https://cohost.org)
 - [Tumblr](https://en.wikipedia.org/wiki/Tumblr)
 - [Twitter](https://en.wikipedia.org/wiki/Twitter)
 
-##### Self-hosted
-- [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software)) ⭐
+##### Decentralized
+- [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)
+    - [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software))
+- [Nostr](https://en.wikipedia.org/wiki/Nostr) ⭐
+
+#### Resources
+- [2023] [Nostr: A simple, open protocol enabling global, decentralized, and censorship-resistant social media](https://www.youtube.com/watch?v=8mSyMCJlSwA) ⭐
