@@ -7,9 +7,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 #### Books
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc)
 - [2012] [21st Century C: C Tips from the New School](https://www.goodreads.com/book/show/14514281-21st-century-c)
+- [1996] [C Programming: A Modern Approach](https://bookbrainz.org/work/594c5712-ec3f-4e45-bfb4-31a4259430ff)
 - [1994] [Expert C Programming: Deep C Secrets](https://www.goodreads.com/en/book/show/198207)
 - [1992] [Practical C Programming](https://www.goodreads.com/book/show/574686.Practical_C_Programming)
-- [1978] [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) ⭐
+- [1978] [The C Programming Language](https://bookbrainz.org/work/91060ecf-4855-4da4-9048-0aefa47b2045) ⭐
 
 #### Community
 
