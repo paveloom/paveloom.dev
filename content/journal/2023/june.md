@@ -1,5 +1,11 @@
 # June 2023
 
+### Tuesday, 13 {#13}
+
+#### C {#13#c}
+
+Read some more of the [C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language) book. Playing around with pointers arithmetic right now.
+
 ### Monday, 12 {#12}
 
 #### BookBrainz
