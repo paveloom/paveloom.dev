@@ -1,5 +1,38 @@
 # June 2023
 
+### Wednesday, 14 {#14}
+
+#### C {#14#c}
+
+Read more of the [C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language) book.
+
+#### MTU
+
+Now that I'm home, I was wondering whether there are issues with my home network configuration. I found out that my whole [MTU](https://en.wikipedia.org/wiki/Maximum_transmission_unit) configuration was inefficient. Here's what I did.
+
+Before going forward, it makes sense to check what value of MTU your [ISP](https://en.wikipedia.org/wiki/Internet_service_provider) is recommending. For example, for [PPPoE v2](https://en.wikipedia.org/wiki/Point-to-Point_Protocol_over_Ethernet) it's 1492, but for [DS-Lite](https://en.wikipedia.org/wiki/DS-Lite) over PPPoE (which is what my ISP uses) it's 1452.
+
+To find out the optimal MTU value for your currently active wireless network (assuming the interface is `wlo1`), disable VPN and run
+
+```bash
+ping -s $(( $(cat /sys/class/net/wlo1/mtu) - 28)) -M do "8.8.8.8" -c 1
+```
+The 28 bytes are subtracted because of the `ping` itself (see explanation [here](https://stackoverflow.com/a/38179753)). If your MTU is too high, you will see an error similar to
+
+```
+ping: local error: message too long, mtu=1452
+```
+
+where the specified value is the optimal MTU. Set it for your network (if you're using `NetworkManager`, you can do so via `nmtui`). Make sure you reconnect to the network, so the interface is recreated. You can check the current value of MTU by running `ip a`. Run the following command and make sure you receive a response:
+
+```bash
+ping -s $(( $(cat /sys/class/net/wlo1/mtu) - 28)) -D "8.8.8.8" -c 1
+```
+
+The [overhead of the Wireguard protocol](https://lists.zx2c4.com/pipermail/wireguard/2017-December/002201.html) is 60 bytes if you're using IPv4 only or 80 bytes if you're using IPv6. Subtract the appropriate value and use the result as MTU in your Wireguard configs.
+
+It also makes sense to benchmark your upload and download speeds after the changes on sites like [speedtest.net](https://www.speedtest.net) (use the closest server to your actual physical location for reliability) and compare them to the ones claimed by your ISP.
+
 ### Tuesday, 13 {#13}
 
 #### C {#13#c}
