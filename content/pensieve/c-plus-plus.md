@@ -8,3 +8,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C++).
 
 ##### Libraries
 - [Sonic-Cpp](https://github.com/bytedance/sonic-cpp): A fast JSON serializing & deserializing library, accelerated by SIMD
+
+#### Resources
+- [2023] [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053) ⭐
