@@ -1,5 +1,17 @@
 # June 2023
 
+### Thursday, 15 {#15}
+
+#### Apartment
+
+Spent some time looking into how adults buy/rent apartments and stuff.
+
+I think it's better to get a decent (some?) income first, though.
+
+#### Static analyzer
+
+Was reading the [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053) article today (and still haven't finished it). I'm not planning to touch [C++](https://en.wikipedia.org/wiki/C%2B%2B) in the foreseeable future, but I'm planning to switch to [C](https://en.wikipedia.org/wiki/C_(programming_language)) as my primary language, and this article is still quite useful. Ended up setting [`cppcheck`](https://cppcheck.sourceforge.io/) as a custom target in the [Meson](https://mesonbuild.com) build file in my playground project for [K&R](https://en.wikipedia.org/wiki/C_(programming_language)). I already had set up [ASan](https://clang.llvm.org/docs/AddressSanitizer.html) and [UBSan](https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html) (which I find to be better than dynamic analysis via [Valgrind](https://valgrind.org)), and I guess I will be able to fit some more analyzers.
+
 ### Wednesday, 14 {#14}
 
 #### C {#14#c}
