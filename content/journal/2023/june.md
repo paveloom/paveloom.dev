@@ -1,5 +1,19 @@
 # June 2023
 
+### Friday, 16 {#16}
+
+#### C {#16#c}
+
+Finished reading the [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053) article, and it's pretty good. Although, I still don't like that [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) abominations (especially those implemented in [C++](https://en.wikipedia.org/wiki/C%2B%2B)) are still pushed nowadays. Really, programs are just data structures and algorithms.
+
+#### Mouse pad
+
+Ordered a mouse pad today. Turns out there is some distinction in quality, and since I need it to be small, I'm forced to use cloth as the top material (which is not necessarily bad, but might be a problem if it gets dirty). And you still sorta inevitably have to overpay for a brand logo.
+
+#### Objectivism
+
+Watched the [Top 10 (+1) Things Leonard Peikoff Did For Me (and You)](https://www.youtube.com/watch?v=UU0oXMSHiN4) and it was really pleasant to listen to [Robert Nasir](https://robertnasir.com) genuinely and passionately explaining how [the man, the myth, the legend](https://peikoff.com) affected his life. It also made me think about how all-encompassing and enduring, yet close to the ground [Objectivism](https://en.wikipedia.org/wiki/Objectivism) can be, and I definitely need to pick it up sooner than later.
+
 ### Thursday, 15 {#15}
 
 #### Apartment
