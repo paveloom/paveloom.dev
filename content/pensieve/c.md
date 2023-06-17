@@ -23,6 +23,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 - [2023] [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29) ⭐
 - [2023] [Why I Use C When I Believe in Memory Safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety)
 - [2022] [Everything I wish I knew when learning C](https://tmewett.com/c-tips)
+- [2020] [Best aspects of C language](https://jorengarenar.github.io/blog/best-of-c) ⭐
 - [2019] [Post modern C tooling](https://renesd.blogspot.com/2019/09/post-modern-c-tooling.html) ⭐
 - [2018] [One year of C](https://floooh.github.io/2018/06/02/one-year-of-c.html)
 - [2017] [How to Write Portable C Without Complicating Your Build](https://nullprogram.com/blog/2017/03/30)
