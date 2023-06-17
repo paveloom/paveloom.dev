@@ -1,5 +1,65 @@
 # June 2023
 
+### Saturday, 17 {#17}
+
+#### C {#17#c}
+
+Here are a couple of scary looking type definitions in C (from [K&R](https://en.wikipedia.org/wiki/The_C_Programming_Language)):
+
+- `char (*(*x())[])()`
+- `char (*(*x[3])())[5]`
+
+I couldn't figure out (yet) how to make my compiler happy about the last one (ain't a fan of pointers to fixed size arrays, seems like), but here are my explanations so far:
+
+```c
+#include <stdio.h>
+
+// Constant `char`
+const char x1 = 'a';
+
+// Function returning a `char`
+char x2() { return x1; }
+
+// Pointer to a function returning a `char`
+char (*x3)() = &x2;
+
+// Array of `char`s
+char x4[] = {x1, x1};
+
+// Array of pointers to constant `char`s
+const char(*x5[]) = {&x1};
+
+// Array of pointers to functions returning a `char`
+char (*x6[])() = {&x2};
+
+// Function returning a pointer to an array of
+// pointers to functions returning a `char`
+char (*(*x7())[])() { return &x6; }
+
+// Function returning a pointer to an array of `char`s
+char *x8() { return x4; }
+
+// Array of pointers to functions returning
+// a pointer to an array of `char`s
+char *(*x9[])() = {x8};
+
+// Print 'a' twice
+int main() {
+    char x = (*x7())[0]();
+    printf("%c\n", x);
+    x = *(x9[0])();
+    printf("%c\n", x);
+}
+```
+
+Also, check out [this pretty cool example](https://stackoverflow.com/a/2192802) of how to construct such definitions easily.
+
+#### TorrentLeech
+
+Okay, here's a hot tip if you're a [TorrentLeech](https://www.torrentleech.org) user: add 100 torrents slightly more than 10 MB and let the flow of [TL Points](https://wiki.torrentleech.org/doku.php/tl_points) commence!
+
+Also, according to my testing, the points are updated at 40-20 minutes intervals. Specifically, at every 23d and 42d minute of each hour.
+
 ### Friday, 16 {#16}
 
 #### C {#16#c}
