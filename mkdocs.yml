@@ -39,12 +39,19 @@ extra:
   social:
     - icon: fontawesome/solid/bolt
       link: https://paveloom.on.fleek.co
+      name: Fleek
     - icon: simple/codeberg
       link: https://paveloom.codeberg.page
+      name: Codeberg
     - icon: simple/github
       link: https://paveloom.github.io
+      name: GitHub
     - icon: simple/gitlab
       link: https://paveloom-g.gitlab.io/personal/site
+      name: GitLab
+    - icon: simple/rss
+      link: https://github.com/paveloom/paveloom.github.io/commits/master.atom
+      name: RSS
 extra_css:
   - assets/extra.css
 extra_javascript:
@@ -91,7 +98,3 @@ plugins:
       css_files:
         - assets/extra.css
   - section-index
-site_url: https://paveloom.github.io
-site_url: paveloom.gitlab.com
-site_url: https://paveloom.gitlab.com
-site_url: https://paveloom.gitlab.com
