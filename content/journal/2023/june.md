@@ -1,56 +1,120 @@
 # June 2023
 
+### Sunday, 18 {#18}
+
+#### C {#18#c}
+
+Okay, I got it: you get a `:::c *char` if you just return an array, and you get a `:::c char (*)[SIZE]` if you return a pointer to an array with a known size. Here's a revised version of the yesterday's snippet:
+
+??? "Explanations"
+
+    ```c
+    #include <stdio.h>
+
+    // Constant `char`
+    const char x1 = 'a';
+
+    // Function returning a `char`
+    char x2() { return x1; }
+
+    // Pointer to a function returning a `char`
+    char (*x3)() = &x2;
+
+    // Array of `char`s
+    char x4[] = {'b', x1};
+
+    // Array of pointers to constant `char`s
+    const char(*x5[]) = {&x1};
+
+    // Array of pointers to functions returning a `char`
+    char (*x6[])() = {&x2};
+
+    // Function returning a pointer to an array of
+    // pointers to functions returning a `char`
+    char (*(*x7())[])() { return &x6; }
+
+    // Function returning a pointer to an array of `char`s
+    char *x8() { return x4; }
+
+    // Array of pointers to functions returning
+    // a pointer to an array of `char`s
+    char *(*x9[])() = {x8};
+
+    // Function returning a pointer to a fixed size array of `char`s
+    char (*x10())[2] { return &x4; }
+
+    // A fixed size array of pointers to functions returning
+    // a pointer to a fixed size array of `char`s
+    char (*(*x11[1])())[2] = {x10};
+
+    // Print 'a' thrice
+    int main() {
+        char x = (*x7())[0]();
+        printf("%c\n", x);
+        x = x9[0]()[1];
+        printf("%c\n", x);
+        x = (*x11[0]())[1];
+        printf("%c\n", x);
+    }
+    ```
+
+#### GR
+
+Added a [package](https://github.com/NixOS/nixpkgs/pull/238469) for the [GR framework](https://gr-framework.org) to [Nixpkgs](https://github.com/NixOS/nixpkgs). It's my preferred plotting backend for quick plots via the [Plots](https://docs.juliaplots.org) package for [Julia](https://julialang.org) (I prefer [PGFPlotsX](https://kristofferc.github.io/PGFPlotsX.jl) for quality plots, though). With this package you will be able to easily use GR (just set the `GRDIR` variable) without having to resort to [`patchelf` hacks](https://gist.github.com/konfou/d12c0a26fc0d3b432dc9d23c86701fcb).
+
 ### Saturday, 17 {#17}
 
 #### C {#17#c}
 
 Here are a couple of scary looking type definitions in C (from [K&R](https://en.wikipedia.org/wiki/The_C_Programming_Language)):
 
-- `char (*(*x())[])()`
-- `char (*(*x[3])())[5]`
+- `:::c char (*(*x())[])()`
+- `:::c char (*(*x[3])())[5]`
 
 I couldn't figure out (yet) how to make my compiler happy about the last one (ain't a fan of pointers to fixed size arrays, seems like), but here are my explanations so far:
 
-```c
-#include <stdio.h>
+??? "Explanations"
 
-// Constant `char`
-const char x1 = 'a';
+    ```c
+    #include <stdio.h>
 
-// Function returning a `char`
-char x2() { return x1; }
+    // Constant `char`
+    const char x1 = 'a';
 
-// Pointer to a function returning a `char`
-char (*x3)() = &x2;
+    // Function returning a `char`
+    char x2() { return x1; }
 
-// Array of `char`s
-char x4[] = {x1, x1};
+    // Pointer to a function returning a `char`
+    char (*x3)() = &x2;
 
-// Array of pointers to constant `char`s
-const char(*x5[]) = {&x1};
+    // Array of `char`s
+    char x4[] = {x1, x1};
 
-// Array of pointers to functions returning a `char`
-char (*x6[])() = {&x2};
+    // Array of pointers to constant `char`s
+    const char(*x5[]) = {&x1};
 
-// Function returning a pointer to an array of
-// pointers to functions returning a `char`
-char (*(*x7())[])() { return &x6; }
+    // Array of pointers to functions returning a `char`
+    char (*x6[])() = {&x2};
 
-// Function returning a pointer to an array of `char`s
-char *x8() { return x4; }
+    // Function returning a pointer to an array of
+    // pointers to functions returning a `char`
+    char (*(*x7())[])() { return &x6; }
 
-// Array of pointers to functions returning
-// a pointer to an array of `char`s
-char *(*x9[])() = {x8};
+    // Function returning a pointer to an array of `char`s
+    char *x8() { return x4; }
 
-// Print 'a' twice
-int main() {
-    char x = (*x7())[0]();
-    printf("%c\n", x);
-    x = *(x9[0])();
-    printf("%c\n", x);
-}
-```
+    // Array of pointers to functions returning
+    // a pointer to an array of `char`s
+    char *(*x9[])() = {x8};
+
+    // Print 'a' twice
+    int main() {
+        char x = (*x7())[0]();
+        printf("%c\n", x);
+        x = *(x9[0])();
+        printf("%c\n", x);
+    }
+    ```
 
 Also, check out [this pretty cool example](https://stackoverflow.com/a/2192802) of how to construct such definitions easily.
 
