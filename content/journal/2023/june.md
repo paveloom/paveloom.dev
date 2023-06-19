@@ -1,5 +1,15 @@
 # June 2023
 
+### Monday, 19 {#19}
+
+#### C {#19#c}
+
+Started playing around with `struct`s. Added [`cpplint`](https://github.com/cpplint/cpplint) to the [Meson](https://mesonbuild.com) build file in my playground.
+
+#### GR {#19#gr}
+
+Spent a lot of time figuring out how to make the [Nix derivation](https://github.com/NixOS/nixpkgs/pull/238469) work on [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)). Even tried enabling [Objective-C](https://en.wikipedia.org/wiki/Objective-C) compilation by patching the [CMake](https://en.wikipedia.org/wiki/CMake) build file. Turns out the fixes are pretty simple: don't build the QtWayland module and use the Darwin specific `stdenv`.
+
 ### Sunday, 18 {#18}
 
 #### C {#18#c}
@@ -58,7 +68,7 @@ Okay, I got it: you get a `:::c *char` if you just return an array, and you get 
     }
     ```
 
-#### GR
+#### GR {#18#gr}
 
 Added a [package](https://github.com/NixOS/nixpkgs/pull/238469) for the [GR framework](https://gr-framework.org) to [Nixpkgs](https://github.com/NixOS/nixpkgs). It's my preferred plotting backend for quick plots via the [Plots](https://docs.juliaplots.org) package for [Julia](https://julialang.org) (I prefer [PGFPlotsX](https://kristofferc.github.io/PGFPlotsX.jl) for quality plots, though). With this package you will be able to easily use GR (just set the `GRDIR` variable) without having to resort to [`patchelf` hacks](https://gist.github.com/konfou/d12c0a26fc0d3b432dc9d23c86701fcb).
 
