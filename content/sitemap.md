@@ -148,6 +148,7 @@ search:
                     - [Programming idiom](pensieve/programming-idiom.md)
                 - [Intentional community](pensieve/intentional-community.md)
                     - [Recurse Center](pensieve/recurse-center.md)
+                - [Software architecture](pensieve/software-architecture.md)
                 - [Software testing](pensieve/software-testing.md)
                     - [Fuzzing](pensieve/fuzzing.md)
                 - [Systems design](pensieve/systems-design.md)
