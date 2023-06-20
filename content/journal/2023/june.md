@@ -1,5 +1,17 @@
 # June 2023
 
+### Tuesday, 20 {#20}
+
+#### C {#20#c}
+
+Read more of the [C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language) book.
+
+Played around more with the styles of the code (via [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)). I'm one of those `AlwaysBreakAfterReturnType: AllDefinitions` type of guys...
+
+#### Zigmod {#20#zigmod}
+
+Worked on making builds via my `buildZigmodPackage` function avoid unnecessary builds of the fixed-output derivations for dependencies while making the build more deterministic (by requiring a lock file). [This pull request](https://github.com/NixOS/nixpkgs/pull/217229) is one of my earliest contributions to [Nixpkgs](https://github.com/NixOS/nixpkgs), and it's still work-in-progress!
+
 ### Monday, 19 {#19}
 
 #### C {#19#c}
@@ -209,7 +221,7 @@ I will be switching to [BookBrainz](https://bookbrainz.org) for linking to books
 
 Read more of the [C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language) book. I learned today that the [C2x standard](https://en.wikipedia.org/wiki/C2x) will introduce traditional one-byte booleans, and that using `goto`s is okay to break out of a nested loop or to handle cleanup code from multiple locations.
 
-#### Nixpkgs
+#### Zigmod {#12#zigmod}
 
 Spent some time refining the [derivation](https://github.com/NixOS/nixpkgs/pull/217229) for [Zigmod](https://github.com/nektro/zigmod).
 
