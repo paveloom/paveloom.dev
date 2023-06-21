@@ -1,5 +1,17 @@
 # June 2023
 
+### Wednesday, 21 {#21}
+
+#### C {#21#c}
+
+Read more of the [C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language) book.
+
+Reading the chapter about the UNIX System Interface, getting some [Fortran](https://en.wikipedia.org/wiki/Fortran) flashbacks.
+
+#### Private torrent trackers {#21#private-torrent-trackers}
+
+I'm using 3 private trackers right now, and it's getting somewhat cumbersome managing the profiles on them. Today I finally found a torrent that doesn't exist on public trackers.
+
 ### Tuesday, 20 {#20}
 
 #### C {#20#c}
@@ -283,7 +295,7 @@ Spent most of the day just walking outside in circles, preparing the speech for 
 
 Worked on the presentation a bit more.
 
-#### Private torrent trackers
+#### Private torrent trackers {#1#private-torrent-trackers}
 
 Yesterday RARGB was [discontinued](https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php). That's rather sad since it was one of the best *public* torrent trackers out there. [TorrentLeech](https://www.torrentleech.org), one of the popular *private* trackers, [gives away invites](https://reddit.com/r/OpenSignups/comments/13wwg7w/torrentleech_tl_opens_signups_invite_code) on the occasion, and today I got one. This is my first private tracker (and I've been torrenting for more than 10 years), so I learned about ratios, hit-and-runs, and more.
 
