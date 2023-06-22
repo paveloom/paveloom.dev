@@ -11,12 +11,14 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Coding_interview).
 
 ##### Sites
 - [AlgoExpert](https://www.algoexpert.io)
-- [NeetCode](https://neetcode.io) ⭐
+- [LeetCode](https://leetcode.com) ⭐
+    - [NeetCode](https://neetcode.io) ⭐
 
 #### Resources
 
 ##### Text
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't have a broken hiring process ⭐
+- [Therapy for Leetcode Warriors](https://leetcodetherapy.com)
 - [2023] [How does a hobby programmer get hired?](https://news.ycombinator.com/item?id=34206559) ⭐
 - [2023] [How to hire engineering talent without the BS](https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs)
 - [2023] [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) ⭐
