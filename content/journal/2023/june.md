@@ -1,5 +1,21 @@
 # June 2023
 
+### Thursday, 22 {#22}
+
+#### C {#22#c}
+
+Finished reading the [C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language) book.
+
+I'm up for reading the [`cppreference.com`](https://cppreference.com) now for the up-to-date state of the language. By the way, while reading the aforementioned book, I've been using [Zeal](https://github.com/zealdocs/zeal) for having this reference offline and having a proper search engine for it.
+
+#### `glibc`
+
+Holy moly, [the GNU C Library (`glibc`) manual](https://www.gnu.org/software/libc/manual) is 1228 pages long in the PDF form... Anyhoo, coming from [Zig](https://ziglang.org), I'm used to being able to read the source code of the standard library, and it's somewhat convoluted to do since [GNU](https://www.gnu.org) folks prefer to use a stack of old technologies like [`gitweb`](https://git-scm.com/docs/gitweb) for Git web interface, [Mailman](https://list.org) for electronic mail discussion and e-newsletter lists, [Bugzilla](https://www.bugzilla.org) for tracking issues. I don't mind that, though, so I just cloned their repo locally.
+
+#### GR {#22#gr}
+
+Worked on [the PR review remarks](https://github.com/NixOS/nixpkgs/pull/238469), including creating [a PR to the upstream](https://github.com/sciapp/gr/pull/179).
+
 ### Wednesday, 21 {#21}
 
 #### C {#21#c}
