@@ -1,5 +1,15 @@
 # June 2023
 
+### Friday, 23 {#23}
+
+#### Documentation
+
+I've been looking for options to implement [the documentation system](https://documentation.divio.com) for my future C project. Here are the variants so far:
+
+- [`m.css`](https://mcss.mosra.cz) + [Doxygen](https://www.doxygen.nl) + [Doxygen C++ theme](https://mcss.mosra.cz/documentation/doxygen) (reference) + [MkDocs](https://www.mkdocs.org) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) (everything else)
+- [Sphinx](https://www.sphinx-doc.org) + [Doxygen](https://www.doxygen.nl) + [Breathe](https://breathe.readthedocs.io) (everything)
+    - [Example](https://nanobench.ankerl.com)
+
 ### Thursday, 22 {#22}
 
 #### C {#22#c}
