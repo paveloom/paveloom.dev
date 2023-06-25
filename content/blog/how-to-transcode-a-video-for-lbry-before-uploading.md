@@ -3,12 +3,13 @@
 The built-in video transcoding functionality in the LBRY desktop application starts an
 FFmpeg utility process with the following parameters:
 
-```go
-ffmpeg -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
-          -c:v libx264 -crf 24 -preset faster -pix_fmt yuv420p \
-          -vf "scale=if(gte(iw\,ih)\,min(1920\,iw)\,-2):if(lt(iw\,ih)\,min(1920\,ih)\,-2)" \
-          -maxrate 5500K -bufsize 5000K -movflags +faststart \
-          -c:a aac -b:a 160k "/path/to/output/file.mp4"
+```bash
+ffmpeg \
+  -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
+  -c:v libx264 -crf 24 -preset faster -pix_fmt yuv420p \
+  -vf "scale=if(gte(iw\,ih)\,min(1920\,iw)\,-2):if(lt(iw\,ih)\,min(1920\,ih)\,-2)" \
+  -maxrate 5500K -bufsize 5000K -movflags +faststart \
+  -c:a aac -b:a 160k "/path/to/output/file.mp4"
 ```
 
 The meanings of the passed parameters:
@@ -32,10 +33,11 @@ An alternative option for transcoding a horizontal video with increased bitrate,
 quality and compression:
 
 ```bash
-ffmpeg -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
-          -c:v libx264 -crf 17 -preset slower -pix_fmt yuv420p \
-          -maxrate 8M -bufsize 8M -movflags +faststart \
-          -c:a libfdk_aac "/path/to/output/file.mp4"
+ffmpeg \
+  -i "/path/to/input/file.ext" -y -c:s copy -c:d copy \
+  -c:v libx264 -crf 17 -preset slower -pix_fmt yuv420p \
+  -maxrate 8M -bufsize 8M -movflags +faststart \
+  -c:a libfdk_aac "/path/to/output/file.mp4"
 ```
 
 One may select optimal CRF values by performing tests on a small sample of the
