@@ -1,5 +1,15 @@
 # June 2023
 
+### Sunday, 25 {#25}
+
+#### C {#25#c}
+
+Went through the [C reference on `cppreference.com`](https://en.cppreference.com/w/c).
+
+#### [Groovy](../../git.md#groovy) {#25#groovy}
+
+Moved my build system setup from the playground to the repository. Next up: reading into [Gtk](https://docs.gtk.org/gtk4), [GLib](https://docs.gtk.org/glib), [GObject](https://docs.gtk.org/gobject) (and maybe more). I also found [Devhelp](https://gitlab.gnome.org/GNOME/devhelp) to be useful for having these references offline and of the same version as the libraries in the current Nix environment.
+
 ### Friday, 23 {#23}
 
 #### Documentation
