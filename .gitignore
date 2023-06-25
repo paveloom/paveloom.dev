@@ -10,7 +10,7 @@ book
 
 # PDM
 __pypackages__
-.pdm.toml
+.pdm-python
 
 # JavaScript
 bun.lockb
