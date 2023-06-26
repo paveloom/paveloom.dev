@@ -1,5 +1,11 @@
 # June 2023
 
+### Monday, 26 {#26}
+
+#### [Groovy](../../git.md#groovy) {#26#groovy}
+
+Set up a basic skeleton for the project, including the build scripts for common types of resources. Also, finally tried out [Blueprint](https://jwestman.pages.gitlab.gnome.org/blueprint-compiler).
+
 ### Sunday, 25 {#25}
 
 #### C {#25#c}
