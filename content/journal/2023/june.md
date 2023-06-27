@@ -1,5 +1,11 @@
 # June 2023
 
+### Tuesday, 27 {#27}
+
+#### [Groovy](../../git.md#groovy) {#27#groovy}
+
+Added a configuration header. Read the [Blueprint](https://jwestman.pages.gitlab.gnome.org/blueprint-compiler)'s documentation. The tool is pretty neat! Waiting on [the bump](https://github.com/NixOS/nixpkgs/pull/238303) in the [Nixpkgs](https://github.com/NixOS/nixpkgs), though.
+
 ### Monday, 26 {#26}
 
 #### [Groovy](../../git.md#groovy) {#26#groovy}
