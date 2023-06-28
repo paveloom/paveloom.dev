@@ -93,6 +93,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
     - [0x2: Using `defer` to defeat memory leaks](https://blog.orhun.dev/zig-bits-02)
     - [0x3: Mastering project management in Zig](https://blog.orhun.dev/zig-bits-03)
 - [2023] [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system)
+- [2023] [Zig Package Manager -- WTF is Zon](https://zig.news/edyu/zig-package-manager-wtf-is-zon-558e)
 - [2023] [Zig Quirks](https://www.openmymind.net/Zig-Quirks) ⭐
 - [2023] [Ziggifying Kilo](https://bingcicle.github.io/posts/ziggifying-kilo.html)
 - [2022] [A Refresh for Zig Programmers and Dabblers](https://itnext.io/a-refresh-for-zig-programmers-and-dabblers-d33f02c6a362) ⭐
