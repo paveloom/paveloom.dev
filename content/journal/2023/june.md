@@ -1,5 +1,13 @@
 # June 2023
 
+### Wednesday, 28 {#28}
+
+#### [`dotfiles`](../../git.md#dotfiles) {#28#dotfiles}
+
+Changed my [Neovim](https://neovim.io) config, making it so that LSP clients (managed both via [`nvim-lspconfig`](https://github.com/neovim/nvim-lspconfig) and [`null-ls`](https://github.com/jose-elias-alvarez/null-ls.nvim)) are attached *after* a [Direnv](https://github.com/direnv/direnv) environment is exported. This is something that bothered me for a *long* time, and I finally fixed it (took me the whole day!).
+
+Also, nuked the default `S` and `s` keybindings, those were rather annoying.
+
 ### Tuesday, 27 {#27}
 
 #### [Groovy](../../git.md#groovy) {#27#groovy}
