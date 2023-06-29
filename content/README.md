@@ -45,4 +45,4 @@ There are two modes:
     * ++esc++ , ++tab++ : close search dialog
     * ++enter++ : follow selected result
 
-You might also want to take a look on [how to use the search](https://lunrjs.com/guides/searching.html).
+You might also want to take a look at [how to use the search](https://lunrjs.com/guides/searching.html).
