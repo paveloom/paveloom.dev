@@ -1,5 +1,11 @@
 # June 2023
 
+### Thursday, 29 {#29}
+
+#### [Groovy](../../git.md#groovy) {#29#groovy}
+
+Fixed build dependencies for the blueprints, set up the package in the Nix flake.
+
 ### Wednesday, 28 {#28}
 
 #### [`dotfiles`](../../git.md#dotfiles) {#28#dotfiles}
