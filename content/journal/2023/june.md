@@ -1,5 +1,11 @@
 # June 2023
 
+### Friday, 30 {#30}
+
+#### [Groovy](../../git.md#groovy) {#30#groovy}
+
+Have been reading the [GTK documentation](https://docs.gtk.org/gtk4) today.
+
 ### Thursday, 29 {#29}
 
 #### [Groovy](../../git.md#groovy) {#29#groovy}
