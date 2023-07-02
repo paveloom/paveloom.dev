@@ -9,11 +9,11 @@
   }:
     flake-utils.lib.eachDefaultSystem (system: let
       pkgs = nixpkgs.legacyPackages.${system};
-      nativeBuildInputs = with pkgs; [
-        bashInteractive
-        coreutils
-        git
-        pdm
+      nativeBuildInputs = [
+        pkgs.bashInteractive
+        pkgs.coreutils
+        pkgs.git
+        pkgs.pdm
       ];
       buildImage = {tag}: let
         env = pkgs.buildEnv {
@@ -22,7 +22,7 @@
         };
       in
         pkgs.runCommand "image.tar.gz" {
-          nativeBuildInputs = with pkgs; [umoci];
+          nativeBuildInputs = [pkgs.umoci];
         } ''
           mkdir -p rootfs/{bin,usr/bin}
           xargs tar -c < ${pkgs.writeReferencesToFile env} | tar -xC rootfs/
@@ -36,7 +36,7 @@
           umoci config \
             --config.cmd ${pkgs.bashInteractive}/bin/bash \
             --created "1970-01-01T00:00:01Z" --image image:${tag} \
-            --config.env "PATH=${(with pkgs; lib.makeBinPath nativeBuildInputs)}" \
+            --config.env "PATH=${(pkgs.lib.makeBinPath nativeBuildInputs)}" \
             --config.env "SSL_CERT_FILE=${pkgs.cacert}/etc/ssl/certs/ca-bundle.crt" \
             --image image:${tag}
 
@@ -46,9 +46,10 @@
       devShells.default = pkgs.mkShell {
         packages =
           nativeBuildInputs
-          ++ (with pkgs; [
-            runc
-          ]);
+          ++ [
+            pkgs.ltex-ls
+            pkgs.runc
+          ];
       };
       packages.image = buildImage {
         tag = "site";
