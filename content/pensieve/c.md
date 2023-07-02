@@ -7,6 +7,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 #### Books
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc)
 - [2012] [21st Century C: C Tips from the New School](https://www.goodreads.com/book/show/14514281-21st-century-c)
+- [2011] [Object-Oriented Programming With ANSI-C](https://bookbrainz.org/work/50c01b92-ce37-4287-9b62-8c7fe8071d25)
 - [1996] [C Programming: A Modern Approach](https://bookbrainz.org/work/594c5712-ec3f-4e45-bfb4-31a4259430ff)
 - [1995] [C Programming FAQs: Frequently Asked Questions](https://bookbrainz.org/work/44f5e2c7-921b-4c69-a806-4b4930163ca0)
     - [Web version](https://c-faq.com)
@@ -20,6 +21,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ##### Coding conventions
 - [Malcolm Inglis's favorite C programming practices](https://github.com/mcinglis/c-style) ⭐
+
+##### Libraries
+- [Cosmopolitan Libc](https://justine.lol/cosmopolitan) ⭐
 
 #### Resources
 - [2023] [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c) ⭐
