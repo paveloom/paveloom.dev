@@ -1,5 +1,11 @@
 # July 2023
 
+### Sunday, 2 {#2}
+
+#### [Groovy](../../git.md#groovy) {#2#groovy}
+
+Have been reading the [GObject documentation](https://docs.gtk.org/gobject), and the library is actually pretty neat. But also somewhat convoluted. Insert the obligatory "we have [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) at home" meme here.
+
 ### Saturday, 1 {#1}
 
 #### [Groovy](../../git.md#groovy) {#1#groovy}
