@@ -1,5 +1,11 @@
 # July 2023
 
+### Monday, 3 {#3}
+
+#### MAP {#3#map}
+
+Was reading about [minor-related chronophilias](../../pensieve/minor-attracted-person.md) the whole day. This is apparently actually tabooed knowledge (it's even censored on Wikipedia, and bigoted by almost everyone on any platform).
+
 ### Sunday, 2 {#2}
 
 #### [Groovy](../../git.md#groovy) {#2#groovy}
