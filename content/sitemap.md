@@ -226,5 +226,7 @@ search:
             - [Positive psychology](pensieve/positive-psychology.md)
             - [Social psychology](pensieve/social-psychology.md)
                 - [Interpersonal relationship](pensieve/interpersonal-relationship.md)
+                    - [Chronophilia](pensieve/chronophilia.md)
+                        - [Minor Attracted Person](pensieve/minor-attracted-person.md)
                     - [LGBT](pensieve/lgbt.md)
 - [Sitemap](sitemap.md)
