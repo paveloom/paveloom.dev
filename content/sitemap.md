@@ -224,4 +224,7 @@ search:
                 - [Writing](pensieve/writing.md)
                     - [Diary](pensieve/diary.md)
             - [Positive psychology](pensieve/positive-psychology.md)
+            - [Social psychology](pensieve/social-psychology.md)
+                - [Interpersonal relationship](pensieve/interpersonal-relationship.md)
+                    - [LGBT](pensieve/lgbt.md)
 - [Sitemap](sitemap.md)
