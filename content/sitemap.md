@@ -149,6 +149,7 @@ search:
                     - [Programming idiom](pensieve/programming-idiom.md)
                     - [Programming paradigm](pensieve/programming-paradigm.md)
                         - [Data-oriented design](pensieve/data-oriented-design.md)
+                        - [Object-oriented programming](pensieve/object-oriented-programming.md)
                 - [Intentional community](pensieve/intentional-community.md)
                     - [Recurse Center](pensieve/recurse-center.md)
                 - [Software architecture](pensieve/software-architecture.md)
