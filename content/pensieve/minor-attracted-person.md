@@ -4,6 +4,30 @@ Minor-attracted person (abbreviated to MAP) is an umbrella term that covers a ra
 
 Read more on [Wikipedia](https://archive.is/q1ttr).
 
+#### Community
+
+##### Fediverse
+- [baraag.net](https://baraag.net)
+- [freak.university](https://freak.university)
+- [nnia.space](https://nnia.space)
+- [pawoo.net](https://pawoo.net)
+
+##### Forums
+- [Little Angels Hentai](https://lah.li)
+
+##### Image boards
+- [Gelbooru](https://gelbooru.com)
+
+##### Several services
+- [AllTheFallen](https://allthefallen.moe)
+- [youjo.love](https://youjo.love)
+
+##### Streaming
+- [Pomf.tv](https://pomf.tv)
+
+##### Video sharing
+- [FreeSpeechTube](https://fstube.net)
+
 #### Resources
 
 ##### Text
