@@ -25,6 +25,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 ##### Libraries
 - [Cosmopolitan Libc](https://justine.lol/cosmopolitan) ⭐
 
+##### Sites
+- [`cdecl`](https://cdecl.org) ⭐
+
 #### Resources
 - [2023] [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c) ⭐
 - [2023] [Driving Compilers](https://fabiensanglard.net/dc/index.php) ⭐
