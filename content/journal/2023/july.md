@@ -1,5 +1,11 @@
 # July 2023
 
+### Tuesday, 4 {#4}
+
+#### MAP {#4#map}
+
+Did some more study on [MAP](../../pensieve/minor-attracted-person.md) related topics.
+
 ### Monday, 3 {#3}
 
 #### MAP {#3#map}
