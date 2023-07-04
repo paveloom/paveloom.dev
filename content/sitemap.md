@@ -147,6 +147,8 @@ search:
                     - [Pair programming](pensieve/pair-programming.md)
                     - [Program optimization](pensieve/program-optimization.md)
                     - [Programming idiom](pensieve/programming-idiom.md)
+                    - [Programming paradigm](pensieve/programming-paradigm.md)
+                        - [Data-oriented design](pensieve/data-oriented-design.md)
                 - [Intentional community](pensieve/intentional-community.md)
                     - [Recurse Center](pensieve/recurse-center.md)
                 - [Software architecture](pensieve/software-architecture.md)

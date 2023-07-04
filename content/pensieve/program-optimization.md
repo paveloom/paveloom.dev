@@ -5,7 +5,7 @@ In computer science, program optimization, code optimization, or software optimi
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
 
 #### Approaches
-- [Data-oriented design](https://en.wikipedia.org/wiki/Data-oriented_design) ⭐
+- [Data-oriented design](data-oriented-design.md) ⭐
 - [Profile-guided optimization](https://en.wikipedia.org/wiki/Profile-guided_optimization) ⭐
 
 #### Books
@@ -35,8 +35,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
 - [2012] [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375) ⭐
 
 ##### Video
-- [2022] [A Practical Guide to Applying Data-Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design) ⭐
 - [2022] [Profiling Code in Rust](https://www.youtube.com/watch?v=JRMOIE_wAFk) ⭐
 - [2022] [Оптимизируем бинарный поиск](https://www.youtube.com/watch?v=CzcTb08ufnY) ⭐
 - [2021] [Parameter Passing in C and C++](https://wolchok.org/posts/parameter-passing) ⭐
-- [2014] [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) ⭐
