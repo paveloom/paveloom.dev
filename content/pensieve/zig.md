@@ -80,6 +80,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2023] [DNNs from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 - [2023] [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
 - [2023] [Meet Zig: The modern alternative to C](https://www.infoworld.com/article/3689648/meet-the-zig-programming-language.html) ⭐
+- [2023] [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 - [2023] [Regular Expressions in Zig](https://www.openmymind.net/Regular-Expressions-in-Zig)
 - [2023] [Sneaky Error Payloads](https://zig.news/ityonemo/sneaky-error-payloads-1aka)
 - [2023] [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
