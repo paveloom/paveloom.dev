@@ -1,5 +1,11 @@
 # July 2023
 
+### Thursday, 6 {#6}
+
+#### [Groovy](../../git.md#groovy) {#6#groovy}
+
+Read more of the [GObject documentation](https://docs.gtk.org/gobject).
+
 ### Wednesday, 5 {#5}
 
 #### MAP {#5#map}
