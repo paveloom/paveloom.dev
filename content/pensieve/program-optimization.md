@@ -29,6 +29,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
 #### Resources
 
 ##### Text
+- [2023] {n} times faster than C ⭐
+    - [Part 1](https://owen.cafe/posts/six-times-faster-than-c)
+    - [Part 2](https://owen.cafe/posts/the-same-speed-as-c)
 - [2022] [Data-driven performance optimization with Rust and Miri](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35)
 - [2022] [How Rust 1.64 Became 10-20% Faster On Windows?](https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70) ⭐
 - [2019] [Performance Speed Limits](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html)
