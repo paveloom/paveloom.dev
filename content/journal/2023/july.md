@@ -1,5 +1,11 @@
 # July 2023
 
+### Friday, 7 {#7}
+
+#### [Groovy](../../git.md#groovy) {#7#groovy}
+
+Finished with the [GObject documentation](https://docs.gtk.org/gobject). Tested this new knowledge by rewriting the current code using subclassing.
+
 ### Thursday, 6 {#6}
 
 #### [Groovy](../../git.md#groovy) {#6#groovy}
