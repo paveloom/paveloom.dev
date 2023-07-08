@@ -1,5 +1,13 @@
 # July 2023
 
+### Saturday, 8 {#8}
+
+#### [Groovy](../../git.md#groovy) {#8#groovy}
+
+We had a pretty rough thunderstorm today, had no electricity for quite some time and still don't have internet (this update will be pushed much later than committed). I was able to finish watching the [Creating a GObject in C](https://www.youtube.com/watch?v=1-_EBEr0fxI) video by [Christian Hergert](http://hergert.me) before lights went out. Did some small stylistic changes in the code after that. Then, I read some of the [GLib documentation](https://docs.gtk.org/glib).
+
+I will be on a short business trip for the next couple of days.
+
 ### Friday, 7 {#7}
 
 #### [Groovy](../../git.md#groovy) {#7#groovy}
