@@ -11,7 +11,10 @@ pipeline:
     secrets: [mail, token]
     commands:
       # Build the site
-      - scripts/build.bash https://paveloom.codeberg.page
+      - |
+        scripts/build.bash \
+          https://paveloom.codeberg.page \
+          https://codeberg.org/paveloom/pages/src/branch/master
       # Configure Git
       - git config --global user.email $MAIL
       - git config --global user.name "Pavel Sobolev"
@@ -24,6 +27,6 @@ pipeline:
       - git commit --fixup $(git rev-list HEAD | tail -n 1)
       - |
         GIT_SEQUENCE_EDITOR=: git rebase -i --autosquash --root pages
-      - git push -f
+      - git push -f origin pages
     when:
       event: push

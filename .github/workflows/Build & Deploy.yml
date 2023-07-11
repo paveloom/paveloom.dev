@@ -15,7 +15,11 @@ jobs:
       - name: Build the site
         uses: docker://paveloom/site
         with:
-          args: scripts/build.bash https://paveloom.github.io
+          args: |
+            sh -c "\
+              scripts/build.bash \
+                https://paveloom.github.io \
+                https://github.com/paveloom/paveloom.github.io"
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:

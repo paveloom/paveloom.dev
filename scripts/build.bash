@@ -17,9 +17,10 @@ pdm config python.use_venv false
 # Install the dependencies
 pdm install
 
-# Add the site URL to the config
+# Add the site and repo URLs to the config
 if [ ! ${#} -eq 0 ]; then
     echo "site_url: ${1}" >> mkdocs.yml
+    echo "repo_url: ${2}" >> mkdocs.yml
 fi
 
 # Build the site

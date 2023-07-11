@@ -49,6 +49,9 @@
           ++ [
             pkgs.ltex-ls
             pkgs.runc
+            pkgs.shellcheck
+            pkgs.yamlfmt
+            pkgs.yamllint
           ];
       };
       packages.image = buildImage {
