@@ -1,5 +1,17 @@
 # July 2023
 
+### Tuesday, 11 {#11}
+
+#### Nixpkgs
+
+Answered to the reviews of the pull requests for [Zigmod](https://github.com/NixOS/nixpkgs/pull/217229) and [GR Framework](https://github.com/NixOS/nixpkgs/pull/238469).
+
+Also, created a PR to update [`libremidi`](https://github.com/NixOS/nixpkgs/pull/242909). First time using [`nipkgs-review`](https://github.com/Mic92/nixpkgs-review) in a while!
+
+#### Site
+
+Made it so that the `repo_url` configuration option is set based on the hosting.
+
 ### Saturday, 8 {#8}
 
 #### [Groovy](../../git.md#groovy) {#8#groovy}
