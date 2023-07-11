@@ -93,6 +93,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
     - [0x1: Returning slices from functions](https://blog.orhun.dev/zig-bits-01)
     - [0x2: Using `defer` to defeat memory leaks](https://blog.orhun.dev/zig-bits-02)
     - [0x3: Mastering project management in Zig](https://blog.orhun.dev/zig-bits-03)
+    - [0x4: Building an HTTP client/server from scratch](https://blog.orhun.dev/zig-bits-04)
 - [2023] [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system)
 - [2023] [Zig Package Manager -- WTF is Zon](https://zig.news/edyu/zig-package-manager-wtf-is-zon-558e)
 - [2023] [Zig Quirks](https://www.openmymind.net/Zig-Quirks) ⭐
