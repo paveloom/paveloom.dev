@@ -1,5 +1,13 @@
 # July 2023
 
+### Wednesday, 12 {#12}
+
+#### Life
+
+Visited my local military commissariat today, taught some ol' fellas about alternative civilian service. Will be visiting them again tomorrow. Did some related paper work.
+
+Changed the router at home to the one I was using in the dormitory while studying at the university. Turns out one antenna gives better coverage and more stable signal than three antennas (same [dBm](https://en.wikipedia.org/wiki/Decibel#Radio_power,_energy,_and_field_strength) and [dBi](https://en.wikipedia.org/wiki/Decibel#Antenna_measurements)). Not sure why, though.
+
 ### Tuesday, 11 {#11}
 
 #### Nixpkgs
