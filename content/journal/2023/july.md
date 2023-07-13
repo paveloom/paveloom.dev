@@ -1,8 +1,14 @@
 # July 2023
 
+### Thursday, 13 {#13}
+
+#### Life {#13#life}
+
+Somewhat upset after the visit to the military commissariat today. The draft board there is seemingly unenthusiastic about me going against the system, although some draft department workers are genuinely trying to help. I might encounter unpleasant surprises in the fall.
+
 ### Wednesday, 12 {#12}
 
-#### Life
+#### Life {#12#life}
 
 Visited my local military commissariat today, taught some ol' fellas about alternative civilian service. Will be visiting them again tomorrow. Did some related paper work.
 
