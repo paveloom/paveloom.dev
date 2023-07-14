@@ -1,5 +1,11 @@
 # July 2023
 
+### Friday, 14 {#14}
+
+#### Life {#14#life}
+
+Registered an application to the military commissariat today, so that they proceed with me according to the law. This is hopefully the last interaction with them this month, so I've finally finished with all these worries and now have some time for myself.
+
 ### Thursday, 13 {#13}
 
 #### Life {#13#life}
