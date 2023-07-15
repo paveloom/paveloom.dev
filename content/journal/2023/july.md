@@ -1,5 +1,15 @@
 # July 2023
 
+### Saturday, 15 {#15}
+
+#### [Groovy](../../git.md#groovy) {#15#groovy}
+
+Read more of the [GLib reference](https://docs.gtk.org/glib). By the way, the reference is better structured if you use [Devhelp](https://wiki.gnome.org/Apps/Devhelp) to access it.
+
+#### Objectivism {#15#objectivism}
+
+Started reading [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand).
+
 ### Friday, 14 {#14}
 
 #### Life {#14#life}
