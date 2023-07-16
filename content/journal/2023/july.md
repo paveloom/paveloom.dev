@@ -1,5 +1,15 @@
 # July 2023
 
+### Sunday, 16 {#16}
+
+#### [Groovy](../../git.md#groovy) {#16#groovy}
+
+Finished reading the [GLib reference](https://docs.gtk.org/glib). Also, read the [Libadwaita reference](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest). Ported the current code to Libadwaita.
+
+#### Objectivism {#16#objectivism}
+
+Read more of [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand). It seems to be very approachable and promises to be pragmatic (which is what I'd like to see by choosing non-fiction books first).
+
 ### Saturday, 15 {#15}
 
 #### [Groovy](../../git.md#groovy) {#15#groovy}
