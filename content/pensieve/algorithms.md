@@ -7,6 +7,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 #### Community
 
 ##### Books
+- [Hello, Algorithm](https://www.hello-algo.com)
 - [Introduction to Algorithms](https://www.amazon.com/dp/0262033844) ⭐
 
 ##### Sites
