@@ -1,5 +1,11 @@
 # July 2023
 
+### Monday, 17 {#17}
+
+#### Whisparr {#17#whisparr}
+
+I've been working on creating a NixOS module for the [Whisparr](https://wiki.servarr.com/en/whisparr) service.
+
 ### Sunday, 16 {#16}
 
 #### [Groovy](../../git.md#groovy) {#16#groovy}
