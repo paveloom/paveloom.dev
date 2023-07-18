@@ -68,7 +68,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.superfences
-  - smarty
+  - smarty:
+      smart_angled_quotes: true
   - toc:
       permalink: "#"
 plugins:

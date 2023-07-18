@@ -1,5 +1,23 @@
 # July 2023
 
+### Tuesday, 18 {#18}
+
+#### Noita
+
+I finally beat [Noita](https://noitagame.com) today! My strat is a wand with the [Pollen](https://noita.fandom.com/wiki/Pollen) spell with low cast and recharge times, with the [Projectile Repulsion Field](https://noita.fandom.com/wiki/Perks) perk. Spamming Pollen allows you to create a shield that consumes all projectiles and also moves automatically to the enemies, dealing damage to them. The Projectile Repulsion Field will push the projectiles from yourself, including Pollen. This way, if you're careful, pretty much nothing can hurt you. Add to this some modifiers to deal more damage (e.g., I had [Burning Trail](https://noita.fandom.com/wiki/Burning_Trail)), some protection perks (e.g., I had [Fire Immunity](https://noita.fandom.com/wiki/Perks)), and voilà. The final boss didn't deal any damage.
+
+#### Objectivism {#18#objectivism}
+
+Read more of [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand). Couple of things are bothering me:
+
+1. There is a lot of accent on "an entity acts in accordance to its nature", but then how come most of an entity's actions are dependent on the context? For instance, using an example from the book, "under ordinary circumstances, if a child releases a balloon filled with helium, only one outcome is possible: the balloon will rise". Now, this might be true, but what if one releases the same balloon in space? Will it also "act in accordance to its nature" and rise up? Not really, it will just pop. Did the identity of the balloon change on a trip from Earth to outer space? When and how did that happen? Or is this example extraordinary and therefore doesn't count? The author mentions this nuance: "the same entity, *under the same circumstances*, will perform the same action", and yet continues to put emphasis on the entity itself, rather than the circumstances that really define the outcome.
+
+2. When there is talk of causality, it is very probable to see an opinion on determinism. I can see (sort of a spoiler for myself, I guess) that Objectivism [rejects the latter](http://aynrandlexicon.com/lexicon/determinism.html), but I am now unsure what the justification might be. "The concept of <<cause>> is inapplicable to the universe", they say, but what about [physical cosmology](https://en.wikipedia.org/wiki/Physical_cosmology) then?
+
+#### Whisparr {#18#whisparr}
+
+Opened a [pull request](https://github.com/NixOS/nixpkgs/pull/244172) to add the [Whisparr](https://wiki.servarr.com/en/whisparr) NixOS module. Turns out it's not that hard to [write a NixOS module](https://nixos.org/manual/nixos/stable/index.html#sec-writing-modules) (especially if it's a service). There are nuances, of course, but overall it's rather straightforward, having lots of examples in [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
 ### Monday, 17 {#17}
 
 #### Whisparr {#17#whisparr}
