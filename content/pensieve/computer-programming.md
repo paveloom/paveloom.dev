@@ -5,6 +5,7 @@ Computer programming is the process of performing a particular computation (or m
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 
 #### Books
+- [2015] [Secure Programming HOWTO](https://dwheeler.com/secure-programs)
 - [2009] [Coders at Work: Reflections on the Craft of Programming](https://codersatwork.com)
 - [1999] [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
     - [2019] [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
