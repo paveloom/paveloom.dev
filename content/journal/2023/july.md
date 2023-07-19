@@ -1,5 +1,11 @@
 # July 2023
 
+### Wednesday, 19 {#19}
+
+#### [Groovy](../../git.md#groovy) {#19#groovy}
+
+Was working on adding a preferences window, but got stuck at making the local settings schema visible to the program. Needed to create a custom target in the Meson build file just to get the `gschemas.compiled` file (the [built-in function](https://mesonbuild.com/Gnome-module.html#gnomecompile_schemas) assumes the location of the schema itself). I can just set `GSETTINGS_SCHEMA_DIR` to the path where this file is located, but I'd like to make it work out of the box (e.g., by setting the variable to a relative path in the Nix flake's `devshell`).
+
 ### Tuesday, 18 {#18}
 
 #### Noita
