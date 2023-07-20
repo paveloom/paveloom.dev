@@ -33,6 +33,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 - [2023] [Driving Compilers](https://fabiensanglard.net/dc/index.php) ⭐
 - [2023] [Few lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c) ⭐
 - [2023] [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29) ⭐
+- [2023] [Simply Parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 - [2023] [Why I Use C When I Believe in Memory Safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety)
 - [2022] [Everything I wish I knew when learning C](https://tmewett.com/c-tips)
 - [2020] [Best aspects of C language](https://jorengarenar.github.io/blog/best-of-c) ⭐
