@@ -10,6 +10,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Chatbot).
     - [ChatLLaMA](https://chatllama.baseten.co): ChatGPT style chatbot for Facebook's LLaMA
     - [`llama.cpp`](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
         - [`alpaca.cpp`](https://github.com/antimatter15/alpaca.cpp): Locally run an Instruction-Tuned Chat-Style LLM
+- [Perplexity](https://www.perplexity.ai)
 
 #### Resources
 
