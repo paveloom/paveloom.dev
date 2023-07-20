@@ -1,5 +1,35 @@
 # July 2023
 
+### Thursday, 20 {#20}
+
+#### Deltarune
+
+Played [Deltarune](https://deltarune.com) today, and it's great! I did play the first episode when it came out, but I barely remembered anything from it. Brings back good memories from [Undertale](https://undertale.com), too!
+
+#### Nixpkgs
+
+Since I maintain some of the packages in [Nixpkgs](https://github.com/NixOS/nixpkgs), I sometimes want to make use of them before the associated pull requests are reviewed and merged. For that, I've made the `nixpkgs` input in my [NixOS flake](https://github.com/paveloom/dotfiles) point to the new `system` branch of [my copy of Nixpkgs](https://github.com/paveloom/nixpkgs). This branch is basically the same as the upstream's `nixos-unstable`, but I merge some of my local branches into it.
+
+Here's how I've created it:
+
+```bash
+git checkout nixos-unstable
+git pull --rebase upstream nixos-unstable
+git checkout -b system
+git merge zigmod
+git push -u origin system
+```
+
+Here's how I can update it:
+
+```bash
+git checkout nixos-unstable
+git pull --rebase upstream nixos-unstable
+git checkout -b system
+git rebase -r nixos-unstable
+git push -f origin system
+```
+
 ### Wednesday, 19 {#19}
 
 #### [Groovy](../../git.md#groovy) {#19#groovy}
