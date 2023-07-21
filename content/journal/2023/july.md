@@ -1,5 +1,17 @@
 # July 2023
 
+### Friday, 21 {#21}
+
+#### [Groovy](../../git.md#groovy) {#21#groovy}
+
+I've solved the problem with the `GSettings` schema by making the program look into a directory next to the executable (in debug mode only). Turns out, on Linux, you can get data about the current process from the `/proc/self/` path, as described [here](https://stackoverflow.com/a/933996). For instance, I've got the directory where the executable is located at runtime by reading the contents of `/proc/self/cwd`.
+
+Encountered another weird issue, though: there are memory leaks when using `AdwPreferencesWindow`. Specifically, when using the search functionality or when switching the `AdwPreferencesPage`s. I was struggling to get the backtrace for the [`AddressSanitizer`](https://github.com/google/sanitizers/wiki/AddressSanitizer), and I remembered also wondering why [Valgrind](https://valgrind.org) was so slow in comparison. Turns out, one have to put `fast_unwind_on_malloc=0` in the `ASAN_OPTIONS` environment variable, and then you get the same slow performance of Valgrind, but with the full backtrace. Anyhow, it only shows that the memory came from the template initialization, which is rather expected. No clue why wasn't it freed, though. I will probably have to report this (or investigate it myself).
+
+#### Nixpkgs
+
+A small addition to the yesterday's entry: I will be using [`cherry-pick`](https://git-scm.com/docs/git-cherry-pick) instead of [`merge`](https://git-scm.com/docs/git-merge). This way, I don't have to deal with potential conflicts between the `master` and `nixos-unstable` branches.
+
 ### Thursday, 20 {#20}
 
 #### Deltarune
