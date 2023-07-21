@@ -8,6 +8,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Speech_synthesis).
 
 ##### Using AI
 - [Coqui](https://coqui.ai): A startup providing open speech tech for everyone ⭐
+- [ElevenLabs](https://elevenlabs.io): Explore the most advanced text to speech and voice cloning software ever
 - [FakeYou](https://fakeyou.com): Use FakeYou deep fake tech to say stuff with your favorite characters ⭐
 - [Mimic 3](https://github.com/MycroftAI/mimic3): A fast local neural text to speech engine for Mycroft ⭐
 - [Sonantic](https://www.sonantic.io): Deliver compelling, lifelike performances with fully expressive AI-generated voices
