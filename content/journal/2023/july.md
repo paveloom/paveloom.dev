@@ -1,5 +1,15 @@
 # July 2023
 
+### Saturday, 22 {#22}
+
+#### [Groovy](../../git.md#groovy) {#22#groovy}
+
+So, I've added a sample preferences page, and then [went to report](https://gitlab.gnome.org/GNOME/libadwaita/-/issues/704) the issue I described yesterday. Also, I wanted to report GTK's transitive dialogs shifting on subsequent calls, but turns out [I actually already reported it a year ago](https://gitlab.gnome.org/GNOME/gtk/-/issues/4636)! Completely forgot that was a thing. Also, surprising that this last one is still not confirmed.
+
+#### Nixpkgs {#22#nixpkgs}
+
+I decided I will jump in where possible to maintain some of the [Nixpkgs](https://github.com/NixOS/nixpkgs) packages I use frequently. Such as [Lazygit](https://github.com/jesseduffield/lazygit) ([yesterday's PR](https://github.com/NixOS/nixpkgs/pull/244631)) and [Blueprint](https://jwestman.pages.gitlab.gnome.org/blueprint-compiler) ([today's PR](https://github.com/NixOS/nixpkgs/pull/244812)). This is just so that I don't have to wait for others to do updates and so that I can make use of [my fork of Nixpkgs](https://github.com/paveloom/nixpkgs) if necessary (read about the `system` branch below).
+
 ### Friday, 21 {#21}
 
 #### [Groovy](../../git.md#groovy) {#21#groovy}
@@ -8,7 +18,7 @@ I've solved the problem with the `GSettings` schema by making the program look i
 
 Encountered another weird issue, though: there are memory leaks when using `AdwPreferencesWindow`. Specifically, when using the search functionality or when switching the `AdwPreferencesPage`s. I was struggling to get the backtrace for the [`AddressSanitizer`](https://github.com/google/sanitizers/wiki/AddressSanitizer), and I remembered also wondering why [Valgrind](https://valgrind.org) was so slow in comparison. Turns out, one have to put `fast_unwind_on_malloc=0` in the `ASAN_OPTIONS` environment variable, and then you get the same slow performance of Valgrind, but with the full backtrace. Anyhow, it only shows that the memory came from the template initialization, which is rather expected. No clue why wasn't it freed, though. I will probably have to report this (or investigate it myself).
 
-#### Nixpkgs
+#### Nixpkgs {#21#nixpkgs}
 
 A small addition to the yesterday's entry: I will be using [`cherry-pick`](https://git-scm.com/docs/git-cherry-pick) instead of [`merge`](https://git-scm.com/docs/git-merge). This way, I don't have to deal with potential conflicts between the `master` and `nixos-unstable` branches.
 
@@ -18,7 +28,7 @@ A small addition to the yesterday's entry: I will be using [`cherry-pick`](https
 
 Played [Deltarune](https://deltarune.com) today, and it's great! I did play the first episode when it came out, but I barely remembered anything from it. Brings back good memories from [Undertale](https://undertale.com), too!
 
-#### Nixpkgs
+#### Nixpkgs {#20#nixpkgs}
 
 Since I maintain some of the packages in [Nixpkgs](https://github.com/NixOS/nixpkgs), I sometimes want to make use of them before the associated pull requests are reviewed and merged. For that, I've made the `nixpkgs` input in my [NixOS flake](https://github.com/paveloom/dotfiles) point to the new `system` branch of [my copy of Nixpkgs](https://github.com/paveloom/nixpkgs). This branch is basically the same as the upstream's `nixos-unstable`, but I merge some of my local branches into it.
 
@@ -114,7 +124,7 @@ Changed the router at home to the one I was using in the dormitory while studyin
 
 ### Tuesday, 11 {#11}
 
-#### Nixpkgs
+#### Nixpkgs {#11#nixpkgs}
 
 Answered to the reviews of the pull requests for [Zigmod](https://github.com/NixOS/nixpkgs/pull/217229) and [GR Framework](https://github.com/NixOS/nixpkgs/pull/238469).
 
