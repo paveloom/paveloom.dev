@@ -1,5 +1,15 @@
 # July 2023
 
+### Sunday, 23 {#23}
+
+#### Deltarune {#23#deltarune}
+
+Finished [Deltarune](https://deltarune.com) today, but turns out it also has [an alternate route](https://deltarune.fandom.com/wiki/Snowgrave_Route) (as [Undertale](https://undertale.com) did). Okay!
+
+#### Life {#23#life}
+
+Spent the significant part of the day picking cherries from the tree and picking sprouts from potatoes. Ironically, was thinking about what it means to provide value while doing it.
+
 ### Saturday, 22 {#22}
 
 #### [Groovy](../../git.md#groovy) {#22#groovy}
@@ -24,7 +34,7 @@ A small addition to the yesterday's entry: I will be using [`cherry-pick`](https
 
 ### Thursday, 20 {#20}
 
-#### Deltarune
+#### Deltarune {#20#deltarune}
 
 Played [Deltarune](https://deltarune.com) today, and it's great! I did play the first episode when it came out, but I barely remembered anything from it. Brings back good memories from [Undertale](https://undertale.com), too!
 
