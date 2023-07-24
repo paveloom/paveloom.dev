@@ -1,5 +1,15 @@
 # July 2023
 
+### Monday, 24 {#24}
+
+#### Deltarune {#24#deltarune}
+
+Finished playing the [Snowgrave route](https://deltarune.fandom.com/wiki/Snowgrave_Route). It was surprisingly short.
+
+#### [Groovy](../../git.md#groovy) {#24#groovy}
+
+Was reading the [GNOME Developer Documentation](https://developer.gnome.org/documentation/index.html) today.
+
 ### Sunday, 23 {#23}
 
 #### Deltarune {#23#deltarune}
