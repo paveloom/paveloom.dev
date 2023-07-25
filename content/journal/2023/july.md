@@ -1,5 +1,11 @@
 # July 2023
 
+### Tuesday, 25 {#25}
+
+#### [Groovy](../../git.md#groovy) {#25#groovy}
+
+Read a bit more of the [GNOME Developer Documentation](https://developer.gnome.org/documentation).
+
 ### Monday, 24 {#24}
 
 #### Deltarune {#24#deltarune}
@@ -8,7 +14,7 @@ Finished playing the [Snowgrave route](https://deltarune.fandom.com/wiki/Snowgra
 
 #### [Groovy](../../git.md#groovy) {#24#groovy}
 
-Was reading the [GNOME Developer Documentation](https://developer.gnome.org/documentation/index.html) today.
+Was reading the [GNOME Developer Documentation](https://developer.gnome.org/documentation) today.
 
 ### Sunday, 23 {#23}
 
