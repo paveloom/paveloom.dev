@@ -1,8 +1,18 @@
 # July 2023
 
+### Wednesday, 26 {#26}
+
+#### [Kirk](../../git.md#kirk) {#26#kirk}
+
+Renamed the application from Groovy to Kirk (mostly because `groovy` turned out to be already taken, but also because I deem this captain to be better).
+
+Read a bit more of the [GNOME Developer Documentation](https://developer.gnome.org/documentation).
+
+Added saving of the window state. Started working on adding the destination folder entry. This latter simple addition already requires input validation and providing sensible defaults.
+
 ### Tuesday, 25 {#25}
 
-#### [Groovy](../../git.md#groovy) {#25#groovy}
+#### [Kirk](../../git.md#kirk) {#25#kirk}
 
 Read a bit more of the [GNOME Developer Documentation](https://developer.gnome.org/documentation).
 
@@ -12,7 +22,7 @@ Read a bit more of the [GNOME Developer Documentation](https://developer.gnome.o
 
 Finished playing the [Snowgrave route](https://deltarune.fandom.com/wiki/Snowgrave_Route). It was surprisingly short.
 
-#### [Groovy](../../git.md#groovy) {#24#groovy}
+#### [Kirk](../../git.md#kirk) {#24#kirk}
 
 Was reading the [GNOME Developer Documentation](https://developer.gnome.org/documentation) today.
 
@@ -28,7 +38,7 @@ Spent the significant part of the day picking cherries from the tree and picking
 
 ### Saturday, 22 {#22}
 
-#### [Groovy](../../git.md#groovy) {#22#groovy}
+#### [Kirk](../../git.md#kirk) {#22#kirk}
 
 So, I've added a sample preferences page, and then [went to report](https://gitlab.gnome.org/GNOME/libadwaita/-/issues/704) the issue I described yesterday. Also, I wanted to report GTK's transitive dialogs shifting on subsequent calls, but turns out [I actually already reported it a year ago](https://gitlab.gnome.org/GNOME/gtk/-/issues/4636)! Completely forgot that was a thing. Also, surprising that this last one is still not confirmed.
 
@@ -38,7 +48,7 @@ I decided I will jump in where possible to maintain some of the [Nixpkgs](https:
 
 ### Friday, 21 {#21}
 
-#### [Groovy](../../git.md#groovy) {#21#groovy}
+#### [Kirk](../../git.md#kirk) {#21#kirk}
 
 I've solved the problem with the `GSettings` schema by making the program look into a directory next to the executable (in debug mode only). Turns out, on Linux, you can get data about the current process from the `/proc/self/` path, as described [here](https://stackoverflow.com/a/933996). For instance, I've got the directory where the executable is located at runtime by reading the contents of `/proc/self/cwd`.
 
@@ -80,7 +90,7 @@ git push -f origin system
 
 ### Wednesday, 19 {#19}
 
-#### [Groovy](../../git.md#groovy) {#19#groovy}
+#### [Kirk](../../git.md#kirk) {#19#kirk}
 
 Was working on adding a preferences window, but got stuck at making the local settings schema visible to the program. Needed to create a custom target in the Meson build file just to get the `gschemas.compiled` file (the [built-in function](https://mesonbuild.com/Gnome-module.html#gnomecompile_schemas) assumes the location of the schema itself). I can just set `GSETTINGS_SCHEMA_DIR` to the path where this file is located, but I'd like to make it work out of the box (e.g., by setting the variable to a relative path in the Nix flake's `devshell`).
 
@@ -110,7 +120,7 @@ I've been working on creating a NixOS module for the [Whisparr](https://wiki.ser
 
 ### Sunday, 16 {#16}
 
-#### [Groovy](../../git.md#groovy) {#16#groovy}
+#### [Kirk](../../git.md#kirk) {#16#kirk}
 
 Finished reading the [GLib reference](https://docs.gtk.org/glib). Also, read the [Libadwaita reference](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest). Ported the current code to Libadwaita.
 
@@ -120,7 +130,7 @@ Read more of [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/
 
 ### Saturday, 15 {#15}
 
-#### [Groovy](../../git.md#groovy) {#15#groovy}
+#### [Kirk](../../git.md#kirk) {#15#kirk}
 
 Read more of the [GLib reference](https://docs.gtk.org/glib). By the way, the reference is better structured if you use [Devhelp](https://wiki.gnome.org/Apps/Devhelp) to access it.
 
@@ -162,7 +172,7 @@ Made it so that the `repo_url` configuration option is set based on the hosting.
 
 ### Saturday, 8 {#8}
 
-#### [Groovy](../../git.md#groovy) {#8#groovy}
+#### [Kirk](../../git.md#kirk) {#8#kirk}
 
 We had a pretty rough thunderstorm today, had no electricity for quite some time and still don't have internet (this update will be pushed much later than committed). I was able to finish watching the [Creating a GObject in C](https://www.youtube.com/watch?v=1-_EBEr0fxI) video by [Christian Hergert](http://hergert.me) before lights went out. Did some small stylistic changes in the code after that. Then, I read some of the [GLib documentation](https://docs.gtk.org/glib).
 
@@ -170,13 +180,13 @@ I will be on a short business trip for the next couple of days.
 
 ### Friday, 7 {#7}
 
-#### [Groovy](../../git.md#groovy) {#7#groovy}
+#### [Kirk](../../git.md#kirk) {#7#kirk}
 
 Finished with the [GObject documentation](https://docs.gtk.org/gobject). Tested this new knowledge by rewriting the current code using subclassing.
 
 ### Thursday, 6 {#6}
 
-#### [Groovy](../../git.md#groovy) {#6#groovy}
+#### [Kirk](../../git.md#kirk) {#6#kirk}
 
 Read more of the [GObject documentation](https://docs.gtk.org/gobject).
 
@@ -200,12 +210,12 @@ Was reading about [minor-related chronophilias](../../pensieve/minor-attracted-p
 
 ### Sunday, 2 {#2}
 
-#### [Groovy](../../git.md#groovy) {#2#groovy}
+#### [Kirk](../../git.md#kirk) {#2#kirk}
 
 Have been reading the [GObject documentation](https://docs.gtk.org/gobject), and the library is actually pretty neat. But also somewhat convoluted. Insert the obligatory "we have [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) at home" meme here.
 
 ### Saturday, 1 {#1}
 
-#### [Groovy](../../git.md#groovy) {#1#groovy}
+#### [Kirk](../../git.md#kirk) {#1#kirk}
 
 Finished reading the additional documentation in the [GTK documentation](https://docs.gtk.org/gtk4). [GObject documentation](https://docs.gtk.org/gobject) is next, since having a grasp of the type system is essential.

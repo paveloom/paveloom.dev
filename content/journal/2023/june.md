@@ -2,13 +2,13 @@
 
 ### Friday, 30 {#30}
 
-#### [Groovy](../../git.md#groovy) {#30#groovy}
+#### [Kirk](../../git.md#kirk) {#30#kirk}
 
 Have been reading the [GTK documentation](https://docs.gtk.org/gtk4) today.
 
 ### Thursday, 29 {#29}
 
-#### [Groovy](../../git.md#groovy) {#29#groovy}
+#### [Kirk](../../git.md#kirk) {#29#kirk}
 
 Fixed build dependencies for the blueprints, set up the package in the Nix flake.
 
@@ -22,13 +22,13 @@ Also, nuked the default `S` and `s` keybindings, those were rather annoying.
 
 ### Tuesday, 27 {#27}
 
-#### [Groovy](../../git.md#groovy) {#27#groovy}
+#### [Kirk](../../git.md#kirk) {#27#kirk}
 
 Added a configuration header. Read the [Blueprint](https://jwestman.pages.gitlab.gnome.org/blueprint-compiler)'s documentation. The tool is pretty neat! Waiting on [the bump](https://github.com/NixOS/nixpkgs/pull/238303) in the [Nixpkgs](https://github.com/NixOS/nixpkgs), though.
 
 ### Monday, 26 {#26}
 
-#### [Groovy](../../git.md#groovy) {#26#groovy}
+#### [Kirk](../../git.md#kirk) {#26#kirk}
 
 Set up a basic skeleton for the project, including the build scripts for common types of resources. Also, finally tried out [Blueprint](https://jwestman.pages.gitlab.gnome.org/blueprint-compiler).
 
@@ -38,7 +38,7 @@ Set up a basic skeleton for the project, including the build scripts for common 
 
 Went through the [C reference on `cppreference.com`](https://en.cppreference.com/w/c).
 
-#### [Groovy](../../git.md#groovy) {#25#groovy}
+#### [Kirk](../../git.md#kirk) {#25#kirk}
 
 Moved my build system setup from the playground to the repository. Next up: reading into [Gtk](https://docs.gtk.org/gtk4), [GLib](https://docs.gtk.org/glib), [GObject](https://docs.gtk.org/gobject) (and maybe more). I also found [Devhelp](https://gitlab.gnome.org/GNOME/devhelp) to be useful for having these references offline and of the same version as the libraries in the current Nix environment.
 
