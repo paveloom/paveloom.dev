@@ -23,10 +23,6 @@ A list of my public Git repositories.
 
     *`#fltk-rs`*
 
-#### Groovy [:simple-codeberg:](https://codeberg.org/paveloom-a/Groovy) [:simple-github:](https://github.com/paveloom-a/Groovy) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps/Groovy)
-
-:   *`#c` <code style="color: var(--md-primary-fg-color)">#work-in-progress</code>*
-
 #### `hello-world` [:simple-codeberg:](https://codeberg.org/paveloom-a/hello-world) [:simple-github:](https://github.com/paveloom-a/hello-world) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps/hello-world)
 
 :   A hello-world Tauri app
@@ -38,6 +34,10 @@ A list of my public Git repositories.
 :   A read-only Slack clone for reading history from [julialang.slack.com](https://julialang.slack.com)
 
     *`#slack-clone` `#svelte` `#julia` <code style="color: var(--md-primary-fg-color)">#unfinished</code>*
+
+#### Kirk [:simple-codeberg:](https://codeberg.org/paveloom-a/Kirk) [:simple-github:](https://github.com/paveloom-a/Kirk) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps/Kirk)
+
+:   *`#c` <code style="color: var(--md-primary-fg-color)">#work-in-progress</code>*
 
 #### Shuchu [:simple-codeberg:](https://codeberg.org/paveloom-a/Shuchu) [:simple-github:](https://github.com/paveloom-a/Shuchu) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps/Shuchu)
 
