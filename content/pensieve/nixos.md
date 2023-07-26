@@ -18,6 +18,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/NixOS).
 - [NixOS Wiki](https://nixos.wiki) ⭐
 
 ##### Books
+- [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world)
 - [NixOS in Production](https://leanpub.com/nixos-in-production)
 
 ##### Configuration examples
