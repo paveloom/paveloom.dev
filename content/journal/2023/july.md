@@ -1,5 +1,21 @@
 # July 2023
 
+### Thursday, 27 {#27}
+
+#### [Kirk](../../git.md#kirk) {#27#kirk}
+
+Was working on adding the file chooser dialog for the destination directory, but got stuck with tracking down memory leaks. Turns out [AddressSanitizer](https://clang.llvm.org/docs/AddressSanitizer.html) doesn't catch many leaks (e.g., a missing `g_autoptr`). Also, using [GTK's](https://gitlab.gnome.org/GNOME/gtk/-/blob/main/gtk.supp) and [GLib's](https://gitlab.gnome.org/GNOME/glib/-/blob/main/tools/glib.supp) suppression files is essential (they do have a more generic version for [LSan](https://gitlab.gnome.org/GNOME/gtk/-/blob/main/lsan.supp), too). Switched back to [Valgrind](https://valgrind.org).
+
+#### Objectivism {#27#objectivism}
+
+Read more of [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand).
+
+The refute of [Determinism](https://en.wikipedia.org/wiki/Determinism) still seems to be lacking for me: they make the volition a self-evidential axiom (a corollary to consciousness) and then refute determinism by accusing it in denying this axiom (which is not necessarily what determinism proposes). That's a fallacy. I find the subject of deterministic volition amusing because it's hard to resolve objectively (which is what [Objectivism](https://en.wikipedia.org/wiki/Objectivism) claims to have done), and yet the results of this resolution are utterly worthless pragmatically (what does it really change if your choices are predetermined?).
+
+Still, I share the Objectivism's conclusions here. And I like this segue to the next chapter:
+
+> Man's senses are valid. His mind is free. Now how should he use his mind?
+
 ### Wednesday, 26 {#26}
 
 #### [Kirk](../../git.md#kirk) {#26#kirk}
