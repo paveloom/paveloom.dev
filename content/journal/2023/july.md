@@ -1,5 +1,37 @@
 # July 2023
 
+### Friday, 28 {#28}
+
+#### [Kirk](../../git.md#kirk) {#28#kirk}
+
+Worked on making the program save the destination folder path and validate it.
+
+#### Time tracking
+
+Today I encountered (again) this simple yet annoying idea:
+
+> You can't improve what you don't measure.
+
+So, I decided I will investigate what [self-tracking](https://en.wikipedia.org/wiki/Quantified_self) options are there. I found [Furtherance](https://github.com/lakoliu/Furtherance) to be what I needed: it allows me to easily log a period of time and put a label on it. It's manual, so it makes me responsible to stay focused to the task described in the label. I will be publishing the logs publicly, so that I stay accountable and consistent. Finally, it allows me to elaborate on my work-life balance. I also find it valuable to think of the latter in terms of the consumption-creation balance.
+
+Today: 09:13:00
+
+- Software engineering: 03:58:21
+    - Kirk: 03:04:25
+    - Investigating a GTK leak: 00:28:36
+    - Inspecting an SQLite database: 00:25:20
+- Games: 02:18:58
+    - LEGO® The Lord of the Rings™: 02:18:58
+- Life: 01:14:09
+    - Eating: 00:57:49
+    - Dishes: 00:16:20
+- Research: 00:56:46
+    - Time tracking: 00:56:46
+- Entertainment: 00:44:46
+    - Good Omens - S02E01: 00:44:46
+
+Yeah, I definitely have to automate this.
+
 ### Thursday, 27 {#27}
 
 #### [Kirk](../../git.md#kirk) {#27#kirk}
