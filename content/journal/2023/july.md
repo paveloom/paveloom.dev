@@ -1,12 +1,39 @@
 # July 2023
 
+### Saturday, 29 {#29}
+
+#### [Kirk](../../git.md#kirk) {#29#kirk}
+
+Commited the code adding the destination folder path. I nuked input validation (checking if the chosen folder exists) in favor of trying to create the full path when necessary. This simplifies the approach a lot: I wanted at first to create an idle callback that would check if the folder path is valid. If not, it would notify about it both in the application window (via the menu button) and in the preferences window (via the `dialog-error-symbolic` image).
+
+Switched to using the [`mold`](https://github.com/rui314/mold) linker.
+
+#### Time tracking {#29#time-tracking}
+
+Okay, here's my categorization so far: time can be used to
+
+1. Produce something: this is [man's noblest activity](https://en.wikipedia.org/wiki/Objectivism)
+2. Consume something that is *potentially* pragmatically useful
+3. Consume something that is *definitely not* pragmatically useful
+
+I would like to be proud of focusing on the first option, making use of the second option when necessary, and limiting the third option. I will exclude from reports time periods that are related to the last option (I consider those wasteful, although sometimes necessary).
+
+Today: 04:21:07
+
+- Producing: 03:30:37
+    - Software engineering: 03:30:37
+        - [Kirk](../../git.md#kirk): 03:30:37
+- Consuming: 00:50:30
+    - Reading: 00:50:30
+        - [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand): 00:50:30
+
 ### Friday, 28 {#28}
 
 #### [Kirk](../../git.md#kirk) {#28#kirk}
 
 Worked on making the program save the destination folder path and validate it.
 
-#### Time tracking
+#### Time tracking {#28#time-tracking}
 
 Today I encountered (again) this simple yet annoying idea:
 
@@ -17,7 +44,7 @@ So, I decided I will investigate what [self-tracking](https://en.wikipedia.org/w
 Today: 09:13:00
 
 - Software engineering: 03:58:21
-    - Kirk: 03:04:25
+    - [Kirk](../../git.md#kirk): 03:04:25
     - Investigating a GTK leak: 00:28:36
     - Inspecting an SQLite database: 00:25:20
 - Games: 02:18:58
