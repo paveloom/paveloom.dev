@@ -1,5 +1,28 @@
 # July 2023
 
+### Sunday, 30 {#30}
+
+#### [Kirk](../../git.md#kirk) {#30#kirk}
+
+Added the Add Release Window with a (not yet functional) search entry. It is just an `Adw.EntryRow` and not a `Gtk.SearchEntry`, so there is no configurable delay between the input events. It should be fine for starters, but I might hit some API rate limits eventually. Which also brings up the question of having a cache for search results.
+
+Today I found out that [`gtk_widget_class_add_binding_action`](https://docs.gtk.org/gtk4/class_method.Widget.add_binding_action.html) is a thing: it allows one to have class specific key bindings. I used it to fix the issue where the Preferences Window and the Add Release Window would open one on top of the other when repeatedly pressing the shortcuts.
+
+Also, turns out there is [an issue](https://github.com/rui314/mold/issues/793) with using [`mold`](https://github.com/rui314/mold) with [LTO](https://en.wikipedia.org/wiki/Interprocedural_optimization) enabled. It requires a plugin which is (ironically) not present in the latest version from [Nixpkgs](https://github.com/NixOS/nixpkgs) and also seems to be specific to the [`gold`](https://sourceware.org/binutils) linker. Switched back to [LLD](https://lld.llvm.org) in the Nix package declaration.
+
+#### Time tracking {#30#time-tracking}
+
+- Today [06:41:09]
+    - Producing [04:10:47]
+        - Software engineering [04:10:47]
+            - [Kirk](../../git.md#kirk) [04:10:47]
+    - Consuming [02:30:22]
+        - Reading [01:37:45]
+            - [1991] [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand) [01:14:40]
+            - [2021] [The Consuming vs. Producing Ratio](https://monthlymethod.com/consuming-vs-producing) [00:23:05]
+        - Watching [00:52:37]
+            - [2017] [Productive Achievement: Man's "Noblest Activity"](https://www.youtube.com/watch?v=0HLe7jonMGI) [00:52:37]
+
 ### Saturday, 29 {#29}
 
 #### [Kirk](../../git.md#kirk) {#29#kirk}
@@ -18,14 +41,13 @@ Okay, here's my categorization so far: time can be used to
 
 I would like to be proud of focusing on the first option, making use of the second option when necessary, and limiting the third option. I will exclude from reports time periods that are related to the last option (I consider those wasteful, although sometimes necessary).
 
-Today: 04:21:07
-
-- Producing: 03:30:37
-    - Software engineering: 03:30:37
-        - [Kirk](../../git.md#kirk): 03:30:37
-- Consuming: 00:50:30
-    - Reading: 00:50:30
-        - [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand): 00:50:30
+- Today [04:21:07]
+    - Producing [03:30:37]
+        - Software engineering [03:30:37]
+            - [Kirk](../../git.md#kirk) [03:30:37]
+    - Consuming [00:50:30]
+        - Reading [00:50:30]
+            - [1991] [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand) [00:50:30]
 
 ### Friday, 28 {#28}
 
@@ -41,21 +63,20 @@ Today I encountered (again) this simple yet annoying idea:
 
 So, I decided I will investigate what [self-tracking](https://en.wikipedia.org/wiki/Quantified_self) options are there. I found [Furtherance](https://github.com/lakoliu/Furtherance) to be what I needed: it allows me to easily log a period of time and put a label on it. It's manual, so it makes me responsible to stay focused to the task described in the label. I will be publishing the logs publicly, so that I stay accountable and consistent. Finally, it allows me to elaborate on my work-life balance. I also find it valuable to think of the latter in terms of the consumption-creation balance.
 
-Today: 09:13:00
-
-- Software engineering: 03:58:21
-    - [Kirk](../../git.md#kirk): 03:04:25
-    - Investigating a GTK leak: 00:28:36
-    - Inspecting an SQLite database: 00:25:20
-- Games: 02:18:58
-    - LEGO® The Lord of the Rings™: 02:18:58
-- Life: 01:14:09
-    - Eating: 00:57:49
-    - Dishes: 00:16:20
-- Research: 00:56:46
-    - Time tracking: 00:56:46
-- Entertainment: 00:44:46
-    - Good Omens - S02E01: 00:44:46
+- Today [09:13:00]
+    - Software engineering [03:58:21]
+        - [Kirk](../../git.md#kirk) [03:04:25]
+        - Investigating a GTK leak [00:28:36]
+        - Inspecting an SQLite database [00:25:20]
+    - Games [02:18:58]
+        - LEGO® The Lord of the Rings™ [02:18:58]
+    - Life [01:14:09]
+        - Eating [00:57:49]
+        - Dishes [00:16:20]
+    - Research [00:56:46]
+        - Time tracking [00:56:46]
+    - Entertainment [00:44:46]
+        - Good Omens - S02E01 [00:44:46]
 
 Yeah, I definitely have to automate this.
 
