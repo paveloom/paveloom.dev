@@ -1,5 +1,23 @@
 # July 2023
 
+### Monday, 31 {#31}
+
+#### [Kirk](../../git.md#kirk) {#31#kirk}
+
+Finished reading the [GNOME Developer Documentation](https://developer.gnome.org/documentation).
+
+Added support for editing [Qobuz](https://www.qobuz.com) credentials in the app. Made use of the Secret Service (via [`libsecret`](https://gnome.pages.gitlab.gnome.org/libsecret)) to store them. I store the token as a secret and use the user ID as an attribute (which is required to differentiate secrets from each other). Now that I've done it, I wonder if it's fine to just store the ID in the settings and use the service name as an attribute.
+
+#### Time tracking {#31#time-tracking}
+
+- Today [07:47:01]
+    - Producing [05:42:54]
+        - Software engineering [05:42:54]
+            - [Kirk](../../git.md#kirk) [05:42:54]
+    - Consuming [02:04:07]
+        - Reading [02:04:07]
+            - [1991] [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand) [02:04:07]
+
 ### Sunday, 30 {#30}
 
 #### [Kirk](../../git.md#kirk) {#30#kirk}
