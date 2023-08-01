@@ -45,6 +45,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 - [2023] [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs) ⭐
 - [2023] [Stopping evaluation from blocking in Nix](https://jade.fyi/blog/nix-evaluation-blocking)
 - [2022] [Building containers with Nix and Gitlab CI](https://scvalex.net/posts/68) ⭐
+- [2022] [Debugging Closure Sizes Graphically with nix-closure-graph](https://jade.fyi/nixcon2022) ⭐
+- [2022] [Dirty Nix flake quality-of-life hacks](https://siraben.dev/2022/02/13/nix-flake-hacks.html) ⭐
 - [2022] [Nix Flakes: an Introduction](https://xeiaso.net/blog/nix-flakes-1-2022-02-21)
 - [2022] [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition)
 - [2021] [A minimal nix-shell](https://fzakaria.com/2021/08/02/a-minimal-nix-shell.html)
