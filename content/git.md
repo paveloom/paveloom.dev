@@ -279,6 +279,12 @@ A list of my public Git repositories.
 
     *`#rust` <code style="color: var(--md-primary-fg-color)">#unfinished</code>*
 
+#### `mini-database-server-in-zig` [:simple-github:](https://github.com/paveloom/mini-database-server-in-zig)
+
+:   Mini database server in Zig
+
+    *`#zig` `#database`*
+
 #### `old_wiki` [:simple-codeberg:](https://codeberg.org/paveloom/old_wiki) [:simple-github:](https://github.com/paveloom/old_wiki) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/old_wiki)
 
 :   An old version of Pensieve, powered by Franklin
