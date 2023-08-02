@@ -1,5 +1,23 @@
 # August 2023
 
+### Wednesday, 2 {#2}
+
+#### [Kirk](../../git.md#kirk) {#2#kirk}
+
+Figured out how to wrap a chain of asynchronous operations into a new asynchronous operation and pass data in between using [`GTask`](https://docs.gtk.org/gio/class.Task.html). Wrote a lot of asynchronous functions for logging in [Qobuz](https://www.qobuz.com). By the end of the day I was able to get a response! Albeit, sometimes I get it, and sometimes I don't. I think this might be related to a socket not being closed, I once had a similar issue with [`mini-database-server-in-zig`](../../git.md#mini-database-server-in-zig), but never found out why Linux be like that.
+
+#### Time tracking {#2#time-tracking}
+
+- Today [06:06:43]
+    - Producing [05:01:39]
+        - Software engineering [05:01:39]
+            - [Kirk](../../git.md#kirk) [05:01:39]
+    - Consuming [01:05:04]
+        - Research [01:05:04]
+            - Quantifying time investment [01:05:04]
+                - [2021] [My year in data](https://samplesize.one/blog/posts/my_year_in_data)
+                - [2017] [Time Well Spent](https://putanumonit.com/2017/05/09/time-well-spent)
+
 ### Tuesday, 1 {#1}
 
 #### [Kirk](../../git.md#kirk) {#1#kirk}
