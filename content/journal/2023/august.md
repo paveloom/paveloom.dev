@@ -1,5 +1,25 @@
 # August 2023
 
+### Thursday, 3 {#3}
+
+#### [Kirk](../../git.md#kirk) {#3#kirk}
+
+Found out what was causing the issue: I had to switch from the [`g_input_stream_read_all_async`](https://docs.gtk.org/gio/method.InputStream.read_all_async.html) function to the [`g_input_stream_read_async`](https://docs.gtk.org/gio/method.InputStream.read_async.html) function. Seems like it was trying to read it all and failing for some reason until the timeout.
+
+Got the authentication working! Added a simple light bulb that changes color to indicate the success of the verification.
+
+#### Time tracking {#3#time-tracking}
+
+- Today [06:55:15]
+    - Producing [04:23:48]
+        - Software engineering [04:23:48]
+            - [Kirk](../../git.md#kirk) [04:23:48]
+    - Consuming [02:31:27]
+        - Reading [01:44:43]
+            - [1991] [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand) [01:44:43]
+        - Research [00:46:44]
+            - [The Monthly method](https://monthlymethod.com) and their resources [00:46:44]
+
 ### Wednesday, 2 {#2}
 
 #### [Kirk](../../git.md#kirk) {#2#kirk}
