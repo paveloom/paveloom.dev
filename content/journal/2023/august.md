@@ -1,5 +1,23 @@
 # August 2023
 
+### Friday, 4 {#4}
+
+#### [Kirk](../../git.md#kirk) {#4#kirk}
+
+Committed the code that makes the authorization button work. Switched to using [`Adw.Toast`](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest/class.Toast.html)s for notifying the user about the results. Also, made it so that the request can be cancelled using the same button.
+
+#### Time tracking {#3#time-tracking}
+
+- Today [06:23:10]
+    - Producing [03:57:02]
+        - Software engineering [03:57:02]
+            - [Kirk](../../git.md#kirk) [03:57:02]
+    - Consuming [02:26:08]
+        - Reading [01:24:05]
+            - [1991] [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand) [01:24:05]
+        - Research [01:02:03]
+            - [The Monthly method](https://monthlymethod.com) and their resources [01:02:03]
+
 ### Thursday, 3 {#3}
 
 #### [Kirk](../../git.md#kirk) {#3#kirk}
