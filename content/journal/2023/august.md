@@ -1,5 +1,19 @@
 # August 2023
 
+### Saturday, 5 {#5}
+
+#### [Kirk](../../git.md#kirk) {#5#kirk}
+
+Was working on reducing the size of the closure of the Nix package. Turned out to be quite an involved process! Found out the [`nix-tree`](https://github.com/utdemir/nix-tree) tool to be very useful to quickly navigate the tree of requisites (it supports derivations, too!). Also, related to this, found out that the latest version of [`nix-direnv`](https://github.com/nix-community/nix-direnv) supports manual reload of the Nix environment.
+
+#### Time tracking {#3#time-tracking}
+
+- Today [03:07:09]
+    - Producing [03:07:09]
+        - Software engineering [03:07:09]
+            - [Kirk](../../git.md#kirk) [02:29:20]
+            - [Updating Picard in Nixpkgs](https://github.com/NixOS/nixpkgs/pull/247321) [00:37:49]
+
 ### Friday, 4 {#4}
 
 #### [Kirk](../../git.md#kirk) {#4#kirk}
