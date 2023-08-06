@@ -1,12 +1,27 @@
 # August 2023
 
+### Sunday, 6 {#6}
+
+#### [Kirk](../../git.md#kirk) {#6#kirk}
+
+I was able to reduce the closure size of the *output* of the Nix package from 875 MiB to approximately 200 MiB by just removing the [GStreamer media backend](https://gitlab.gnome.org/GNOME/gtk/-/blob/4.10.4/meson_options.txt#L37-40). I mean, that's just a single flag! Ironically, as I edit the derivations of more and more packages, the closure size of the Kirk's *derivation* gets bigger (e.g., [`librsvg`](https://gitlab.gnome.org/GNOME/librsvg) requires Rust, so it's part of the closure now).
+
+Found another neat tool: [`nix-output-monitor`](https://github.com/maralorn/nix-output-monitor). It shows you an active part of the graph of the derivation's closure while building.
+
+#### Time tracking {#6#time-tracking}
+
+- Today [02:00:51]
+    - Producing [02:00:51]
+        - Software engineering [02:00:51]
+            - [Kirk](../../git.md#kirk) [02:00:51]
+
 ### Saturday, 5 {#5}
 
 #### [Kirk](../../git.md#kirk) {#5#kirk}
 
 Was working on reducing the size of the closure of the Nix package. Turned out to be quite an involved process! Found out the [`nix-tree`](https://github.com/utdemir/nix-tree) tool to be very useful to quickly navigate the tree of requisites (it supports derivations, too!). Also, related to this, found out that the latest version of [`nix-direnv`](https://github.com/nix-community/nix-direnv) supports manual reload of the Nix environment.
 
-#### Time tracking {#3#time-tracking}
+#### Time tracking {#5#time-tracking}
 
 - Today [03:07:09]
     - Producing [03:07:09]
@@ -20,7 +35,7 @@ Was working on reducing the size of the closure of the Nix package. Turned out t
 
 Committed the code that makes the authorization button work. Switched to using [`Adw.Toast`](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest/class.Toast.html)s for notifying the user about the results. Also, made it so that the request can be cancelled using the same button.
 
-#### Time tracking {#3#time-tracking}
+#### Time tracking {#4#time-tracking}
 
 - Today [06:23:10]
     - Producing [03:57:02]
