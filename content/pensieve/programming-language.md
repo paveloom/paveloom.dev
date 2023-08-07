@@ -36,10 +36,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Wuffs](https://github.com/google/wuffs)
 - [Zig](zig.md) ⭐
 
-#### Books
-- [Crafting Interpreters](https://craftinginterpreters.com) ⭐
-
 #### Community
+
+##### Books
+- [Crafting Interpreters](https://craftinginterpreters.com) ⭐
 
 ##### Sites
 - [Languish](https://tjpalmer.github.io/languish): Programming Language Trends ⭐
