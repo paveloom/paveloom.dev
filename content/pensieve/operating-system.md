@@ -21,4 +21,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Operating_system).
     - [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
 
 #### Books
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP) ⭐
+- [Modern Operating Systems](https://en.wikipedia.org/wiki/Modern_Operating_Systems)
+- [Nand to Tetris](https://www.nand2tetris.org)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP)
