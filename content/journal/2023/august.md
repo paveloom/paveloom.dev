@@ -1,5 +1,23 @@
 # August 2023
 
+### Monday, 7 {#7}
+
+#### [Kirk](../../git.md#kirk) {#7#kirk}
+
+I scrapped the idea of reducing the closure size of the output of the Nix package. My overlays affected not only my package's and its derivation's closures, but also the `devShell`'s closures, which I completely didn't think about. At some point I started compiling [WebKit](https://webkit.org) from scratch (because it has [Cairo](https://cairographics.org) as a requisite, which I had an overlay for). As you can imagine, this isn't good (too long to compile). This made me realize that the idea of a generic runtime is much better for distributing an application (which is what [Flatpak](https://www.flatpak.org) is known for). Nix flakes allow me to lock [Nixpkgs](https://github.com/NixOS/nixpkgs) to a specific version, and then consumers can override it to their version if they'd like. Using the locked version would mean getting a guaranteed build at the price of downloading and storing (highly likely) duplicated dependencies. Overriding the input would mean using Nixpkgs as a runtime, with shared libraries updated at your will (which can potentially break the application). I can still support both of these choices, but by favoring the latter option (which would mean not overlaying anything) I don't have to compile the world every time I update the lock file.
+
+Also, Nix makes it easy to fiddle with the derivation if necessary (which is what Flatpak can't provide), and there are no annoyances because of sandboxing.
+
+#### Time tracking {#7#time-tracking}
+
+- Today [03:17:36]
+    - Producing [02:42:22]
+        - Software engineering [02:42:22]
+            - [Kirk](../../git.md#kirk) [02:42:22]
+    - Consuming [00:35:14]
+        - Research [00:35:14]
+            - [The Monthly method](https://monthlymethod.com) and their resources [00:35:14]
+
 ### Sunday, 6 {#6}
 
 #### [Kirk](../../git.md#kirk) {#6#kirk}
