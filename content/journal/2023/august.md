@@ -1,5 +1,19 @@
 # August 2023
 
+### Thursday, 10 {#10}
+
+#### Time tracking {#7#time-tracking}
+
+- Today [03:28:15]
+    - Producing [00:39:48]
+        - Software engineering [00:39:48]
+            - [Updating the Zigmod Nix package](https://github.com/NixOS/nixpkgs/pull/217229) [00:39:48]
+    - Consuming [02:48:27]
+        - Research [02:32:06]
+            - Learning [Wireshark](https://www.wireshark.org) [02:32:06]
+        - Watching [00:16:21]
+            - [The Rubin Report: Objectivism on Happiness](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMtazmdDur38Fb9of1wpW2Sb) [00:16:21]
+
 ### Monday, 7 {#7}
 
 #### [Kirk](../../git.md#kirk) {#7#kirk}
