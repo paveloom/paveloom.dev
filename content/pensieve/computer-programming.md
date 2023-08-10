@@ -41,6 +41,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming).
 
 ##### Text
 - [Just for Fun. No, Really](https://justforfunnoreally.dev)
+- [Low-Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 - [Programing Best Practices 2023](https://github.com/dereknguyen269/programing-best-practices-2023)
 - [2023] [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html) ⭐
 - [2023] [When to comment that code](https://drewdevault.com/2023/03/09/2023-03-09-Comment-or-no-comment.html) ⭐
