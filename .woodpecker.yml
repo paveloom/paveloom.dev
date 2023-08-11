@@ -1,11 +1,13 @@
-branches: master
+when:
+  - event: push
+    branch: master
 clone:
   git:
     image: woodpeckerci/plugin-git
     settings:
       depth: 0
       partial: false
-pipeline:
+steps:
   build:
     image: paveloom/site
     secrets: [mail, token]
@@ -28,5 +30,3 @@ pipeline:
       - |
         GIT_SEQUENCE_EDITOR=: git rebase -i --autosquash --root pages
       - git push -f origin pages
-    when:
-      event: push
