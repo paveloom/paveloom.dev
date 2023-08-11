@@ -1,8 +1,21 @@
 # August 2023
 
+### Friday, 11 {#11}
+
+#### Time tracking {#11#time-tracking}
+
+- Today [04:28:43]
+    - Consuming [04:28:43]
+        - Research [02:27:49]
+            - Learning [Wireshark](https://www.wireshark.org) [02:27:49]
+        - Reading [01:18:59]
+            - [1991] [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand) [01:18:59]
+        - Watching [00:41:55]
+            - [2019] [The Rubin Report: Objectivism on Happiness](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMtazmdDur38Fb9of1wpW2Sb) [00:41:55]
+
 ### Thursday, 10 {#10}
 
-#### Time tracking {#7#time-tracking}
+#### Time tracking {#10#time-tracking}
 
 - Today [03:28:15]
     - Producing [00:39:48]
@@ -12,7 +25,7 @@
         - Research [02:32:06]
             - Learning [Wireshark](https://www.wireshark.org) [02:32:06]
         - Watching [00:16:21]
-            - [The Rubin Report: Objectivism on Happiness](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMtazmdDur38Fb9of1wpW2Sb) [00:16:21]
+            - [2019] [The Rubin Report: Objectivism on Happiness](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMtazmdDur38Fb9of1wpW2Sb) [00:16:21]
 
 ### Monday, 7 {#7}
 
