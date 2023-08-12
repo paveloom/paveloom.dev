@@ -1,5 +1,14 @@
 # August 2023
 
+### Saturday, 12 {#12}
+
+#### Time tracking {#12#time-tracking}
+
+- Today [02:10:09]
+    - Consuming [02:10:09]
+        - Research [02:10:09]
+            - Learning [Wireshark](https://www.wireshark.org) [02:10:09]
+
 ### Friday, 11 {#11}
 
 #### Time tracking {#11#time-tracking}
