@@ -1,5 +1,24 @@
 # August 2023
 
+### Sunday, 13 {#13}
+
+#### Wi-Fi power management
+
+I think I found the reason my network speed was getting lower on idle: presumably, it's a Linux module that enables Wi-Fi power management ([dynamic power-saving](https://www.ctrl.blog/entry/linux-wifi-dpm-latency.html)). Here's a quick fix via [NetworkManager](https://www.networkmanager.dev) on [NixOS](https://nixos.org):
+
+```nix
+networking.networkmanager.wifi.powersave = false;
+```
+
+#### Time tracking {#13#time-tracking}
+
+- Today [03:04:43]
+    - Consuming [03:04:43]
+        - Research [02:44:02]
+            - Learning [Wireshark](https://www.wireshark.org) [02:44:02]
+        - Reading [00:20:41]
+            - [1991] [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand) [00:20:41]
+
 ### Saturday, 12 {#12}
 
 #### Time tracking {#12#time-tracking}
