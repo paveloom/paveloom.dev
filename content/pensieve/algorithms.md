@@ -11,14 +11,22 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 - [Introduction to Algorithms](https://www.amazon.com/dp/0262033844)
 
 ##### Sites
+- [AlgoExpert](https://www.algoexpert.io)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com)
 - [CSES Problem Set](https://cses.fi/problemset)
+- [LeetCode](https://leetcode.com) ⭐
+    - [NeetCode](https://neetcode.io) ⭐
 - [Алгоритмика](https://ru.algorithmica.org)
 
 #### Resources
 
 ##### Text
-- [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
+- [Therapy for Leetcode Warriors](https://leetcodetherapy.com)
+- [2023] [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html) ⭐
+- [2023] [Role Of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html) ⭐
+- [2023] [Как правильно решать задачи на LeetCode: подробный гайд по тренажёру для программистов](https://skillbox.ru/media/code/kak-pravilno-reshat-zadachi-na-leetcode-podrobnyy-gayd-po-trenazhyeru-dlya-programmistov)
+- [2022] [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
+- [2019] [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 ##### Video
 - [2023] [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms)
