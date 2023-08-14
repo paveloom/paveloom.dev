@@ -102,6 +102,7 @@ search:
                 - [Key derivation function](pensieve/key-derivation-function.md)
             - [Sandbox](pensieve/sandbox.md)
         - [Hardware](pensieve/hardware.md)
+            - [Central processing unit](pensieve/central-processing-unit.md)
             - [Computer keyboard](pensieve/computer-keyboard.md)
                 - [Planck EZ](pensieve/planck-ez.md)
         - [Mathematics of computing](pensieve/mathematics-of-computing.md)
