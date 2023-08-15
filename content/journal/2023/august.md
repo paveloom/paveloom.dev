@@ -1,5 +1,20 @@
 # August 2023
 
+### Tuesday, 15 {#15}
+
+#### Wireshark
+
+Finally, finished learning [Wireshark](https://www.wireshark.org).
+
+#### Time tracking {#15#time-tracking}
+
+- Today [03:29:26]
+    - Consuming [03:29:26]
+        - Research [01:58:07]
+            - Learning [Wireshark](https://www.wireshark.org) [01:58:07]
+        - Reading [01:31:19]
+            - [1991] [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand) [01:31:19]
+
 ### Sunday, 13 {#13}
 
 #### Wi-Fi power management
