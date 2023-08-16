@@ -1,5 +1,15 @@
 # August 2023
 
+### Wednesday, 16 {#16}
+
+#### [Kirk](../../git.md#kirk) {#16#kirk}
+
+Used [Wireshark](https://www.wireshark.org) to find out that my login conversation was closing abruptly (the [connection termination phase](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Protocol_operation) was just skipped each time). Turns out that one has to explicitly enable it when using GIO: via the [`g_tcp_connection_set_graceful_disconnect`](https://docs.gtk.org/gio/method.TcpConnection.set_graceful_disconnect.html) function.
+
+#### Time tracking {#16#time-tracking}
+
+I will stop tracking my time. Putting the stats at the end of the day became mechanical and doesn't seem like something that affects me in any way anymore. If I have something scheduled, I will do it anyway, if possible. It also doesn't represent some of my commitments that I find somewhat valuable. For example, today I've reorganized [my NixOS config](https://github.com/paveloom/dotfiles), which took quite a while. Then I created a couple of pull requests to update [KeePassXC](https://github.com/NixOS/nixpkgs/pull/249505) and [Picard](https://github.com/NixOS/nixpkgs/pull/249507) in Nixpkgs. I would call this type of activity *maintenance*, and I usually don't log maintenance tasks, because it always feels like it won't take that much time (and then it does).
+
 ### Tuesday, 15 {#15}
 
 #### Wireshark
