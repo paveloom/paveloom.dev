@@ -1,5 +1,13 @@
 # August 2023
 
+### Thursday, 17 {#17}
+
+#### [Kirk](../../git.md#kirk) {#17#kirk}
+
+Read a bit more on [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol). Found out that I could just use the [`libsoup`](https://libsoup.org/libsoup-3.0/index.html) library to make HTTP conversations. I would also like to switch to [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2) over [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) if [Qobuz](https://www.qobuz.com/us-en/shop) supports it. I don't even know how to quickly test it, since it seems to work completely differently compared to [HTTP/1.1](https://en.wikipedia.org/wiki/HTTP) (tried with [Netcat](https://en.wikipedia.org/wiki/Netcat)). Gotta learn a lot of networking stuff!
+
+Also, I think I found a bug in [GIO](https://docs.gtk.org/gio): the [`GTask`](https://docs.gtk.org/gio/class.Task.html) in the [`g_tcp_connection_close_async`](https://gitlab.gnome.org/GNOME/glib/-/blob/95baa8dcc5a08ff04188de0a7902aa0fcec2699e/gio/gtcpconnection.c#L250) function (which is allocated when graceful disconnects are enabled) is never freed if there are no errors. Usually, one would put a `g_object_unref(task)` after any of the `g_task_return_*` functions.
+
 ### Wednesday, 16 {#16}
 
 #### [Kirk](../../git.md#kirk) {#16#kirk}
