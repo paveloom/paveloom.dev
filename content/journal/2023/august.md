@@ -1,5 +1,11 @@
 # August 2023
 
+### Friday, 18 {#18}
+
+#### HoloCure
+
+Today I played [HoloCure](https://kay-yu.itch.io/holocure) and found out about [Hololive](https://en.wikipedia.org/wiki/Hololive_Production). The game is cool, but I'm not sure about the Hololive's content yet.
+
 ### Thursday, 17 {#17}
 
 #### [Kirk](../../git.md#kirk) {#17#kirk}
