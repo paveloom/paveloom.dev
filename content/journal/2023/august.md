@@ -1,8 +1,14 @@
 # August 2023
 
+### Saturday, 19 {#19}
+
+#### HoloCure {#19#holocure}
+
+Aight, the [IRyS strat](https://www.youtube.com/watch?v=LD_67QBTNtE) works, although I was able to get maximum 250K HoloCoins on S1 (Hard). Didn't have everything updated yet, though. YAGOOs kill me rather quickly after the 30 minute mark.
+
 ### Friday, 18 {#18}
 
-#### HoloCure
+#### HoloCure {#18#holocure}
 
 Today I played [HoloCure](https://kay-yu.itch.io/holocure) and found out about [Hololive](https://en.wikipedia.org/wiki/Hololive_Production). The game is cool, but I'm not sure about the Hololive's content yet.
 
