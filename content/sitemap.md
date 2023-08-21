@@ -220,6 +220,8 @@ search:
                     - [Cryptocurrency](pensieve/cryptocurrency.md)
                         - [Ethereum](pensieve/ethereum.md)
                         - [Monero](pensieve/monero.md)
+        - [Linguistics](pensieve/linguistics.md)
+            - [Japanese language](pensieve/japanese-language.md)
         - [Psychology](pensieve/psychology.md)
             - [Human intelligence](pensieve/human-intelligence.md)
                 - [Motivation](pensieve/motivation.md)
