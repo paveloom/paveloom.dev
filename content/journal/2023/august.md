@@ -1,10 +1,18 @@
 # August 2023
 
+### Monday, 21 {#21}
+
+#### Japanese {#21#japanese}
+
+Started learning Japanese today. Kind of because of [Hololive](https://en.wikipedia.org/wiki/Hololive_Production), but also because of a vastly different culture. I have [Nyarons](https://nyarons.bandcamp.com) in my music collection and can't understand their songs, but they sound so cool! Anyway, I've started with [GEIKI](https://genki3.japantimes.co.jp/en) as a complete beginner. This is my second attempt to approach the language, though.
+
+Learned a bunch about [IMFs](https://wiki.archlinux.org/title/Localization/Japanese#Input_Method_Framework_(IMF)) and [IMEs](https://wiki.archlinux.org/title/Localization/Japanese#Input_Method_Editor_(IME)). They are pretty easy to set up on [NixOS](https://nixos.org/manual/nixos/stable/index.html#module-services-input-methods): I chose to use the [Mozc](https://github.com/google/mozc) IME. I've set it up to use the US layout in the Direct Input mode. This allows me to have English and Japanese in one layout! I've also installed the [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) extension in [Librewolf](https://librewolf.net), so that I can get explanations for how words are constructed by hovering over them.
+
 ### Saturday, 19 {#19}
 
 #### HoloCure {#19#holocure}
 
-Aight, the [IRyS strat](https://www.youtube.com/watch?v=LD_67QBTNtE) works, although I was able to get maximum 250K HoloCoins on S1 (Hard). Didn't have everything updated yet, though. YAGOOs kill me rather quickly after the 30 minute mark.
+Aight, the [IRyS strat](https://www.youtube.com/watch?v=LD_67QBTNtE) works, although I was able to get maximum 250K HoloCoins on S1 (Hard). Didn't have everything upgraded yet, though. YAGOOs kill me rather quickly after the 30 minute mark.
 
 ### Friday, 18 {#18}
 
