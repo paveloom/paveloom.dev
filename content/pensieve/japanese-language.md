@@ -16,8 +16,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
     - [Wiki](https://www.reddit.com/r/LearnJapanese/wiki/index)
 
 ##### Sites
-- [Real Kana](https://realkana.com)
-- [Real Kanji](https://realkanji.com)
+- [Real Kana](https://realkana.com) ⭐
+- [Real Kanji](https://realkanji.com) ⭐
 - [Renshuu](https://www.renshuu.org)
 - [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org)
 
