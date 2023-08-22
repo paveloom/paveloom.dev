@@ -1,5 +1,11 @@
 # August 2023
 
+### Tuesday, 22 {#22}
+
+#### Japanese {#22#japanese}
+
+Aight, I memorized [Hiragana](https://en.wikipedia.org/wiki/Hiragana) (basic syllables + syllables with diacritical marks + the contracted sounds). Will need a bit more practice, of course. Speaking of which, I found the [Real Kana](https://realkana.com) website to be immensely useful for learning and practicing the syllables.
+
 ### Monday, 21 {#21}
 
 #### Japanese {#21#japanese}
