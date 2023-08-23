@@ -1,5 +1,15 @@
 # August 2023
 
+### Wednesday, 23 {#23}
+
+#### Japanese {#23#japanese}
+
+Memorized [Katakana](https://en.wikipedia.org/wiki/Katakana), too. Although, admittedly, it's much easier to read the syllables than to write them by hand (for both syllabaries). There's still some effort required for deciphering, too. Especially when diacritics and digraphs are involved. Some reading is necessary.
+
+#### Maintenance {#23#maintenance}
+
+Updated my site to use the [new built-in plugin](https://github.com/squidfunk/mkdocs-material/releases/tag/9.2.0). Created a [pull request](https://github.com/NixOS/nixpkgs/pull/250955) to update [Quod Libet](https://quodlibet.readthedocs.io) in [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
 ### Tuesday, 22 {#22}
 
 #### Japanese {#22#japanese}
