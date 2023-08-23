@@ -6,7 +6,7 @@ groups = ["default"]
 cross_platform = true
 static_urls = false
 lock_version = "4.3"
-content_hash = "sha256:30c5e9821d6dfe1dc6df796960d7c9e207c9aa306cbfae0c38e363e8879936a8"
+content_hash = "sha256:acaeb538d50c6c3261362cf5c175f7027c53cfcc7141c5cc50dd1a9cce199237"
 
 [[package]]
 name = "babel"
@@ -131,6 +131,14 @@ dependencies = [
 files = [
     {file = "GitPython-3.1.29-py3-none-any.whl", hash = "sha256:41eea0deec2deea139b459ac03656f0dd28fc4a3387240ec1d3c259a2c47850f"},
     {file = "GitPython-3.1.29.tar.gz", hash = "sha256:cc36bfc4a3f913e66805a28e84703e419d9c264c1077e537b54f0e1af85dbefd"},
+]
+
+[[package]]
+name = "htmlmin"
+version = "0.1.12"
+summary = "An HTML Minifier"
+files = [
+    {file = "htmlmin-0.1.12.tar.gz", hash = "sha256:50c1ef4630374a5d723900096a961cff426dff46b48f34d194a81bbe14eca178"},
 ]
 
 [[package]]
@@ -373,22 +381,6 @@ dependencies = [
 files = [
     {file = "mkdocs-1.5.2-py3-none-any.whl", hash = "sha256:60a62538519c2e96fe8426654a67ee177350451616118a41596ae7c876bb7eac"},
     {file = "mkdocs-1.5.2.tar.gz", hash = "sha256:70d0da09c26cff288852471be03c23f0f521fc15cf16ac89c7a3bfb9ae8d24f9"},
-]
-
-[[package]]
-name = "mkdocs-blogging-plugin"
-version = "2.2.11"
-requires_python = ">=3.6"
-summary = "Mkdocs plugin that generates a blog index page sorted by creation date."
-dependencies = [
-    "GitPython>=3.1.18",
-    "babel>=2.7.0",
-    "jinja2>=2",
-    "mkdocs>=1.0",
-]
-files = [
-    {file = "mkdocs-blogging-plugin-2.2.11.tar.gz", hash = "sha256:91b3ebc1ee3870958a0f9304d985f73a8e170a1f8d17948488415fa1a4257b2e"},
-    {file = "mkdocs_blogging_plugin-2.2.11-py3-none-any.whl", hash = "sha256:7e0f14e5a5d9d7fa106ee014b04a49e2fdb5ffe70a0026106dceb79930ba8ac2"},
 ]
 
 [[package]]

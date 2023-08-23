@@ -1,4 +1,10 @@
+---
+date: 2022-03-11
+---
+
 # How to set up a firewall for services behind WireGuard?
+
+<!-- separator -->
 
 This guide expects that you've already set up WireGuard as a VPN. That is, you forward the traffic through the network interface of your server (e.g., the [`wireguard-install`](https://github.com/angristan/wireguard-install) script adds `PostUp` and `PostDown` rules for that automatically).
 

@@ -1,4 +1,10 @@
+---
+date: 2022-05-07
+---
+
 # How to manage websites or services under a Handshake domain?
+
+<!-- separator -->
 
 This note is a rewrite of a [series of articles](https://blog.htools.work/posts/hns-pdns-nginx) on a similar theme by [Rithvik Vibhu](https://github.com/rithvikvibhu). I mirror those for redundancy (this knowledge is too niche to have only one decent source, so let there be a copy!), but also I show how to achieve the same results with [Caddy](https://caddyserver.com) and expand on how to deal with subdomains. So, alternative title: HNS + PowerDNS + Caddy + DANE.
 

@@ -1,4 +1,10 @@
+---
+date: 2022-05-22
+---
+
 # How to install Spotify without ads on Linux?
+
+<!-- separator -->
 
 I recommend using the official Flatpak package. Install it from [Flathub](https://flathub.org/apps/details/com.spotify.Client), launch it and login into your account. This will create session files which we will need later. After that, close the application.
 

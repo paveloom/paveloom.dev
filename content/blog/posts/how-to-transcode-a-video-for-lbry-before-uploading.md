@@ -1,4 +1,12 @@
+---
+date:
+  created: 2020-12-01
+  updated: 2023-06-25
+---
+
 # How to transcode a video for LBRY before uploading?
+
+<!-- separator -->
 
 The built-in video transcoding functionality in the LBRY desktop application starts an
 FFmpeg utility process with the following parameters:

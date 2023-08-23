@@ -205,7 +205,7 @@ Then, I was able to extract the scenes from a partially downloaded file via FFmp
 ffmpeg -y -ss 01:14:40 -i input.mkv -t 40 -c copy -map 0 "cut.mkv"
 ```
 
-After that, I did a more precise cut, splitting on I-frames, as I described [here](../../blog/ffmpeg-notes.md#cutting-an-m2ts-video-starting-with-an-i-frame). Turns out chapters and subtitles can make the duration of the resulting file longer, so I have added a note about that.
+After that, I did a more precise cut, splitting on I-frames, as I described [here](../../blog/posts/ffmpeg-notes.md#cutting-an-m2ts-video-starting-with-an-i-frame). Turns out chapters and subtitles can make the duration of the resulting file longer, so I have added a note about that.
 
 Also, apparently LBRY's player converts [HDR](https://en.wikipedia.org/wiki/High_dynamic_range) to [SDR](https://en.wikipedia.org/wiki/Standard-dynamic-range_video) just fine (Odysee's grays it out, though).
 

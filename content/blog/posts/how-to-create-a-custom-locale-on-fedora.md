@@ -1,4 +1,10 @@
+---
+date: 2022-02-08
+---
+
 # How to create a custom locale on Fedora?
+
+<!-- separator -->
 
 First, let's get a template.
 

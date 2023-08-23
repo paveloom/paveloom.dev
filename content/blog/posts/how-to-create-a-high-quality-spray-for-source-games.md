@@ -1,4 +1,10 @@
+---
+date: 2021-07-20
+---
+
 # How to create a high quality spray for Source games?
+
+<!-- separator -->
 
 First, prepare an image: you'll need to make it square. Optionally, you can also resize it
 to the sides of power of 2, with the 512 pixels maximum.

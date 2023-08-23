@@ -1,4 +1,10 @@
+---
+date: 2022-01-20
+---
+
 # How to create a Samba share?
+
+<!-- separator -->
 
 Make sure you have [Samba](https://wiki.samba.org/index.php/Installing_Samba) installed.
 

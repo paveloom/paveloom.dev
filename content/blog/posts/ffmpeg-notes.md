@@ -1,4 +1,10 @@
+---
+date: 2022-05-22
+---
+
 # FFmpeg notes
+
+<!-- separator -->
 
 These are short notes on how to do some tasks using FFmpeg.
 

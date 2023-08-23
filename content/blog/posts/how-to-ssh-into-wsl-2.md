@@ -1,4 +1,12 @@
+---
+date:
+  created: 2020-12-08
+  updated: 2021-04-19
+---
+
 # How to SSH into WSL 2?
+
+<!-- separator -->
 
 This guide is explicitly for the second version of WSL. All the following actions should
 be performed inside a WSL environment until told otherwise.

@@ -1,4 +1,10 @@
+---
+date: 2022-03-11
+---
+
 # How to host a VPN using WireGuard?
+
+<!-- separator -->
 
 First of all, you need a private server. Depending on your needs, you can host a VPN (Virtual Private Network) either locally or by renting a VPS (Virtual Private Server), either at home or abroad. The latter case is often used to avoid censoring at home. In case you go this route, you should also make sure you're choosing a *private* VPS provider. I can personally recommend [1984](https://www.1984hosting.com).
 

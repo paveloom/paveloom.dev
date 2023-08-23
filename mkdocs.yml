@@ -6,6 +6,7 @@ site_dir: public
 repo_name: Source code
 theme:
   name: material
+  custom_dir: overrides
   favicon: assets/favicon.svg
   logo: assets/favicon.svg
   font: false
@@ -73,16 +74,17 @@ markdown_extensions:
   - toc:
       permalink: "#"
 plugins:
-  - blogging:
-      dirs:
-        - blog
-      paging: false
-      time_format: '%Y-%m-%d'
+  - blog:
+      archive: false
+      categories: false
+      pagination_per_page: 99
+      post_excerpt_separator: <!-- separator -->
+      post_url_format: "{slug}"
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|\.(?!\d)|&[lg]t;'
   - git-revision-date-localized:
       exclude:
-        - blog/README.md
+        - blog/*.md
         - journal/README.md
         - pensieve/README.md
   - literate-nav:
