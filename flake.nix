@@ -9,12 +9,14 @@
   }:
     flake-utils.lib.eachDefaultSystem (system: let
       pkgs = nixpkgs.legacyPackages.${system};
-      nativeBuildInputs = [
-        pkgs.bashInteractive
-        pkgs.coreutils
-        pkgs.git
-        pkgs.pdm
+
+      nativeBuildInputs = with pkgs; [
+        bashInteractive
+        coreutils
+        git
+        pdm
       ];
+
       buildImage = {tag}: let
         env = pkgs.buildEnv {
           name = "build-inputs";
@@ -46,13 +48,15 @@
       devShells.default = pkgs.mkShell {
         packages =
           nativeBuildInputs
-          ++ [
-            pkgs.ltex-ls
-            pkgs.runc
-            pkgs.shellcheck
-            pkgs.yamlfmt
-            pkgs.yamllint
-          ];
+          ++ (with pkgs; [
+            alejandra
+            ltex-ls
+            nil
+            runc
+            shellcheck
+            yamlfmt
+            yamllint
+          ]);
       };
       packages.image = buildImage {
         tag = "site";

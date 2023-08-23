@@ -190,7 +190,7 @@ And I still don't understand why are they called Maniac (besides being based on 
 
 #### Star Wars {#15#star-wars}
 
-Preparing the "[Hello there!](https://odysee.com/@paveloom:e/Hello-there:cf)" and "[Unlimited power!](https://odysee.com/@paveloom:e/Unlimited-Power:b)" clips today so I can link to them on my [about](about) page.
+Preparing the "[Hello there!](https://odysee.com/@paveloom:e/Hello-there:cf)" and "[Unlimited power!](https://odysee.com/@paveloom:e/Unlimited-Power:b)" clips today, so I can link to them on my [about](../../README.md) page.
 
 One of the features that I miss from [µTorrent](https://www.utorrent.com) while using [qBittorrent](https://www.qbittorrent.org) is media streaming. It allows one to seek a video file while it is being sequentially downloaded, and by doing so changing *what part* of the file is being downloaded. This is very useful for extracting small clips out of big releases that are otherwise too big to download in the whole.
 
@@ -205,7 +205,7 @@ Then, I was able to extract the scenes from a partially downloaded file via FFmp
 ffmpeg -y -ss 01:14:40 -i input.mkv -t 40 -c copy -map 0 "cut.mkv"
 ```
 
-After that, I did a more precise cut, splitting on I-frames, as I described [here](../../../blog/ffmpeg-notes/#cutting-an-m2ts-video-starting-with-an-i-frame). Turns out chapters and subtitles can make the duration of the resulting file longer, so I have added a note about that.
+After that, I did a more precise cut, splitting on I-frames, as I described [here](../../blog/ffmpeg-notes.md#cutting-an-m2ts-video-starting-with-an-i-frame). Turns out chapters and subtitles can make the duration of the resulting file longer, so I have added a note about that.
 
 Also, apparently LBRY's player converts [HDR](https://en.wikipedia.org/wiki/High_dynamic_range) to [SDR](https://en.wikipedia.org/wiki/Standard-dynamic-range_video) just fine (Odysee's grays it out, though).
 
