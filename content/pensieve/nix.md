@@ -25,6 +25,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 #### Community
 
 ##### Sites
+- [FlakeHub](https://flakehub.com)
 - [Nix package versions](https://lazamar.co.uk/nix-versions)
 
 ##### Documentation
