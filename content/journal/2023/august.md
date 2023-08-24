@@ -1,5 +1,13 @@
 # August 2023
 
+### Thursday, 24 {#24}
+
+#### Japanese {#24#japanese}
+
+Well, now I can thank for the food.
+
+よろしくおねがいします！
+
 ### Wednesday, 23 {#23}
 
 #### Japanese {#23#japanese}
