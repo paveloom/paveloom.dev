@@ -1,5 +1,17 @@
 # August 2023
 
+### Friday, 25 {#25}
+
+#### Japanese {#25#japanese}
+
+Damn, found out I missed pre-lesson exercises in other places of the textbook and workbook (4 places to look in total, plus 2 in the Answer Key). That, and I found even more online resources today. Plus, I will be using [Anki](https://apps.ankiweb.net) for expanding vocabulary, eventually.
+
+Also, I found a [tier list](https://www.reddit.com/r/Hololive/comments/iqlzwv/recommendations_for_learning_japanese/g4t3wpq) of the [Hololive](https://en.wikipedia.org/wiki/Hololive_Production) members ranked by how easy it is to comprehend what they're saying. I do have [Okayu's Minecraft stream](https://www.youtube.com/watch?v=ntgtxLmF2r4) open in a tab now...
+
+#### Maintenance {#25#maintenance}
+
+I removed [`flake-utils`](https://github.com/numtide/flake-utils) from my [`dotfiles`](../../git.md#dotfiles) Nix flake today (a [bad practice](https://ayats.org/blog/no-flake-utils)). Also, I don't pass `pkgs` to the `nixosSystem` anymore (also a [bad practice](https://discourse.nixos.org/t/allowunfree-doesnt-work-with-flake-managed-system/21798/14)). Now I provide as an output the `nixosConfigurations` attribute set instead of the `packages.${system}.nixosConfigurations` attribute set.
+
 ### Thursday, 24 {#24}
 
 #### Japanese {#24#japanese}
