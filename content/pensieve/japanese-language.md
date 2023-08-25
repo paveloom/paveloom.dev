@@ -16,15 +16,25 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
     - [Wiki](https://www.reddit.com/r/LearnJapanese/wiki/index)
 
 ##### Sites
+- [Core 6K](https://core6000.neocities.org)
+- [Jisho](https://jisho.org)
 - [Real Kana](https://realkana.com) ⭐
 - [Real Kanji](https://realkanji.com) ⭐
 - [Renshuu](https://www.renshuu.org)
-- [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org)
+- [Sentence Search](https://sentencesearch.neocities.org)
+- [Typing with Mishy](https://sethclydesdale.github.io)
 
 ##### Tests
 - [JLPT](https://www.jlpt.jp/e)
 
 #### Resources
+
+##### Text
+- [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd) ⭐
+- [IMABI](https://imabi.org)
+- [Itazura Neko](https://kenrick95.github.io/itazuraneko)
+- [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org)
+- [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources) ⭐
 
 ##### Video
 - [Organic Japanese with Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49)
