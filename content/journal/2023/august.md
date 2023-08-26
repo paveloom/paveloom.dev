@@ -1,5 +1,11 @@
 # August 2023
 
+### Saturday, 26 {#26}
+
+#### Maintenance {#26#maintenance}
+
+I've solved a couple of issues with the [Codon](https://docs.exaloop.io/codon) [Nix](https://nixos.org) package in the currently open [pull request](https://github.com/NixOS/nixpkgs/pull/241723). Specifically, making the compiling to executable feature work out of the box took me the whole day to figure out. Had to write a tiny bit of [C++](https://en.wikipedia.org/wiki/C++) code (yikes!), so that I can override the [runtime search paths](https://en.wikipedia.org/wiki/Rpath) from Nix and make sure the [Zlib](https://zlib.net) library is visible to the C++ compiler (Codon calls it under the hood).
+
 ### Friday, 25 {#25}
 
 #### Japanese {#25#japanese}
