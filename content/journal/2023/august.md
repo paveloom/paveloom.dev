@@ -1,5 +1,13 @@
 # August 2023
 
+### Sunday, 27 {#27}
+
+#### [`gnome-shell-memento-mori`](../../git.md#gnome-shell-memento-mori) {#27#gnome-shell-memento-mori}
+
+I've started preparing my [GNOME Shell](https://gitlab.gnome.org/GNOME/gnome-shell) extension for [GNOME](https://www.gnome.org) 45. I decided I will rewrite everything in pure [Javascript](https://en.wikipedia.org/wiki/Javascript), nuking [Typescript](https://en.wikipedia.org/wiki/TypeScript), [Rollup](https://rollupjs.org) and use of a pseudo-build system (`package.json` scripts). There is really no need of all this bloat in this case.
+
+Also, I've changed my mind on [`flake-utils`](https://github.com/numtide/flake-utils). Rewriting parts of it myself quickly became a hurdle and increased the amount of noise in the code, so I would rather stick with this extra dependency.
+
 ### Saturday, 26 {#26}
 
 #### Maintenance {#26#maintenance}
