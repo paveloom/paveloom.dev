@@ -267,8 +267,8 @@ I've also switched to pure [NPM](https://www.npmjs.com) from [Bun](https://bun.s
 
 Learned how to set up [Virtual Machine Manager](https://virt-manager.org) with file sharing between the host and the guest systems on NixOS:
 
-1. Follow the instructions on the [NixOS Wiki](https://nixos.wiki/wiki/Virt-manager)
-2. Add the [`virtiofsd`](https://gitlab.com/virtio-fs/virtiofsd) package
+1. Follow the instructions on the [NixOS Wiki](https://nixos.wiki/wiki/Virt-manager).
+2. Add the [`virtiofsd`](https://gitlab.com/virtio-fs/virtiofsd) package to user packages.
 3. From the virtual hardware details of a machine: `Add Hardware` → `Filesystem`.
 
     Set driver to `virtiofs`, source path -- to the path on your host machine. Target path is an arbitrary string used as a mount tag (e.g., `host`).
@@ -276,10 +276,10 @@ Learned how to set up [Virtual Machine Manager](https://virt-manager.org) with f
 4. Add
 
     ```xml
-    <binary path="/run/current-system/sw/bin/virtiofsd" xattr="on"/>
+    <binary path="/etc/profiles/per-user/$USER/bin/virtiofsd" xattr="on"/>
     ```
 
-    to the XML config of the new Filesystem virtual hardware.
+    to the XML config of the new Filesystem virtual hardware. Replace `$USER` with your username.
 
 5. In the Guest system: run `sudo mkdir /media/host` and put
 
