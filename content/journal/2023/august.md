@@ -1,5 +1,13 @@
 # August 2023
 
+### Monday, 28 {#28}
+
+#### [`gnome-shell-memento-mori`](../../git.md#gnome-shell-memento-mori) {#28#gnome-shell-memento-mori}
+
+I learned that [`typescript-language-server`](https://github.com/typescript-language-server/typescript-language-server) can provide limited type checking in pure JavaScript via [JSDoc annotations](https://www.typescriptlang.org/docs/handbook/intro-to-js-ts.html#providing-type-hints-in-js-via-jsdoc). Naturally, I tried it, and then quickly decided to switch back to TypeScript. I still drop [Rollup](https://rollupjs.org), though. Since GNOME Shell has transitioned to [ESM](https://tc39.es/ecma262/#sec-modules), calling [`tsc`](https://www.typescriptlang.org/docs/handbook/compiler-options.html) works quite well (I will have to implement a workaround for [preserving blank lines](https://github.com/microsoft/TypeScript/issues/843), though).
+
+Spent most of the day figuring out how to make [`ts-for-gir`](https://github.com/gjsify/ts-for-gir/blob/3.x/packages/cli/README.md) work. It eventually did!
+
 ### Sunday, 27 {#27}
 
 #### [`gnome-shell-memento-mori`](../../git.md#gnome-shell-memento-mori) {#27#gnome-shell-memento-mori}
