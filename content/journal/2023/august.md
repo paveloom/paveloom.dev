@@ -1,5 +1,11 @@
 # August 2023
 
+### Wednesday, 30 {#30}
+
+#### [`gnome-shell-memento-mori`](../../git.md#gnome-shell-memento-mori) {#30#gnome-shell-memento-mori}
+
+Almost done with the rewrite. I dropped the [`date-fns`](https://date-fns.org) library in favor of computing total number of *average* months and years, just so that I don't have to bundle dependencies.
+
 ### Monday, 28 {#28}
 
 #### [`gnome-shell-memento-mori`](../../git.md#gnome-shell-memento-mori) {#28#gnome-shell-memento-mori}
