@@ -1,5 +1,17 @@
 # August 2023
 
+### Thursday, 31 {#31}
+
+#### [`gnome-shell-memento-mori`](../../git.md#gnome-shell-memento-mori) {#31#gnome-shell-memento-mori}
+
+Finished the rewrite. Found out that [`Gio.Settings.get_string()`](https://gjs-docs.gnome.org/gio20~2.0/gio.settings#method-get_string) can be used to get the `nick` of the currently active state of an `enum`. It is mentioned in the documentation of the [`Gio.Settings.set_enum()`](https://gjs-docs.gnome.org/gio20~2.0/gio.settings#method-set_enum) method.
+
+Also, found out about the [rules for XML internationalization](https://www.gnu.org/software/gettext/manual/html_node/Preparing-ITS-Rules.html). Modified the [`GSchema`'s ITS file](https://gitlab.gnome.org/GNOME/glib/-/blob/55e5e3bcd8dc72807ba70a557eaf73e2e7bfe251/gio/gschema.its) so that [`xgettext`](https://www.gnu.org/software/gettext/manual/html_node/xgettext-Invocation.html) doesn't pick up `summary` and `description` strings. Made the same workflow for managing translations work with a simple [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) script.
+
+I found the [Learn X in Y minutes](https://learnxinyminutes.com)'s resources for [JavaScript](https://learnxinyminutes.com/docs/javascript) (including the mentioned [MDN's language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)) and [TypeScript](https://learnxinyminutes.com/docs/typescript) to be a great way to refresh my knowledge of these languages.
+
+Also, I was able to make the emitted [JavaScript](https://en.wikipedia.org/wiki/JavaScript) code look pretty much the same as the [TypeScript](https://en.wikipedia.org/wiki/TypeScript) code via a separate [ESLint](https://eslint.org) config and a couple of [`sed`](https://en.wikipedia.org/wiki/Sed) calls.
+
 ### Wednesday, 30 {#30}
 
 #### [`gnome-shell-memento-mori`](../../git.md#gnome-shell-memento-mori) {#30#gnome-shell-memento-mori}
