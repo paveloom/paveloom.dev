@@ -12,6 +12,7 @@ search:
 - [Git](git.md)
 - [Journal](journal/README.md)
     - 2023
+        - [September](journal/2023/september.md)
         - [August](journal/2023/august.md)
         - [July](journal/2023/july.md)
         - [June](journal/2023/june.md)
