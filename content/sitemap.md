@@ -34,6 +34,7 @@ search:
                 - [Speech synthesis](pensieve/speech-synthesis.md)
             - [Programming assistance](pensieve/programming-assistance.md)
         - [Computer graphics](pensieve/computer-graphics.md)
+            - [Extended reality](pensieve/extended-reality.md)
             - [Rendering](pensieve/rendering.md)
         - [Formal language](pensieve/formal-language.md)
             - [Construction language](pensieve/construction-language.md)
