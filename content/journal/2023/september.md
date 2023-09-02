@@ -1,5 +1,15 @@
 # September 2023
 
+### Saturday, 2 {#2}
+
+#### C {#2#c}
+
+Watched some of the [VoxelRifts](https://www.youtube.com/@voxelrifts)' videos. Finally, some C positivity and DIY mentality!
+
+#### Maintenance {#2#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/252981) to update [Anki](https://apps.ankiweb.net) in [Nixpkgs](https://github.com/NixOS/nixpkgs). The latest version has a fix for crashes caused by copying the contents of fields in the Browser. That said, they have the most horrendous build process I've ever seen.
+
 ### Friday, 1 {#1}
 
 #### Japanese {#1#japanese}
