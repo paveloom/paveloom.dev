@@ -1,5 +1,11 @@
 # September 2023
 
+### Sunday, 3 {#3}
+
+#### Japanese {#3#japanese}
+
+Got into figuring out the nitty-gritty of how [Anki](https://apps.ankiweb.net)'s algorithm works. Worked on my [GENKI I](https://genki3.japantimes.co.jp/en) deck.
+
 ### Saturday, 2 {#2}
 
 #### C {#2#c}
