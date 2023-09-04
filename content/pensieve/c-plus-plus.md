@@ -11,3 +11,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C++).
 
 #### Resources
 - [2023] [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053) ⭐
+- [2023] [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts)
