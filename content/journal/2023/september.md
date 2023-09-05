@@ -1,5 +1,24 @@
 # September 2023
 
+### Tuesday, 5 {#5}
+
+#### Japanese {#5#japanese}
+
+Read more of the [Anki](https://apps.ankiweb.net) manual.
+
+#### Samba {#5#samba}
+
+Set up [Samba](https://www.samba.org) on my [NixOS](https://nixos.org) machine, so that I can copy files to and from my iOS device (via the standard Files app). Turns out it can be done with just 3 lines of `smb.conf`:
+
+```ini
+[public]
+path = %H/Public/Samba
+vfs objects = fruit streams_xattr
+writeable = yes
+```
+
+Don't forget to create the password for the user with `:::bash smbpasswd -a $USER`, though!
+
 ### Sunday, 3 {#3}
 
 #### Japanese {#3#japanese}
