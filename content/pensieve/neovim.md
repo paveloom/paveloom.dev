@@ -15,4 +15,5 @@ Neovim is a fork of Vim that strives to improve the extensibility and maintainab
 - [Uivonim](https://github.com/smolck/uivonim)
 
 #### Resources
+- [2021] [Vim-Galore](https://github.com/mhinz/vim-galore)
 - [2017] [Vim Search and Replace With Examples](https://thevaluable.dev/vim-search-find-replace)
