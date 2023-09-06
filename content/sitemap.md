@@ -199,6 +199,8 @@ search:
                 - [Digital video](pensieve/digital-video.md)
                 - [Livestreaming](pensieve/livestreaming.md)
                     - [VTuber](pensieve/vtuber.md)
+                - [Video game](pensieve/video-game.md)
+                    - [Doom (franchise)](pensieve/doom-franchise.md)
                 - [Website](pensieve/website.md)
                     - Examples
                         - [Blog](pensieve/blog.md)
