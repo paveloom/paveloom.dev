@@ -34,7 +34,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 - [Zero to Nix](https://zero-to-nix.com)
 
 ##### Tools
-- [Flake Parts](https://github.com/hercules-ci/flake-parts): Simplify Nix Flakes with the module system
+- [Flake Parts](https://github.com/hercules-ci/flake-parts)
+- [`nix-output-monitor`](https://github.com/maralorn/nix-output-monitor) ⭐
+- [`nix-snapshotter`](https://github.com/pdtpartners/nix-snapshotter)
 
 #### Resources
 
