@@ -4,8 +4,13 @@ BitTorrent is a communication protocol for peer-to-peer file sharing (P2P), whic
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/BitTorrent).
 
-#### Clients
+#### Community
+
+##### Clients
 - [qBittorrent](https://www.qbittorrent.org) ⭐
+
+##### Tools
+- [Multiplex](https://github.com/pojntfx/multiplex)
 
 #### Resources
 - [2021] [Answered: Why you do need port-forwarding for Bittorrent](https://www.reddit.com/r/VPNTorrents/comments/p6h7em/answered_why_you_do_need_portforwarding_for) ⭐
