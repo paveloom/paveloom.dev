@@ -44,10 +44,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [Zig monthly](https://zigmonthly.org) ⭐
 
 ##### Sites
+- [Learning Zig](https://www.openmymind.net/learning_zig)
 - [This Week In Zig](https://thisweekinzig.mataroa.blog)
 - [Zig by Example](https://zigbyexample.github.io)
 - [`zigbin.io`](https://zigbin.io)
-- [`ziglearn.org`](https://ziglearn.org): Get up to speed with Zig quickly ⭐
+- [`ziglearn.org`](https://ziglearn.org) ⭐
 
 ##### Libraries
 
