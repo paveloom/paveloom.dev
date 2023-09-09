@@ -11,6 +11,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Anki_(software)).
 - [Refold: Basic Anki Setup](https://refold.la/roadmap/stage-1/a/anki-setup)
 
 ##### Video
-- [2022] [The BEST Anki Settings and Algorithm Explained (by an expert!)](https://www.youtube.com/watch?v=Eo1HbXEiJxo)
+- [2022] [The BEST Anki Settings and Algorithm Explained (by an expert!)](https://www.youtube.com/watch?v=Eo1HbXEiJxo) ⭐
 - [2021] [Anki Algorithm Explained! (This Will Actually Makes Sense)](https://www.youtube.com/watch?v=cUW10l4ZZjg) ⭐
 - [2018] [Anki Tutorial | Deck Options and Anki's Algorithm](https://www.youtube.com/watch?v=lz60qTP2Gx0)
