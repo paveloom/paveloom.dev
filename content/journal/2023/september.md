@@ -1,5 +1,15 @@
 # September 2023
 
+### Monday, 11 {#11}
+
+#### Learning {#11#learning}
+
+Read the [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge) article, learned about the [Incremental reading](https://en.wikipedia.org/wiki/Incremental_reading) method as a side effect. Read the [Low-key Anki](https://web.archive.org/web/20210203165239if_/https://massimmersionapproach.com/table-of-contents/anki/low-key-anki/intro) series of articles and modified my Anki setup as suggested.
+
+#### Maintenance {#11#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/254533) for adding [Fopnu](https://fopnu.com) to [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
 ### Tuesday, 5 {#5}
 
 #### Japanese {#5#japanese}
