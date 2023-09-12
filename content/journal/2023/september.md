@@ -1,5 +1,11 @@
 # September 2023
 
+### Tuesday, 12 {#12}
+
+#### Maintenance {#12#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/254700) to update [Picard](https://picard.musicbrainz.org) and a [pull request](https://github.com/NixOS/nixpkgs/pull/254797) to add [ChatALL](https://github.com/sunner/ChatALL) in [Nixpkgs](https://github.com/NixOS/nixpkgs). Learned how to package [Electron](https://www.electronjs.org) apps.
+
 ### Monday, 11 {#11}
 
 #### Learning {#11#learning}
