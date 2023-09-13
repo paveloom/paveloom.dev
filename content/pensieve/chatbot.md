@@ -12,6 +12,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Chatbot).
         - [`alpaca.cpp`](https://github.com/antimatter15/alpaca.cpp): Locally run an Instruction-Tuned Chat-Style LLM
 - [Perplexity](https://www.perplexity.ai)
 
+#### Community
+
+##### Clients
+- [ChatALL](https://github.com/sunner/ChatALL)
+
 #### Resources
 
 ##### Video
