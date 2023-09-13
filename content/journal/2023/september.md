@@ -1,5 +1,50 @@
 # September 2023
 
+### Wednesday, 13 {#13}
+
+#### Japanese {#13#japanese}
+
+I think my [Anki](https://apps.ankiweb.net) setup is ready for new vocabulary now. Discovered that the [Refold](https://refold.la) community has *a lot* of resources for Japanese. Refreshed my knowledge of [Kana](https://en.wikipedia.org/wiki/Kana).
+
+#### Wi-Fi
+
+Here are two things I did to prevent my network speed from getting slower on idle on a wireless connection via [NetworkManager](https://www.networkmanager.dev):
+
+1. Disable power saving globally:
+
+    ```ini
+    # /etc/NetworkManager/conf.d
+    [connection]
+    # Values are:
+    # 0 (use the default value)
+    # 1 (don't touch the existing setting)
+    # 2 (disable powersave)
+    # 3 (enable powersave)
+    wifi.powersave = 2
+    ```
+
+    Can be accomplished on [NixOS](https://nixos.org) with
+
+    ```nix
+    networking.networkmanager.wifi.powersave = false;
+    ```
+
+2. Disable power saving on the currently active network interface directly:
+
+    ```bash
+    nmcli connection modify "$SSID" 802-11-wireless.powersave 2
+    ```
+
+    Check with
+
+    ```bash
+    nmcli -f 802-11-wireless.powersave connection show "$SSID"
+    ```
+
+    Reconnect to the network afterward.
+
+Still unsure if it's enough, though.
+
 ### Tuesday, 12 {#12}
 
 #### Maintenance {#12#maintenance}
