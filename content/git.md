@@ -285,6 +285,10 @@ A list of my public Git repositories.
 
     *`#zig` `#database`*
 
+#### `nixpkgs` [:simple-codeberg:](https://codeberg.org/paveloom/nixpkgs) [:simple-github:](https://github.com/paveloom/nixpkgs) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/nixpkgs)
+
+:   Personal Nix Packages collection
+
 #### `old_wiki` [:simple-codeberg:](https://codeberg.org/paveloom/old_wiki) [:simple-github:](https://github.com/paveloom/old_wiki) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/old_wiki)
 
 :   An old version of Pensieve, powered by Franklin
@@ -306,8 +310,6 @@ A list of my public Git repositories.
 #### Site [:simple-codeberg:](https://codeberg.org/paveloom/pages) [:simple-github:](https://github.com/paveloom/paveloom.github.io) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/site)
 
 :   Personal website
-
-    *`#zola` `#tera` `#sass`*
 
 ## Rust [:simple-codeberg:](https://codeberg.org/paveloom-r) [:simple-github:](https://github.com/paveloom-r) [:simple-gitlab:](https://gitlab.com/paveloom-g/rust)
 
