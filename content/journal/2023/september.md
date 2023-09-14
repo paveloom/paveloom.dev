@@ -1,5 +1,15 @@
 # September 2023
 
+### Thursday, 14 {#14}
+
+#### [Kirk](../../git.md#kirk) {#14#kirk}
+
+Updated the dependencies and disabled [Nixpkgs hardening](https://nixos.org/manual/nixpkgs/stable/#sec-hardening-in-nixpkgs) for debug builds. Switched to [Soup](https://libsoup.org/libsoup-3.0) for handling [HTTP](https://en.wikipedia.org/wiki/HTTP) conversations (and so that I can easily switch to [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2) over [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) in the future). Found out that I can pass the [Qobuz](https://www.qobuz.com) token as the [`Authorization: Bearer <token>`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication) header instead of appending it to the query. Also, apparently, the `user_id` isn't required.
+
+#### Maintenance {#14#maintenance}
+
+Opened a [merge request](https://gitlab.gnome.org/GNOME/glib/-/merge_requests/3583) to fix the memory leak on a graceful TCP disconnect in [GLib](https://docs.gtk.org/glib).
+
 ### Wednesday, 13 {#13}
 
 #### Japanese {#13#japanese}
