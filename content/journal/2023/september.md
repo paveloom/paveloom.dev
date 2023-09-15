@@ -1,5 +1,15 @@
 # September 2023
 
+### Friday, 15 {#15}
+
+#### Maintenance {#15#maintenance}
+
+Filled [an issue](https://gitlab.freedesktop.org/mesa/mesa/-/issues/9820) to [Mesa](https://mesa3d.org) about experiencing full desktop graphical glitches when interacting with certain applications, just to found out a half an hour later that I was missing the [`amdgpu`](https://en.wikipedia.org/wiki/AMDgpu_(Linux_kernel_module)) device driver, and instead was using [`fbdev`](https://en.wikipedia.org/wiki/Linux_framebuffer). Set it up as explained in the [NixOS Wiki](https://nixos.wiki/wiki/AMD_GPU).
+
+Learned (in a very basic way) how to use [`apitrace`](https://apitrace.github.io) to create traces of graphics API calls. Built a 32-bit version of it (turns out Nixpkgs have [`pkgs.multiStdenv` and `pkgs.pkgsi686Linux`](https://nixos.wiki/wiki/Packaging/32bit_Applications) for such a case) to run with Steam. However, that didn't give me proper results, as described [here](https://github.com/apitrace/apitrace/wiki/Steam), but the 64-bit version from [Nixpkgs](https://github.com/NixOS/nixpkgs) did (somewhat).
+
+UPD: never mind, the issue occurred again on a high load.
+
 ### Thursday, 14 {#14}
 
 #### [Kirk](../../git.md#kirk) {#14#kirk}
