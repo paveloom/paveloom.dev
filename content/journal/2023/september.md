@@ -1,5 +1,15 @@
 # September 2023
 
+### Monday, 18 {#18}
+
+#### Japanese {#18#japanese}
+
+Read through a lot of [Refold](https://refold.la) resources. Gotta find some material for immersion now!
+
+#### NixOS {#18#nixos}
+
+Went through all pages on [NixOS Wiki](https://nixos.wiki/index.php?title=Special:AllPages&hideredirects=1). Found out that there is an experimental feature for [content-addressed derivations](https://nixos.wiki/wiki/Ca-derivations), and that NixOS has an option to enable [BTRFs scrubbing](https://nixos.wiki/wiki/Btrfs#Scrubbing).
+
 ### Friday, 15 {#15}
 
 #### Maintenance {#15#maintenance}
