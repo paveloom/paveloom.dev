@@ -1,5 +1,17 @@
 # September 2023
 
+### Tuesday, 19 {#19}
+
+#### [Kirk](../../git.md#kirk) {#19#kirk}
+
+Switched to using the [`Authorization: Bearer <token>`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication) HTTP header instead of passing the [Qobuz](https://www.qobuz.com) token in the query part of the URL. Also, found out by experimentation (with some help from [ChatALL](https://github.com/sunner/ChatALL)) that Qobuz accepts the app ID as the `X-App-ID: <app_id>` header. Thus, I no longer need to have the query part in the call to the `/user/login` endpoint, which is pretty sweet. Switched to [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2) over [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) by a simple change of the scheme from `http://` to `https://`, [Soup](https://libsoup.org/libsoup-3.0) did the rest! Also, [GnuTLS](https://en.wikipedia.org/wiki/GnuTLS) (which is Soup's default TLS backend) supports the `SSLKEYLOGFILE` environment variable, and I used the resulting keylog file to decrypt the TLS traffic captured by [Wireshark](https://www.wireshark.org), as described [here](https://gitlab.com/wireshark/wireshark/-/wikis/TLS).
+
+Started learning [GDB](https://www.sourceware.org/gdb) and [`rr`](https://rr-project.org) for proper debugging skills (always used poor man's printing of variables).
+
+#### Maintenance {#19#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/256082) to update [GR Framework](https://gr-framework.org) in [Nixpkgs](https://github.com/NixOS/nixpkgs). Got an issue on update and had to dive into [CMake](https://en.wikipedia.org/wiki/CMake) again. Found out that (in the case of packages in Nixpkgs) one should use the module mode when [searching for packages](https://cmake.org/cmake/help/latest/command/find_package.html).
+
 ### Monday, 18 {#18}
 
 #### Japanese {#18#japanese}
