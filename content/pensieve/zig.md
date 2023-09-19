@@ -88,6 +88,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Zig_(programming_language
 - [2023] [The Seamstress Event Loop In Zig](https://ryleealanza.org/2023/06/21/The-Seamstress-Event-Loop-in-Zig.html)
 - [2023] [When should I use an UNTAGGED union?](https://zig.news/kristoff/when-should-i-use-an-untagged-union-56ek)
 - [2023] [When Zig is safer and faster than Rust](https://zackoverflow.dev/writing/unsafe-rust-vs-zig) ⭐
+- [2023] [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums) ⭐
 - [2023] [Writing JSON to a custom output in Zig](https://www.openmymind.net/Writing-Json-To-A-Custom-Output-in-Zig)
 - [2023] [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html) ⭐
 - [2023] Zig Bits:
