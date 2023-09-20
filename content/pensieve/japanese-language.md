@@ -7,9 +7,15 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
 #### Community
 
 ##### Books
+- [Essential Japanese Grammar: Dover Foreign Lanuage Study Guide](https://bookbrainz.org/work/01bbe974-f9ad-4e99-a6aa-79f24fe52977)
 - [GENKI: An Integrated Course in Elementary Japanese](https://genki3.japantimes.co.jp/en) ⭐
 - [QUARTET: Intermediate Japanese Across the Four Language Skills](https://bookclub.japantimes.co.jp/en/book/b456886.html)
 - [Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia](https://bookbrainz.org/work/3c4615af-200b-42e9-a67b-b814427096e6)
+
+##### Dictionaries
+- [Jisho](https://jisho.org)
+- [Linguee](https://www.linguee.com/japanese-english)
+- [WordReference.com](https://www.wordreference.com/jaen)
 
 ##### Forums
 - [`r/LearnJapanese`](https://www.reddit.com/r/LearnJapanese) ⭐
@@ -18,7 +24,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
 ##### Sites
 - [Animelon](https://animelon.com)
 - [Core 6K](https://core6000.neocities.org)
-- [Jisho](https://jisho.org)
 - [Real Kana](https://realkana.com) ⭐
 - [Real Kanji](https://realkanji.com) ⭐
 - [Renshuu](https://www.renshuu.org)
@@ -48,6 +53,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
 - [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org)
 - [TheMoeWay](https://learnjapanese.moe)
 - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources) ⭐
+- [2012] [Understand Your Favourite TV Series in 30 Days](https://learnlangs.com/understand-your-favourite-tv-series-in-30-days) ⭐
 
 ##### Video
 - [Organic Japanese with Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49)
