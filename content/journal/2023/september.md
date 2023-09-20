@@ -1,5 +1,17 @@
 # September 2023
 
+### Wednesday, 20 {#20}
+
+#### Japanese {#20#japanese}
+
+Learned more about the [Refold](https://refold.la) method. Probably will ditch [GENKI](https://genki3.japantimes.co.jp/en) completely in favor of [The Refold Japanese Grammar Primer](https://zenith-raincoat-5cf.notion.site/The-Refold-Japanese-Grammar-Primer-1a8782c8c7334dea97f7af0a686b72c3) and [Tae Kim's Grammar Guide](https://guidetojapanese.org/learn/grammar). Or, perhaps, use GENKI only for the grammar explanations.
+
+Planning to use [`substudy`](http://www.randomhacks.net/substudy) for [sentence mining](https://refold.la/simplified/stage-2/a/sentence-mining). [Here](https://learnlangs.com/understand-your-favourite-tv-series-in-30-days/)'s a good example of a person using [`subs2srs`](https://sourceforge.net/projects/subs2srs) to understand their favorite TV show in 30 days.
+
+#### Maintenance {#20#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/256309) to add [`substudy`](http://www.randomhacks.net/substudy) to [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
 ### Tuesday, 19 {#19}
 
 #### [Kirk](../../git.md#kirk) {#19#kirk}
