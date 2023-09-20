@@ -7,4 +7,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Linguistics).
 #### Resources
 
 ##### Text
+- [Learn Any Language](https://learnanylanguage.fandom.com/wiki/Learn_Any_Language)
 - [Refold](https://refold.la) ⭐
