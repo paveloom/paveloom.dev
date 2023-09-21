@@ -1,5 +1,11 @@
 # September 2023
 
+### Thursday, 21 {#21}
+
+#### [Kirk](../../git.md#kirk) {#21#kirk}
+
+Found out that I can use [`nixseparatedebuginfod`](https://github.com/symphorien/nixseparatedebuginfod) to make [GDB](https://www.gnu.org/software/gdb) automatically pick up debug info (which includes information about where to find source code). This allows me to step into functions from shared libraries, which is very useful for debugging (and general exploration of the code). There is a small caveat, though: it only works for Nix packages that have a separate `debug` output, which can be enabled via the [`separateDebugInfo`](https://nixos.org/manual/nixpkgs/stable/#ssec-fixup-phase) variable in the derivation. It already is set to `true` in many packages in [Nixpkgs](https://github.com/NixOS/nixpkgs) that I care about, and I've created [several pull requests](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+sort%3Aupdated-desc+separateDebugInfo) to enable it in others.
+
 ### Wednesday, 20 {#20}
 
 #### Japanese {#20#japanese}
