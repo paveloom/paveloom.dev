@@ -1,5 +1,11 @@
 # September 2023
 
+### Friday, 22 {#22}
+
+#### Japanese {#22#japanese}
+
+Learned more about the [Refold](https://refold.la) method.
+
 ### Thursday, 21 {#21}
 
 #### [Kirk](../../git.md#kirk) {#21#kirk}
