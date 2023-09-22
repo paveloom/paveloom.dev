@@ -45,9 +45,11 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd) ⭐
 - [IMABI](https://imabi.org)
 - [Itazura Neko](https://kenrick95.github.io/itazuraneko)
-- [Refold Japanese Content & Resources](https://refold.link/Japanese_resources)
-- [Refold Japanese](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit#heading=h.t9k7ohu0b631)
+- [Refold: Japanese Content & Resources](https://refold.link/Japanese_resources)
+- [Refold: Japanese Grammar Primer](https://refold.link/JP_Grammar)
+- [Refold: Japanese](https://refold.link/Japanese)
 - [Refold: Quickstart](https://refold.la/quickstart?targetLanguage=jpn)
+- [Refold: Tech and Tools](https://refold.link/Tech_and_Tools)
 - [Shiki's Unofficial Mining Guide](https://docs.google.com/document/d/e/2PACX-1vQuEAoZFoJbULZzCJ3_tW7ayT_DcQl9eDlrXMnuPGTwDk62r5fQrXak3ayxBsEgkL85_Z-YY5W4yUom/pub)
 - [Shiki's Unofficial Stage and Level Up Guide](https://docs.google.com/document/d/e/2PACX-1vTs8Ue6RRnOrVllDTXhPOJY_WVmGQbXKy4hlOe2e0rxTTldT3EooaeCgljKqLZapyDeAswnkrnpOp1O/pub)
 - [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org)
