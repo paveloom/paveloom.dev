@@ -1,5 +1,15 @@
 # September 2023
 
+### Monday, 25 {#25}
+
+#### Japanese {#25#japanese}
+
+Learned more about the [Refold](https://refold.la) method. Started packaging [`vocabsieve`](https://github.com/FreeLanguageTools/vocabsieve) for [Nixpkgs](https://github.com/NixOS/nixpkgs). This tool would allow me to very easily [mine 1T sentences](https://refold.la/simplified/stage-2/a/sentence-mining) from pretty much anything.
+
+#### Maintenance {#25#maintenance}
+
+Fixed a couple of issues with my [pull request](https://github.com/NixOS/nixpkgs/pull/257084) that updates [`mold`](https://github.com/rui314/mold) in [Nixpkgs](https://github.com/NixOS/nixpkgs). Had to fire up my MacOS VM to debug an issue with the `std::alloc_aligned` function missing. Turns out it comes from the `cstdlib` header in later versions of the Apple's [Clang](https://clang.llvm.org).
+
 ### Friday, 22 {#22}
 
 #### Japanese {#22#japanese}
