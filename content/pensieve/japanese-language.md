@@ -37,6 +37,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
 - [`subs2cia`](https://github.com/dxing97/subs2cia)
 - [`subs2srs`](https://sourceforge.net/projects/subs2srs)
 - [`substudy`](http://www.randomhacks.net/substudy)
+- [`vocabsieve`](https://github.com/FreeLanguageTools/vocabsieve)
 
 #### Resources
 
@@ -45,6 +46,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd) ⭐
 - [IMABI](https://imabi.org)
 - [Itazura Neko](https://kenrick95.github.io/itazuraneko)
+- [MorphMan Addon Guide](https://web.archive.org/web/20201220134610/https://massimmersionapproach.com/table-of-contents/anki/morphman)
 - [Refold: Japanese Content & Resources](https://refold.link/Japanese_resources)
 - [Refold: Japanese Grammar Primer](https://refold.link/JP_Grammar)
 - [Refold: Japanese](https://refold.link/Japanese)
@@ -59,4 +61,5 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
 
 ##### Video
 - [Organic Japanese with Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49)
-- [2019] [Optimizing Passive Immersion: Condensed Audio](https://www.youtube.com/watch?v=QOLTeO-uCYU) ⭐
+- [2019] [MorphMan Tutorial | UPDATED With Frequency Lists and More](https://www.youtube.com/watch?v=h2xYKx76-9s)
+- [2019] [Optimizing Passive Immersion: Condensed Audio](https://www.youtube.com/watch?v=QOLTeO-uCYU)
