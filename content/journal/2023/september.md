@@ -1,5 +1,17 @@
 # September 2023
 
+### Tuesday, 26 {#26}
+
+#### Japanese {#26#japanese}
+
+Ironically, after packaging [`vocabsieve`](https://github.com/FreeLanguageTools/vocabsieve), found out a better workflow for sentence mining: [`mpv`](https://mpv.io) + [`mpvacious`](https://github.com/Ajatt-Tools/mpvacious) + [Rikaitan](https://github.com/Ajatt-Tools/rikaitan) + [AJT Japanese](https://ankiweb.net/shared/info/1344485230). [Here](https://www.youtube.com/watch?v=vU85ramvyo4)'s a pretty cool demo.
+
+#### Maintenance {#26#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/257444) to add [`vocabsieve`](https://github.com/FreeLanguageTools/vocabsieve) to [Nixpkgs](https://github.com/NixOS/nixpkgs). And also 8 additional pull requests for adding Python modules that are the dependencies of `vocabsieve`.
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/257480) to enable [`mecab`](https://taku910.github.io/mecab)'s support for the UTF-8 charset. This tool is necessary to create [Furigana](https://en.wikipedia.org/wiki/Furigana) automatically in Anki via the [AJT Japanese](https://ankiweb.net/shared/info/1344485230) add-on.
+
 ### Monday, 25 {#25}
 
 #### Japanese {#25#japanese}
