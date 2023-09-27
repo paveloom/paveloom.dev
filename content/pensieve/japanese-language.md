@@ -31,6 +31,10 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
 - [Sentence Search](https://sentencesearch.neocities.org)
 - [Typing with Mishy](https://sethclydesdale.github.io)
 
+##### Subtitles
+- [Itazuraneko](https://djtguide.github.io/library/sub.html)
+- [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F)
+
 ##### Tests
 - [JLPT](https://www.jlpt.jp/e)
 
@@ -48,7 +52,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
 - [Breaking out of the Gaijin Ghetto](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw)
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd) ⭐
 - [IMABI](https://imabi.org)
-- [Itazura Neko](https://kenrick95.github.io/itazuraneko)
+- [Itazuraneko](https://itazuranekoyomi.neocities.org)
+    - [Mirror 1 (Kenrick)](https://kenrick95.github.io/itazuraneko)
+    - [Mirror 2 (DJT guide)](https://djtguide.github.io/learn/guide.html) ⭐
 - [MorphMan Addon Guide](https://web.archive.org/web/20201220134610/https://massimmersionapproach.com/table-of-contents/anki/morphman)
 - [Refold: Japanese Content & Resources](https://refold.link/Japanese_resources)
 - [Refold: Japanese Grammar Primer](https://refold.link/JP_Grammar)
