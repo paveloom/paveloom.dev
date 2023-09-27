@@ -1,5 +1,13 @@
 # September 2023
 
+### Wednesday, 27 {#27}
+
+#### Japanese {#27#japanese}
+
+Started doing the routine, finally! This includes doing [Anki](https://apps.ankiweb.net) reps ([JP1K deck](https://refold.la/japanese/deck), later will add from my own sentence mining), then [grammar study](https://refold.link/JP_Grammar), then immersion (free-flow with English subtitles, then [intensive immersion](https://refold.la/simplified/stage-2/a/intensive-immersion)).
+
+Watching [Is the Order a Rabbit?](https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_desu_ka) for the first time, and it's pretty fun!
+
 ### Tuesday, 26 {#26}
 
 #### Japanese {#26#japanese}
