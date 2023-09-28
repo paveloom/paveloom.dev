@@ -1,5 +1,15 @@
 # September 2023
 
+### Thursday, 28 {#28}
+
+#### Japanese {#28#japanese}
+
+Replicated [Tatsumoto's workflow](https://www.youtube.com/watch?v=vU85ramvyo4) in my setup.
+
+#### Maintenance {#28#maintenance}
+
+Implemented the reviewers' requests on my pull requests for adding Python packages to [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
 ### Wednesday, 27 {#27}
 
 #### Japanese {#27#japanese}
