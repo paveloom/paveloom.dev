@@ -55,6 +55,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Japanese_language).
 - [Itazuraneko](https://itazuranekoyomi.neocities.org)
     - [Mirror 1 (Kenrick)](https://kenrick95.github.io/itazuraneko)
     - [Mirror 2 (DJT guide)](https://djtguide.github.io/learn/guide.html) ⭐
+- [Learn Japanese with Anime](https://learnjapaneseanime.com)
 - [MorphMan Addon Guide](https://web.archive.org/web/20201220134610/https://massimmersionapproach.com/table-of-contents/anki/morphman)
 - [Refold: Japanese Content & Resources](https://refold.link/Japanese_resources)
 - [Refold: Japanese Grammar Primer](https://refold.link/JP_Grammar)
