@@ -34,6 +34,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 - [`cdecl`](https://cdecl.org) ⭐
 
 #### Resources
+- [2023] [A gentle introduction to static analyzers for C](https://nrk.neocities.org/articles/c-static-analyzers)
 - [2023] [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c) ⭐
 - [2023] [Driving Compilers](https://fabiensanglard.net/dc/index.php) ⭐
 - [2023] [Few lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c) ⭐
