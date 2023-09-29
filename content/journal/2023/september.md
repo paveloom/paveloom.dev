@@ -1,5 +1,15 @@
 # September 2023
 
+### Friday, 29 {#29}
+
+#### Japanese {#29#japanese}
+
+I do like how particles in Japanese sentences not only separate words, but also explicitly state their purpose. Verb conjugation seems to be the hardest part of the grammar so far.
+
+#### Maintenance {#29#maintenance}
+
+Updated some of my pull requests to [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
 ### Thursday, 28 {#28}
 
 #### Japanese {#28#japanese}
