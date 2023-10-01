@@ -27,6 +27,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Memory_management).
 #### Resources
 
 ##### Text
+- [2023] [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30)
 - [2023] [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27)
 - [2023] [Memory Allocation](https://samwho.dev/memory-allocation)
 - [2022] [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc)
