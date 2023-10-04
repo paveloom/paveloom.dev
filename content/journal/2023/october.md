@@ -1,5 +1,11 @@
 # October 2023
 
+### Wednesday, 4 {#4}
+
+#### [Kirk](../../git.md#kirk) {#4#kirk}
+
+Set up [PVS-Studio](https://pvs-studio.com/en/pvs-studio), started going through the warnings.
+
 ### Tuesday, 3 {#3}
 
 #### Japanese {#3#japanese}
