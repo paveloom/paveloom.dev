@@ -1,5 +1,11 @@
 # October 2023
 
+### October, 5 {#5}
+
+#### Counter-Strike: Source {#5#counter-strike-source}
+
+Worked on fixing some of the issues with the [game](https://en.wikipedia.org/wiki/Counter-Strike:_Source) (almost finished with a blog post on fixing issues with fonts on Linux). Found my old `custom` folder and configs on an old laptop!
+
 ### Wednesday, 4 {#4}
 
 #### [Kirk](../../git.md#kirk) {#4#kirk}
