@@ -27,6 +27,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Memory_management).
 #### Resources
 
 ##### Text
+- [2023] [A simple, arena-backed, generic dynamic array for C](https://nullprogram.com/blog/2023/10/05)
 - [2023] [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30)
 - [2023] [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27)
 - [2023] [Memory Allocation](https://samwho.dev/memory-allocation)
