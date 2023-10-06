@@ -1,6 +1,12 @@
 # October 2023
 
-### October, 5 {#5}
+### Friday, 6 {#5}
+
+#### Counter-Strike: Source {#6#counter-strike-source}
+
+Wrote the blog post after finally figuring out how to fix the issues with the fonts.
+
+### Thursday, 5 {#5}
 
 #### Counter-Strike: Source {#5#counter-strike-source}
 
