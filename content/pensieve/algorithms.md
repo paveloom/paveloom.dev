@@ -13,7 +13,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 ##### Sites
 - [AlgoExpert](https://www.algoexpert.io)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com)
-- [CSES Problem Set](https://cses.fi/problemset)
+- [CSES Problem Set](https://cses.fi/problemset) ⭐
 - [LeetCode](https://leetcode.com) ⭐
     - [NeetCode](https://neetcode.io) ⭐
 - [Алгоритмика](https://ru.algorithmica.org)
