@@ -11,6 +11,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Coding_interview).
 
 ##### Text
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't have a broken hiring process ⭐
+- [This Is What A GOOD Resume Should Look Like](https://www.careercup.com/resume)
 - [2023] [How does a hobby programmer get hired?](https://news.ycombinator.com/item?id=34206559) ⭐
 - [2023] [How to hire engineering talent without the BS](https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs)
 - [2023] [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) ⭐
