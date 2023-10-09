@@ -8,7 +8,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 
 ##### Books
 - [Hello, Algorithm](https://www.hello-algo.com)
-- [Introduction to Algorithms](https://www.amazon.com/dp/0262033844)
+- [Introduction to Algorithms](https://bookbrainz.org/work/8f75a73e-71bb-4f55-adbe-c3370b138249)
 
 ##### Sites
 - [AlgoExpert](https://www.algoexpert.io)
