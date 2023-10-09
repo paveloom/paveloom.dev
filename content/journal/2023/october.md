@@ -1,5 +1,15 @@
 # October 2023
 
+### Monday, 9 {#9}
+
+#### Algorithms & Data Structures {#9#algorithms-and-data-structures}
+
+Started reading [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850).
+
+#### Japanese {#9#japanese}
+
+Dropped learning the language since I don't see the pragmatic reasoning of its usage anymore.
+
 ### Friday, 6 {#5}
 
 #### Counter-Strike: Source {#6#counter-strike-source}
