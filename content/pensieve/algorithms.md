@@ -14,6 +14,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 - [AlgoExpert](https://www.algoexpert.io)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com)
 - [CSES Problem Set](https://cses.fi/problemset) ⭐
+- [Codeforces](https://codeforces.com)
 - [LeetCode](https://leetcode.com) ⭐
     - [NeetCode](https://neetcode.io) ⭐
 - [Алгоритмика](https://ru.algorithmica.org)
