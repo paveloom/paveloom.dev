@@ -5,7 +5,7 @@ A coding interview, technical interview, programming interview or Microsoft inte
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/Coding_interview).
 
 #### Books
-- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/dp/0984782850) ⭐
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com) ⭐
 
 #### Resources
 
