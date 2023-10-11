@@ -1,5 +1,13 @@
 # October 2023
 
+### Wednesday, 11 {#11}
+
+#### [Kirk](../../git.md#kirk) {#11#kirk}
+
+Finished setting up additional linters ([`clang-tidy`](https://clang.llvm.org/extra/clang-tidy), [`scan-build`](https://clang-analyzer.llvm.org/scan-build.html), and [PVS-Studio](https://pvs-studio.com)). Surprisingly, there was only one new warning that I found useful: I didn't initialize a variable in one place, and `clang-tidy` notified me about that.
+
+Read a part of the [GDB manual](https://sourceware.org/gdb/current/onlinedocs/gdb).
+
 ### Monday, 9 {#9}
 
 #### Algorithms & Data Structures {#9#algorithms-and-data-structures}
