@@ -1,5 +1,11 @@
 # October 2023
 
+### Thursday, 12 {#12}
+
+#### [Kirk](../../git.md#kirk) {#12#kirk}
+
+Finished reading the [GDB manual](https://sourceware.org/gdb/current/onlinedocs/gdb).
+
 ### Wednesday, 11 {#11}
 
 #### [Kirk](../../git.md#kirk) {#11#kirk}
