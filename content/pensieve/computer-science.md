@@ -19,6 +19,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Computer_science).
 #### Resources
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com)
 - [Computer Science Roadmap](https://roadmap.sh/computer-science)
 - [Open Source Society University (OSSU): Computer Science](https://github.com/ossu/computer-science) ⭐
 - [Spam's CS Corner: Course Reviews](https://github.com/spamegg1/reviews)
