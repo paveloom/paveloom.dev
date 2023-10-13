@@ -1,5 +1,11 @@
 # October 2023
 
+### Friday, 13 {#13}
+
+#### C++ {#13#c++}
+
+Started reading [A Tour of C++](https://www.stroustrup.com/tour3.html).
+
 ### Thursday, 12 {#12}
 
 #### [Kirk](../../git.md#kirk) {#12#kirk}
