@@ -9,7 +9,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Programming_language).
 - [Assembly](assembly.md)
     - [WebAssembly](webassembly.md)
 - [Buzz](https://github.com/buzz-language/buzz)
-- [C++](c-plus-plus.md)
+- [C++](cpp.md)
 - [C3](https://c3-lang.org)
 - [C](c.md)
 - [Cyber](https://cyberscript.dev)

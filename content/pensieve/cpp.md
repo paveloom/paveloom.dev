@@ -6,9 +6,21 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C++).
 
 #### Community
 
-##### Libraries
-- [Sonic-Cpp](https://github.com/bytedance/sonic-cpp): A fast JSON serializing & deserializing library, accelerated by SIMD
+##### Books
+- [A Tour of C++](https://www.stroustrup.com/tour3.html)
+- [C++ Primer](https://bookbrainz.org/work/d6299a54-42e5-4873-8663-b923df89fcc1)
+- [The C++ Programming Language](https://www.stroustrup.com/4th.html)
+
+##### Compilers
+- [Clang](https://clang.llvm.org)
+- [GCC](https://gcc.gnu.org)
+
+##### Sites
+- [cppreference.com](https://cppreference.com) ⭐
 
 #### Resources
+
+##### Text
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) ⭐
 - [2023] [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053) ⭐
 - [2023] [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts)
