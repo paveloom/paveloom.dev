@@ -7,6 +7,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 #### Community
 
 ##### Books
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - [Hello, Algorithm](https://www.hello-algo.com)
 - [Introduction to Algorithms](https://bookbrainz.org/work/8f75a73e-71bb-4f55-adbe-c3370b138249)
 
