@@ -31,4 +31,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 - [2019] [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 ##### Video
+- [CodeMeetsWorld](https://www.youtube.com/@CodeMeetsWorld)
+- [NeetCodeIO](https://www.youtube.com/@NeetCodeIO)
 - [2023] [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms)
