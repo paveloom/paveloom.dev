@@ -1,5 +1,11 @@
 # October 2023
 
+### Monday, 16 {#16}
+
+#### C++ {#16#c++}
+
+Read more of [A Tour of C++](https://www.stroustrup.com/tour3.html). Already diving in complexities like [the rule of three/five/zero](https://en.cppreference.com/w/cpp/language/rule_of_three). Added locally a `pkg-config` file to the [Nixpkgs](https://github.com/NixOS/nixpkgs) package for [Microsoft's Guidelines Support Library](https://github.com/Microsoft/GSL) to make it work with Meson.
+
 ### Friday, 13 {#13}
 
 #### C++ {#13#c++}
