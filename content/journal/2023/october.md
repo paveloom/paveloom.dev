@@ -1,5 +1,19 @@
 # October 2023
 
+### Tuesday, 17 {#17}
+
+#### C++ {#17#c++}
+
+Read more of [A Tour of C++](https://www.stroustrup.com/tour3.html).
+
+#### Maintenance {#17#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/261589) to update [Tracy](https://github.com/wolfpld/tracy) in [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
+#### [`mpv`](https://mpv.io) {#17#mpv}
+
+Turns out you can create per-directory configuration files (`mpv.conf`) and make them loaded automatically if you enable the [`use-filedir-conf`](https://mpv.io/manual/stable/#options-use-filedir-conf) option. So, for example, you can select an audio stream, a subtitles stream, a size and a position of the subtitles, for all files in a directory. Really useful when watching series!
+
 ### Monday, 16 {#16}
 
 #### C++ {#16#c++}
