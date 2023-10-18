@@ -1,5 +1,15 @@
 # October 2023
 
+### Tuesday, 18 {#18}
+
+#### C++ {#18#c++}
+
+Read more of [A Tour of C++](https://www.stroustrup.com/tour3.html). Turns out the support for generic programming in C++ is very powerful!
+
+#### Maintenance {#18#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/261856) to update [`mold`](https://github.com/rui314/mold) in [Nixpkgs](https://github.com/NixOS/nixpkgs). Also, I've set `allowedRequisites` to `null` for `useMoldLinker` to avoid issues downstream (see [#261825](https://github.com/NixOS/nixpkgs/issues/261825)).
+
 ### Tuesday, 17 {#17}
 
 #### C++ {#17#c++}
