@@ -1,6 +1,16 @@
 # October 2023
 
-### Tuesday, 18 {#18}
+### Thursday, 19 {#19}
+
+#### C++ {#19#c++}
+
+Read more of [A Tour of C++](https://www.stroustrup.com/tour3.html).
+
+#### Maintenance {#19#maintenance}
+
+Spent a lot of time figuring out what went wrong with using [`mold`](https://github.com/rui314/mold) on Darwin (checks failed [here](https://github.com/NixOS/nixpkgs/pull/261856)). Turns out support for macOS exists as a separate commercial project by the same authors, called [`sold`](https://github.com/bluewhalesystems/sold) (that's pretty funny). Learned about `otool` and `objdump` as alternatives to `patchelf` and `readelf`.
+
+### Wednesday, 18 {#18}
 
 #### C++ {#18#c++}
 
