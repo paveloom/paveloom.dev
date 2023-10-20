@@ -34,20 +34,24 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 - [Zero to Nix](https://zero-to-nix.com)
 
 ##### Tools
-- [Flake Parts](https://github.com/hercules-ci/flake-parts)
+- [`cntr`](https://github.com/Mic92/cntr) ⭐
+    - [`breakpointHook`](https://nixos.org/manual/nixpkgs/unstable/#breakpointhook) ⭐
 - [`nix-output-monitor`](https://github.com/maralorn/nix-output-monitor) ⭐
 - [`nix-snapshotter`](https://github.com/pdtpartners/nix-snapshotter)
+- [`nix-sysdig`](https://github.com/Mic92/nix-sysdig)
 
 #### Resources
 
 ##### Text
 - [2023] [Building 15-year-old software with Nix](https://blinry.org/nix-time-travel)
 - [2023] [Connecting Bash to Nix](https://www.zombiezen.com/blog/2023/03/connecting-bash-to-nix) ⭐
+- [2023] [Debugging Nix build inconsistencies: manual vs automatic build](https://jade.fyi/blog/debugging-nix-package-building)
 - [2023] [How do Nix builds work?](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-)
 - [2023] [Moving stuff around with Nix](https://determinate.systems/posts/moving-stuff-around-with-nix)
 - [2023] [Nix Flake Architecture in Practice](https://journal.platonic.systems/nix-flake-architecture-in-practice) ⭐
 - [2023] [Nix journey part 0: Learning and reference materials](https://tinkering.xyz/nix-docs) ⭐
 - [2023] [Stopping evaluation from blocking in Nix](https://jade.fyi/blog/nix-evaluation-blocking)
+- [2022] [Building Nix derivations manually in nix-shell](https://jade.fyi/blog/building-nix-derivations-manually)
 - [2022] [Building containers with Nix and Gitlab CI](https://scvalex.net/posts/68) ⭐
 - [2022] [Debugging Closure Sizes Graphically with nix-closure-graph](https://jade.fyi/nixcon2022) ⭐
 - [2022] [Dirty Nix flake quality-of-life hacks](https://siraben.dev/2022/02/13/nix-flake-hacks.html) ⭐
@@ -67,6 +71,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Nix_(package_manager)).
 ##### Video
 - [The Nix Hour](https://www.youtube.com/playlist?list=PLyzwHTVJlRc8yjlx4VR4LU5A5O44og9in)
 - [2020] [Better than virtualenv | direnv + nix-shell + lorri + flakes](https://www.youtube.com/watch?v=irPTtmP4xuM) ⭐
+- [2018] [About Nix sandboxes and breakpoints](https://www.youtube.com/watch?v=ULqoCjANK-I) ⭐
 
 #### See also
 - [NixOS](nixos.md)
