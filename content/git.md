@@ -55,7 +55,7 @@ A list of my public Git repositories.
 
 : Finally, an RSS reader without a built-in browser
 
-    *`#gtk-rs` `#rust` <code style="color: var(--md-primary-fg-color)">#work-in-progress</code>*
+    *`#gtk-rs` `#rust` <code style="color: var(--md-primary-fg-color)">#unfinished</code>*
 
 ## Complex [:simple-codeberg:](https://codeberg.org/paveloom-c) [:simple-github:](https://github.com/paveloom-c) [:simple-gitlab:](https://gitlab.com/paveloom-g/complex)
 
@@ -99,7 +99,7 @@ A list of my public Git repositories.
 
 :   Spatial-kinematic modelling of a flat subsystem of the Milky Way by the method of maximum likelihood
 
-    *`#astronomy` `#julia` `#rust` <code style="color: var(--md-primary-fg-color)">#work-in-progress</code>*
+    *`#astronomy` `#julia` `#rust`*
 
 #### `paveloom-c.github.io` [:simple-github:](https://github.com/paveloom-c/paveloom-c.github.io)
 
