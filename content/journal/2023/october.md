@@ -1,5 +1,11 @@
 # October 2023
 
+### Monday, 23 {#23}
+
+#### C++ {#23#c++}
+
+Read more of [A Tour of C++](https://www.stroustrup.com/tour3.html).
+
 ### Friday, 20 {#20}
 
 #### C++ {#20#c++}
