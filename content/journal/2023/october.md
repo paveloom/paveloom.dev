@@ -1,5 +1,15 @@
 # October 2023
 
+### Tuesday, 24 {#24}
+
+#### C++ {#24#c++}
+
+Finished reading [A Tour of C++](https://www.stroustrup.com/tour3.html). It changed my opinion of C++ (I think it's pretty good).
+
+#### Maintenance {#24#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/263111) to update [qBittorrent](https://www.qbittorrent.org) in [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
 ### Monday, 23 {#23}
 
 #### C++ {#23#c++}
