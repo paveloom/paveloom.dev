@@ -1,5 +1,15 @@
 # October 2023
 
+### Wednesday, 25 {#25}
+
+#### [Kirk](../../git.md#kirk) {#25#kirk}
+
+Started converting the code from C to C++.
+
+#### Maintenance {#25#maintenance}
+
+Worked on polishing the [pull request](https://github.com/NixOS/nixpkgs/pull/263111) to update [qBittorrent](https://www.qbittorrent.org) in [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
 ### Tuesday, 24 {#24}
 
 #### C++ {#24#c++}
