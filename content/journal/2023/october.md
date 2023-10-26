@@ -1,5 +1,11 @@
 # October 2023
 
+### Thursday, 26 {#26}
+
+#### [Kirk](../../git.md#kirk) {#26#kirk}
+
+Converted the code from C to the C-like C++. Turned out to be a pretty straight forward thing to do. Started rewriting into more C++-esque style using [`gtkmm`](https://gtkmm.org). Hopefully type-safe callbacks are worth it!
+
 ### Wednesday, 25 {#25}
 
 #### [Kirk](../../git.md#kirk) {#25#kirk}
