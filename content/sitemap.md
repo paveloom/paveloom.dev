@@ -82,6 +82,7 @@ search:
                 - [Email hosting service](pensieve/email-hosting-service.md)
                 - [File sharing](pensieve/file-sharing.md)
                     - [BitTorrent](pensieve/bittorrent.md)
+                    - [I2P](pensieve/i2p.md)
                     - [LBRY](pensieve/lbry.md)
                     - [Soulseek](pensieve/soulseek.md)
             - [Overlay network](pensieve/overlay-network.md)
