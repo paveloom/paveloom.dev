@@ -1,5 +1,13 @@
 # October 2023
 
+### Friday, 27 {#27}
+
+#### [Kirk](../../git.md#kirk) {#27#kirk}
+
+I started rewriting the code using [`gtkmm`](https://gtkmm.org), but eventually encountered that there is no pretty way to derive from the [`libadwaita`](https://gitlab.gnome.org/GNOME/libadwaita)'s widgets. There are hardly any examples of someone doing it ([GNOME System Monitor](https://gitlab.gnome.org/GNOME/gnome-system-monitor/) is one, but they just use the GTK Builder to avoid defining new classes). Also, I found out that you can't use templates in XML descriptions of user interfaces, only concrete objects. Furthermore, the API seems slightly different from the upstream (and their [reference](https://gnome.pages.gitlab.gnome.org/gtkmm) doesn't have a search!). I decided to stick with C-like C++ for the time being.
+
+Started writing support for fetching application ID from [Qobuz](https://www.qobuz.com).
+
 ### Thursday, 26 {#26}
 
 #### [Kirk](../../git.md#kirk) {#26#kirk}
