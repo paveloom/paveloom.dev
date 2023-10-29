@@ -17,6 +17,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Algorithm).
 - [CSES Problem Set](https://cses.fi/problemset) ⭐
 - [Codeforces](https://codeforces.com)
 - [LeetCode](https://leetcode.com) ⭐
+    - [LeetSolve](https://www.leetsolve.com)
     - [NeetCode](https://neetcode.io) ⭐
 - [Алгоритмика](https://ru.algorithmica.org)
 
