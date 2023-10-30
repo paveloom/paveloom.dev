@@ -1,5 +1,11 @@
 # October 2023
 
+### Monday, 30 {#30}
+
+#### [Kirk](../../git.md#kirk) {#30#kirk}
+
+Implemented the retrieval of the application ID from [Qobuz](https://www.qobuz.com). Used the support for regular expressions and multi-threading in the standard C++ library. Currently, in the process of implementing UI nuances (like updating the password entry on changes in the secret store), so that the process of fetching the ID is more intuitive.
+
 ### Friday, 27 {#27}
 
 #### [Kirk](../../git.md#kirk) {#27#kirk}
