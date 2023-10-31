@@ -1,5 +1,15 @@
 # October 2023
 
+### Tuesday, 31 {#31}
+
+#### [Kirk](../../git.md#kirk) {#31#kirk}
+
+Spent quite a lot of time figuring out how to connect to signals from the [Secret Service API](https://specifications.freedesktop.org/secret-service/latest) via D-Bus to set up my callback when the password changes in the secret store (spoiler: you apparently can't monitor that, only public parameters), just to find a simpler, one line solution afterward.
+
+Also, started wrapping my blocking regex searching functions in asynchronous wrappers, as described [here](https://developer.gnome.org/documentation/tutorials/threading.html), so that I can use the `g_task_run_in_thread` function and make them run in a worker thread. Simply using `std::thread` from the C++ standard library turned out to be not enough to avoid blocks.
+
+I get somewhat annoyed by C++'s need to run destructors all the time. For example, I can't really steal the pointer from an `std::string` to bypass the destructor. This causes workarounds in asynchronous code, such as copying the string to `GTask`'s data. I might as well just use GLib... and switch back to C?...
+
 ### Monday, 30 {#30}
 
 #### [Kirk](../../git.md#kirk) {#30#kirk}
