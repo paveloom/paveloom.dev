@@ -1,5 +1,11 @@
 # November 2023
 
+### Thursday, 2 {#2}
+
+#### [Kirk](../../git.md#kirk) {#2#kirk}
+
+Converted the code back to C (from C++). My compilation is fast and error messages are nice again! Split the authorization into two buttons ("send" and "cancel") and put them into a `GtkStack`. I used to switch labels and callbacks on runtime, but with `GtkStack` I can just switch to another page (and make sure the focus is grabbed when needed).
+
 ### Wednesday, 1 {#1}
 
 #### [Kirk](../../git.md#kirk) {#1#kirk}
