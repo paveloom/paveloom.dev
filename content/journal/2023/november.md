@@ -1,5 +1,11 @@
 # November 2023
 
+### Friday, 3 {#3}
+
+#### [Kirk](../../git.md#kirk) {#3#kirk}
+
+Added a feature that allows one to stop fetching the application ID. Started working on implementing support for notifying about expired Qobuz subscription.
+
 ### Thursday, 2 {#2}
 
 #### [Kirk](../../git.md#kirk) {#2#kirk}
