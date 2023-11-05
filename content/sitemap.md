@@ -164,6 +164,7 @@ search:
                     - [Compatibility layer](pensieve/compatibility-layer.md)
                         - [Windows Subsystem for Linux](pensieve/windows-subsystem-for-linux.md)
                     - [File system](pensieve/file-system.md)
+                        - [Btrfs](pensieve/btrfs.md)
                     - [Linux](pensieve/linux.md)
                         - [Desktop environments](pensieve/desktop-environments.md)
                             - [GNOME](pensieve/gnome.md)
