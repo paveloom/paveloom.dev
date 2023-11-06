@@ -40,6 +40,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 - [2023] [Few lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c) ⭐
 - [2023] [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29) ⭐
 - [2023] [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08)
+- [2023] [Programming in Modern C with a Sneak Peek into C23](https://www.youtube.com/watch?v=lLv1s7rKeCM) ⭐
+- [2023] [Scope-based resource management for the kernel](https://lwn.net/Articles/934679) ⭐
 - [2023] [Simply Parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 - [2023] [Why I Use C When I Believe in Memory Safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety)
 - [2023] [Writing Robust C - Best Practices for Finding and Preventing Vulnerabilities](https://blog.ethereum.org/en/2023/11/02/writing-robust-c) ⭐
