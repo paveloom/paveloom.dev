@@ -1,5 +1,11 @@
 # November 2023
 
+### Monday, 6 {#6}
+
+#### [Kirk](../../git.md#kirk) {#6#kirk}
+
+Finished implementing support for notifying the user about expired Qobuz subscription. Started figuring out how to set up `Gtk.ListView` for storing and displaying the results of a release search.
+
 ### Friday, 3 {#3}
 
 #### [Kirk](../../git.md#kirk) {#3#kirk}
