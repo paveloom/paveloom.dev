@@ -1,5 +1,11 @@
 # November 2023
 
+### Tuesday, 7 {#7}
+
+#### VSCode {#7#vscode}
+
+Started switching from [Neovim](https://neovim.io) to [Visual Studio Code](https://code.visualstudio.com) with the [VSCodeVim](https://github.com/VSCodeVim/Vim) extension.
+
 ### Monday, 6 {#6}
 
 #### [Kirk](../../git.md#kirk) {#6#kirk}
