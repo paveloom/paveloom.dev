@@ -1,5 +1,11 @@
 # November 2023
 
+### Tuesday, 8 {#8}
+
+#### VSCode {#8#vscode}
+
+Almost done with setting up VSCode.
+
 ### Tuesday, 7 {#7}
 
 #### VSCode {#7#vscode}

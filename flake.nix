@@ -50,7 +50,6 @@
           nativeBuildInputs
           ++ (with pkgs; [
             alejandra
-            ltex-ls
             nil
             runc
             shellcheck
