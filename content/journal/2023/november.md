@@ -1,6 +1,6 @@
 # November 2023
 
-### Tuesday, 8 {#8}
+### Wednesday, 8 {#8}
 
 #### VSCode {#8#vscode}
 

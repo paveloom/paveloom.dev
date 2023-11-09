@@ -13,6 +13,7 @@
       nativeBuildInputs = with pkgs; [
         bashInteractive
         coreutils
+        findutils
         git
         pdm
       ];
@@ -29,6 +30,7 @@
           mkdir -p rootfs/{bin,usr/bin}
           xargs tar -c < ${pkgs.writeReferencesToFile env} | tar -xC rootfs/
           ln -s ${pkgs.coreutils}/bin/env rootfs/usr/bin/env
+          ln -s ${pkgs.coreutils}/bin/sleep rootfs/bin/sleep
           ln -s ${pkgs.bashInteractive}/bin/bash rootfs/usr/bin/bash
           ln -s ${pkgs.bashInteractive}/bin/sh rootfs/bin/sh
 
@@ -53,8 +55,6 @@
             nil
             runc
             shellcheck
-            yamlfmt
-            yamllint
           ]);
       };
       packages.image = buildImage {
