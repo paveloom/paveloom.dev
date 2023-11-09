@@ -1,5 +1,22 @@
 # November 2023
 
+### Thursday, 9 {#9}
+
+#### [Site](../../git.md#site) {#9#site}
+
+Set up a workflow for [Codeberg](https://codeberg.org) (yes, again). Turns out they silently switched from [Woodpecker](https://woodpecker-ci.org) to their own CI system, which is almost identical to [GitHub Actions](https://github.com/features/actions). They don't provide hosted runners, though, and expect users to [host their own](https://forgejo.org/docs/next/admin/actions/#forgejo-runner). Here's the [user guide](https://forgejo.org/docs/next/user/actions). I was surprised to learn that they mention NixOS in their documentation, and there is already a NixOS module in [Nixpkgs](https://github.com/NixOS/nixpkgs), so I just used it.
+
+#### VSCode {#9#vscode}
+
+Current gripes:
+
+- No way to close the tab to the left instead of to the right;
+- Seems like I need a plugin for every tool I use (in Neovim I used [`nvim-lspconfig`](https://github.com/neovim/nvim-lspconfig) and [`null-ls`](https://github.com/jose-elias-alvarez/null-ls.nvim) plugins). I found [Trunk](https://trunk.io), but it's proprietary and expects an [FHS](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) compliant filesystem (which I'd rather avoid on NixOS).
+
+Current positives:
+
+- VSCode handles `all-packages.nix` like a champ. It's a file with 42K lines of code in [Nixpkgs](https://github.com/NixOS/nixpkgs) which contains all top-level derivations.
+
 ### Wednesday, 8 {#8}
 
 #### VSCode {#8#vscode}
