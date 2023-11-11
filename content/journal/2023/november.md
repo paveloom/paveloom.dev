@@ -1,5 +1,11 @@
 # November 2023
 
+### Saturday, 11 {#11}
+
+#### Objectivism {#11#objectivism}
+
+Returned to reading the [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand).
+
 ### Thursday, 9 {#9}
 
 #### [Site](../../git.md#site) {#9#site}
