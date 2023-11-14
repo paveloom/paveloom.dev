@@ -1,5 +1,11 @@
 # November 2023
 
+### Tuesday, 14 {#14}
+
+#### Maintenance {#14#maintenance}
+
+Created a [PR](https://github.com/NixOS/nixpkgs/pull/267504) to [Nixpkgs](https://github.com/NixOS/nixpkgs) to fix symlinks being ignored by [Wine](https://www.winehq.org) in [Bottles](https://usebottles.com) when using [`buildFHSEnvBubblewrap`](https://nixos.org/manual/nixpkgs/unstable/#sec-fhs-environments).
+
 ### Saturday, 11 {#11}
 
 #### Objectivism {#11#objectivism}
