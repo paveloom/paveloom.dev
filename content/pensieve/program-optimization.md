@@ -33,7 +33,9 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Program_optimization).
     - [Part 1](https://owen.cafe/posts/six-times-faster-than-c)
     - [Part 2](https://owen.cafe/posts/the-same-speed-as-c)
 - [2023] [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128) ⭐
+- [2023] [Faster hash maps, binary trees etc. through data layout modification](https://johnnysswlab.com/faster-hash-maps-binary-trees-etc-through-data-layout-modification) ⭐
 - [2023] [On Maximizing Your Rust Code's Performance](https://jbecker.dev/research/on-writing-performant-rust) ⭐
+- [2023] [Software Performance and Class Layout](https://johnnysswlab.com/software-performance-and-class-layout) ⭐
 - [2023] [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums) ⭐
 - [2022] [Data-driven performance optimization with Rust and Miri](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35)
 - [2022] [How Rust 1.64 Became 10-20% Faster On Windows?](https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70) ⭐
