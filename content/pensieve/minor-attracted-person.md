@@ -7,6 +7,7 @@ Read more on [Wikipedia](https://archive.is/q1ttr).
 #### Community
 
 ##### Fediverse
+- [aethy.com](https://aethy.com)
 - [baraag.net](https://baraag.net)
 - [freak.university](https://freak.university)
 - [nnia.space](https://nnia.space)
