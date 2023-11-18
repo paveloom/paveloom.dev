@@ -1,5 +1,11 @@
 # November 2023
 
+### Saturday, 18 {#18}
+
+#### Maintenance {#18#maintenance}
+
+Worked on polishing the [pull request](https://github.com/NixOS/nixpkgs/pull/267899) to update [Wireshark](https://www.wireshark.org) in [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
 ### Thursday, 16 {#16}
 
 #### Maintenance {#16#maintenance}
