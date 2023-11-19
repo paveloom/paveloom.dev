@@ -1,5 +1,11 @@
 # November 2023
 
+### Sunday, 19 {#19}
+
+#### Maintenance {#19#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/268499) to [Nixpkgs](https://github.com/NixOS/nixpkgs) to create a link to `/bin/ldconfig` in `/sbin` when using [`buildFHSEnvBubblewrap`](https://nixos.org/manual/nixpkgs/unstable/#sec-fhs-environments).
+
 ### Saturday, 18 {#18}
 
 #### Maintenance {#18#maintenance}
