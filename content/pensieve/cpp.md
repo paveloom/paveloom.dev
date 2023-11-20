@@ -22,6 +22,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C++).
 
 ##### Text
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) ⭐
+- [C++ Developer Roadmap](https://roadmap.sh/cpp) ⭐
 - [C++ Stories](https://www.cppstories.com)
 - [2023] [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053) ⭐
 - [2023] [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts)
