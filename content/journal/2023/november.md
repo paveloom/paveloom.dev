@@ -1,5 +1,11 @@
 # November 2023
 
+### Tuesday, 21 {#21}
+
+#### Maintenance {#21#maintenance}
+
+Created a [pull request](https://github.com/NixOS/nixpkgs/pull/269015) to fix [Swift](http://swift.org) in and a [pull request](https://github.com/NixOS/nixpkgs/pull/269042) to add [Swift-MesonLSP](https://github.com/JCWasmx86/Swift-MesonLSP) to [Nixpkgs](https://github.com/NixOS/nixpkgs).
+
 ### Sunday, 19 {#19}
 
 #### Maintenance {#19#maintenance}
