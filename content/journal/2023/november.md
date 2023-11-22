@@ -1,5 +1,11 @@
 # November 2023
 
+### Wednesday, 22 {#22}
+
+#### Maintenance {#22#maintenance}
+
+Created a [pull request](https://github.com/mesonbuild/vscode-meson/pull/198) to [Meson for Visual Studio Code](https://github.com/mesonbuild/vscode-meson) to look up relative paths to the language server in `PATH` first.
+
 ### Tuesday, 21 {#21}
 
 #### Maintenance {#21#maintenance}
