@@ -3,10 +3,9 @@
 
 [metadata]
 groups = ["default"]
-cross_platform = true
-static_urls = false
-lock_version = "4.3"
-content_hash = "sha256:4a66d0fea8cf37eb026f0ad666c3c592c476820d0d56b8546b2c684dc10eec9d"
+strategy = ["cross_platform"]
+lock_version = "4.4"
+content_hash = "sha256:8db10a783ed1b833d7c5666a65a15e9acdb99caa64d0f0ab7e9aac1ea787e44c"
 
 [[package]]
 name = "babel"
@@ -252,7 +251,7 @@ files = [
 
 [[package]]
 name = "mkdocs-git-revision-date-localized-plugin"
-version = "1.2.0"
+version = "1.2.1"
 requires_python = ">=3.6"
 summary = "Mkdocs plugin that enables displaying the localized date of the last git modification of a markdown file."
 dependencies = [
@@ -262,8 +261,8 @@ dependencies = [
     "pytz",
 ]
 files = [
-    {file = "mkdocs-git-revision-date-localized-plugin-1.2.0.tar.gz", hash = "sha256:7752edd7c4dcaa9383e9a5b6a4f729831a62d604b0c43b319331127720c6a2bf"},
-    {file = "mkdocs_git_revision_date_localized_plugin-1.2.0-py3-none-any.whl", hash = "sha256:540b9c930d8d48630c090b72ac2c3900ac2ed0799b23738a33b88e31f5198fe7"},
+    {file = "mkdocs-git-revision-date-localized-plugin-1.2.1.tar.gz", hash = "sha256:fc5b23a9d572cbba0114e9e17152001d01724990cb308830e58291fa614faf73"},
+    {file = "mkdocs_git_revision_date_localized_plugin-1.2.1-py3-none-any.whl", hash = "sha256:d57dc99d67af917899e69c392f1ebccd1779fa243d641255469b03f8a3596b96"},
 ]
 
 [[package]]
@@ -281,7 +280,7 @@ files = [
 
 [[package]]
 name = "mkdocs-material"
-version = "9.4.2"
+version = "9.4.11"
 requires_python = ">=3.8"
 summary = "Documentation that simply works"
 dependencies = [
@@ -289,7 +288,7 @@ dependencies = [
     "colorama~=0.4",
     "jinja2~=3.0",
     "markdown~=3.2",
-    "mkdocs-material-extensions~=1.2",
+    "mkdocs-material-extensions~=1.3",
     "mkdocs>=1.5.3,~=1.5",
     "paginate~=0.5",
     "pygments~=2.16",
@@ -298,18 +297,18 @@ dependencies = [
     "requests~=2.26",
 ]
 files = [
-    {file = "mkdocs_material-9.4.2-py3-none-any.whl", hash = "sha256:8651ff451f84681df9d2e3388906eee63c866576d98d6bb542826f83a091b289"},
-    {file = "mkdocs_material-9.4.2.tar.gz", hash = "sha256:d53b17d058e70efd04c281f9b384ca10fb1f0bfecfe85dacdadad891bb826e3d"},
+    {file = "mkdocs_material-9.4.11-py3-none-any.whl", hash = "sha256:794b81d74df4fd7dee952dd4502f7b6a7913a1fc56021e5f36f8e96eb20ffb25"},
+    {file = "mkdocs_material-9.4.11.tar.gz", hash = "sha256:82c2bdbdc8445854f400d12831a8b0f7602efaaead7b264ac3c45aa3aa240755"},
 ]
 
 [[package]]
 name = "mkdocs-material-extensions"
-version = "1.2"
-requires_python = ">=3.7"
+version = "1.3.1"
+requires_python = ">=3.8"
 summary = "Extension pack for Python Markdown and MkDocs Material."
 files = [
-    {file = "mkdocs_material_extensions-1.2-py3-none-any.whl", hash = "sha256:c767bd6d6305f6420a50f0b541b0c9966d52068839af97029be14443849fb8a1"},
-    {file = "mkdocs_material_extensions-1.2.tar.gz", hash = "sha256:27e2d1ed2d031426a6e10d5ea06989d67e90bb02acd588bc5673106b5ee5eedf"},
+    {file = "mkdocs_material_extensions-1.3.1-py3-none-any.whl", hash = "sha256:adff8b62700b25cb77b53358dad940f3ef973dd6db797907c49e3c2ef3ab4e31"},
+    {file = "mkdocs_material_extensions-1.3.1.tar.gz", hash = "sha256:10c9511cea88f568257f960358a467d12b970e1f7b2c0e5fb2bb48cab1928443"},
 ]
 
 [[package]]

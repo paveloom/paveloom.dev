@@ -2,7 +2,8 @@
     "extensions": {
         "recommendations": [
             "jnoortheen.nix-ide",
-            "mkhl.direnv"
+            "mkhl.direnv",
+            "tamasfe.even-better-toml"
         ]
     },
     "folders": [

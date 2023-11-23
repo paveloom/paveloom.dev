@@ -1,20 +1,18 @@
 [project]
-name = ""
-version = ""
+name = "site"
+version = "0.1.0"
 description = ""
-authors = [
-    {name = "Pavel Sobolev", email = "paveloom@riseup.net"},
-]
+authors = [{ name = "Pavel Sobolev", email = "paveloom@riseup.net" }]
 dependencies = [
-    "mkdocs-material==9.4.2",
-    "mkdocs-git-revision-date-localized-plugin==1.2.0",
-    "mkdocs-literate-nav==0.6.1",
-    "mkdocs-section-index==0.3.8",
-    "mkdocs-minify-plugin==0.7.1",
     "htmlmin==0.1.12",
+    "mkdocs-git-revision-date-localized-plugin==1.2.1",
+    "mkdocs-literate-nav==0.6.1",
+    "mkdocs-material==9.4.11",
+    "mkdocs-minify-plugin==0.7.1",
+    "mkdocs-section-index==0.3.8",
 ]
 requires-python = ">=3.10"
-license = {text = "MIT"}
+license = { text = "MIT" }
 
 [build-system]
 requires = ["pdm-pep517>=1.0.0"]
