@@ -1,5 +1,11 @@
 # November 2023
 
+### Friday, 24 {#24}
+
+#### Maintenance {#24#maintenance}
+
+Have been working on small maintenance tasks these couple of days.
+
 ### Wednesday, 22 {#22}
 
 #### Maintenance {#22#maintenance}
