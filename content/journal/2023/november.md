@@ -1,5 +1,11 @@
 # November 2023
 
+### Thursday, 30 {#30}
+
+#### Objectivism {#30#objectivism}
+
+Finished reading the [Objectivism: The Philosophy of Ayn Rand](https://en.wikipedia.org/wiki/Objectivism:_The_Philosophy_of_Ayn_Rand).
+
 ### Friday, 24 {#24}
 
 #### Maintenance {#24#maintenance}
