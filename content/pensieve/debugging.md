@@ -14,5 +14,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Debugging).
 #### Resources
 
 ##### Video
+- [2023] [Back to Basics: Debugging in Cpp](https://www.youtube.com/watch?v=qgszy9GquRs)
 - [2018] [9.1 - Debugging - Introduction](https://www.youtube.com/watch?v=D8imWEgyS1g) ⭐
 - [2018] [9.2 - Debugging - GDB Tutorial](https://www.youtube.com/watch?v=bWH-nL7v5F4) ⭐
