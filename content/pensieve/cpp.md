@@ -27,3 +27,4 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/C++).
 - [2023] [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053) ⭐
 - [2023] [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts)
 - [2023] [C++: The most important complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
+- [2023] [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
