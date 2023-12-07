@@ -87,6 +87,7 @@ plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|\.(?!\d)|&[lg]t;'
   - git-revision-date-localized:
+      enable_creation_date: true
       exclude:
         - blog/*.md
         - journal/README.md
