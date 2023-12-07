@@ -7,7 +7,7 @@ dependencies = [
     "htmlmin==0.1.12",
     "mkdocs-git-revision-date-localized-plugin==1.2.1",
     "mkdocs-literate-nav==0.6.1",
-    "mkdocs-material==9.4.11",
+    "mkdocs-material==9.5.0",
     "mkdocs-minify-plugin==0.7.1",
     "mkdocs-section-index==0.3.8",
 ]

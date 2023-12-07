@@ -5,7 +5,7 @@
 groups = ["default"]
 strategy = ["cross_platform"]
 lock_version = "4.4"
-content_hash = "sha256:8db10a783ed1b833d7c5666a65a15e9acdb99caa64d0f0ab7e9aac1ea787e44c"
+content_hash = "sha256:f42e5e9715af686fd2645960ab3cdb263139e6088e791a2bdbfa97bc4951db91"
 
 [[package]]
 name = "babel"
@@ -280,7 +280,7 @@ files = [
 
 [[package]]
 name = "mkdocs-material"
-version = "9.4.11"
+version = "9.5.0"
 requires_python = ">=3.8"
 summary = "Documentation that simply works"
 dependencies = [
@@ -297,8 +297,8 @@ dependencies = [
     "requests~=2.26",
 ]
 files = [
-    {file = "mkdocs_material-9.4.11-py3-none-any.whl", hash = "sha256:794b81d74df4fd7dee952dd4502f7b6a7913a1fc56021e5f36f8e96eb20ffb25"},
-    {file = "mkdocs_material-9.4.11.tar.gz", hash = "sha256:82c2bdbdc8445854f400d12831a8b0f7602efaaead7b264ac3c45aa3aa240755"},
+    {file = "mkdocs_material-9.5.0-py3-none-any.whl", hash = "sha256:47323c9943756ced14487d0607caa283e350e8fd4c724b224bd69ccb0b0731f2"},
+    {file = "mkdocs_material-9.5.0.tar.gz", hash = "sha256:f8f9ccb526bd8a8ac2e5ec2e64e1a167cfb53cf6a84c8924dbb607f0a70e74ae"},
 ]
 
 [[package]]
