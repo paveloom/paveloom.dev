@@ -273,6 +273,12 @@ A list of my public Git repositories.
 
 :   Personal system configuration
 
+#### DSA [:simple-codeberg:](https://codeberg.org/paveloom/DSA) [:simple-github:](https://github.com/paveloom/DSA) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/DSA)
+
+:   Data Structures & Algorithms
+
+    *`#data-structures-and-algorithms` `#c++`*
+
 #### Exercism [:simple-codeberg:](https://codeberg.org/paveloom/Exercism) [:simple-github:](https://github.com/paveloom/Exercism) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/Exercism)
 
 :   Exercism exercises completed by me
@@ -339,7 +345,7 @@ A list of my public Git repositories.
 
 :   Scripts and programs from the astrometric workshop
 
-    *`#observations`  `#astronomy` `#astrometry`*
+    *`#observations` `#astronomy` `#astrometry`*
 
 #### Astrophysical Workshop Summer 2021 [:simple-codeberg:](https://codeberg.org/paveloom-university/Astrophysical-Workshop-Summer-2021) [:simple-github:](https://github.com/paveloom-university/Astrophysical-Workshop-Summer-2021) [:simple-gitlab:](https://gitlab.com/paveloom-g/university/astrophysical-workshop-summer-2021)
 
