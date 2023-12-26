@@ -121,6 +121,7 @@ search:
                         - [`fish`](pensieve/fish.md)
                     - [Terminal emulators](pensieve/terminal-emulators.md)
                 - [Text editors](pensieve/text-editors.md)
+                    - [GNU Emacs](pensieve/gnu-emacs.md)
                     - [Helix](pensieve/helix.md)
                     - [Neovim](pensieve/neovim.md)
                 - [Tools](pensieve/tools.md)
