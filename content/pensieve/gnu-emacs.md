@@ -8,4 +8,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/GNU_Emacs).
 - [GNU Emacs](https://www.gnu.org/software/emacs) ⭐
 
 #### Resources
+- [2023] [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
+- [2023] [Emacs From Scratch, Part 1: Foundations](https://arne.me/articles/emacs-from-scratch-part-one-foundations)
 - [2023] [From Zero To IDE with Emacs and LSP](https://justinbarclay.ca/posts/from-zero-to-ide-with-emacs-and-lsp)
