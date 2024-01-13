@@ -21,7 +21,7 @@ I am always striving to learn new things and improve my skills. You can check ou
 
 #### Contacts
 
-- Email: [paveloom@riseup.net](mailto:paveloom@riseup.net) [[PGP](assets/pgp.asc)]
+- Email: [paveloomm@gmail.com](mailto:paveloomm@gmail.com)
 
 #### Site navigation
 
