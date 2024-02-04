@@ -11,6 +11,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence_a
 - [Different Dimension Me](https://h5.tu.qq.com/web/ai-2d/cartoon/index)
 - [Midjourney](https://www.midjourney.com)
     - [OpenJourney](https://open-journey.github.io)
+- [Seaart](https://www.seaart.ai)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐
     - [Anything](https://huggingface.co/andite/anything-v4.0)
     - [Counterfeit](https://huggingface.co/gsdf/Counterfeit-V2.5)
