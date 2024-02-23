@@ -41,6 +41,9 @@ copyright: |
   <span style="color: var(--md-footer-fg-color--lighter)">Authored by</span> Pavel Sobolev
 extra:
   social:
+    - icon: fontawesome/solid/globe
+      link: https://paveloom.dev
+      name: Main
     - icon: fontawesome/solid/bolt
       link: https://paveloom.on.fleek.co
       name: Fleek
