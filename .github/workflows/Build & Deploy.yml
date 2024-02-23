@@ -4,8 +4,8 @@ on:
     branches:
       - master
 jobs:
-  build-and-deploy:
-    name: Build & Deploy
+  build-and-deploy-1:
+    name: paveloom.github.io
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
@@ -26,3 +26,29 @@ jobs:
           branch: gh-pages
           folder: public
           single-commit: true
+  build-and-deploy-2:
+    name: paveloom.dev
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Create the build directory
+        run: mkdir public
+      - name: Build the site
+        uses: docker://paveloom/site
+        with:
+          args: |
+            sh -c "\
+              scripts/build.bash \
+                https://paveloom.dev \
+                https://github.com/paveloom/paveloom.github.io"
+      - name: Deploy
+        uses: SamKirkland/FTP-Deploy-Action@4.0.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: public/
+          server-dir: paveloom.dev/public_html/
