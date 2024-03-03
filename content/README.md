@@ -21,7 +21,7 @@ I am always striving to learn new things and improve my skills. You can check ou
 
 #### Contacts
 
-- Email: [paveloomm@gmail.com](mailto:paveloomm@gmail.com)
+- Email: [contact@paveloom.dev](mailto:contact@paveloom.dev)
 
 #### Site navigation
 
