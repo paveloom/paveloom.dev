@@ -39,6 +39,10 @@ A list of my public Git repositories.
 
 :   *`#c` <code style="color: var(--md-primary-fg-color)">#work-in-progress</code>*
 
+#### Morbo [:simple-codeberg:](https://codeberg.org/paveloom-a/Morbo) [:simple-github:](https://github.com/paveloom-a/Morbo) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps/Morbo)
+
+:   *<code style="color: var(--md-primary-fg-color)">#work-in-progress</code>*
+
 #### Shuchu [:simple-codeberg:](https://codeberg.org/paveloom-a/Shuchu) [:simple-github:](https://github.com/paveloom-a/Shuchu) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps/Shuchu)
 
 :   An app to turn your time into self-proclaimed rewards
