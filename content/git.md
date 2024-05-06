@@ -17,6 +17,10 @@ A list of my public Git repositories.
 
     *`#fltk-rs` `#rust` <code style="color: var(--md-primary-fg-color)">#unfinished</code>*
 
+#### Flowey [:simple-codeberg:](https://codeberg.org/paveloom-a/Flowey) [:simple-github:](https://github.com/paveloom-a/Flowey) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps/Flowey)
+
+:   *<code style="color: var(--md-primary-fg-color)">#work-in-progress</code>*
+
 #### `fltk-rs-playground` [:simple-codeberg:](https://codeberg.org/paveloom-a/fltk-rs-playground) [:simple-github:](https://github.com/paveloom-a/fltk-rs-playground) [:simple-gitlab:](https://gitlab.com/paveloom-g/apps/fltk-rs-playground)
 
 :   A playground to test all things `fltk-rs`
