@@ -4,29 +4,7 @@ on:
     branches:
       - master
 jobs:
-  build-and-deploy-1:
-    name: paveloom.github.io
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - name: Build the site
-        uses: docker://paveloom/site
-        with:
-          args: |
-            sh -c "\
-              scripts/build.bash \
-                https://paveloom.github.io \
-                https://github.com/paveloom/paveloom.github.io"
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: gh-pages
-          folder: public
-          single-commit: true
-  build-and-deploy-2:
+  build-and-deploy:
     name: paveloom.dev
     runs-on: ubuntu-latest
     steps:
