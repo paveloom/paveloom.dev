@@ -321,7 +321,7 @@ A list of my public Git repositories.
 
     *`#github-readme`*
 
-#### Site [:simple-codeberg:](https://codeberg.org/paveloom/pages) [:simple-github:](https://github.com/paveloom/paveloom.github.io) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/site)
+#### Site [:simple-codeberg:](https://codeberg.org/paveloom/paveloom.dev) [:simple-github:](https://github.com/paveloom/paveloom.dev) [:simple-gitlab:](https://gitlab.com/paveloom-g/personal/paveloom.dev)
 
 :   Personal website
 

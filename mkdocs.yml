@@ -39,26 +39,6 @@ theme:
     - toc.follow
 copyright: |
   <span style="color: var(--md-footer-fg-color--lighter)">Authored by</span> Pavel Sobolev
-extra:
-  social:
-    - icon: fontawesome/solid/globe
-      link: https://paveloom.dev
-      name: Main
-    - icon: fontawesome/solid/bolt
-      link: https://paveloom.on.fleek.co
-      name: Fleek
-    - icon: simple/codeberg
-      link: https://paveloom.codeberg.page
-      name: Codeberg
-    - icon: simple/github
-      link: https://paveloom.github.io
-      name: GitHub
-    - icon: simple/gitlab
-      link: https://paveloom-g.gitlab.io/personal/site
-      name: GitLab
-    - icon: simple/rss
-      link: https://github.com/paveloom/paveloom.github.io/commits/master.atom
-      name: RSS
 extra_css:
   - assets/extra.css
 extra_javascript:
