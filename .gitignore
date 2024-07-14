@@ -1,18 +1,5 @@
-# Direnv
-.direnv
+/.direnv/
+/.idea/
+/.vscode/
 
-# Nix
-result
-
-# Generated site
-public
-book
-
-# PDM
-__pypackages__
-.pdm-python
-
-# JavaScript
-bun.lockb
-node_modules
-package-lock.json
+/result

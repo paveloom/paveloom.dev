@@ -12,16 +12,21 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: Create the build directory
-        run: mkdir public
-      - name: Build the site
-        uses: docker://paveloom/site
+      - name: Install Nix
+        uses: cachix/install-nix-action@v27
         with:
-          args: |
-            sh -c "\
-              scripts/build.bash \
-                https://paveloom.dev \
-                https://github.com/paveloom/paveloom.github.io"
+          nix_path:
+            nixpkgs=channel:https://github.com/paveloom/nixpkgs/archive/refs/heads/system.zip
+          github_access_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Cachix
+        uses: cachix/cachix-action@v15
+        with:
+          name: paveloom-site
+          authToken: ${{ secrets.CACHIX_AUTH_TOKEN }}
+      - name: Build
+        run: |
+          nix build -v .#site
+          tree -a result
       - name: Deploy
         env:
           SSH_KEY: ${{ secrets.SSH_KEY }}
@@ -35,4 +40,4 @@ jobs:
           echo '#!/bin/sh' > ~/.ssh_askpass
           echo 'echo $SSH_KEY_PASS' > ~/.ssh_askpass && chmod 700 ~/.ssh_askpass
           echo "$SSH_KEY" | tr -d '\r' | DISPLAY=None SSH_ASKPASS=~/.ssh_askpass ssh-add -
-          rsync -avzh --delete-after public/ "$SSH_USERNAME@$SSH_HOST:$SSH_REMOTE_DIR"
+          rsync -avzh --delete-after result/ "$SSH_USERNAME@$SSH_HOST:$SSH_REMOTE_DIR"

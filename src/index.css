@@ -1,0 +1,153 @@
+:root {
+  --color-background: #ffffff;
+  --color-date: #606060;
+  --color-tag: #f5f5f5;
+  --color-text: #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #1e2129;
+    --color-date: #9f9f9f;
+    --color-tag: #272a35;
+    --color-text: #f1f1f1;
+  }
+}
+
+@font-face {
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/Recoleta-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Recoleta";
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/Recoleta-Bold.woff2") format("woff2");
+}
+
+* {
+  font-family: "Recoleta", serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: var(--color-text);
+  background-color: var(--color-background);
+}
+
+a, a:visited {
+  color: var(--color-text);
+}
+
+#introduction {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 30px;
+}
+
+#avatar {
+  height: 160px;
+  width: 160px;
+  border: 2px solid var(--color-text);
+  border-radius: 50%;
+}
+
+.designation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1.2;
+}
+
+.designation > #name {
+  font-size: 35px;
+}
+
+.designation > #title {
+  font-size: 20px;
+}
+
+#pronouns {
+  background-color: var(--color-tag);
+}
+
+svg {
+  height: 100%;
+  fill: var(--color-text);
+}
+
+#socials {
+  display: flex;
+  gap: 10px;
+  height: 25px;
+}
+
+#socials a {
+  height: inherit;
+}
+
+#socials a > img {
+  height: 100%;
+}
+
+:is(h1, h2, h3, h4, h5, h6) a {
+  opacity: 0;
+  margin-left: .25em;
+}
+
+:is(h1, h2, h3, h4, h5, h6):hover a {
+  opacity: 1;
+  transition: color .25s, opacity 125ms;
+}
+
+#blocks {
+  margin-bottom: 30px;
+}
+
+.block {
+  padding: 15px 15px 0 15px;
+}
+
+.block > .container {
+  display: flex;
+  flex-direction: column;
+}
+
+.tags {
+  display: flex;
+  column-gap: 10px;
+  row-gap: 5px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.tag {
+  background-color: var(--color-tag);
+}
+
+.item {
+  margin: 15px;
+}
+
+.date {
+  color: var(--color-date);
+}
+
+.description {
+  max-width: 35em;
+  margin-top: 10px;
+}
+
+.repository {
+  margin: 15px;
+}
