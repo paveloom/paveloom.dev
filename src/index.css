@@ -15,6 +15,7 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "Recoleta";
   font-style: normal;
   font-weight: 400;
@@ -22,6 +23,7 @@
 }
 
 @font-face {
+  font-display: swap;
   font-family: "Recoleta";
   font-style: normal;
   font-weight: 700;
