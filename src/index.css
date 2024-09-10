@@ -135,6 +135,7 @@ svg {
 
 .item {
   margin: 15px;
+  max-width: 35rem;
 }
 
 .date {
@@ -142,7 +143,6 @@ svg {
 }
 
 .description {
-  max-width: 35em;
   margin-top: 10px;
 }
 
