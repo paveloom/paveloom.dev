@@ -39,6 +39,7 @@
           nil
           nixfmt-rfc-style
           shellcheck
+          vscode-langservers-extracted
         ];
       };
     };
