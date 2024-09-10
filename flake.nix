@@ -18,10 +18,7 @@
         pkgs.runCommandLocal "paveloom.dev"
           {
             src = ./src;
-            nativeBuildInputs = with pkgs; [
-              minify
-              tree
-            ];
+            nativeBuildInputs = with pkgs; [ minify ];
           }
           ''
             cp -r $src out
