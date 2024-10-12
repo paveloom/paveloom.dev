@@ -1,0 +1,16 @@
+name: paveloom-dev
+services:
+  site:
+    build: .
+    develop:
+      watch:
+        - path: src
+          action: rebuild
+    networks:
+      - traefik
+    labels:
+      - traefik.enable=true
+      - traefik.docker.network=traefik
+networks:
+  traefik:
+    external: true
