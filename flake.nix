@@ -37,6 +37,11 @@
           nixfmt-rfc-style
           shellcheck
           vscode-langservers-extracted
+
+          dockerfile-language-server-nodejs
+          hadolint
+          yamlfmt
+          yamllint
         ];
       };
     };
