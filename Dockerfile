@@ -12,4 +12,6 @@ FROM docker.io/nginx:1.27.2-alpine-slim
 
 LABEL org.opencontainers.image.source=https://github.com/paveloom/paveloom.dev
 
+COPY nginx/default.conf /etc/nginx/conf.d/default.conf
+
 COPY --from=builder /build/output /usr/share/nginx/html
