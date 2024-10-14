@@ -16,17 +16,23 @@
 
         nativeBuildInputs = with pkgs; [
           bashInteractive
-          efficient-compression-tool
-          ios-safari-remote-debug
-          ios-webkit-debug-proxy
-          minify
+
           nil
           nixfmt-rfc-style
+
+          efficient-compression-tool
+          minify
+
+          ios-safari-remote-debug
+          ios-webkit-debug-proxy
+
           shellcheck
+
           vscode-langservers-extracted
 
           dockerfile-language-server-nodejs
           hadolint
+
           yamlfmt
           yamllint
         ];
