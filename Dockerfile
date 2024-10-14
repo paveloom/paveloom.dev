@@ -10,4 +10,6 @@ RUN --mount=type=bind,source=src,target=src \
 
 FROM docker.io/nginx:1.27.2-alpine-slim
 
+LABEL org.opencontainers.image.source=https://github.com/paveloom/paveloom.dev
+
 COPY --from=builder /build/output /usr/share/nginx/html
