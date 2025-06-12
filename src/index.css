@@ -44,7 +44,8 @@ body {
   background-color: var(--color-background);
 }
 
-a, a:visited {
+a,
+a:visited {
   color: var(--color-text);
 }
 
@@ -71,11 +72,11 @@ a, a:visited {
   line-height: 1.2;
 }
 
-.designation > #name {
+.designation>#name {
   font-size: 35px;
 }
 
-.designation > #title {
+.designation>#title {
   font-size: 20px;
 }
 
@@ -87,12 +88,14 @@ a, a:visited {
 
 :is(h1, h2, h3, h4, h5, h6) a {
   opacity: 0;
-  margin-left: .25em;
+  margin-left: 0.25em;
 }
 
 :is(h1, h2, h3, h4, h5, h6):hover a {
   opacity: 1;
-  transition: color .25s, opacity 125ms;
+  transition:
+    color 0.25s,
+    opacity 125ms;
 }
 
 #blocks {
@@ -103,7 +106,7 @@ a, a:visited {
   padding: 15px 15px 0 15px;
 }
 
-.block > .container {
+.block>.container {
   display: flex;
   flex-direction: column;
 }
