@@ -1,5 +1,12 @@
+title = "paveloom's digital garden"
 base_url = "https://paveloom.dev"
+
 compile_sass = true
 
 [markdown]
 highlight_code = true
+
+[slugify]
+paths = "off"
+taxonomies = "off"
+anchors = "off"

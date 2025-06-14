@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 
+{% block title %}{{ config.title }}{% endblock title %}
+
 {% block content %}
 <section id="introduction">
   <a href="#">
@@ -22,13 +24,13 @@
   <section class="block" id="projects">
     <h2>
       Projects
-      <a href="#projects">#</a>
+      <a class="anchor" href="#projects">#</a>
     </h2>
     <div class="container">
       <section class="item" id="flowey">
         <h4>
           Flowey
-          <a href="#flowey">#</a>
+          <a class="anchor" href="#flowey">#</a>
         </h4>
         <a href="https://flowey.paveloom.dev/">flowey.paveloom.dev</a>
         <div class="description">
@@ -47,7 +49,7 @@
       <section class="item" id="pmg">
         <h4>
           PMG
-          <a href="#pmg">#</a>
+          <a class="anchor" href="#pmg">#</a>
         </h4>
         <a href="https://pmg.paveloom.dev/">pmg.paveloom.dev</a>
         <div class="description">
