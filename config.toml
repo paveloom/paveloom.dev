@@ -1,0 +1,5 @@
+base_url = "https://paveloom.dev"
+compile_sass = true
+
+[markdown]
+highlight_code = true

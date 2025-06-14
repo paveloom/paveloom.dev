@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section id="introduction">
+  <a href="#">
+    <img id="avatar" alt="avatar" src="images/avatar.jpg" width="360" height="360" />
+  </a>
+  <div class="designation">
+    <span id="name">Pavel Sobolev</span>
+    <span id="title">Software Craftsman</span>
+  </div>
+  <a href="mailto:contact@paveloom.dev">contact@paveloom.dev</a>
+  <div id="socials">
+    <a href="https://codeberg.org/paveloom">Codeberg</a>
+    |
+    <a href="https://github.com/paveloom">GitHub</a>
+    |
+    <a href="https://gitlab.com/paveloom">GitLab</a>
+  </div>
+</section>
+<section id="blocks">
+  <section class="block" id="projects">
+    <h2>
+      Projects
+      <a href="#projects">#</a>
+    </h2>
+    <div class="container">
+      <section class="item" id="flowey">
+        <h4>
+          Flowey
+          <a href="#flowey">#</a>
+        </h4>
+        <a href="https://flowey.paveloom.dev/">flowey.paveloom.dev</a>
+        <div class="description">
+          Flowey is a productivity app that can help you achieve a perfect
+          work-life balance. It effectively combats procrastination and
+          removes the guilt from enjoying leisure activities, allowing you
+          to reach your goals while still enjoying a fulfilling lifestyle.
+        </div>
+        <div class="tags">
+          <span class="tag">#Vite</span>
+          <span class="tag">#Vue</span>
+          <span class="tag">#TypeScript</span>
+          <span class="tag">#Go</span>
+        </div>
+      </section>
+      <section class="item" id="pmg">
+        <h4>
+          PMG
+          <a href="#pmg">#</a>
+        </h4>
+        <a href="https://pmg.paveloom.dev/">pmg.paveloom.dev</a>
+        <div class="description">
+          PMG is a project about creating an algorithm for spatial-kinematic
+          modelling of a flat subsystem of the Milky Way by the method of
+          maximum likelihood. The provided binary crate enables a user to
+          infer the parameters of the Galaxy by optimizing the model, with
+          masers serving as reference objects.
+        </div>
+        <div class="tags">
+          <span class="tag">#Rust</span>
+          <span class="tag">#Julia</span>
+          <span class="tag">#LaTeX</span>
+        </div>
+      </section>
+    </div>
+  </section>
+</section>
+{% endblock content %}
