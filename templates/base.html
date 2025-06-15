@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 
+{% set content_security_policy = "default-src 'none'; font-src 'self'; img-src 'self'; style-src 'self'; base-uri
+'none'; form-action 'none'; script-src 'self';" %}
+
+{% if config.mode == "serve" %}
+{% set content_security_policy = content_security_policy ~ " connect-src ws://127.0.0.1:1024/livereload;" %}
+{% endif %}
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta http-equiv="Content-Security-Policy"
-    content="default-src 'none'; font-src 'self'; img-src 'self'; style-src 'self'; base-uri 'none'; form-action 'none'; script-src 'self'; connect-src ws://127.0.0.1:1024/livereload;" />
+  <meta http-equiv="Content-Security-Policy" content="{{ content_security_policy | safe }}" />
   <meta name="description" content="{{ config.description }}" />
   <meta name="author" content="{{ config.author }}" />
   <link rel="icon" type="image/png" href="{{ get_url(path='favicon.png') }}" />
