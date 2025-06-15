@@ -3,6 +3,8 @@ base_url = "https://paveloom.dev"
 title = "paveloom's digital garden"
 description = "A personal digital garden about all kind of stuff!"
 
+default_language = "en"
+
 compile_sass = true
 
 [markdown]
