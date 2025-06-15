@@ -7,6 +7,8 @@ default_language = "en"
 
 compile_sass = true
 
+author = "Pavel Sobolev"
+
 [markdown]
 highlight_code = true
 
