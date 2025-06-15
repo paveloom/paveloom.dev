@@ -1,5 +1,7 @@
-title = "paveloom's digital garden"
 base_url = "https://paveloom.dev"
+
+title = "paveloom's digital garden"
+description = "A personal digital garden about all kind of stuff!"
 
 compile_sass = true
 
