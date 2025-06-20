@@ -1,29 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% set content_security_policy = "default-src 'none'; font-src 'self'; img-src 'self'; style-src 'self'; base-uri
-'none'; form-action 'none'; script-src 'self';" %}
+{% set csp = "default-src 'none'; font-src 'self'; img-src 'self'; style-src 'self'; base-uri
+'none'; form-action 'none'; script-src 'self' " %}
 
 {% if config.mode == "serve" %}
-{% set content_security_policy = content_security_policy ~ " connect-src ws://127.0.0.1:1024/livereload;" %}
+{% set fuse = "https://cdn.jsdelivr.net/npm/fuse.js@7.1.0/dist/fuse.js" %}
+{% set csp = csp ~ fuse ~ "; connect-src 'self' ws://127.0.0.1:1024/livereload;" %}
+{% else %}
+{% set fuse = "https://cdn.jsdelivr.net/npm/fuse.js@7.1.0/dist/fuse.min.js" %}
+{% set csp = csp ~ fuse ~ ";" %}
 {% endif %}
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta http-equiv="Content-Security-Policy" content="{{ content_security_policy | safe }}" />
+  <meta http-equiv="Content-Security-Policy" content="{{ csp | safe }}" />
   <meta name="description" content="{{ config.description }}" />
   <meta name="author" content="{{ config.author }}" />
   <link rel="icon" type="image/png" href="{{ get_url(path='favicon.png') }}" />
   <link rel="stylesheet" href="{{ get_url(path='index.css') }}" />
   <title>{% block title %}{% endblock title %}</title>
+  <script defer src="{{ fuse | safe }}"></script>
+  <script defer src="{{ get_url(path='search.js') }}"></script>
 </head>
 
 <body>
-  <div class="section">
-    <div class="container">
-      {% block content %}{% endblock content %}
-    </div>
+  <div id="container">
+    <header>
+      <div id="search-container">
+        <input id="search-input" type="search" placeholder="Search the Wiki">
+        <div id="search-results"></div>
+      </div>
+    </header>
+    {% block content %}{% endblock content %}
   </div>
 </body>
 
