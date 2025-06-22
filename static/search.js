@@ -8,6 +8,16 @@ class Search {
 
   static index_path = "/search_index.en.json";
 
+  static onResultItemHover(event) {
+    event.target.focus();
+    event.preventDefault();
+  }
+
+  static onResultItemClick(event) {
+    event.target.click();
+    event.preventDefault();
+  }
+
   static createResultItem(result) {
     const a = document.createElement("a");
     a.setAttribute("class", "search-results-item");
@@ -17,10 +27,13 @@ class Search {
     // Update the focus on result items only via keyboard or when a cursor is
     // moved. This allows us to use a keyboard for searching even when a cursor
     // is hovering (but not moving) over search results.
-    a.addEventListener("mousemove", (event) => {
-      a.focus();
-      event.preventDefault();
-    });
+    a.addEventListener("mousemove", this.onResultItemHover);
+    a.addEventListener("touchstart", this.onResultItemHover);
+
+    // Handle the click early so that it actually works for an element that is
+    // about to get hidden after the focus is lost.
+    a.addEventListener("mouseup", this.onResultItemClick);
+    a.addEventListener("touchend", this.onResultItemClick);
 
     return a;
   }
