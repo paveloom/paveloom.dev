@@ -105,6 +105,15 @@ class Search {
 
     if (activeElement.className == "search-results-item") {
       activeElement.click();
+      return;
+    }
+
+    if (activeElement == this.$input) {
+      const firstResultItem = this.$results.firstElementChild;
+      if (firstResultItem != null) {
+        firstResultItem.click();
+      }
+      return;
     }
   }
 
