@@ -13,6 +13,7 @@
   border: 1px solid;
   border-radius: 0;
   padding: 4px 8px;
+  margin: 0;
   font-size: 1rem;
   line-height: 1.375rem;
   outline: none;
@@ -22,7 +23,6 @@
 #search-results {
   visibility: hidden;
   position: absolute;
-  top: calc(100% - 1px);
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
