@@ -3,13 +3,7 @@
 {% block title %}{{ section.title }} - {{ config.title }}{% endblock title %}
 
 {% block content %}
-<section id="wiki">
-  <h2>{{ section.title }}</h2>
-  <h3>All pages</h3>
-  <ul class="pages">
-    {% for page in section.pages %}
-    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-    {% endfor %}
-  </ul>
-</section>
+<div class="wiki">
+  {{ section.content | safe }}
+</div>
 {% endblock content %}
