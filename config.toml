@@ -1,7 +1,7 @@
 base_url = "https://paveloom.dev"
 
-title = "paveloom's Wiki"
-description = "A personal digital garden about all kind of stuff!"
+title = "paveloom's wiki"
+description = "A personal wiki about all kinds of stuff!"
 
 default_language = "en"
 
