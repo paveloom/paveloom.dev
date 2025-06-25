@@ -1,6 +1,6 @@
 +++
 title = "Home"
-template = "wiki.html"
+template = "section.html"
 +++
 
 [Hello there](https://www.youtube.com/watch?v=KLWRDgItv-E)!

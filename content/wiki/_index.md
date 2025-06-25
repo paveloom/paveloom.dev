@@ -1,5 +1,5 @@
 +++
 title = "Wiki"
-template = "wiki.html"
-page_template = "wiki_page.html"
+template = "section.html"
+page_template = "page.html"
 +++

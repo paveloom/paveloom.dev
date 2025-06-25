@@ -3,7 +3,5 @@
 {% block title %}{{ section.title }} - {{ config.title }}{% endblock title %}
 
 {% block content %}
-<div class="wiki">
-  {{ section.content | safe }}
-</div>
+{{ section.content | safe }}
 {% endblock content %}
