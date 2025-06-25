@@ -3,6 +3,8 @@ title = "Special:Home"
 template = "section.html"
 +++
 
+# Home
+
 [Hello there](https://www.youtube.com/watch?v=KLWRDgItv-E)!
 
 My name is Pavel Sobolev (he/him), also known as `paveloom` (`pave`, like Dave, then `loom`, like Doom). Although I'm comfortable with being called Pave since it is pretty common to shorten nicknames to the first few comfortably sounding syllables in high-paced video games, and I got somewhat accustomed to that in my youth. That's just easier to pronounce, anyway.
