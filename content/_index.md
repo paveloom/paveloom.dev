@@ -1,5 +1,5 @@
 +++
-title = "Home"
+title = "Special:Home"
 template = "section.html"
 +++
 
