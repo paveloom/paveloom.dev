@@ -91,6 +91,10 @@ code {
   overflow-wrap: anywhere;
 }
 
+pre {
+  overflow-x: auto;
+}
+
 ul {
   list-style-type: disc;
   margin-top: 0;
