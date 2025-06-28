@@ -95,6 +95,11 @@ pre {
   overflow-x: auto;
 }
 
+input::placeholder {
+  font-family: inherit;
+  font-size: inherit;
+}
+
 ul {
   list-style-type: disc;
   margin-top: 0;
