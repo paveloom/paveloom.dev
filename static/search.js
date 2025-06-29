@@ -56,6 +56,11 @@ class Search {
     }
   }
 
+  clearInputBox() {
+    this.$input.value = "";
+    this.search("");
+  }
+
   focusNextResultItem(event) {
     const activeElement = document.activeElement;
 
@@ -171,8 +176,8 @@ class Search {
           this.selectCurrentResultItem();
           break;
         case "Escape":
-          this.$input.value = "";
-          this.search("");
+          this.clearInputBox();
+          break;
       }
     });
   }
