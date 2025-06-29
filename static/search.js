@@ -152,6 +152,10 @@ class Search {
     });
 
     document.addEventListener("keydown", (event) => {
+      if (event.ctrlKey || event.metaKey || event.altKey) {
+        return;
+      }
+
       switch (event.key) {
         case "/":
           this.focusInputBox(event);
@@ -168,9 +172,6 @@ class Search {
         case "Escape":
           this.$input.value = "";
           this.search("");
-        case "Alt":
-        case "Control":
-          break;
         default:
           // This makes it so that any other key pressed goes immediately to the search box
           this.$input.focus();
