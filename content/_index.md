@@ -21,4 +21,4 @@ I am always striving to learn new things and improve my skills. Hopefully, this 
 
 ## Contacts
 
-- Email: [contact@paveloom.dev](mailto:contact@paveloom.dev) [[PGP](./pgp.asc)]
+- Email: [contact@paveloom.dev](mailto:contact@paveloom.dev) [[PGP](pgp.asc)]
