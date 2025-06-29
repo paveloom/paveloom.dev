@@ -158,6 +158,7 @@ class Search {
 
       switch (event.key) {
         case "/":
+        case "s":
           this.focusInputBox(event);
           break;
         case "ArrowDown":
@@ -172,9 +173,6 @@ class Search {
         case "Escape":
           this.$input.value = "";
           this.search("");
-        default:
-          // This makes it so that any other key pressed goes immediately to the search box
-          this.$input.focus();
       }
     });
   }
