@@ -188,5 +188,5 @@ class Search {
   }
 }
 
-search = new Search();
+const search = new Search();
 search.init();
