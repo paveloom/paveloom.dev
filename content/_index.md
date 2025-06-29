@@ -13,12 +13,12 @@ I am a self-taught [software engineer](https://en.wikipedia.org/wiki/Software_en
 
 I am always striving to learn new things and improve my skills. Hopefully, this website is a tastement to that. I try to add whatever practical information I acquire in my life to this personal wiki in the hopes of preserving the knowledge for generations to come.
 
-#### Quick links
+## Quick links
 
 - [GitHub](https://github.com/paveloom) / [GitLab](https://gitlab.com/paveloom) / [Codeberg](https://codeberg.org/paveloom)
 - [YouTube](https://youtube.com/paveloom) / [LBRY](https://odysee.com/@paveloom:e)
 - [Streams on Odysee](https://odysee.com/@paveloom-streams:3)
 
-#### Contacts
+## Contacts
 
 - Email: [contact@paveloom.dev](mailto:contact@paveloom.dev) [[PGP](./pgp.asc)]
