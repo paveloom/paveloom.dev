@@ -40,7 +40,16 @@ body {
 }
 
 header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2ch;
   margin-bottom: 1rem;
+
+  a {
+    margin: 0;
+    min-width: max-content;
+  }
 }
 
 h1,
