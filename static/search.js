@@ -10,7 +10,6 @@ class Search {
 
   static onResultItemHover(event) {
     event.target.focus();
-    event.preventDefault();
   }
 
   static onResultItemClick(event) {
