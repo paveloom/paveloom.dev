@@ -52,6 +52,13 @@ header {
   }
 }
 
+input {
+  &[type="search"]::-webkit-search-cancel-button,
+  &[type="search"]::-webkit-search-decoration {
+    appearance: none;
+  }
+}
+
 h1,
 h2,
 h3,
