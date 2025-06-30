@@ -31,8 +31,7 @@ class Search {
 
     // Handle the click early so that it actually works for an element that is
     // about to get hidden after the focus is lost.
-    a.addEventListener("mouseup", this.onResultItemClick);
-    a.addEventListener("touchend", this.onResultItemClick);
+    a.addEventListener("mousedown", this.onResultItemClick);
 
     return a;
   }
