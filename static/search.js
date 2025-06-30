@@ -154,6 +154,11 @@ class Search {
       this.search(event.target.value);
     });
 
+    // Make elements in the search container lose focus when body is tapped
+    document.body.addEventListener("mousedown", () => {
+      document.activeElement.blur();
+    });
+
     document.addEventListener("keydown", (event) => {
       if (event.ctrlKey || event.metaKey || event.altKey) {
         return;
