@@ -15,6 +15,8 @@ build_search_index = true
 
 [markdown]
 highlight_code = true
+error_on_missing_highlight = true
+highlight_theme = "css"
 
 [slugify]
 paths = "off"

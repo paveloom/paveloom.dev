@@ -1,0 +1,81 @@
+/*
+ * Based on the "One" theme from the Zed editor
+ *
+ * See https://github.com/zed-industries/zed/blob/main/assets/themes/one/one.json
+ */
+
+:root {
+  --color-code-bracket: #4d4f52;
+  --color-code-comment: #a2a3a7;
+  --color-code-constant: #c18401;
+  --color-code-function: #5b79e3;
+  --color-code-keyword: #a449ab;
+  --color-code-number: #ad6e25;
+  --color-code-operator: #3882b7;
+  --color-code-property: #d3604f;
+  --color-code-string: #649f57;
+  --color-code-tag: #5c78e2;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-code-bracket: #b2b9c6;
+    --color-code-comment: #5d636f;
+    --color-code-constant: #dfc184;
+    --color-code-function: #73ade9;
+    --color-code-keyword: #b477cf;
+    --color-code-number: #bf956a;
+    --color-code-operator: #6eb4bf;
+    --color-code-property: #d07277;
+    --color-code-string: #a1c181;
+    --color-code-tag: #74ade8;
+  }
+}
+
+.z-comment,
+.z-punctuation.z-comment {
+  color: var(--color-code-comment);
+}
+
+.z-constant,
+.z-parameter,
+.z-punctuation.z-parameter {
+  color: var(--color-code-constant);
+}
+
+.z-entity {
+  color: var(--color-code-tag);
+}
+
+.z-function {
+  color: var(--color-code-function);
+}
+
+.z-keyword,
+.z-keyword.z-punctuation {
+  color: var(--color-code-keyword);
+}
+
+.z-numeric {
+  color: var(--color-code-number);
+}
+
+.z-operator {
+  color: var(--color-code-operator);
+}
+
+.z-property-name {
+  color: var(--color-code-property);
+}
+
+.z-property-value {
+  color: var(--color-code-string);
+}
+
+.z-punctuation {
+  color: var(--color-code-bracket);
+}
+
+.z-string {
+  color: var(--color-code-string);
+}
