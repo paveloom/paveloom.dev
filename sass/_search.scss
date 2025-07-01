@@ -11,7 +11,8 @@
 #search-input {
   width: 100%;
   box-sizing: border-box;
-  border: 1px solid var(--color-text);
+  border: 1px solid;
+  border-color: var(--color-code-comment);
   border-radius: 0;
   padding: 4px 8px;
   margin: 0;
@@ -23,7 +24,7 @@
   background: inherit;
 
   &::placeholder {
-    color: var(--color-text);
+    color: var(--color-code-comment);
   }
 }
 
@@ -46,6 +47,7 @@
 
 #search-container:focus-within > #search-input {
   outline: 1px solid;
+  border-color: var(--color-text);
 }
 
 #search-container:focus-within > #search-results:not(:empty) {
