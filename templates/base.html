@@ -33,7 +33,9 @@ script-src 'self' " %}
 <body>
   <div id="container">
     <header>
+      {% if current_path != "/" %}
       <a href="{{ get_url(path='@/_index.md') }}">Home</a>
+      {% endif %}
       <div id="search-container">
         <input id="search-input" type="search" placeholder="Search the Wiki">
         <div id="search-results"></div>
