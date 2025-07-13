@@ -2,9 +2,9 @@
 
 {% block title %}
 {% if section.title == "Special:Home" %}
-  {{ config.title }}: {{ config.description }}
+{{ config.title }}: {{ config.description }}
 {% else %}
-  {{ section.title }} - {{ config.title }}
+{{ section.title }} - {{ config.title }}
 {% endif %}
 {% endblock title %}
 
