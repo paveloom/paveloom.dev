@@ -6,7 +6,9 @@ class Search {
     this.fuse = null;
   }
 
-  static index_path = "/search_index.en.json";
+  static search_index_urls = [
+    new URL("./search_index.en.json", document.currentScript.src),
+  ];
 
   static onResultItemHover(event) {
     event.target.focus();
@@ -120,9 +122,9 @@ class Search {
     }
   }
 
-  static async fetchSearchIndex() {
+  static async fetchSearchIndex(url) {
     try {
-      const response = await fetch(this.index_path);
+      const response = await fetch(url);
       if (!response.ok) {
         console.error(`Got a non-OK response: ${response.status}`);
         return;
@@ -137,13 +139,18 @@ class Search {
   }
 
   async setUpSearchBackend() {
-    const data = await Search.fetchSearchIndex();
-    if (data == null) {
-      console.error(`Failed to fetch the search index.`);
-      return;
+    let allData = [];
+
+    for (const search_index of Search.search_index_urls) {
+      const data = await Search.fetchSearchIndex(search_index);
+      if (data == null) {
+        return;
+      }
+
+      allData.push(...data);
     }
 
-    this.fuse = new Fuse(data, {
+    this.fuse = new Fuse(allData, {
       keys: ["title", "description", "body"],
       ignoreLocation: true,
     });
