@@ -124,17 +124,17 @@ pre {
   padding: 1ch;
 }
 
-li {
-  margin: 1em 0;
-}
-
 ol {
   counter-reset: item;
   padding-inline-start: 4ch;
 
-  li::marker {
-    padding: 0;
-    margin: 0;
+  li {
+    margin: 1em 0;
+
+    &::marker {
+      padding: 0;
+      margin: 0;
+    }
   }
 }
 
@@ -142,8 +142,12 @@ ul {
   padding-inline-start: 1ch;
   list-style: none;
 
-  li::before {
-    content: "- ";
+  li {
+    margin: 0;
+
+    &::before {
+      content: "- ";
+    }
   }
 }
 
