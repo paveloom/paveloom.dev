@@ -1,9 +1,7 @@
 +++
-title = "Special:Home"
+title = "Home"
 template = "section.html"
 +++
-
-# Home
 
 [Hello there](https://www.youtube.com/watch?v=KLWRDgItv-E)!
 

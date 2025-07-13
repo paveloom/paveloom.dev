@@ -8,6 +8,8 @@
 {% endif %}
 {% endblock title %}
 
+{% block header %}<h1>{{ section.title }}</h1>{% endblock title %}
+
 {% block content %}
 {{ section.content | safe }}
 {% endblock content %}
