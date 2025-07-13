@@ -11,5 +11,5 @@
 {% block header %}<h1>{{ section.title }}</h1>{% endblock title %}
 
 {% block content %}
-{{ section.content | safe }}
+{{ section.content | replace(from="<!-- toc -->", to=macros::toc(page=section)) | safe }}
 {% endblock content %}
