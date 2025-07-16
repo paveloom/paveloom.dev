@@ -4,8 +4,10 @@ WORKDIR /build
 
 RUN apk --no-cache add minify zola
 
+ARG baseurl
+
 RUN --mount=type=bind,source=.,target=src \
-    zola -r src build -o output; \
+    zola -r src build ${baseurl:+-u "$baseurl"} -o output; \
     minify -rav -o . output
 
 FROM docker.io/nginx:stable-alpine-slim
