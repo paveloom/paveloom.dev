@@ -2,9 +2,7 @@
 title = "Nautilus"
 +++
 
-# Nautilus
-
-**Nautilus** is a file manager for the GNOME desktop.
+Nautilus is a file manager for the GNOME desktop.
 
 ## Tips
 
