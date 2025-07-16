@@ -11,6 +11,10 @@ I am a self-taught [software engineer](https://en.wikipedia.org/wiki/Software_en
 
 I am always striving to learn new things and improve my skills. Hopefully, this website is a tastement to that. I try to add whatever practical information I acquire in my life to this personal collection of notes in the hopes of aiding my poor memory and, in the process, preserving the knowledge for generations to come.
 
+## Pinned notes
+
+- [Repositories](@/notes/Repositories.md)
+
 ## Quick links
 
 - [GitHub](https://github.com/paveloom) / [GitLab](https://gitlab.com/paveloom) / [Codeberg](https://codeberg.org/paveloom)
