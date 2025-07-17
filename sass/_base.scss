@@ -54,6 +54,20 @@ header {
 }
 
 input {
+  &[type="checkbox"] {
+    all: unset;
+
+    &::after {
+      content: "[ ]";
+    }
+
+    &:checked {
+      &::after {
+        content: "[x]";
+      }
+    }
+  }
+
   &[type="search"]::-webkit-search-cancel-button,
   &[type="search"]::-webkit-search-decoration {
     appearance: none;
