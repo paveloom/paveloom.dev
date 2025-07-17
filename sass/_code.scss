@@ -79,3 +79,20 @@
 .z-string {
   color: var(--color-code-string);
 }
+
+.z-ts.z-meta {
+  color: var(--color-code-bracket);
+}
+
+.z-ts.z-expr,
+.z-ts.z-storage {
+  color: var(--color-code-keyword);
+}
+
+.z-ts.z-variable {
+  color: var(--color-code-bracket);
+}
+
+.z-ts.z-variable.z-property {
+  color: var(--color-code-property);
+}
