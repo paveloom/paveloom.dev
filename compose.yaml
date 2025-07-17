@@ -1,7 +1,10 @@
 name: paveloom-dev
 services:
   site:
-    build: .
+    build:
+      context: .
+      args:
+        BASE_URL: ${BASE_URL:-}
     image: ghcr.io/paveloom/site:latest
     develop:
       watch:
