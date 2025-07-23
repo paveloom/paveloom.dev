@@ -100,3 +100,40 @@
 .z-css.z-class {
   color: var(--color-code-string);
 }
+
+.z-arguments.z-shell {
+  color: var(--color-code-number);
+}
+
+.z-for.z-shell {
+  color: var(--color-code-bracket);
+}
+
+.z-keyword.z-shell {
+  color: var(--color-code-keyword);
+}
+
+.z-keyword.z-conditional.z-patterns.z-shell,
+.z-keyword.z-operator.z-shell {
+  color: var(--color-code-bracket);
+}
+
+.z-meta.z-patterns.z-shell {
+  color: var(--color-code-string);
+}
+
+.z-punctuation.z-variable.z-shell {
+  color: var(--color-code-property);
+}
+
+.z-type.z-function.z-shell {
+  color: var(--color-code-keyword);
+}
+
+.z-variable.z-shell {
+  color: var(--color-code-string);
+}
+
+.z-variable.z-readwrite.z-shell {
+  color: var(--color-code-bracket);
+}
