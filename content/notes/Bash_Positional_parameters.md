@@ -45,3 +45,7 @@ function handle_args()
     done
 }
 ```
+
+## See also
+
+- [Bash](@/notes/Bash.md)
