@@ -1,5 +1,5 @@
 +++
-title = "Gentoo update workflow"
+title = "Gentoo: Update workflow"
 +++
 
 There are two local repositories, `gentoo` and `guru`.
