@@ -6,5 +6,6 @@ Bash is an interactive command interpreter and command programming language deve
 
 Subpages:
 
+- [Brace expansion](@/notes/Bash_Brace_expansion.md)
 - [Parameter expansion](@/notes/Bash_Parameter_expansion.md)
 - [Positional parameters](@/notes/Bash_Positional_parameters.md)
