@@ -135,3 +135,7 @@ Typical system update procedure:
 3. Synchronize the system repositories with `emerge --sync`.
 
 4. Update the system with `emerge -uND @world`.
+
+## See also
+
+- [Gentoo](@/notes/Gentoo.md)

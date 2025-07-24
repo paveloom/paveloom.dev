@@ -31,3 +31,7 @@ On most Gentoo systems, though, some of those paths will be symlinks. For exampl
 ## References
 
 - [Gentoo Development Guide: Filesystem](https://devmanual.gentoo.org/general-concepts/filesystem/index.html)
+
+## See also
+
+- [Gentoo](@/notes/Gentoo.md)
