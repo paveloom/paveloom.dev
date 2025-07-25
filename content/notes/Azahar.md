@@ -9,6 +9,11 @@ Links:
 - [Official website](https://azahar-emu.org)
 - [Source code](https://github.com/azahar-emu/azahar)
 
+## Gotchas
+
+- To save any settings (including application directories), go to Emulation > Configure and press OK
+- To make games in the application directories visible to the emulator, make sure the games are decrypted and stored with the extension `.cci` (instead of `.3ds`)
+
 ## General settings
 
 Check View > Fullscreen to start applications in fullscreen.
