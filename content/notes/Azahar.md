@@ -13,6 +13,7 @@ Links:
 
 - To save any settings (including application directories), go to Emulation > Configure and press OK
 - To make games in the application directories visible to the emulator, make sure the games are decrypted and stored with the extension `.cci` (instead of `.3ds`)
+- To go fullscreen on GNOME, it might be necessary to focus the game window twice (once through Alt-Tab select, then again by pressing Super twice, then F4 to unpause).
 
 ## General settings
 

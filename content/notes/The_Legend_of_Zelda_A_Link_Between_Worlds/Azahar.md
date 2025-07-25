@@ -10,10 +10,6 @@ See also the [parent note](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/_in
 
 ## Gotchas
 
-### Fullscreen
-
-It might be necessary to focus the game window twice on GNOME (once through Alt-Tab select, then again by pressing Super twice, then F4 to unpause).
-
 ### StreetPass
 
 **Do not** talk to Gramps in the game and **do not** enable the StreetPass. Otherwise, you will not be able to load the save file anymore!
