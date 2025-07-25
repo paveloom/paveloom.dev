@@ -152,8 +152,4 @@ getting old after a bit of time. Still, a pretty OK entry in the franchise.
 - Platform: NES
 - Version: USA
 
-## The Legend of Zelda
-
-- Type: Game
-- Platform: NES
-- Version: USA, Rev 1
+- [The Legend of Zelda](@/notes/The_Legend_of_Zelda/Consumed.md)
