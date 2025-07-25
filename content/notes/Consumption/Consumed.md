@@ -8,6 +8,7 @@ See also the [parent note](@/notes/Consumption/_index.md).
 
 Entries:
 
+- [The Legend of Zelda: Tri Force Heroes](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/_index.md)
 - [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/Consumed.md)
 
 ## The Legend of Zelda: Skyward Sword
