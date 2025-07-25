@@ -139,16 +139,10 @@ pre {
 }
 
 ol {
-  counter-reset: item;
   padding-inline-start: 4ch;
 
   li {
     margin: 1em 0;
-
-    &::marker {
-      padding: 0;
-      margin: 0;
-    }
   }
 }
 
