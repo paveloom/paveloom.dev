@@ -22,7 +22,7 @@ The following are per-game settings accessed by choosing Properties in the conte
 
 ### Enhancements
 
-Set Internal Resolution to 2x.
+Set Internal Resolution to preferred value.
 
 ### Graphics
 
