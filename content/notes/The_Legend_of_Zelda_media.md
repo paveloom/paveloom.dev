@@ -14,5 +14,6 @@ Links:
 
 - [The Legend of Zelda](@/notes/The_Legend_of_Zelda/_index.md)
 - [Zelda II: The Adventure of Link](@/notes/Zelda_II_The_Adventure_of_Link/_index.md)
+- [The Legend of Zelda: A Link to the Past](@/notes/The_Legend_of_Zelda_A_Link_to_the_Past/_index.md)
 - [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/_index.md)
 - [The Legend of Zelda: Tri Force Heroes](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/_index.md)

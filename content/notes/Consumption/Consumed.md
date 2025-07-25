@@ -140,11 +140,6 @@ getting old after a bit of time. Still, a pretty OK entry in the franchise.
 - Platform: Game Boy Color
 - Version: USA, Europe, Rev 2
 
-## The Legend of Zelda: A Link to the Past
-
-- Type: Game
-- Platform: SNES
-- Version: USA
-
+- [The Legend of Zelda: A Link to the Past](@/notes/The_Legend_of_Zelda_A_Link_to_the_Past/Consumed.md)
 - [Zelda II: The Adventure of Link](@/notes/Zelda_II_The_Adventure_of_Link/Consumed.md)
 - [The Legend of Zelda](@/notes/The_Legend_of_Zelda/Consumed.md)

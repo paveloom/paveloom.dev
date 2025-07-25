@@ -16,7 +16,8 @@ See also the [parent note](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/_in
 
 ## Review
 
-The game is a fine homage to *The Legend of Zelda: A Link to the Past* with a 3D
-world and new gameplay mechanics, but, really, it doesn't stand out to me that
-much. It's also a surprisingly short game, even if you go for 100% completion.
-The music is great, though!
+The game is a fine homage to [*The Legend of Zelda: A Link to the
+Past*](@/notes/The_Legend_of_Zelda_A_Link_to_the_Past/_index.md) with a 3D world
+and new gameplay mechanics, but, really, it doesn't stand out to me that much.
+It's also a surprisingly short game, even if you go for 100% completion. The
+music is great, though!
