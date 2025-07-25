@@ -146,10 +146,5 @@ getting old after a bit of time. Still, a pretty OK entry in the franchise.
 - Platform: SNES
 - Version: USA
 
-## Zelda II: The Adventure of Link
-
-- Type: Game
-- Platform: NES
-- Version: USA
-
+- [Zelda II: The Adventure of Link](@/notes/Zelda_II_The_Adventure_of_Link/Consumed.md)
 - [The Legend of Zelda](@/notes/The_Legend_of_Zelda/Consumed.md)
