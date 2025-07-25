@@ -153,15 +153,11 @@ ol {
 }
 
 ul {
-  padding-inline-start: 2ch;
-  list-style: none;
+  padding-inline-start: 4ch;
+  list-style-type: "- ";
 
   li {
     margin: 0;
-
-    &::before {
-      content: "- ";
-    }
   }
 }
 
