@@ -4,6 +4,9 @@ title = "Azahar"
 
 Azahar is an open-source Nintendo 3DS emulator project based on Citra.
 
+Links:
+
+- [Official website](https://azahar-emu.org)
 - [Source code](https://github.com/azahar-emu/azahar)
 
 ## General settings
