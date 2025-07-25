@@ -13,3 +13,7 @@ Child notes:
 
 - [Azahar](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/Azahar.md)
 - [Consumed](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/Consumed.md)
+
+Related notes:
+
+- [The Legend of Zelda media](@/notes/The_Legend_of_Zelda_media.md)

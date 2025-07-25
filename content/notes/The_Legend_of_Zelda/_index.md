@@ -11,3 +11,7 @@ Links:
 Child notes:
 
 - [Consumed](@/notes/The_Legend_of_Zelda/Consumed.md)
+
+Related notes:
+
+- [The Legend of Zelda media](@/notes/The_Legend_of_Zelda_media.md)

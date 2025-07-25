@@ -13,3 +13,7 @@ Child notes:
 
 - [Azahar](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/Azahar.md)
 - [Consumed](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/Consumed.md)
+
+Related notes:
+
+- [The Legend of Zelda media](@/notes/The_Legend_of_Zelda_media.md)
