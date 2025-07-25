@@ -122,12 +122,7 @@ getting old after a bit of time. Still, a pretty OK entry in the franchise.
 - Platform: Game Boy Color
 - Version: USA, Australia
 
-## The Legend of Zelda: Majora's Mask
-
-- Type: Game
-- Platform: Nintendo 64
-- Version: USA
-
+- [The Legend of Zelda: Majora's Mask](@/notes/The_Legend_of_Zelda_Majoras_Mask/Consumed.md)
 - [The Legend of Zelda: Ocarina of Time](@/notes/The_Legend_of_Zelda_Ocarina_of_Time/Consumed.md)
 - [The Legend of Zelda: Link's Awakening DX](@/notes/The_Legend_of_Zelda_Links_Awakening_DX/Consumed.md)
 - [The Legend of Zelda: A Link to the Past](@/notes/The_Legend_of_Zelda_A_Link_to_the_Past/Consumed.md)
