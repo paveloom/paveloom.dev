@@ -42,4 +42,4 @@ Clear the F5 and F6 hotkeys for stopping and restarting emulation, respectively 
 
 ## Games tested
 
-- [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds.md)
+- [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/_index.md)
