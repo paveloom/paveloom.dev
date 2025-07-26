@@ -90,14 +90,7 @@ getting old after a bit of time. Still, a pretty OK entry in the franchise.
 - Platform: GameCube
 - Version: Europe
 
-## The Legend of Zelda: Four Swords Anniversary Edition
-
-- Type: Game
-- Started: 01/01/2025
-- Dropped: 04/01/2025
-- Platform: DSiWare
-- Version: Europe, Australia
-
+- [The Legend of Zelda: A Link to the Past and Four Swords Anniversary Edition](@/notes/The_Legend_of_Zelda_Four_Swords_Anniversary_Edition/Consumed.md)
 - [The Legend of Zelda: Oracle of Seasons and Oracle of Ages](@/notes/The_Legend_of_Zelda_Oracle_of_Seasons_and_Oracle_of_Ages/Consumed.md)
 - [The Legend of Zelda: Majora's Mask](@/notes/The_Legend_of_Zelda_Majoras_Mask/Consumed.md)
 - [The Legend of Zelda: Ocarina of Time](@/notes/The_Legend_of_Zelda_Ocarina_of_Time/Consumed.md)
