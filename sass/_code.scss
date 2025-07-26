@@ -134,6 +134,10 @@
   color: var(--color-code-string);
 }
 
+.z-variable.z-function.z-shell {
+  color: var(--color-code-function);
+}
+
 .z-variable.z-readwrite.z-shell {
   color: var(--color-code-bracket);
 }
