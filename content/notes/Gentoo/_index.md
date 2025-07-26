@@ -18,3 +18,7 @@ Child notes:
 
 - [Filesystem](@/notes/Gentoo/Filesystem.md)
 - [Update workflow](@/notes/Gentoo/Update_workflow.md)
+
+Related notes:
+
+- [Ebuild](@/notes/Ebuild/_index.md)

@@ -1,6 +1,8 @@
 +++
-title = "Ebuild: Snapshots"
+title = "Ebuild > Snapshots"
 +++
+
+See also the [parent note](@/notes/Ebuild/_index.md).
 
 There are two ways to name an ebuild which packages a snapshot version of a source repository:
 
@@ -10,4 +12,4 @@ There are two ways to name an ebuild which packages a snapshot version of a sour
 
 It's common to assume `$upcoming_version` to be `0` or `0.0.1` for repositories without tags.
 
-See [Gentoo Devmanual: Snapshots and live ebuilds](https://devmanual.gentoo.org/ebuild-writing/file-format/index.html#snapshots-and-live-ebuilds).
+See [Gentoo Development Guide > Snapshots and live ebuilds](https://devmanual.gentoo.org/ebuild-writing/file-format/index.html#snapshots-and-live-ebuilds).
