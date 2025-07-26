@@ -141,3 +141,7 @@
 .z-variable.z-readwrite.z-shell {
   color: var(--color-code-bracket);
 }
+
+.z-entity.z-name.z-toml {
+  color: var(--color-code-property);
+}
