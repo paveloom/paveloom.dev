@@ -42,13 +42,7 @@ unique, but... they are also quite inconvenient, and higlhy pixelated models
 with no antialiasing are... eh. Moving on the train from place to place is
 getting old after a bit of time. Still, a pretty OK entry in the franchise.
 
-## The Legend of Zelda: Phantom Hourglass
-
-- Type: Game
-- Started: 20/04/2025
-- Finished: 10/05/2025
-- Platform: Nintendo DS (emulated via melonDS)
-- Version: Europe
+- [The Legend of Zelda: Phantom Hourglass](@/notes/The_Legend_of_Zelda_Phantom_Hourglass/Consumed.md)
 
 ## A Comprehensive Grammar of the English Language
 

@@ -24,6 +24,7 @@ Links:
 - [The Legend of Zelda: Four Swords Adventures](@/notes/The_Legend_of_Zelda_Four_Swords_Adventures/_index.md)
 - [The Legend of Zelda: The Minish Cap](@/notes/The_Legend_of_Zelda_The_Minish_Cap/_index.md)
 - [The Legend of Zelda: Twilight Princess](@/notes/The_Legend_of_Zelda_Twilight_Princess/_index.md)
+- [The Legend of Zelda: Phantom Hourglass](@/notes/The_Legend_of_Zelda_Phantom_Hourglass/_index.md)
 - [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/_index.md)
 - [The Legend of Zelda: Tri Force Heroes](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/_index.md)
 
