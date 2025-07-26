@@ -15,7 +15,7 @@ Links:
 - [The Legend of Zelda](@/notes/The_Legend_of_Zelda/_index.md)
 - [Zelda II: The Adventure of Link](@/notes/Zelda_II_The_Adventure_of_Link/_index.md)
 - [The Legend of Zelda: A Link to the Past](@/notes/The_Legend_of_Zelda_A_Link_to_the_Past/_index.md)
-- [The Legend of Zelda: Link's Awakening](@/notes/The_Legend_of_Zelda_Links_Awakening/_index.md)
+- The Legend of Zelda: Link's Awakening
 - [The Legend of Zelda: Ocarina of Time](@/notes/The_Legend_of_Zelda_Ocarina_of_Time/_index.md)
 - [The Legend of Zelda: Majora's Mask](@/notes/The_Legend_of_Zelda_Majoras_Mask/_index.md)
 - [The Legend of Zelda: Oracle of Seasons and Oracle of Ages](@/notes/The_Legend_of_Zelda_Oracle_of_Seasons_and_Oracle_of_Ages/_index.md)
