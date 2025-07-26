@@ -4,7 +4,7 @@ title = "Flowey"
 
 A productivity app for achieving work-life balance.
 
-See also [all repositories](@/notes/Repositories.md).
+See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Deployment
 

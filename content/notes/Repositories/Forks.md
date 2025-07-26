@@ -4,7 +4,7 @@ title = "Repositories > Forks"
 
 Forks. Small little patches here and there.
 
-See also [all repositories](@/notes/Repositories.md).
+See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

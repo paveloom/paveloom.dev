@@ -4,7 +4,7 @@ title = "Repositories > University"
 
 Projects developed during my time studying at Saint Petersburg State University.
 
-See also [all repositories](@/notes/Repositories.md).
+See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 
@@ -14,15 +14,15 @@ See also [all repositories](@/notes/Repositories.md).
 
 ## Subgroups
 
-- [1st Semester (2017) — 3rd Semester (2018)](@/notes/Repositories_University_s01-2017-to-s03-2018.md)
-- [4th Semester (2019)](@/notes/Repositories_University_s04-2019.md)
-- [5th Semester (2019)](@/notes/Repositories_University_s05-2019.md)
-- [6th Semester (2020)](@/notes/Repositories_University_s06-2020.md)
-- [7th Semester (2020)](@/notes/Repositories_University_s07-2020.md)
-- [8th Semester (2021)](@/notes/Repositories_University_s08-2021.md)
-- [9th Semester (2021)](@/notes/Repositories_University_s09-2021.md)
-- [10th Semester (2022)](@/notes/Repositories_University_s10-2022.md)
-- [11th Semester (2022)](@/notes/Repositories_University_s11-2022.md)
+- [1st Semester (2017) — 3rd Semester (2018)](@/notes/Repositories/University/s01-2017-to-s03-2018.md)
+- [4th Semester (2019)](@/notes/Repositories/University/s04-2019.md)
+- [5th Semester (2019)](@/notes/Repositories/University/s05-2019.md)
+- [6th Semester (2020)](@/notes/Repositories/University/s06-2020.md)
+- [7th Semester (2020)](@/notes/Repositories/University/s07-2020.md)
+- [8th Semester (2021)](@/notes/Repositories/University/s08-2021.md)
+- [9th Semester (2021)](@/notes/Repositories/University/s09-2021.md)
+- [10th Semester (2022)](@/notes/Repositories/University/s10-2022.md)
+- [11th Semester (2022)](@/notes/Repositories/University/s11-2022.md)
 
 ## Repositories
 

@@ -4,7 +4,7 @@ title = "Repositories > Personal > NixOS"
 
 Repositories for supporting personal NixOS installation.
 
-See also [all personal repositories](@/notes/Repositories_Personal.md) or [all repositories](@/notes/Repositories.md).
+See also [all personal repositories](@/notes/Repositories/Personal/_index.md) or [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

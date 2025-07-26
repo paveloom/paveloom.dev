@@ -4,7 +4,7 @@ title = "Repositories > Docker"
 
 Docker/OCI images. Ready-made sandboxes for lazy people.
 
-See also [all repositories](@/notes/Repositories.md).
+See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

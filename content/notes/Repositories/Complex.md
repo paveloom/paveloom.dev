@@ -4,7 +4,7 @@ title = "Repositories > Complex"
 
 Complex solutions. Research and confusing projects are here.
 
-See also [all repositories](@/notes/Repositories.md).
+See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 
@@ -56,7 +56,7 @@ Repositories:
 
 SCATS interface with a backend written in C++ and a frontend written in Python.
 
-Followed by [Scats.jl](@/notes/Repositories_Julia.md#Scats.jl).
+Followed by [Scats.jl](@/notes/Repositories/Julia.md#Scats.jl).
 
 *`#time-series-analysis` `#python` `#c++` `#unfinished`*
 

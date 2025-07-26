@@ -4,7 +4,7 @@ title = "Repositories > TypeScript"
 
 TypeScript projects.
 
-See also [all repositories](@/notes/Repositories.md).
+See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

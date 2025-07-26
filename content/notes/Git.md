@@ -8,7 +8,7 @@ Links:
 
 - [Site](https://git-scm.com)
 
-You might have been searching for the [list of my repositories](@/notes/Repositories.md) instead.
+You might have been searching for the [list of my repositories](@/notes/Repositories/_index.md) instead.
 
 ## Tips
 

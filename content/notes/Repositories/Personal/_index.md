@@ -4,7 +4,7 @@ title = "Repositories > Personal"
 
 Projects that are very specific to me.
 
-See also [all repositories](@/notes/Repositories.md).
+See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 
@@ -14,8 +14,8 @@ See also [all repositories](@/notes/Repositories.md).
 
 ## Subgroups
 
-- [Gentoo](@/notes/Repositories_Personal_Gentoo.md)
-- [NixOS](@/notes/Repositories_Personal_NixOS.md)
+- [Gentoo](@/notes/Repositories/Personal/Gentoo.md)
+- [NixOS](@/notes/Repositories/Personal/NixOS.md)
 
 ## Repositories
 

@@ -4,7 +4,7 @@ title = "Repositories > Personal > Gentoo"
 
 Repositories for supporting personal Gentoo installation.
 
-See also [all personal repositories](@/notes/Repositories_Personal.md) or [all repositories](@/notes/Repositories.md).
+See also [all personal repositories](@/notes/Repositories/Personal/_index.md) or [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

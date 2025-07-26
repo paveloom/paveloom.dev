@@ -4,7 +4,7 @@ title = "Repositories > Julia"
 
 Julia packages. There is even a custom registry for some reason.
 
-See also [all repositories](@/notes/Repositories.md).
+See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 
@@ -66,7 +66,7 @@ Repositories:
 
 Spectral correlation analysis of time series (not supposed to be used).
 
-Follows [C3.1](@/notes/Repositories_Complex.md#C3.1).
+Follows [C3.1](@/notes/Repositories/Complex.md#C3.1).
 
 *`#time-series` `#periodogram` `#time-series-analysis` `#correlogram` `#julia` `#unfinished`*
 
