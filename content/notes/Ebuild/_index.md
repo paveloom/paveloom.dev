@@ -11,6 +11,7 @@ Links:
 
 Child notes:
 
+- [Categories acct-group and acct-user](@/notes/Ebuild/Categories_acct-group_and_acct-user.md)
 - [Snapshots](@/notes/Ebuild/Snapshots.md)
 - [Sub-slots](@/notes/Ebuild/Sub-slots.md)
 
