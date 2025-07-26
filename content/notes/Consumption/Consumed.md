@@ -10,23 +10,7 @@ Entries:
 
 - [The Legend of Zelda: Tri Force Heroes](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/_index.md)
 - [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/Consumed.md)
-
-## The Legend of Zelda: Skyward Sword
-
-- Type: Game
-- Started: 08/06/2025
-- Finished: 07/07/2025
-- Platform: Wii (emulated via Dolphin)
-- Version: USA, Rev 2
-
-### Review
-
-The game is amazing. The visuals are great, the plot is decent-ish (there are
-some plot holes with timey-wimey stuff). My only gripe is the controls... I did
-play on Dolphin emulator, so that's an an issue to expect, and yet, it seems
-like the game itself really has terrible controls (Wii Remote needs
-recalibrating pretty much every time it is used in the game).
-
+- [The Legend of Zelda: Skyward Sword](@/notes/The_Legend_of_Zelda_Skyward_Sword/Consumed.md)
 - [The Legend of Zelda: Spirit Tracks](@/notes/The_Legend_of_Zelda_Spirit_Tracks/Consumed.md)
 - [The Legend of Zelda: Phantom Hourglass](@/notes/The_Legend_of_Zelda_Phantom_Hourglass/Consumed.md)
 
