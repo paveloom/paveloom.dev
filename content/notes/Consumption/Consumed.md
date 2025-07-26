@@ -58,14 +58,7 @@ getting old after a bit of time. Still, a pretty OK entry in the franchise.
 - Authors: R. Quirk, S. Greenbaum, G. Leech, J. Svartvik
 - Notes: 2nd edition, 1985
 
-## The Legend of Zelda: Twilight Princess
-
-- Type: Game
-- Started: 17/03/2025
-- Finished: 19/04/2025
-- Platform: GameCube (emulated via RetroArch with the Dolphin core)
-- Version: USA
-
+- [The Legend of Zelda: Twilight Princess](@/notes/The_Legend_of_Zelda_Twilight_Princess/Consumed.md)
 - [The Legend of Zelda: The Minish Cap](@/notes/The_Legend_of_Zelda_The_Minish_Cap/Consumed.md)
 - [The Legend of Zelda: Four Swords Adventures](@/notes/The_Legend_of_Zelda_Four_Swords_Adventures/Consumed.md)
 - [The Legend of Zelda: The Wind Waker](@/notes/The_Legend_of_Zelda_The_Wind_Waker/Consumed.md)
