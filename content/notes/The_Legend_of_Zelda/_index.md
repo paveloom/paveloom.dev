@@ -2,7 +2,7 @@
 title = "The Legend of Zelda"
 +++
 
-*The Legend of Zelda* is a 1986 action-adventure game developed and published by Nintendo.
+*The Legend of Zelda* is a 1986 action-adventure game developed and published by Nintendo. It is the first game in [*The Legend of Zelda* series](@/notes/The_Legend_of_Zelda_media.md).
 
 Links:
 

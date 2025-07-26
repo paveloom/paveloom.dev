@@ -2,7 +2,7 @@
 title = "The Legend of Zelda: Link's Awakening"
 +++
 
-*The Legend of Zelda: Link's Awakening* is a 1993 action-adventure game developed and published by Nintendo for the Game Boy. It is the fourth game in [The Legend of Zelda series](@/notes/The_Legend_of_Zelda_media.md).
+*The Legend of Zelda: Link's Awakening* is a 1993 action-adventure game developed and published by Nintendo for the Game Boy. It is the fourth game in [*The Legend of Zelda* series](@/notes/The_Legend_of_Zelda_media.md).
 
 Links:
 
