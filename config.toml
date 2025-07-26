@@ -17,7 +17,6 @@ build_search_index = true
 highlight_code = true
 error_on_missing_highlight = true
 highlight_theme = "css"
-smart_punctuation = true
 lazy_async_image = true
 
 [slugify]
