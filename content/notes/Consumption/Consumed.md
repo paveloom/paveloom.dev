@@ -13,15 +13,7 @@ Entries:
 - [The Legend of Zelda: Skyward Sword](@/notes/The_Legend_of_Zelda_Skyward_Sword/Consumed.md)
 - [The Legend of Zelda: Spirit Tracks](@/notes/The_Legend_of_Zelda_Spirit_Tracks/Consumed.md)
 - [The Legend of Zelda: Phantom Hourglass](@/notes/The_Legend_of_Zelda_Phantom_Hourglass/Consumed.md)
-
-## A Comprehensive Grammar of the English Language
-
-- Type: Book
-- Started: 22/03/2025
-- Dropped: ~/03/2025
-- Authors: R. Quirk, S. Greenbaum, G. Leech, J. Svartvik
-- Notes: 2nd edition, 1985
-
+- [A Comprehensive Grammar of the English Language](@/notes/A_Comprehensive_Grammar_of_the_English_Language/Consumed.md)
 - [The Legend of Zelda: Twilight Princess](@/notes/The_Legend_of_Zelda_Twilight_Princess/Consumed.md)
 - [The Legend of Zelda: The Minish Cap](@/notes/The_Legend_of_Zelda_The_Minish_Cap/Consumed.md)
 - [The Legend of Zelda: Four Swords Adventures](@/notes/The_Legend_of_Zelda_Four_Swords_Adventures/Consumed.md)
