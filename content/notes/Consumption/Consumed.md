@@ -27,21 +27,7 @@ play on Dolphin emulator, so that's an an issue to expect, and yet, it seems
 like the game itself really has terrible controls (Wii Remote needs
 recalibrating pretty much every time it is used in the game).
 
-## The Legend of Zelda: Spirit Tracks
-
-- Type: Game
-- Started: 11/05/2025
-- Finished: 06/06/2025
-- Platform: Nintendo DS (emulated via melonDS)
-- Version: Europe, Rev 1
-
-### Review
-
-The ending was pretty good! The touch screen only interactions are rather
-unique, but... they are also quite inconvenient, and higlhy pixelated models
-with no antialiasing are... eh. Moving on the train from place to place is
-getting old after a bit of time. Still, a pretty OK entry in the franchise.
-
+- [The Legend of Zelda: Spirit Tracks](@/notes/The_Legend_of_Zelda_Spirit_Tracks/Consumed.md)
 - [The Legend of Zelda: Phantom Hourglass](@/notes/The_Legend_of_Zelda_Phantom_Hourglass/Consumed.md)
 
 ## A Comprehensive Grammar of the English Language
