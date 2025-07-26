@@ -63,17 +63,10 @@ getting old after a bit of time. Still, a pretty OK entry in the franchise.
 - Type: Game
 - Started: 17/03/2025
 - Finished: 19/04/2025
-- Platform: GameCube (emulated via the Dolphin core for RetroArch)
+- Platform: GameCube (emulated via RetroArch with the Dolphin core)
 - Version: USA
 
-## The Legend of Zelda: The Minish Cap
-
-- Type: Game
-- Started: 01/03/2025
-- Finished: 16/03/2025
-- Platform: Game Boy Advance (emulated via RetroArch)
-- Version: Europe
-
+- [The Legend of Zelda: The Minish Cap](@/notes/The_Legend_of_Zelda_The_Minish_Cap/Consumed.md)
 - [The Legend of Zelda: Four Swords Adventures](@/notes/The_Legend_of_Zelda_Four_Swords_Adventures/Consumed.md)
 - [The Legend of Zelda: The Wind Waker](@/notes/The_Legend_of_Zelda_The_Wind_Waker/Consumed.md)
 - [The Legend of Zelda: A Link to the Past and Four Swords Anniversary Edition](@/notes/The_Legend_of_Zelda_Four_Swords_Anniversary_Edition/Consumed.md)
