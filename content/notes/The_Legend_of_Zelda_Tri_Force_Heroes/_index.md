@@ -2,7 +2,7 @@
 title = "The Legend of Zelda: Tri Force Heroes"
 +++
 
-*The Legend of Zelda: Tri Force Heroes* is a 2015 action-adventure game developed by Nintendo EPD and Grezzo and published by Nintendo for the Nintendo 3DS.
+*The Legend of Zelda: Tri Force Heroes* is a 2015 action-adventure game developed by Nintendo EPD and Grezzo and published by Nintendo for the Nintendo 3DS. It is the eighteenth game in [*The Legend of Zelda* series](@/notes/The_Legend_of_Zelda_media.md).
 
 Links:
 
