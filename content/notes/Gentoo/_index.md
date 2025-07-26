@@ -14,7 +14,7 @@ Links:
 - [Gentoo's Bugzilla](https://bugs.gentoo.org)
 - [Wikipedia](https://en.wikipedia.org/wiki/Gentoo_Linux)
 
-Subpages:
+Child notes:
 
-- [Filesystem](@/notes/Gentoo_Filesystem.md)
-- [Update workflow](@/notes/Gentoo_Update_workflow.md)
+- [Filesystem](@/notes/Gentoo/Filesystem.md)
+- [Update workflow](@/notes/Gentoo/Update_workflow.md)

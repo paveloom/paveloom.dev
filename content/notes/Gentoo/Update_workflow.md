@@ -1,6 +1,8 @@
 +++
-title = "Gentoo: Update workflow"
+title = "Gentoo > Update workflow"
 +++
+
+See also the [parent note](@/notes/Gentoo/_index.md).
 
 There are two local repositories, `gentoo` and `guru`.
 
@@ -135,7 +137,3 @@ Typical system update procedure:
 3. Synchronize the system repositories with `emerge --sync`.
 
 4. Update the system with `emerge -uND @world`.
-
-## See also
-
-- [Gentoo](@/notes/Gentoo.md)
