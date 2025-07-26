@@ -7,3 +7,4 @@ I have a list of pieces of media in different categories that I plan on consumin
 Child notes:
 
 - [Consumed](@/notes/Consumption/Consumed.md)
+- [Favorites](@/notes/Consumption/Favorites.md)
