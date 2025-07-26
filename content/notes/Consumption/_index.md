@@ -8,3 +8,4 @@ Child notes:
 
 - [Consumed](@/notes/Consumption/Consumed.md)
 - [Favorites](@/notes/Consumption/Favorites.md)
+- [Great titles](@/notes/Consumption/Great_titles.md)
