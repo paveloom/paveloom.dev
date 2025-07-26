@@ -71,17 +71,10 @@ getting old after a bit of time. Still, a pretty OK entry in the franchise.
 - Type: Game
 - Started: 01/03/2025
 - Finished: 16/03/2025
-- Platform: Game Boy Advance
+- Platform: Game Boy Advance (emulated via RetroArch)
 - Version: Europe
 
-## The Legend of Zelda: Four Swords Adventures
-
-- Type: Game
-- Started: 20/02/2025
-- Finished: 28/02/2025
-- Platform: GameCube (emulated via RetroArch with the Dolphin core)
-- Version: Europe
-
+- [The Legend of Zelda: Four Swords Adventures](@/notes/The_Legend_of_Zelda_Four_Swords_Adventures/Consumed.md)
 - [The Legend of Zelda: The Wind Waker](@/notes/The_Legend_of_Zelda_The_Wind_Waker/Consumed.md)
 - [The Legend of Zelda: A Link to the Past and Four Swords Anniversary Edition](@/notes/The_Legend_of_Zelda_Four_Swords_Anniversary_Edition/Consumed.md)
 - [The Legend of Zelda: Oracle of Seasons and Oracle of Ages](@/notes/The_Legend_of_Zelda_Oracle_of_Seasons_and_Oracle_of_Ages/Consumed.md)
