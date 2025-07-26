@@ -79,17 +79,10 @@ getting old after a bit of time. Still, a pretty OK entry in the franchise.
 - Type: Game
 - Started: 20/02/2025
 - Finished: 28/02/2025
-- Platform: GameCube
+- Platform: GameCube (emulated via RetroArch with the Dolphin core)
 - Version: Europe
 
-## The Legend of Zelda: The Wind Waker
-
-- Type: Game
-- Started: 05/01/2025
-- Finished: 19/02/2025
-- Platform: GameCube
-- Version: Europe
-
+- [The Legend of Zelda: The Wind Waker](@/notes/The_Legend_of_Zelda_The_Wind_Waker/Consumed.md)
 - [The Legend of Zelda: A Link to the Past and Four Swords Anniversary Edition](@/notes/The_Legend_of_Zelda_Four_Swords_Anniversary_Edition/Consumed.md)
 - [The Legend of Zelda: Oracle of Seasons and Oracle of Ages](@/notes/The_Legend_of_Zelda_Oracle_of_Seasons_and_Oracle_of_Ages/Consumed.md)
 - [The Legend of Zelda: Majora's Mask](@/notes/The_Legend_of_Zelda_Majoras_Mask/Consumed.md)
