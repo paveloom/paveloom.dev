@@ -153,6 +153,7 @@ class Search {
     this.fuse = new Fuse(allData, {
       keys: ["title", "description", "body"],
       ignoreLocation: true,
+      useExtendedSearch: true,
     });
   }
 
