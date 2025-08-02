@@ -29,6 +29,8 @@ Links:
 - [The Legend of Zelda: Skyward Sword](@/notes/The_Legend_of_Zelda_Skyward_Sword/_index.md)
 - [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/_index.md)
 - [The Legend of Zelda: Tri Force Heroes](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/_index.md)
+- [The Legend of Zelda: Breath of the Wild](@/notes/The_Legend_of_Zelda_Breath_of_the_Wild/_index.md)
+
 
 ### Remakes
 
