@@ -8,6 +8,7 @@ See also the [parent note](@/notes/Consumption/_index.md).
 
 Entries:
 
+- [Digital Zettelkasten: Principles, Methods, & Examples](@/notes/Digital_Zettelkasten_Principles_Methods_and_Examples/Consumed.md)
 - [The Legend of Zelda: Breath of the Wild](@/notes/The_Legend_of_Zelda_Breath_of_the_Wild/Consumed.md)
 - [The Legend of Zelda: Tri Force Heroes](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/Consumed.md)
 - [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/Consumed.md)
