@@ -21,11 +21,13 @@ API Settings:
 Graphics settings:
 
 - VSync Mode: Mailbox
+- Anti-Aliasing Method: None
 
 ### Advanced Graphics
 
 - Accuracy Level: Normal
-- VRAM Usage Mode: Aggressive
+- Anisotropic Filtering: Automatic
+- VRAM Usage Mode: Conservative
 - [x] Enable asynchronous presentation (Vulkan only)
 - [ ] Force maximum clocks (Vulkan only)
 - [x] Use asynchronous shader building (Hack)
