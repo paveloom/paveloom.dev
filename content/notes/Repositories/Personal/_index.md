@@ -19,6 +19,16 @@ See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Repositories
 
+### Convert to Opus
+
+A small script to convert music files from lossless formats to the Opus format.
+
+Repositories:
+
+- [Codeberg](https://codeberg.org/paveloom/convert-to-opus)
+- [GitHub](https://github.com/paveloom/convert-to-opus)
+- [GitLab](https://gitlab.com/paveloom-g/personal/convert-to-opus)
+
 ### DSA
 
 Data Structures & Algorithms.
