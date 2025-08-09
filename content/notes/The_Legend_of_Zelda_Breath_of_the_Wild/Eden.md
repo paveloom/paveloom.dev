@@ -27,10 +27,17 @@ Graphics settings:
 
 - Accuracy Level: Normal
 - Anisotropic Filtering: Automatic
+- ASTC Recompression Method: Uncompressed (Best quality)
 - VRAM Usage Mode: Conservative
+- [x] Skip CPU Inner Invalidation
 - [x] Enable asynchronous presentation (Vulkan only)
 - [ ] Force maximum clocks (Vulkan only)
+- [x] Enable Reactive Flushing
 - [x] Use asynchronous shader building (Hack)
+- [ ] Fast GPU Time (Hack)
+- [x] Use Vulkan pipeline cache
+- [ ] Sync to framerate of video playback
+- [x] Barrier feedback loops
 
 ## Controls
 
