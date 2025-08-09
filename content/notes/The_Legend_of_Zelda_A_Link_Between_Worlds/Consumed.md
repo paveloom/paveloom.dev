@@ -11,6 +11,7 @@ See also the [parent note](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/_in
 - Type: Game
 - Started: 12/07/2025
 - Finished: 24/07/2025
+- Playtime: 18.4 hours
 - Platform: Nintendo 3DS (emulated via [Azahar](@/notes/Azahar.md))
 - Version: USA
 
