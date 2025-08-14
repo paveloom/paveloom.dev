@@ -90,3 +90,11 @@ Right stick:
 - Pressed: `N`
 - Modifier: `U`
 - Modifier Range: 50%
+
+Motion:
+
+- Motion 1: Mouse
+
+   Press the button (the title will change to "Shake!"), then press left click elsewhere (the title will change to "Mouse"). You can adjust the gyro threshold by clicking an appropriate item in the context menu of the button. However, that settings appeared to change nothing in the game.
+
+   The motion controls are required in certain parts of the game. To move the controller, do short swipes with LMB.
