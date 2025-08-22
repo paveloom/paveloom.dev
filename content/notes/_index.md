@@ -1,5 +1,5 @@
 +++
 title = "Notes"
-template = "section.html"
+template = "notes.html"
 page_template = "page.html"
 +++

@@ -1,0 +1,8 @@
+{% extends "section.html" %}
+
+{% block content %}
+<p>All notes sorted by relative path:</p>
+
+{{ macros::sitemap(parent_note=section) }}
+
+{% endblock content %}

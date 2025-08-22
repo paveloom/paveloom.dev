@@ -13,6 +13,7 @@ I am always striving to learn new things and improve my skills. Hopefully, this 
 
 ## Pinned notes
 
+- [Notes](@/notes/_index.md)
 - [Repositories](@/notes/Repositories/_index.md)
 - [Search](@/notes/Search.md)
 

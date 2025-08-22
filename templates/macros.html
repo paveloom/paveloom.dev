@@ -17,3 +17,23 @@ Table of contents:
   {% endfor %}
 </ol>
 {% endmacro toc %}
+
+{% macro sitemap(parent_note) %}
+{% set notes = parent_note.pages %}
+
+{% for path in parent_note.subsections %}
+{% set subsection = get_section(path=path) %}
+{% set_global notes = notes | concat(with=subsection) %}
+{% endfor %}
+
+{% set notes = notes | sort(attribute="relative_path") %}
+
+<ul>
+  {% for note in notes %}
+  <li><a href="{{ note.permalink }}">{{ note.title }}</a></li>
+  {% if note.pages | length %}
+  {{ macros::sitemap(parent_note=note) }}
+  {% endif %}
+  {% endfor %}
+</ul>
+{% endmacro sitemap %}
