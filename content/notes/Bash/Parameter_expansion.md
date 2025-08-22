@@ -1,5 +1,5 @@
 +++
-title = "Bash: Parameter expansion"
+title = "Parameter expansion"
 +++
 
 In Bash, the `$` character can be used to introduce parameter expansion.
@@ -49,7 +49,3 @@ Here's a brief list of such parameter expansions:
   - `k`: like `K`, but keys and values are separate words
 
 See [`man bash`](https://www.man7.org/linux/man-pages/man1/bash.1.html) for more information.
-
-## See also
-
-- [Bash](@/notes/Bash.md)

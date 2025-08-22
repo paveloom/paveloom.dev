@@ -1,5 +1,5 @@
 +++
-title = "Bash: Brace expansion"
+title = "Brace expansion"
 +++
 
 In Bash, brace expansion is a mechanism by which arbitrary strings may be generated.
@@ -23,7 +23,3 @@ Brace expansions can be combined. For example, `{a..b}{1..2}` expands to `a1 a2 
 Brace expansions tend to be most useful when dealing with file paths (especially if the paths are long and some of the files don't exist yet). For example, `mv /long/path/to/file_{old,new}`.
 
 See [`man bash`](https://www.man7.org/linux/man-pages/man1/bash.1.html) for more information.
-
-## See also
-
-- [Bash](@/notes/Bash.md)

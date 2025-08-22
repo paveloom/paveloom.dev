@@ -1,5 +1,5 @@
 +++
-title = "Bash: Positional parameters"
+title = "Positional parameters"
 +++
 
 To parse positional parameters in Bash, you can use the `getopts` builtin.
@@ -45,7 +45,3 @@ function handle_args()
     done
 }
 ```
-
-## See also
-
-- [Bash](@/notes/Bash.md)
