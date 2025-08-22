@@ -46,6 +46,10 @@
   margin: 0;
 }
 
+#search-container:focus-within {
+  width: 100%;
+}
+
 #search-container:focus-within > #search-input {
   outline: 1px solid;
   border-color: var(--color-text);

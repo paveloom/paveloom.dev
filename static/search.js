@@ -23,7 +23,7 @@ class Search {
     const a = document.createElement("a");
     a.setAttribute("class", "search-results-item");
     a.setAttribute("href", result.item.url);
-    a.textContent = result.item.title;
+    a.textContent = result.item.path;
 
     // Update the focus on result items only via keyboard or when a cursor is
     // moved. This allows us to use a keyboard for searching even when a cursor
@@ -151,7 +151,7 @@ class Search {
     }
 
     this.fuse = new Fuse(allData, {
-      keys: ["title", "description", "body"],
+      keys: ["title", "description", "body", "path"],
       ignoreLocation: true,
       useExtendedSearch: true,
     });
