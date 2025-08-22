@@ -1,8 +1,6 @@
 +++
-title = "Eden > Games"
+title = "Games"
 +++
-
-See also the [parent note](@/notes/Eden/_index.md).
 
 The following are the games that I have run using the Eden emulator:
 

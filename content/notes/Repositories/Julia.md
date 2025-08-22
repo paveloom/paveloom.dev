@@ -1,10 +1,8 @@
 +++
-title = "Repositories > Julia"
+title = "Julia"
 +++
 
 Julia packages. There is even a custom registry for some reason.
-
-See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

@@ -1,10 +1,8 @@
 +++
-title = "The Legend of Zelda: Four Swords Anniversary Edition > Consumed"
+title = "Consumed"
 +++
 
 This is an entry in the [Consumed](@/notes/Consumption/Consumed.md) list.
-
-See also the [parent note](@/notes/The_Legend_of_Zelda_Four_Swords_Anniversary_Edition/_index.md).
 
 ## Entry
 

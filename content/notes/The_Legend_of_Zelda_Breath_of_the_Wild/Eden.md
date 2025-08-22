@@ -1,12 +1,10 @@
 +++
-title = "The Legend of Zelda: Breath of the Wild > Eden"
+title = "Eden"
 +++
 
 The following is the game-specific information for Eden.
 
 See [Eden](@/notes/Eden/_index.md) for general information.
-
-See also the [parent note](@/notes/The_Legend_of_Zelda_Breath_of_the_Wild/_index.md).
 
 ## Settings
 

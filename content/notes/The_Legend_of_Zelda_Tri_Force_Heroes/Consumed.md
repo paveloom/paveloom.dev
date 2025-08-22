@@ -1,10 +1,8 @@
 +++
-title = "The Legend of Zelda: Tri Force Heroes > Consumed"
+title = "Consumed"
 +++
 
 This is an entry in the [Consumed](@/notes/Consumption/Consumed.md) list.
-
-See also the [parent note](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/_index.md).
 
 ## Entry
 

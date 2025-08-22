@@ -1,10 +1,8 @@
 +++
-title = "Repositories > Personal"
+title = "Personal"
 +++
 
 Projects that are very specific to me.
-
-See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

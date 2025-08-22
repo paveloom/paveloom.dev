@@ -1,3 +1,21 @@
+{% macro header(note) %}
+{% if note.ancestors | length > 2 %}
+<h1>
+  {% set first_ancestor = get_section(path=note.ancestors[2], metadata_only=true) %}
+  <a href="{{ first_ancestor.permalink }}">{{ first_ancestor.title }}</a><br>
+  {% set prefix = "─" %}
+  {% for ancestor in note.ancestors | slice(start=3) %}
+  {% set section = get_section(path=ancestor, metadata_only=true) %}
+  {{ "├" ~ prefix | safe }} <a href="{{ section.permalink }}">{{ section.title }}</a><br>
+  {% set_global prefix = prefix ~ "─" %}
+  {% endfor %}
+  {{ "└" ~ prefix | safe }} {{ note.title }}
+</h1>
+{% else %}
+<h1>{{ note.title }}</h1>
+{% endif %}
+{% endmacro header %}
+
 {% macro toc(page) %}
 Table of contents:
 <ol>

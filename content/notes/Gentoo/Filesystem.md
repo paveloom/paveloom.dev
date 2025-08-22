@@ -1,8 +1,6 @@
 +++
-title = "Gentoo > Filesystem"
+title = "Filesystem"
 +++
-
-See also the [parent note](@/notes/Gentoo/_index.md).
 
 Gentoo adheres to the following filesystem layout:
 

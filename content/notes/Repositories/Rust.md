@@ -1,10 +1,8 @@
 +++
-title = "Repositories > Rust"
+title = "Rust"
 +++
 
 Rust projects.
-
-See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

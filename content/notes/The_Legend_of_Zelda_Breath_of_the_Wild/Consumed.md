@@ -1,10 +1,8 @@
 +++
-title = "The Legend of Zelda: Breath of the Wild > Consumed"
+title = "Consumed"
 +++
 
 This is an entry in the [Consumed](@/notes/Consumption/Consumed.md) list.
-
-See also the [parent note](@/notes/The_Legend_of_Zelda_Breath_of_the_Wild/_index.md).
 
 ## Entry
 

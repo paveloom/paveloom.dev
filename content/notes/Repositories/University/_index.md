@@ -1,10 +1,8 @@
 +++
-title = "Repositories > University"
+title = "University"
 +++
 
 Projects developed during my time studying at Saint Petersburg State University.
-
-See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

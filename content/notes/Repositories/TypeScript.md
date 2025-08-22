@@ -1,10 +1,8 @@
 +++
-title = "Repositories > TypeScript"
+title = "TypeScript"
 +++
 
 TypeScript projects.
-
-See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

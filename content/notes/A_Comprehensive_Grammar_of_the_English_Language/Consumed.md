@@ -1,10 +1,8 @@
 +++
-title = "A Comprehensive Grammar of the English Language > Consumed"
+title = "Consumed"
 +++
 
 This is an entry in the [Consumed](@/notes/Consumption/Consumed.md) list.
-
-See also the [parent note](@/notes/A_Comprehensive_Grammar_of_the_English_Language/_index.md).
 
 ## Entry
 

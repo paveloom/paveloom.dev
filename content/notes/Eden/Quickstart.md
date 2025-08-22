@@ -1,8 +1,6 @@
 +++
-title = "Eden > Quickstart"
+title = "Quickstart"
 +++
-
-See also the [parent note](@/notes/Eden/_index.md).
 
 To start emulating Nintendo Switch games via Eden, you will need
 

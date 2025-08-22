@@ -1,10 +1,8 @@
 +++
-title = "Consumption > Consumed"
+title = "Consumed"
 +++
 
 Ordered by the started date in the descending order.
-
-See also the [parent note](@/notes/Consumption/_index.md).
 
 Entries:
 

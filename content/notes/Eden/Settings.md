@@ -1,8 +1,6 @@
 +++
-title = "Eden > Settings"
+title = "Settings"
 +++
-
-See also the [parent note](@/notes/Eden/_index.md).
 
 ## General
 

@@ -1,10 +1,8 @@
 +++
-title = "Repositories > Other"
+title = "Other"
 +++
 
 Other stuff.
-
-See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

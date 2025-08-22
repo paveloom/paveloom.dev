@@ -1,10 +1,8 @@
 +++
-title = "Repositories > Zig"
+title = "Zig"
 +++
 
 Zig projects.
-
-See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

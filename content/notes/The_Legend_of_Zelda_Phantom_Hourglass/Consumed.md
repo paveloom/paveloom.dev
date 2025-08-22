@@ -1,10 +1,8 @@
 +++
-title = "The Legend of Zelda: Phantom Hourglass > Consumed"
+title = "Consumed"
 +++
 
 This is an entry in the [Consumed](@/notes/Consumption/Consumed.md) list.
-
-See also the [parent note](@/notes/The_Legend_of_Zelda_Phantom_Hourglass/_index.md).
 
 ## Entry
 

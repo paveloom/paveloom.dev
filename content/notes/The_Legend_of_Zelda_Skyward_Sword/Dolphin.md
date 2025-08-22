@@ -1,12 +1,10 @@
 +++
-title = "The Legend of Zelda: Skyward Sword > Dolphin"
+title = "Dolphin"
 +++
 
 The following are Dolphin settings for the Wii version of the game.
 
 See [Dolphin](@/notes/Dolphin.md) for general information.
-
-See also the [parent note](@/notes/The_Legend_of_Zelda_Skyward_Sword/_index.md).
 
 ## Controls
 

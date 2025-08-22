@@ -1,10 +1,8 @@
 +++
-title = "Repositories > Minor"
+title = "Minor"
 +++
 
 Minor repositories. Small, but sometimes quite useful.
-
-See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

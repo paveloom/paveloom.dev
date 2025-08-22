@@ -1,12 +1,10 @@
 +++
-title = "The Legend of Zelda: A Link Between Worlds > Azahar"
+title = "Azahar"
 +++
 
 The following is the game-specific information for Azahar.
 
 See [Azahar](@/notes/Azahar.md) for general information.
-
-See also the [parent note](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/_index.md).
 
 ## Gotchas
 

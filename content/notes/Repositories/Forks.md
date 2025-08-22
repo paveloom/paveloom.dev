@@ -1,10 +1,8 @@
 +++
-title = "Repositories > Forks"
+title = "Forks"
 +++
 
 Forks. Small little patches here and there.
-
-See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

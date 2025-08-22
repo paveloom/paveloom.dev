@@ -1,12 +1,10 @@
 +++
-title = "Consumption > Great titles"
+title = "Great titles"
 +++
 
 This is a collection of media that I have consumed and that I regard highly.
 
 See also [Favorites](@/notes/Consumption/Favorites.md) for a separate list of great titles selected based on assessment of repeated consumption.
-
-See also the [parent note](@/notes/Consumption/_index.md).
 
 ## Games
 

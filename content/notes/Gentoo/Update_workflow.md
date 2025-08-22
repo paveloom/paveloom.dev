@@ -1,8 +1,6 @@
 +++
-title = "Gentoo > Update workflow"
+title = "Update workflow"
 +++
-
-See also the [parent note](@/notes/Gentoo/_index.md).
 
 There are two local repositories, `gentoo` and `guru`.
 

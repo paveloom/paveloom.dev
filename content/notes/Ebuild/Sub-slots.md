@@ -1,8 +1,6 @@
 +++
-title = "Ebuild > Sub-slots"
+title = "Sub-slots"
 +++
-
-See also the [parent note](@/notes/Ebuild/_index.md).
 
 Ebuild sub-slots can be used to specify versions of the package that cannot be installed simultaneously (compared to regular slots that allow that). For example, the [`media-libs/libsfml`](https://packages.gentoo.org/packages/media-libs/libsfml) package has subslots `0/2.6` and `0/3.0`.
 

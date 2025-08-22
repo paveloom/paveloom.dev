@@ -1,10 +1,8 @@
 +++
-title = "Repositories > Complex"
+title = "Complex"
 +++
 
 Complex solutions. Research and confusing projects are here.
-
-See also [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 

@@ -1,8 +1,6 @@
 +++
-title = "Ebuild > Categories acct-group and acct-user"
+title = "Categories acct-group and acct-user"
 +++
-
-See also the [parent note](@/notes/Ebuild/_index.md).
 
 The packages in the categories `acct-user` and `acct-group` are used to create new users and user groups, respectively, allowing other packages to require the existence of such users and groups.
 

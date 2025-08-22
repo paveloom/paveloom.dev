@@ -1,8 +1,6 @@
 +++
-title = "Ebuild > Snapshots"
+title = "Snapshots"
 +++
-
-See also the [parent note](@/notes/Ebuild/_index.md).
 
 There are two ways to name an ebuild which packages a snapshot version of a source repository:
 

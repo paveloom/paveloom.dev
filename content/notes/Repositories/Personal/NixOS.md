@@ -1,10 +1,8 @@
 +++
-title = "Repositories > Personal > NixOS"
+title = "NixOS"
 +++
 
 Repositories for supporting personal NixOS installation.
-
-See also [all personal repositories](@/notes/Repositories/Personal/_index.md) or [all repositories](@/notes/Repositories/_index.md).
 
 ## Organization
 
