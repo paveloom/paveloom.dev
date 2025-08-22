@@ -1,5 +1,5 @@
 +++
-title = "Web development > Disable vendor styling for input[type=\"search\"] elements"
+title = "Disable vendor styling for input[type=\"search\"] elements"
 +++
 
 The following snippets should be added to a CSS stylesheet.
@@ -23,7 +23,3 @@ To remove Safari left inner padding under macOS or the magnifying glass on the l
 ## References
 
 - [Stack Overflow: How do I remove all default Webkit search field styling?](https://stackoverflow.com/a/77190241)
-
-## See also
-
-- [Web development: Tips](@/notes/Web_development.md#Tips)

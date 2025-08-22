@@ -1,5 +1,5 @@
 +++
-title = "Web development > Relative URL"
+title = "Relative URL"
 +++
 
 To create a URL relative to the currently running script, use `document.currentScript.src` as follows:
@@ -14,7 +14,3 @@ const url = new URL(
 ## References
 
 - [MDN Web Docs: Resolving relative references to a URL](https://developer.mozilla.org/en-US/docs/Web/API/URL_API/Resolving_relative_references)
-
-## See also
-
-- [Web development: Tips](@/notes/Web_development.md#Tips)
