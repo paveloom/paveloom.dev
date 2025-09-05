@@ -6,6 +6,7 @@ Ordered by the started date in the descending order.
 
 Entries:
 
+- [NOVA](@/notes/NOVA/Consumed.md)
 - [GHOST: Rite Here Rite Now](@/notes/Ghost_Rite_Here_Rite_Now/Consumed.md)
 - [Personal Scrum: The System To Set Goals & Achieve Success](@/notes/Personal_Scrum_The_System_To_Set_Goals_and_Achieve_Success/Consumed.md)
 - [Digital Zettelkasten: Principles, Methods, & Examples](@/notes/Digital_Zettelkasten_Principles_Methods_and_Examples/Consumed.md)
