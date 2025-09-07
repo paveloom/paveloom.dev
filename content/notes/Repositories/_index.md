@@ -24,3 +24,4 @@ By project:
 - [Eirene](@/notes/Eirene.md)
 - [Flowey](@/notes/Flowey.md)
 - [Morbo](@/notes/Morbo.md)
+- [Reachard](@/notes/Reachard.md)
