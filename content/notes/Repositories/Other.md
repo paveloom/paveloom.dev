@@ -24,6 +24,16 @@ Repositories:
 - [GitHub](https://github.com/paveloom-o/A-LaTeX-PGF-TikZ-Animation)
 - [GitLab](https://gitlab.com/paveloom-g/other/a-latex-pgf-tikz-animation)
 
+### Convert to Opus
+
+A small script to convert music files from lossless formats to the Opus format.
+
+Repositories:
+
+- [Codeberg](https://codeberg.org/paveloom-o/convert-to-opus)
+- [GitHub](https://github.com/paveloom-o/convert-to-opus)
+- [GitLab](https://gitlab.com/paveloom-g/other/convert-to-opus)
+
 #### IDs
 
 IDs for identification (psychological process).
