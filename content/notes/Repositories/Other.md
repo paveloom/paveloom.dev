@@ -54,6 +54,16 @@ Repositories:
 - [GitHub](https://github.com/paveloom-o/OrgAvatars)
 - [GitLab](https://gitlab.com/paveloom-g/other/OrgAvatars)
 
+### Swift Dynamic Library via CMake
+
+An example of using CMake to build and distribute a dynamic library written in Swift on Linux systems.
+
+Repositories:
+
+- [Codeberg](https://codeberg.org/paveloom-o/swift-dynamic-library-via-cmake)
+- [GitHub](https://github.com/paveloom-o/swift-dynamic-library-via-cmake)
+- [GitLab](https://gitlab.com/paveloom-g/other/swift-dynamic-library-via-cmake)
+
 ### vue-playground
 
 A playground to test all things Vue.
