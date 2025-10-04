@@ -9,7 +9,7 @@ script-src 'self' " %}
 
 {% if config.mode == "serve" %}
 {% set fuse = "https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.js" %}
-{% set csp = csp ~ fuse ~ "; connect-src 'self' ws://127.0.0.1:1024/livereload;" %}
+{% set csp = csp ~ fuse ~ "; connect-src 'self' ws:;" %}
 {% else %}
 {% set fuse = "https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js" %}
 {% set csp = csp ~ fuse ~ "; connect-src 'self';"%}
