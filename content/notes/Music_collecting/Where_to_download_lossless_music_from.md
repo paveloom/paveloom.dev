@@ -28,4 +28,4 @@ More information:
 Finally, if all else fails, check P2P networks:
 
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
-- [Soulseek](https://en.wikipedia.org/wiki/Soulseek)
+- [Soulseek](@/notes/Soulseek.md)

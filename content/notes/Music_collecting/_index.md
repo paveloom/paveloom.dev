@@ -8,3 +8,7 @@ Child notes:
 
 - [Where to download lossless music from?](@/notes/Music_collecting/Where_to_download_lossless_music_from.md)
 - [What format to store in?](@/notes/Music_collecting/What_format_to_store_in.md)
+
+Related notes:
+
+- [Soulseek](@/notes/Soulseek.md)
