@@ -8,4 +8,4 @@ This is an entry in the [Consumed](@/notes/Consumption/Consumed.md) list.
 
 - Type: Series
 - Started: 03/09/2025
-- Finished:
+- Dropped: 25/10/2025
