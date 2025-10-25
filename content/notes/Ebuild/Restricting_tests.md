@@ -6,4 +6,4 @@ There is a common pattern of setting `RESTRICT="!test? ( test )"` in an ebuild. 
 
 See also:
 
-- [Gentoo Forums: FEATURES="test": confusion about how it works](https://forums.gentoo.org/viewtopic-p-8721179.html?sid=01faee78fe2c827fc0d6db3e6e3048e0)
+- [Gentoo Forums > FEATURES="test": confusion about how it works](https://forums.gentoo.org/viewtopic-p-8721179.html?sid=01faee78fe2c827fc0d6db3e6e3048e0)

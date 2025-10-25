@@ -47,6 +47,6 @@ RDEPEND="
 "
 ```
 
-## References
+See also:
 
-- [Gentoo Wiki: Categories acct-group and acct-user](https://wiki.gentoo.org/wiki/Categories_acct-group_and_acct-user)
+- [Gentoo Wiki > Categories acct-group and acct-user](https://wiki.gentoo.org/wiki/Categories_acct-group_and_acct-user)
