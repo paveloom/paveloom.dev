@@ -12,6 +12,7 @@ Links:
 Child notes:
 
 - [Categories acct-group and acct-user](@/notes/Ebuild/Categories_acct-group_and_acct-user.md)
+- [`emerge` commands](@/notes/Ebuild/emerge_commands.md)
 - [Restricting tests](@/notes/Ebuild/Restricting_tests.md)
 - [Snapshots](@/notes/Ebuild/Snapshots.md)
 - [Sub-slots](@/notes/Ebuild/Sub-slots.md)
