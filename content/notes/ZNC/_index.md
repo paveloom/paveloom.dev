@@ -15,3 +15,7 @@ Child notes:
 
 - [Setting up](@/notes/ZNC/Setting_up.md)
 - [Connecting via Halloy](@/notes/ZNC/Connecting_via_Halloy.md)
+
+Related notes:
+
+- [IRC](@/notes/IRC/_index.md)
