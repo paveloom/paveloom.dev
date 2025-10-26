@@ -1,13 +1,6 @@
 +++
-title = "Azahar"
+title = "Settings"
 +++
-
-Azahar is an open-source Nintendo 3DS emulator project based on Citra.
-
-Links:
-
-- [Official website](https://azahar-emu.org)
-- [Source code](https://github.com/azahar-emu/azahar)
 
 ## Gotchas
 
@@ -40,14 +33,3 @@ The following are settings accessed by going to Emulation > Configure > Controls
 #### Hotkeys
 
 Clear the F5 and F6 hotkeys for stopping and restarting emulation, respectively (they don't ask for confirmation).
-
-## Games
-
-The following are the games that I have run using this emulator:
-
-- [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/_index.md)
-- [The Legend of Zelda: Tri Force Heroes](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/_index.md)
-
-Related notes:
-
-- [Games](@/notes/Games/_index.md)

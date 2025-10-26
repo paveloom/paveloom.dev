@@ -4,7 +4,7 @@ title = "Azahar"
 
 The following is the game-specific information for Azahar.
 
-See [Azahar](@/notes/Azahar.md) for general information.
+See [Azahar](@/notes/Azahar/_index.md) for general information.
 
 ## Gotchas
 

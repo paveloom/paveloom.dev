@@ -10,7 +10,7 @@ This is an entry in the [Consumed](@/notes/Consumption/Consumed.md) list.
 - Started: 12/07/2025
 - Finished: 24/07/2025
 - Playtime: 18.4 hours
-- Platform: Nintendo 3DS (emulated via [Azahar](@/notes/Azahar.md))
+- Platform: Nintendo 3DS (emulated via [Azahar](@/notes/Azahar/_index.md))
 - Version: USA
 
 ## Review
