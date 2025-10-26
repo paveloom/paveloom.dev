@@ -13,3 +13,4 @@ Links:
 Child notes:
 
 - [Active forks](@/notes/GitHub/Active_forks.md)
+- [Checking out PRs](@/notes/GitHub/Checking_out_PRs.md)
