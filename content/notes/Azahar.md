@@ -47,3 +47,7 @@ The following are the games that I have run using this emulator:
 
 - [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/_index.md)
 - [The Legend of Zelda: Tri Force Heroes](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/_index.md)
+
+Related notes:
+
+- [Games](@/notes/Games/_index.md)
