@@ -6,6 +6,7 @@ Ordered by the started date in the descending order.
 
 Entries:
 
+- [Hubie Halloween](@/notes/Hubie_Halloween/Consumed.md)
 - [Taylor Swift: The Eras Tour](@/notes/Taylor_Swift_The_Eras_Tour/Consumed.md)
 - [NOVA](@/notes/NOVA/Consumed.md)
 - [GHOST: Rite Here Rite Now](@/notes/Ghost_Rite_Here_Rite_Now/Consumed.md)
