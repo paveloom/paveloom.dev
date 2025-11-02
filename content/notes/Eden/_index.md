@@ -8,6 +8,7 @@ Links:
 
 - [Official website](https://eden-emu.dev)
 - [Source code](https://git.eden-emu.dev/eden-emu/eden)
+- [User Handbook](https://git.eden-emu.dev/eden-emu/eden/src/branch/master/docs/user)
 
 Child notes:
 
