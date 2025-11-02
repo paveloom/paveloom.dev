@@ -6,6 +6,7 @@ Ordered by the started date in the descending order.
 
 Entries:
 
+- [Sleepy Hollow](@/notes/Sleepy_Hollow/Consumed.md)
 - [Hubie Halloween](@/notes/Hubie_Halloween/Consumed.md)
 - [Taylor Swift: The Eras Tour](@/notes/Taylor_Swift_The_Eras_Tour/Consumed.md)
 - [NOVA](@/notes/NOVA/Consumed.md)
