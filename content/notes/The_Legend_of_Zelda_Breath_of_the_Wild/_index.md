@@ -10,7 +10,7 @@ Links:
 
 Child notes:
 
-- [Consumed](@/notes/The_Legend_of_Zelda_Breath_of_the_Wild/Consumed.md)
+- [Consumed](@/notes/The_Legend_of_Zelda_Breath_of_the_Wild/Consumed/_index.md)
 - [Eden](@/notes/The_Legend_of_Zelda_Breath_of_the_Wild/Eden.md)
 
 Related notes:

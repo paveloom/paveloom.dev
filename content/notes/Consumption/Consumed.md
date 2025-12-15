@@ -15,7 +15,7 @@ Entries:
 - [GHOST: Rite Here Rite Now](@/notes/Ghost_Rite_Here_Rite_Now/Consumed.md)
 - [Personal Scrum: The System To Set Goals & Achieve Success](@/notes/Personal_Scrum_The_System_To_Set_Goals_and_Achieve_Success/Consumed.md)
 - [Digital Zettelkasten: Principles, Methods, & Examples](@/notes/Digital_Zettelkasten_Principles_Methods_and_Examples/Consumed.md)
-- [The Legend of Zelda: Breath of the Wild](@/notes/The_Legend_of_Zelda_Breath_of_the_Wild/Consumed.md)
+- [The Legend of Zelda: Breath of the Wild](@/notes/The_Legend_of_Zelda_Breath_of_the_Wild/Consumed/_index.md)
 - [The Legend of Zelda: Tri Force Heroes](@/notes/The_Legend_of_Zelda_Tri_Force_Heroes/Consumed.md)
 - [The Legend of Zelda: A Link Between Worlds](@/notes/The_Legend_of_Zelda_A_Link_Between_Worlds/Consumed.md)
 - [The Legend of Zelda: Skyward Sword](@/notes/The_Legend_of_Zelda_Skyward_Sword/Consumed.md)
