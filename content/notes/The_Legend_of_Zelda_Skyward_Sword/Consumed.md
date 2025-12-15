@@ -9,6 +9,7 @@ This is an entry in the [Consumed](@/notes/Consumption/Consumed.md) list.
 - Type: Game
 - Started: 08/06/2025
 - Finished: 07/07/2025
+- Playtime: 46h 9m
 - Platform: Wii (emulated via [Dolphin](@/notes/Dolphin.md))
 - Version: USA, Rev 2
 
