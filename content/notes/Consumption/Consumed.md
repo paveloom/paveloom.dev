@@ -6,6 +6,7 @@ Ordered by the started date in the descending order.
 
 Entries:
 
+- [The Legend of Zelda: Tears of the Kingdom](@/notes/The_Legend_of_Zelda_Tears_of_the_Kingdom/Consumed.md)
 - [Hannah and Her Sisters](@/notes/Hannah_and_Her_Sisters/Consumed.md)
 - [Sweeney Todd: The Demon Barber of Fleet Street](@/notes/Sweeney_Todd_The_Demon_Barber_of_Fleet_Street/Consumed.md)
 - [Sleepy Hollow](@/notes/Sleepy_Hollow/Consumed.md)
