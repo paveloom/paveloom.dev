@@ -23,19 +23,29 @@ Graphics settings:
 
 ### Advanced Graphics
 
-- Accuracy Level: Normal
+- GPU Accuracy: Normal
+- DMA Accuracy: Default
 - Anisotropic Filtering: Automatic
 - ASTC Recompression Method: Uncompressed (Best quality)
 - VRAM Usage Mode: Conservative
-- [x] Skip CPU Inner Invalidation
+- [ ] Skip CPU Inner Invalidation
+- [ ] Sync Memory Operations
 - [x] Enable asynchronous presentation (Vulkan only)
 - [ ] Force maximum clocks (Vulkan only)
 - [x] Enable Reactive Flushing
-- [x] Use asynchronous shader building (Hack)
+- [x] Use asynchronous shader compilation (Hack)
 - [ ] Fast GPU Time (Hack)
 - [x] Use Vulkan pipeline cache
 - [ ] Sync to framerate of video playback
 - [x] Barrier feedback loops
+
+### GPU Extensions
+
+- Extended Dynamic State: 2
+- [x] Vertex Input Dynamic State
+- [ ] Provoking Vertex
+- [ ] Descriptor Indexing
+- [x] Sample Shading: 80%
 
 ## Controls
 
