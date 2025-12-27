@@ -6,6 +6,9 @@ My main factor for including something into the list of favorites is the level o
 
 See also [Great titles](@/notes/Consumption/Great_titles.md) for a more general list of great media consumed.
 
+## Movies
+- [How the Grinch Stole Christmas! (1966)](@/notes/How_the_Grinch_Stole_Christmas_1966/_index.md)
+
 ## Games
 
 - Counter-Strike: Source
