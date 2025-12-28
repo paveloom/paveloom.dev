@@ -6,6 +6,10 @@ This is a collection of media that I have consumed and that I regard highly.
 
 See also [Favorites](@/notes/Consumption/Favorites.md) for a separate list of great titles selected based on assessment of repeated consumption.
 
+## Movies
+
+- [Die Hard](@/notes/Die_Hard/_index.md)
+
 ## Games
 
 - [The Legend of Zelda: Ocarina of Time](@/notes/The_Legend_of_Zelda_Ocarina_of_Time/_index.md)
