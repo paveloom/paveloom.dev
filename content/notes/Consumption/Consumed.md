@@ -6,7 +6,8 @@ Ordered by the started date in the descending order.
 
 Entries:
 
-- [Die Hard](@/notes/Die_Hard/_index.md)
+- [Strange Days](@/notes/Strange_Days/Consumed.md)
+- [Die Hard](@/notes/Die_Hard/Consumed.md)
 - [How the Grinch Stole Christmas! (1966)](@/notes/How_the_Grinch_Stole_Christmas_1966/Consumed.md)
 - [It's a Wonderful Life](@/notes/Its_a_Wonderful_Life/Consumed.md)
 - [The Legend of Zelda: Tears of the Kingdom](@/notes/The_Legend_of_Zelda_Tears_of_the_Kingdom/Consumed.md)

@@ -9,6 +9,7 @@ See also [Favorites](@/notes/Consumption/Favorites.md) for a separate list of gr
 ## Movies
 
 - [Die Hard](@/notes/Die_Hard/_index.md)
+- [Strange Days](@/notes/Strange_Days/_index.md)
 
 ## Games
 
