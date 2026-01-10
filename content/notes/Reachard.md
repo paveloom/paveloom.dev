@@ -18,6 +18,14 @@ See also [all repositories](@/notes/Repositories/_index.md).
 - [GitHub](https://github.com/reachard-org/pwa)
 - [GitLab](https://gitlab.com/reachard-org/pwa)
 
+### reachard
+
+Repositories:
+
+- [Codeberg](https://codeberg.org/reachard-org/reachard)
+- [GitHub](https://github.com/reachard-org/reachard)
+- [GitLab](https://gitlab.com/reachard-org/reachard)
+
 ### reachard-go
 
 Repositories:
