@@ -10,7 +10,7 @@ Links:
 
 Books:
 
-- [Digital Zettelkasten: Principles, Methods, & Examples](@/notes/Digital_Zettelkasten_Principles_Methods_and_Examples/_index.md)
+- Digital Zettelkasten: Principles, Methods, & Examples
 
 Communities:
 
