@@ -2,6 +2,7 @@
 /.helix/
 /.idea/
 /.nlsp-settings
+/.nvim.lua
 /.vscode/
 /.zed/
 
