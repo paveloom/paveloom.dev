@@ -11,4 +11,4 @@ Links:
 
 Child notes:
 
-- [Settings](@/notes/Azahar/Settings.md)
+- [Settings](@/notes/Emulators/Azahar/Settings.md)
