@@ -10,4 +10,4 @@ Links:
 
 Books:
 
-- [Personal Scrum: The System To Set Goals & Achieve Success](@/notes/Personal_Scrum_The_System_To_Set_Goals_and_Achieve_Success/_index.md)
+- Personal Scrum: The System To Set Goals & Achieve Success
