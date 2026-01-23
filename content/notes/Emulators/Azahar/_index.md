@@ -12,7 +12,3 @@ Links:
 Child notes:
 
 - [Settings](@/notes/Azahar/Settings.md)
-
-Related notes:
-
-- [Games](@/notes/Games/_index.md)

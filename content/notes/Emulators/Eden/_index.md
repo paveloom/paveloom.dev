@@ -15,7 +15,3 @@ Child notes:
 - [Games](@/notes/Eden/Games.md)
 - [Quickstart](@/notes/Eden/Quickstart.md)
 - [Settings](@/notes/Eden/Settings.md)
-
-Related notes:
-
-- [Games](@/notes/Games/_index.md)
