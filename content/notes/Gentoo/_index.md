@@ -17,6 +17,7 @@ Links:
 Child notes:
 
 - [Filesystem](@/notes/Gentoo/Filesystem.md)
+- [GnuPG](@/notes/Gentoo/GnuPG.md)
 - [Update workflow](@/notes/Gentoo/Update_workflow.md)
 
 Related notes:
