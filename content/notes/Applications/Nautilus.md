@@ -4,9 +4,7 @@ title = "Nautilus"
 
 Nautilus is a file manager for the GNOME desktop.
 
-## Tips
-
-### Thumbnails
+## Thumbnails
 
 The configuration for thumbnailers is located in
 
