@@ -4,8 +4,6 @@ title = "Morbo"
 
 Morbo is an RSS reader client/server.
 
-See also [all repositories](@/notes/Repositories/_index.md).
-
 ## Organization
 
 - [Codeberg](https://codeberg.org/morbo-org)

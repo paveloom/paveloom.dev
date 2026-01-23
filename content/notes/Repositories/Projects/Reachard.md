@@ -2,8 +2,6 @@
 title = "Reachard"
 +++
 
-See also [all repositories](@/notes/Repositories/_index.md).
-
 ## Organization
 
 - [Codeberg](https://codeberg.org/reachard-org)

@@ -2,9 +2,7 @@
 title = "Repositories"
 +++
 
-A list of my public Git repositories.
-
-By category:
+A list of my public Git repositories:
 
 - [Apps](@/notes/Repositories/Apps.md)
 - [Complex](@/notes/Repositories/Complex.md)
@@ -19,9 +17,4 @@ By category:
 - [University](@/notes/Repositories/University/_index.md)
 - [Zig](@/notes/Repositories/Zig.md)
 
-By project:
-
-- [Eirene](@/notes/Eirene.md)
-- [Flowey](@/notes/Flowey.md)
-- [Morbo](@/notes/Morbo.md)
-- [Reachard](@/notes/Reachard.md)
+See also [Projects](@/notes/Repositories/Projects/_index.md).
