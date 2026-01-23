@@ -59,3 +59,13 @@ Repositories:
 - [Codeberg](https://codeberg.org/paveloom/gentoo-incus)
 - [GitHub](https://github.com/paveloom/gentoo-incus)
 - [GitLab](https://gitlab.com/paveloom-g/personal/gentoo/incus)
+
+### steam-overlay
+
+Gentoo overlay for Valve's Steam client and Steam-based games
+
+Repositories:
+
+- [Codeberg](https://codeberg.org/paveloom/gentoo-steam-overlay)
+- [GitHub](https://github.com/paveloom/gentoo-steam-overlay)
+- [GitLab](https://gitlab.com/paveloom-g/personal/gentoo/steam-overlay)
