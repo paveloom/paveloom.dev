@@ -25,4 +25,4 @@ I am always striving to learn new things and improve my skills. Hopefully, this 
 
 ## Contacts
 
-- Email: [contact@paveloom.dev](mailto:contact@paveloom.dev) [[PGP](pgp.asc)]
+- Email: [contact@paveloom.dev](mailto:contact@paveloom.dev) [[PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/448A03CA4D5C16790B0127E6CA5B88847FB67048)]
