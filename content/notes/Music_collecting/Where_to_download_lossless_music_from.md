@@ -16,6 +16,7 @@ Alternatively, download from a proxy service:
 
 - [DoubleDouble](https://us.doubledouble.top)
 - [Lucida](https://lucida.to)
+- [Squid](https://squid.wtf)
 
 Download clients:
 
