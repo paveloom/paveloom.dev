@@ -14,10 +14,14 @@ author = "Pavel Sobolev"
 build_search_index = true
 
 [markdown]
-highlight_code = true
-error_on_missing_highlight = true
-highlight_theme = "css"
 lazy_async_image = true
+
+[markdown.highlighting]
+error_on_missing_language = true
+style = "class"
+light_theme = "light"
+dark_theme = "dark"
+extra_themes = [ "themes/light.json", "themes/dark.json" ]
 
 [slugify]
 paths = "off"

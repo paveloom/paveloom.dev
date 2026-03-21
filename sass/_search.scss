@@ -1,5 +1,13 @@
 :root {
+  --color-search-border-color: #a2a3a7;
   --color-search-results-item-focus: #eaecf0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-search-border-color: #5d636f;
+    --color-search-results-item-focus: #44484f;
+  }
 }
 
 #search-container {
@@ -12,7 +20,7 @@
   width: 100%;
   box-sizing: border-box;
   border: 1px solid;
-  border-color: var(--color-code-comment);
+  border-color: var(--color-search-border-color);
   border-radius: 0;
   padding: 4px 8px;
   margin: 0;
@@ -24,7 +32,7 @@
   background: inherit;
 
   &::placeholder {
-    color: var(--color-code-comment);
+    color: var(--color-search-border-color);
   }
 }
 
